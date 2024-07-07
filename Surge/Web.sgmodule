@@ -2,10 +2,8 @@
 #!desc=去网页广告计划（稳定版）
 
 [URL Rewrite]
-
 # missav 播放页弹窗
 https?:\/\/[0-9a-zA-Z]{10,16}\.cloudfront\.net\/\?[a-z]{3,7}=\d{4,8} - reject
-
 # missav 直播跳出广告
 https://creative.live.missav.com/widgets/Spot/lib.js - reject
 
