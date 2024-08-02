@@ -1,9 +1,5 @@
 #!name= 去广告｜talkatone
 #!desc= talkatone
-#!author: axin-Under
-#!system= ios
-#!category= axin
-#!date= 2024-05-16 17:12:56
 
 [Script]
 throttle-rewrite = type=http-response,pattern=^https:\/\/gum\.criteo\.com\/appevent\/v1\/2379\?.*,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/axinhouzilaoyue/myScript/main/surge/throttle-rewrite.js
