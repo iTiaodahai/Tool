@@ -1,0 +1,10 @@
+DOMAIN,ifconfig.me
+DOMAIN,info6.video.qq.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,trip.com
+DOMAIN-SUFFIX,tripcdn.cn
+DOMAIN-SUFFIX,tripcdn.com
+DOMAIN-SUFFIX,srip.net
+IP-CIDR,114.114.114.0/24,no-resolve
+IP-CIDR,103.158.15.0/24,no-resolve
+IP-CIDR,103.143.160.0/24,no-resolve
