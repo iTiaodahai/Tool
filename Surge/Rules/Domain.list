@@ -311,6 +311,7 @@ DOMAIN,cdn.statically.io
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,ocsp.digicert.com
+DOMAIN,suo.st
 
 # > 国外域名
 DOMAIN-SUFFIX,eu
