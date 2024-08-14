@@ -1,5 +1,8 @@
 # > 0-9
 DOMAIN,5721004.xyz
+DOMAIN-SUFFIX,5266ys.com
+DOMAIN-SUFFIX,66tutup.com
+DOMAIN-SUFFIX,66hao.cc
 
 # > A 
 DOMAIN-SUFFIX,abc.com
@@ -46,6 +49,7 @@ DOMAIN-SUFFIX,conoha.jp
 DOMAIN-SUFFIX,coursehero.com
 DOMAIN-SUFFIX,creativecommons.org
 DOMAIN-SUFFIX,c-span.org
+DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
 
 # > D
 DOMAIN-SUFFIX,dailymotion.com
@@ -122,6 +126,7 @@ DOMAIN-SUFFIX,istockphoto.com
 # > J
 DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,justpaste.it
+DOMAIN-SUFFIX,jable.tv
 
 # > K
 DOMAIN-SUFFIX,kakao.com
@@ -198,6 +203,7 @@ DOMAIN-SUFFIX,redditlist.com
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,recombee.com
 
 # > S
 DOMAIN-SUFFIX,scmp.com
@@ -312,6 +318,9 @@ DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,ocsp.digicert.com
 DOMAIN,suo.st
+DOMAIN,jable.tv
+DOMAIN,missav.com
+DOMAIN,fivetiu.com
 
 # > 国外域名
 DOMAIN-SUFFIX,eu
