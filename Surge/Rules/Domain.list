@@ -1,4 +1,5 @@
 # > 0-9
+DOMAIN,5721004.xyz
 
 # > A 
 DOMAIN-SUFFIX,abc.com
@@ -303,6 +304,7 @@ DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
 
 DOMAIN,cdn.jsdelivr.net
+DOMAIN,fastly.jsdelivr.net
 DOMAIN,cdn.statically.io
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
