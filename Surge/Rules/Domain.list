@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,axios.com
+DOMAIN-SUFFIX,algolia.net
 DOMAIN-KEYWORD,.archive.
 
 # > B
@@ -36,6 +37,7 @@ DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bullguard.com
 DOMAIN-SUFFIX,yummy.best
+DOMAIN-SUFFIX,back4app.com
 
 # > C
 DOMAIN-SUFFIX,castbox.fm
@@ -50,6 +52,7 @@ DOMAIN-SUFFIX,coursehero.com
 DOMAIN-SUFFIX,creativecommons.org
 DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
+DOMAIN-SUFFIX,cloudn.cc
 
 # > D
 DOMAIN-SUFFIX,dailymotion.com
@@ -84,6 +87,7 @@ DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flitto.com
 DOMAIN-SUFFIX,foreignaffairs.com
 DOMAIN-SUFFIX,foreignpolicy.com
+DOMAIN-SUFFIX,freecodecamp.org
 
 # > G
 DOMAIN-SUFFIX,genius.com
@@ -133,11 +137,14 @@ DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kinhrobot.com
 DOMAIN-KEYWORD,ktmcloud
+DOMAIN-SUFFIX,kyapi.xyz
 
 # > L
 DOMAIN-SUFFIX,listennotes.com
 DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,limbopro.com
+DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,logitech.com
 
 # > M
 DOMAIN-SUFFIX,mailchimp.com
@@ -153,6 +160,8 @@ DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,myspacecdn.com
+DOMAIN-SUFFIX,mgmtekno.com
+DOMAIN,macosicons.com
 
 # > N
 DOMAIN-SUFFIX,nbcnews.com
@@ -195,6 +204,7 @@ DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,qz.com
+DOMAIN-SUFFIX,oyunfor.com
 
 # > R
 DOMAIN-SUFFIX,radioline.co
@@ -230,7 +240,9 @@ DOMAIN-SUFFIX,straitstimes.com
 DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,swissinfo.ch
+DOMAIN-SUFFIX,staticfile.org
 DOMAIN-KEYWORD,subcloud.xyz
+
 
 # > T
 DOMAIN-SUFFIX,tapatalk.com
@@ -255,6 +267,7 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,typekit.net
 
 # > U
 DOMAIN-SUFFIX,urbandictionary.com
@@ -302,6 +315,7 @@ DOMAIN-SUFFIX,xns.one
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,you-get.org
 DOMAIN-SUFFIX,icon.yukonga.top
+DOMAIN-SUFFIX,yottaa.com
 
 # > Z
 DOMAIN-SUFFIX,zaobao.com
@@ -321,6 +335,7 @@ DOMAIN,suo.st
 DOMAIN,jable.tv
 DOMAIN,missav.com
 DOMAIN,fivetiu.com
+DOMAIN,tagss04.pro
 
 # > 国外域名
 DOMAIN-SUFFIX,eu
@@ -332,6 +347,7 @@ DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,ca
+DOMAIN-SUFFIX,ru
 
 #########################
 
