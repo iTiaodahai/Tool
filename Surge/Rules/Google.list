@@ -3,6 +3,14 @@ USER-AGENT,YouTube*
 USER-AGENT,com.google.ios.youtube*
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,ai.google.dev
+DOMAIN,aida.googleapis.com
+DOMAIN,aistudio.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
