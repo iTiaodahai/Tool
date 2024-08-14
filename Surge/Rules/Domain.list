@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,justpaste.it
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kinhrobot.com
+DOMAIN-KEYWORD,ktmcloud
 
 # > L
 DOMAIN-SUFFIX,listennotes.com
@@ -223,6 +224,7 @@ DOMAIN-SUFFIX,straitstimes.com
 DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,swissinfo.ch
+DOMAIN-KEYWORD,subcloud.xyz
 
 # > T
 DOMAIN-SUFFIX,tapatalk.com
@@ -308,6 +310,7 @@ DOMAIN,fastly.jsdelivr.net
 DOMAIN,cdn.statically.io
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
+DOMAIN,ocsp.digicert.com
 
 # > 国外域名
 DOMAIN-SUFFIX,eu
