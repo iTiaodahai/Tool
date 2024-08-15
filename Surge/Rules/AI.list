@@ -2,6 +2,7 @@
 AND,((DOMAIN-KEYWORD,chatgpt-async-webps-prod-eastus-),(DOMAIN-SUFFIX,webpubsub.azure.com))
 AND,((DOMAIN-KEYWORD,openaicom-api-),(DOMAIN-SUFFIX,azurefd.net))
 DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,ingest.us.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
