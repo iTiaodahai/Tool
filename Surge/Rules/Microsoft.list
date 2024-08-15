@@ -3,9 +3,11 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
+DOMAIN,app.adjust.com
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
+DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
