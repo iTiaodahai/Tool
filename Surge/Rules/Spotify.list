@@ -5,7 +5,6 @@ DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
 DOMAIN,o22381.ingest.sentry.io
-DOMAIN,xpui.app.spotify.com
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
@@ -29,4 +28,5 @@ DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,spotify.com
 IP-CIDR,104.154.127.126/32,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
+PROCESS-NAME,xpui.app.spotify.com
 PROCESS-NAME,com.spotify.music
