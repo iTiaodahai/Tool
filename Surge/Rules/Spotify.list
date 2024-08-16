@@ -24,9 +24,11 @@ DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,spotifynewsroom.jp
 DOMAIN-SUFFIX,spotilocal.com
 DOMAIN-SUFFIX,tospotify.com
+DOMAIN-SUFFIX,app.spotify.com
 DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,spotify.com
-IP-CIDR,104.154.127.126/32,no-resolve
-IP-CIDR,35.186.224.47/32,no-resolve
 PROCESS-NAME,Spotify Helper
 PROCESS-NAME,com.spotify.music
+IP-CIDR,104.154.127.126/32,no-resolve
+IP-CIDR,35.186.224.47/32,no-resolve
+
