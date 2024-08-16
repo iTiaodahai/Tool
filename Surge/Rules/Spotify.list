@@ -28,5 +28,5 @@ DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,spotify.com
 IP-CIDR,104.154.127.126/32,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
-PROCESS-NAME,xpui.app.spotify.com
+PROCESS-NAME,Spotify Helper
 PROCESS-NAME,com.spotify.music
