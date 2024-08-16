@@ -187,6 +187,7 @@ DOMAIN-SUFFIX,edns.ip-api.com
 # > F
 DOMAIN,fastly.jsdelivr.net
 DOMAIN,fivetiu.com
+DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,feeder.co
 DOMAIN-SUFFIX,feedly.com
@@ -478,6 +479,7 @@ DOMAIN-SUFFIX,trongrid.io
 DOMAIN-SUFFIX,thebittimes.com
 DOMAIN-SUFFIX,twnodes.com
 DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,tampermonkey.net
 
 # > U
 DOMAIN,updates.optionsplus.logitechg.com
