@@ -143,6 +143,7 @@ DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,d3196yreox78o9.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,disk.yandex.com
+DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,dnsleak.com
 DOMAIN-SUFFIX,dropbox.com
@@ -294,6 +295,8 @@ DOMAIN-KEYWORD,leak
 # > M
 DOMAIN,missav.com
 DOMAIN,macosicons.com
+DOMAIN-SUFFIX,mushroomtrack.com
+DOMAIN-SUFFIX,magsrv.com
 DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,medibang.com
@@ -404,6 +407,9 @@ DOMAIN,search.yahoo.co.jp
 DOMAIN,s3-ap-northeast-1.amazonaws.com
 DOMAIN,s3-ap-southeast-2.amazonaws.com
 DOMAIN,sessions.bugsnag.com
+DOMAIN-SUFFIX,sacdnssedge.com
+DOMAIN-SUFFIX,stripchat.com
+DOMAIN-SUFFIX,shukriya90.com
 DOMAIN-SUFFIX,seattlespheres.com
 DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,stash.wiki
@@ -550,6 +556,7 @@ DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,xns.one
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xn--9kqs15ei25a.com
+DOMAIN-SUFFIX,xxxivjmp.com
 
 # > Y
 DOMAIN-SUFFIX,yandex.ru
