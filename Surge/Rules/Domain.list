@@ -296,6 +296,7 @@ DOMAIN-KEYWORD,leak
 # > M
 DOMAIN,missav.com
 DOMAIN,macosicons.com
+DOMAIN-SUFFIX,mnaspm.com
 DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,magsrv.com
 DOMAIN-SUFFIX,mailchimp.com
@@ -356,6 +357,7 @@ DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 
 # > P
 DOMAIN,payments-jp.amazon.com
+DOMAIN-SUFFIX,plyr.io
 DOMAIN-SUFFIX,pacloudflare.com
 DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,pv-cdn.net
@@ -455,6 +457,7 @@ USER-AGENT,SpeedTest*
 DOMAIN,tupian.li
 DOMAIN,tagss04.pro
 DOMAIN,tronlink-images.s3.us-east-2.amazonaws.com
+DOMAIN-SUFFIX,tapioni.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,trycloudflare.com
