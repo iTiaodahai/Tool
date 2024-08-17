@@ -53,6 +53,7 @@ DOMAIN-KEYWORD,.archive.
 DOMAIN-KEYWORD,avoddashs
 
 # > B
+DOMAIN,b.pub.network
 DOMAIN-SUFFIX,browserscan.net
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.org
@@ -466,6 +467,7 @@ DOMAIN,tupian.li
 DOMAIN,tagss04.pro
 DOMAIN,tronlink-images.s3.us-east-2.amazonaws.com
 DOMAIN,stquality.org
+DOMAIN,time.is
 DOMAIN-SUFFIX,tsyndicate.com
 DOMAIN-SUFFIX,tapioni.com
 DOMAIN-SUFFIX,tenor.com
@@ -526,6 +528,7 @@ DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,videopress.com
 
 # > W
+DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikileaks.org
