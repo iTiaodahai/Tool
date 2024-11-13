@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,gstatic.font.im
 # > H
 
 DOMAIN,hcaptcha.com
+DOMAIN-SUFFIX,hcaptcha.com
 
 # > I
 
@@ -109,6 +110,7 @@ DOMAIN-SUFFIX,tanx.com
 # > U
 
 DOMAIN,unpkg.com
+DOMAIN,utteranc.es
 
 # > V
 
