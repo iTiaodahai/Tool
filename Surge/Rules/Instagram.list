@@ -1,4 +1,5 @@
 # > Facebook
+
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-SUFFIX,facebook.com
@@ -22,12 +23,14 @@ IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 
 # > Instagram
+
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
 
 # > WhatsApp
+
 DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,whatsapp.biz
@@ -47,6 +50,7 @@ IP-CIDR,50.22.198.204/30,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
 
 # > TikTok
+
 DOMAIN,api.snapkit.com
 DOMAIN,cocacola.co.jp
 DOMAIN,courses.snapsolve.com
