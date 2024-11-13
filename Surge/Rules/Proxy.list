@@ -40,10 +40,10 @@ DOMAIN-SUFFIX,fontawesome.com
 # > G
 
 DOMAIN,gravatar.com
-DOMAIN,greasyfork.org
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,getkoala.com
 DOMAIN-SUFFIX,gstatic.font.im
+DOMAIN-KEYWORD,greasyfork.org
 
 # > H
 
