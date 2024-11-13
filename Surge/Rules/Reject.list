@@ -1,1 +1,7 @@
+# > 芒果TV STUN
 DOMAIN,stun.hitv.com
+
+# > 屏蔽IOS系统升级
+DOMAIN,mesu.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,updates-http.cdn-apple.com
