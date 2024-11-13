@@ -1,6 +1,7 @@
 # > MisakaF EMBY
 
 DOMAIN-SUFFIX,misakaf.org
+PROCESS-NAME,/Applications/Emby.app/Contents/MacOS/Emby
 
 # > 蘑菇 EMBY
 
