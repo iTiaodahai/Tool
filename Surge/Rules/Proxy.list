@@ -102,7 +102,6 @@ DOMAIN-KEYWORD,smsactivate.s3.eu-central-1
 
 # > T
 
-DOMAIN-KEYWORD,trustpilot.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,tanx.com
 
@@ -117,6 +116,7 @@ DOMAIN-KEYWORD,vercel.com
 
 # > W
 
+DOMAIN,widget.trustpilot.com
 DOMAIN-SUFFIX,webp.se
 DOMAIN-SUFFIX,webp.li
 
