@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-KEYWORD,akile.io
 DOMAIN-KEYWORD,ap-southeast-1
 DOMAIN-KEYWORD,aws.amazon.com
+DOMAIN-KEYWORD,amazonaws.com
 
 # > B
 
@@ -19,10 +20,14 @@ DOMAIN-KEYWORD,console.aws
 
 # > D
 
+DOMAIN,daisydiskapp.com
 DOMAIN-SUFFIX,dash-panel.top
 DOMAIN-SUFFIX,dmit.io
 
 # > E
+
+DOMAIN-SUFFIX,exp-tas.com
+
 # > F
 
 DOMAIN,fivetiu.com
@@ -108,6 +113,7 @@ DOMAIN-KEYWORD,smsactivate.s3.eu-central-1
 
 # > T
 
+DOMAIN-SUFFIX,typora.io
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,tanx.com
 
