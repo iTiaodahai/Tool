@@ -175,6 +175,7 @@ PROCESS-NAME,tv.twitch.android.app
 
 # > Twitter
 
+DOMAIN,api.x.com
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
