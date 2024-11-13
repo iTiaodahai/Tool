@@ -1,3 +1,5 @@
+# > Telegram
+
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,graph.org
@@ -21,22 +23,8 @@ DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-KEYWORD,telegram
-
 DOMAIN,events-gateway.ncdev.site
 DOMAIN-SUFFIX,walletbot.me
-
-# Nicegram
-DOMAIN-KEYWORD,nicegram
-
-# iMe
-DOMAIN,api.mixpanel.com
-DOMAIN-SUFFIX,imem.app
-
-# Swiftgram
-DOMAIN-SUFFIX,swiftgram.app
-
-# Turrit
-DOMAIN-SUFFIX,iturrit.com
 
 # > Americas(DC1 🇺🇸US & 🇧🇷BR)
 IP-ASN,59930,no-resolve
