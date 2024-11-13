@@ -2,6 +2,8 @@
 
 DOMAIN,appstorrent.ru
 DOMAIN,api.trakt.tv
+DOMAIN-SUFFIX,adtidy.org
+DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-KEYWORD,akile.io
 DOMAIN-KEYWORD,ap-southeast-1
 
@@ -26,8 +28,10 @@ DOMAIN-SUFFIX,freecodecamp.org
 
 # > G
 
+DOMAIN,gravatar.com
 DOMAIN,greasyfork.org
 DOMAIN-SUFFIX,getkoala.com
+DOMAIN-SUFFIX,gstatic.font.im
 
 # > H
 
@@ -53,6 +57,7 @@ DOMAIN-SUFFIX,knock.app
 
 # > L
 
+DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,linkgraph.com
 
@@ -95,7 +100,7 @@ DOMAIN-KEYWORD,smsactivate.s3.eu-central-1
 
 # > T
 
-DOMAIN-SUFFIX,trustpilot.com
+DOMAIN-KEYWORD,trustpilot.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,tanx.com
 
@@ -111,6 +116,7 @@ DOMAIN-KEYWORD,vercel.com
 # > W
 
 DOMAIN-SUFFIX,webp.se
+DOMAIN-SUFFIX,webp.li
 
 # > X
 
