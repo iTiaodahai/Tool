@@ -9,4 +9,4 @@ DOMAIN,gdmf.apple.com
 DOMAIN,updates-http.cdn-apple.com
 
 # > IP类广告屏蔽
-IP-CIDR,101.36.166.16/32,no-resolve
+IP-CIDR,101.36.166.0/24,no-resolve
