@@ -18,13 +18,14 @@ IP-CIDR,101.36.166.19/32,no-resolve
 # > 域名类广告屏蔽
 
 DOMAIN,ads.inmobi.com
-DOMAIN,et-eus.w.inmobi.com
-DOMAIN,telemetry.sdk.inmobi.com
-DOMAIN,us.a.iteleserve.com
+DOMAIN,aefd.nelreports.net
 DOMAIN,app-analytics-services.com
 DOMAIN,api2.branch.io
 DOMAIN,cdn.branch.io
+DOMAIN,et-eus.w.inmobi.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,telemetry.sdk.inmobi.com
+DOMAIN,us.a.iteleserve.com
 DOMAIN,sb.scorecardresearch.com
-DOMAIN,aefd.nelreports.net
+DOMAIN,notifications.netflix.com
