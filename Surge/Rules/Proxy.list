@@ -16,12 +16,10 @@ DOMAIN-SUFFIX,back4app.com
 # > C
 
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-KEYWORD,cloudflare-dns.com
 DOMAIN-KEYWORD,console.aws
 
 # > D
 
-DOMAIN,dns.google.com
 DOMAIN,daisydiskapp.com
 DOMAIN-SUFFIX,dash-panel.top
 DOMAIN-SUFFIX,dmit.io
