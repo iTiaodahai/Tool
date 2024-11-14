@@ -19,6 +19,7 @@ IP-CIDR,101.36.166.19/32,no-resolve
 
 DOMAIN,ads.inmobi.com
 DOMAIN,et-eus.w.inmobi.com
+DOMAIN,telemetry.sdk.inmobi.com
 DOMAIN,us.a.iteleserve.com
 DOMAIN,app-analytics-services.com
 DOMAIN,api2.branch.io
