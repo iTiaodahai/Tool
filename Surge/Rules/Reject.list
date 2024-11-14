@@ -20,7 +20,7 @@ IP-CIDR,101.36.166.19/32,no-resolve
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN,aefd.nelreports.net
 DOMAIN,app-analytics-services.com
-DOMAIN,api2.branch.io
+DOMAIN-SUFFIX,branch.io
 DOMAIN,cdn.branch.io
 DOMAIN,dns.google.com
 DOMAIN,et-eus.w.inmobi.com
@@ -37,4 +37,5 @@ DOMAIN,search-api-disney.svcs.dssott.com
 DOMAIN,widget.trustpilot.com
 DOMAIN-SUFFIX,nextdoor.com
 DOMAIN,xpui.app.spotify.com
+DOMAIN,census-app-x.scorecardresearch.com
 
