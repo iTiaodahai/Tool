@@ -17,7 +17,7 @@ IP-CIDR,101.36.166.19/32,no-resolve
 
 # > 域名类广告屏蔽
 
-DOMAIN,ads.inmobi.com
+DOMAIN-SUFFIX,inmobi.com
 DOMAIN,aefd.nelreports.net
 DOMAIN,app-analytics-services.com
 DOMAIN,api2.branch.io
