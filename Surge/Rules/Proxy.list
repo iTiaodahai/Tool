@@ -16,12 +16,14 @@ DOMAIN-SUFFIX,back4app.com
 
 # > C
 
+DOMAIN-SUFFIX,cloudproxy.app
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-KEYWORD,claw.cloud
 DOMAIN-KEYWORD,console.aws
 DOMAIN-KEYWORD,comodoca.com
 DOMAIN-KEYWORD,cloudflarestorage.com
 DOMAIN-KEYWORD,cloudfront.net
+
 
 # > D
 
