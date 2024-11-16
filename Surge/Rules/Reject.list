@@ -12,9 +12,7 @@ DOMAIN,updates-http.cdn-apple.com
 
 DOMAIN,mask.icloud.com
 DOMAIN,mask-h2.icloud.com
-DOMAIN,token.safebrowsing.apple
 DOMAIN,proxy.safebrowsing.apple
-DOMAIN,mask-api.icloud.com
 
 # > IP类广告屏蔽
 
