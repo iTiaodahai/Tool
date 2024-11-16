@@ -178,7 +178,7 @@ IP-CIDR,172.93.220.0/24,no-resolve
 
 # > 2
 
-DOMAIN,23img.com
+DOMAIN-KEYWORD,23img
 IP-CIDR,23.166.24.0/24,no-resolve
 IP-CIDR,206.237.31.0/24,no-resolve
 
