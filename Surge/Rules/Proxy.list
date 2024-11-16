@@ -216,6 +216,7 @@ DOMAIN-SUFFIX,1e100cdn.net
 DOMAIN-SUFFIX,1stream.icu
 IP-CIDR,17.188.171.200/32,no-resolve
 IP-CIDR,17.188.178.190/32,no-resolve
+IP-CIDR,17.248.225.70/32,no-resolve
 IP-CIDR,17.248.245.4/32,no-resolve
 IP-CIDR,17.248.245.36/32,no-resolve
 IP-CIDR,17.248.245.132/32,no-resolve
