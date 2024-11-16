@@ -17,7 +17,7 @@ DOMAIN-KEYWORD,amazonaws.com
 DOMAIN-SUFFIX,back4app.com
 DOMAIN-SUFFIX,byte-test.com
 DOMAIN-SUFFIX,blazingcdn.com
-DOMAIN-SUFFIX,b-cdn.net
+DOMAIN-KEYWORD,b-cdn.net
 
 # > C
 
@@ -101,7 +101,7 @@ DOMAIN-SUFFIX,logitech.com
 DOMAIN-SUFFIX,logitechg.com
 DOMAIN-SUFFIX,linkgraph.com
 DOMAIN-SUFFIX,llnwi.net
-DOMAIN-SUFFIX,llnwd.net
+DOMAIN-KEYWORD,llnwd.net
 
 # > M
 
@@ -114,13 +114,12 @@ DOMAIN-KEYWORD,msftconnecttest.com
 
 # > N
 
-DOMAIN,www.nslookup.io
-DOMAIN-SUFFIX,nslookup.io
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,namesilo.com
 DOMAIN-SUFFIX,nextdns.io
 DOMAIN-KEYWORD,ntp.org
+DOMAIN-KEYWORD,nslookup.io
 
 # > O
 
@@ -139,7 +138,7 @@ DOMAIN-SUFFIX,prntscr.com
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,plyr.io
 DOMAIN-SUFFIX,perfops.net
-DOMAIN-SUFFIX,perfops.io
+DOMAIN-KEYWORD,perfops.io
 DOMAIN-KEYWORD,pki.goog
 
 # > Q
