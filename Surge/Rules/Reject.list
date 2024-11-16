@@ -23,6 +23,7 @@ IP-CIDR,101.36.166.19/32,no-resolve
 
 # > 域名类广告屏蔽
 
+DOMAIN,ads-api.x.com
 DOMAIN,aefd.nelreports.net
 DOMAIN,app-analytics-services.com
 DOMAIN-SUFFIX,branch.io
