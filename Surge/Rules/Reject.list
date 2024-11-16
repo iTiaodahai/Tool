@@ -23,7 +23,6 @@ IP-CIDR,101.36.166.19/32,no-resolve
 
 # > 域名类广告屏蔽
 
-
 DOMAIN,aefd.nelreports.net
 DOMAIN,app-analytics-services.com
 DOMAIN-SUFFIX,branch.io
@@ -48,6 +47,7 @@ DOMAIN,xpui.app.spotify.com
 DOMAIN,trackcmp.net
 DOMAIN,g.msn.com
 DOMAIN,zdbb.net
+DOMAIN-SUFFIX,serveteck.com
 DOMAIN-SUFFIX,quad9.net
 DOMAIN-SUFFIX,advertising.a2z.com
 DOMAIN-SUFFIX,singular.net
