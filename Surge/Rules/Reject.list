@@ -29,6 +29,8 @@ DOMAIN,app-analytics-services.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN,cdn.branch.io
 DOMAIN,census-app-x.scorecardresearch.com
+DOMAIN,cloudflare-dns.com
+DOMAIN,dns.google
 DOMAIN,dns.google.com
 DOMAIN,events.split.io
 DOMAIN,edge.bamgrid.com
@@ -46,6 +48,8 @@ DOMAIN,xpui.app.spotify.com
 DOMAIN,trackcmp.net
 DOMAIN,g.msn.com
 DOMAIN,zdbb.net
+DOMAIN-SUFFIX,quad9.net
+DOMAIN-SUFFIX,advertising.a2z.com
 DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,nextdoor.com
 DOMAIN-SUFFIX,imrworldwide.com
