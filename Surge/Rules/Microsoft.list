@@ -83,6 +83,7 @@ DOMAIN-SUFFIX,yammerusercontent.com
 
 # > GitHub
 
+DOMAIN,github.localhost
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
