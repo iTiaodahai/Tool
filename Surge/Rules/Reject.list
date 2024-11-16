@@ -23,7 +23,7 @@ IP-CIDR,101.36.166.19/32,no-resolve
 
 # > 域名类广告屏蔽
 
-DOMAIN-SUFFIX,inmobi.com
+
 DOMAIN,aefd.nelreports.net
 DOMAIN,app-analytics-services.com
 DOMAIN-SUFFIX,branch.io
@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,ziffstatic.com
 DOMAIN-SUFFIX,app-us1.com
 DOMAIN-SUFFIX,static.zdbb.net
+DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,bkrtx.com
 DOMAIN-KEYWORD,sectigo.com
 DOMAIN-KEYWORD,cmpassport.com
