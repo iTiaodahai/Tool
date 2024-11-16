@@ -106,7 +106,7 @@ DOMAIN-KEYWORD,ntp.org
 
 DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,oyunfor.com
-DOMAIN-SUFFIX,onthe.io
+DOMAIN-KEYWORD,onthe.io
 DOMAIN-KEYWORD,oss-cn-hongkong
 
 # > P
@@ -139,7 +139,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,skypack.dev
 DOMAIN-SUFFIX,sda1.dev
-DOMAIN-SUFFIX,skimresources.com
+DOMAIN-KEYWORD,skimresources.com
 DOMAIN-KEYWORD,split.io
 DOMAIN-KEYWORD,sms-activate
 DOMAIN-KEYWORD,smsactivate.s3.eu-central-1
