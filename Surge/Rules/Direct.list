@@ -899,3 +899,7 @@ IP-CIDR6,240E:F7:A070:100::/60,no-resolve
 IP-CIDR6,240E:F7:A070:403::/60,no-resolve
 IP-CIDR6,240E:FF:9018:100::/60,no-resolve
 IP-CIDR6,240E:FF:F100::/44,no-resolve
+
+# > 修正
+
+IP-CIDR,10.38.1.72/32,no-resolve
