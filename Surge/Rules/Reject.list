@@ -8,6 +8,11 @@ DOMAIN,mesu.apple.com
 DOMAIN,gdmf.apple.com
 DOMAIN,updates-http.cdn-apple.com
 
+# > iCloud Private Relay
+
+DOMAIN,mask.icloud.com
+DOMAIN,mask-h2.icloud.com
+
 # > IP类广告屏蔽
 
 IP-CIDR,101.36.166.16/32,no-resolve
