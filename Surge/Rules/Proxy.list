@@ -24,7 +24,6 @@ DOMAIN-KEYWORD,comodoca.com
 DOMAIN-KEYWORD,cloudflarestorage.com
 DOMAIN-KEYWORD,cloudfront.net
 
-
 # > D
 
 DOMAIN,daisydiskapp.com
@@ -90,6 +89,7 @@ DOMAIN-SUFFIX,linkgraph.com
 
 # > M
 
+DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,macosicons.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,mgmtekno.com
@@ -104,11 +104,14 @@ DOMAIN-KEYWORD,ntp.org
 
 # > O
 
+DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,oyunfor.com
+DOMAIN-SUFFIX,onthe.io
 DOMAIN-KEYWORD,oss-cn-hongkong
 
 # > P
 
+DOMAIN,proxy.safebrowsing.apple
 DOMAIN,partwithner.com
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,prntscr.com
@@ -136,12 +139,14 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,skypack.dev
 DOMAIN-SUFFIX,sda1.dev
+DOMAIN-SUFFIX,skimresources.com
 DOMAIN-KEYWORD,split.io
 DOMAIN-KEYWORD,sms-activate
 DOMAIN-KEYWORD,smsactivate.s3.eu-central-1
 
 # > T
 
+DOMAIN,token.safebrowsing.apple
 DOMAIN,tupian.li
 DOMAIN,thumbsnap.com
 DOMAIN,t66y.com
