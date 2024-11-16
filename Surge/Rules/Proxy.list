@@ -116,11 +116,13 @@ DOMAIN-SUFFIX,redircdn.com
 
 # > S
 
+DOMAIN,sentry.io
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,searchatlas.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,skypack.dev
+DOMAIN-SUFFIX,split.io
 DOMAIN-KEYWORD,sms-activate
 DOMAIN-KEYWORD,smsactivate.s3.eu-central-1
 
@@ -128,6 +130,7 @@ DOMAIN-KEYWORD,smsactivate.s3.eu-central-1
 
 DOMAIN,t66y.com
 DOMAIN,time.is
+DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,typora.io
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,tanx.com
