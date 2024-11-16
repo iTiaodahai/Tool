@@ -23,10 +23,10 @@ IP-CIDR,101.36.166.19/32,no-resolve
 
 # > 域名类广告屏蔽
 
+DOMAIN,none.misakaf.org
 DOMAIN,ads-api.x.com
 DOMAIN,aefd.nelreports.net
 DOMAIN,app-analytics-services.com
-DOMAIN-SUFFIX,branch.io
 DOMAIN,cdn.branch.io
 DOMAIN,census-app-x.scorecardresearch.com
 DOMAIN,cloudflare-dns.com
@@ -48,6 +48,7 @@ DOMAIN,xpui.app.spotify.com
 DOMAIN,trackcmp.net
 DOMAIN,g.msn.com
 DOMAIN,zdbb.net
+DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,serveteck.com
 DOMAIN-SUFFIX,quad9.net
 DOMAIN-SUFFIX,advertising.a2z.com
