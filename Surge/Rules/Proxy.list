@@ -83,6 +83,7 @@ DOMAIN-SUFFIX,linkgraph.com
 DOMAIN-SUFFIX,macosicons.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,mgmtekno.com
+DOMAIN-KEYWORD,msftconnecttest.com
 
 # > N
 
@@ -136,8 +137,8 @@ DOMAIN,utteranc.es
 # > V
 
 DOMAIN-SUFFIX,v2ex.com
-DOMAIN-KEYWORD,vercel.com
 DOMAIN-SUFFIX,vsassets.io
+DOMAIN-KEYWORD,vercel.com
 
 # > W
 
