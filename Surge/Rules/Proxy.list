@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,fontawesome.com
 # > G
 
 DOMAIN,gravatar.com
+DOMAIN-SUFFIX,gov.hk
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,getkoala.com
 DOMAIN-SUFFIX,gstatic.font.im
@@ -99,6 +100,7 @@ DOMAIN-KEYWORD,ntp.org
 # > O
 
 DOMAIN-SUFFIX,oyunfor.com
+DOMAIN-KEYWORD,oss-cn-hongkong
 
 # > P
 
@@ -129,6 +131,7 @@ DOMAIN-KEYWORD,smsactivate.s3.eu-central-1
 
 # > T
 
+DOMAIN,thumbsnap.com
 DOMAIN,t66y.com
 DOMAIN,time.is
 DOMAIN-SUFFIX,termius.com
@@ -173,6 +176,7 @@ IP-CIDR,172.93.220.0/24,no-resolve
 
 # > 2
 
+DOMAIN,23img.com
 IP-CIDR,23.166.24.0/24,no-resolve
 IP-CIDR,206.237.31.0/24,no-resolve
 
