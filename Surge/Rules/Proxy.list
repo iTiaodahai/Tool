@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,ifreesite.com
 DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,ibb.co
 DOMAIN-KEYWORD,ip-api
 
 # > J
@@ -106,6 +107,7 @@ DOMAIN-KEYWORD,oss-cn-hongkong
 
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,prntscr.com
+DOMAIN-SUFFIX,pages.dev
 DOMAIN-KEYWORD,pki.goog
 
 # > Q
