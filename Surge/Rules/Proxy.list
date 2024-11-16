@@ -157,10 +157,23 @@ DOMAIN-SUFFIX,xns.one
 # > 1
 
 DOMAIN-SUFFIX,1stream.icu
+IP-CIDR,154.17.237.0/24,no-resolve
 
 # > 2
+
+IP-CIDR,23.166.24.0/24,no-resolve
+
 # > 3
+
+IP-CIDR,35.201.148.0/24,no-resolve
+IP-CIDR,34.143.130.0/24,no-resolve
+
 # > 4
+
+IP-CIDR,46.3.99.0/24,no-resolve
+IP-CIDR,46.3.101.0/24,no-resolve
+IP-CIDR,46.3.104.0/24,no-resolve
+
 # > 5
 
 DOMAIN,5721004.xyz
