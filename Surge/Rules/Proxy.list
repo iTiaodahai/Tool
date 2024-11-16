@@ -112,6 +112,7 @@ DOMAIN-KEYWORD,msftconnecttest.com
 
 # > N
 
+DOMAIN,www.nslookup.io
 DOMAIN-SUFFIX,nslookup.io
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nodeseek.com
@@ -213,6 +214,22 @@ DOMAIN-SUFFIX,1e100cdn.net
 DOMAIN-SUFFIX,1stream.icu
 IP-CIDR,17.188.171.200/32,no-resolve
 IP-CIDR,17.188.178.190/32,no-resolve
+IP-CIDR,17.248.245.4/32,no-resolve
+IP-CIDR,17.248.245.36/32,no-resolve
+IP-CIDR,17.248.245.132/32,no-resolve
+IP-CIDR,17.248.245.133/32,no-resolve
+IP-CIDR,17.248.245.134/32,no-resolve
+IP-CIDR,17.248.245.135/32,no-resolve
+IP-CIDR,17.248.245.136/32,no-resolve
+IP-CIDR,17.248.245.138/32,no-resolve
+IP-CIDR,17.248.245.228/32,no-resolve
+IP-CIDR,17.248.245.230/32,no-resolve
+IP-CIDR,17.248.245.232/32,no-resolve
+IP-CIDR,17.248.245.234/32,no-resolve
+IP-CIDR,17.253.5.207/32,no-resolve
+IP-CIDR,17.253.5.208/32,no-resolve
+IP-CIDR,17.253.17.211/32,no-resolve
+IP-CIDR,17.253.83.213/32,no-resolve
 IP-CIDR,104.21.5.0/24,no-resolve
 IP-CIDR,146.75.115.0/24,no-resolve
 IP-CIDR,148.178.21.0/24,no-resolve
