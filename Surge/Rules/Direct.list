@@ -2,9 +2,13 @@
 
 DOMAIN,yxvm.com
 
-# > 广发
+# > 修正规则
 
+DOMAIN,ifconfig.me
+DOMAIN,wl.jd.com
 DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-KEYWORD,globalsign.com
+DOMAIN-KEYWORD,jddebug.com
 
 # > Apple Domains
 
