@@ -22,9 +22,6 @@ IP-CIDR,101.36.166.18/32,no-resolve
 IP-CIDR,101.36.166.19/32,no-resolve
 IP-CIDR,100.129.1.8/32,no-resolve
 
-# 防止TG加载转圈
-IP-CIDR,95.161.76.100/31,no-resolve
-
 # > 域名类广告屏蔽
 
 DOMAIN,websitereview.corp.apple.com
