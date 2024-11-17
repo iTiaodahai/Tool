@@ -26,9 +26,6 @@ DOMAIN-KEYWORD,telegram
 DOMAIN,events-gateway.ncdev.site
 DOMAIN-SUFFIX,walletbot.me
 
-# 防止TG加载转圈
-IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
-
 # > Americas(DC1 🇺🇸US & 🇧🇷BR)
 IP-ASN,59930,no-resolve
 IP-CIDR,91.108.12.0/22,no-resolve
