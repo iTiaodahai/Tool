@@ -147,6 +147,7 @@ DOMAIN-KEYWORD,tiktokcdn.com.
 DOMAIN-KEYWORD,tiktokv.com.
 DOMAIN-KEYWORD,ttcdn-tos.
 DOMAIN-KEYWORD,ttlivecdn.com.
+IP-CIDR,34.102.215.99/32,no-resolve
 
 # > Twitch
 
