@@ -27,6 +27,7 @@ IP-CIDR,95.161.76.100/31,no-resolve
 
 # > 域名类广告屏蔽
 
+DOMAIN,splunk-hec.apple.com
 DOMAIN,ntp.nasa.gov
 DOMAIN,metrics-picture.d.meituan.net
 DOMAIN,maplocatesdksnapshot.d.meituan.net
