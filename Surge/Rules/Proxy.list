@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azioncdn.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,ax1x.com
 DOMAIN-KEYWORD,akile.io
 DOMAIN-KEYWORD,ap-southeast-1
 DOMAIN-KEYWORD,aws.amazon.com
@@ -63,6 +64,7 @@ DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,getkoala.com
 DOMAIN-SUFFIX,gstatic.font.im
 DOMAIN-SUFFIX,gcorelabs.com
+DOMAIN-SUFFIX,gravatar.com
 DOMAIN-KEYWORD,greasyfork.org
 DOMAIN-KEYWORD,godaddy.com
 
@@ -70,6 +72,7 @@ DOMAIN-KEYWORD,godaddy.com
 
 DOMAIN-SUFFIX,haproxy.com
 DOMAIN-KEYWORD,hcaptcha.com
+DOMAIN-KEYWORD,hostloc
 
 # > I
 
