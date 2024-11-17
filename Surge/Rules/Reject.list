@@ -27,6 +27,9 @@ IP-CIDR,95.161.76.100/31,no-resolve
 
 # > 域名类广告屏蔽
 
+DOMAIN,metrics-picture.d.meituan.net
+DOMAIN,maplocatesdksnapshot.d.meituan.net
+DOMAIN,al-log.d.meituan.net
 DOMAIN,none.misakaf.org
 DOMAIN,ads-api.x.com
 DOMAIN,aefd.nelreports.net
