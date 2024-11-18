@@ -24,6 +24,7 @@ IP-CIDR,100.129.1.8/32,no-resolve
 
 # > 域名类广告屏蔽
 
+DOMAIN,bit.ly
 DOMAIN,websitereview.corp.apple.com
 DOMAIN,splunk-hec.apple.com
 DOMAIN,ntp.nasa.gov
