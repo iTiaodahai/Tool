@@ -35,9 +35,9 @@ DOMAIN,aefd.nelreports.net
 DOMAIN,app-analytics-services.com
 DOMAIN,cdn.branch.io
 DOMAIN,census-app-x.scorecardresearch.com
-DOMAIN,cloudflare-dns.com
-DOMAIN,dns.google
-DOMAIN,dns.google.com
+#DOMAIN,cloudflare-dns.com
+#DOMAIN,dns.google
+#DOMAIN,dns.google.com
 DOMAIN,edge.bamgrid.com
 DOMAIN,et-eus.w.inmobi.com
 DOMAIN,events.split.io
