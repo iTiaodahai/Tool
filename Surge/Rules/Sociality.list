@@ -150,7 +150,12 @@ DOMAIN-KEYWORD,ttlivecdn.com.
 IP-CIDR,23.47.190.178/32,no-resolve
 IP-CIDR,23.47.190.217/32,no-resolve
 IP-CIDR,23.52.40.41/32,no-resolve
+IP-CIDR,23.52.40.42/32,no-resolve
+IP-CIDR,23.52.40.49/32,no-resolve
 IP-CIDR,23.54.155.69/32,no-resolve
+IP-CIDR,23.54.155.70/32,no-resolve
+IP-CIDR,23.54.155.71/32,no-resolve
+IP-CIDR,23.54.155.72/32,no-resolve
 IP-CIDR,23.54.155.74/32,no-resolve
 IP-CIDR,23.54.155.79/32,no-resolve
 IP-CIDR,23.54.155.82/32,no-resolve
@@ -165,6 +170,7 @@ IP-CIDR,34.102.164.249/32,no-resolve
 IP-CIDR,34.102.215.99/32,no-resolve
 IP-CIDR,34.107.238.235/32,no-resolve
 IP-CIDR,34.117.67.69/32,no-resolve
+IP-CIDR,38.60.148.189/32,no-resolve
 IP-CIDR,71.18.36.225/32,no-resolve
 IP-CIDR,71.18.36.248/32,no-resolve
 IP-CIDR,71.18.74.198/32,no-resolve
