@@ -147,6 +147,9 @@ DOMAIN-KEYWORD,tiktokcdn.com.
 DOMAIN-KEYWORD,tiktokv.com.
 DOMAIN-KEYWORD,ttcdn-tos.
 DOMAIN-KEYWORD,ttlivecdn.com.
+IP-CIDR,23.47.190.16/32,no-resolve
+IP-CIDR,23.47.190.40/32,no-resolve
+IP-CIDR,23.47.190.72/32,no-resolve
 IP-CIDR,23.47.190.178/32,no-resolve
 IP-CIDR,23.47.190.217/32,no-resolve
 IP-CIDR,23.52.40.41/32,no-resolve
@@ -162,10 +165,15 @@ IP-CIDR,23.54.155.82/32,no-resolve
 IP-CIDR,23.54.155.141/32,no-resolve
 IP-CIDR,23.54.155.146/32,no-resolve
 IP-CIDR,23.55.39.5/32,no-resolve
+IP-CIDR,23.55.39.9/32,no-resolve
+IP-CIDR,23.202.33.114/32,no-resolve
 IP-CIDR,23.210.250.50/32,no-resolve
 IP-CIDR,23.210.250.56/32,no-resolve
 IP-CIDR,23.210.250.90/32,no-resolve
+IP-CIDR,23.213.175.33/32,no-resolve
+IP-CIDR,23.213.175.41/32,no-resolve
 IP-CIDR,34.36.71.42/32,no-resolve
+IP-CIDR,34.36.75.57/32,no-resolve
 IP-CIDR,34.36.76.249/32,no-resolve
 IP-CIDR,34.36.80.120/32,no-resolve
 IP-CIDR,34.95.101.116/32,no-resolve
@@ -185,7 +193,6 @@ IP-CIDR,71.18.255.146/32,no-resolve
 IP-CIDR,104.88.71.27/32,no-resolve
 IP-CIDR,104.88.71.57/32,no-resolve
 IP-CIDR,212.102.54.203/32,no-resolve
-
 
 # > Twitter
 
