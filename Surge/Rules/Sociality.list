@@ -150,6 +150,8 @@ DOMAIN-KEYWORD,ttlivecdn.com.
 DOMAIN-KEYWORD,alisg.tiktokv.com
 IP-CIDR,23.47.190.16/32,no-resolve
 IP-CIDR,23.47.190.40/32,no-resolve
+IP-CIDR,23.47.190.43/32,no-resolve
+IP-CIDR,23.47.190.65/32,no-resolve
 IP-CIDR,23.47.190.72/32,no-resolve
 IP-CIDR,23.47.190.178/32,no-resolve
 IP-CIDR,23.47.190.217/32,no-resolve
@@ -161,6 +163,7 @@ IP-CIDR,23.54.155.70/32,no-resolve
 IP-CIDR,23.54.155.71/32,no-resolve
 IP-CIDR,23.54.155.72/32,no-resolve
 IP-CIDR,23.54.155.74/32,no-resolve
+IP-CIDR,23.54.155.77/32,no-resolve
 IP-CIDR,23.54.155.79/32,no-resolve
 IP-CIDR,23.54.155.82/32,no-resolve
 IP-CIDR,23.54.155.141/32,no-resolve
@@ -170,6 +173,7 @@ IP-CIDR,23.55.39.5/32,no-resolve
 IP-CIDR,23.55.39.7/32,no-resolve
 IP-CIDR,23.55.39.9/32,no-resolve
 IP-CIDR,23.202.33.114/32,no-resolve
+IP-CIDR,23.202.33.144/32,no-resolve
 IP-CIDR,23.210.250.50/32,no-resolve
 IP-CIDR,23.210.250.56/32,no-resolve
 IP-CIDR,23.210.250.90/32,no-resolve
