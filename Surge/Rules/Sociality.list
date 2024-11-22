@@ -159,6 +159,10 @@ IP-CIDR,23.54.155.72/32,no-resolve
 IP-CIDR,23.54.155.74/32,no-resolve
 IP-CIDR,23.54.155.79/32,no-resolve
 IP-CIDR,23.54.155.82/32,no-resolve
+IP-CIDR,23.54.155.141/32,no-resolve
+IP-CIDR,23.54.155.146/32,no-resolve
+IP-CIDR,23.55.39.5/32,no-resolve
+IP-CIDR,23.210.250.50/32,no-resolve
 IP-CIDR,23.210.250.56/32,no-resolve
 IP-CIDR,23.210.250.90/32,no-resolve
 IP-CIDR,34.36.71.42/32,no-resolve
@@ -176,9 +180,12 @@ IP-CIDR,71.18.36.248/32,no-resolve
 IP-CIDR,71.18.74.198/32,no-resolve
 IP-CIDR,71.18.74.219/32,no-resolve
 IP-CIDR,71.18.253.64/32,no-resolve
+IP-CIDR,71.18.253.215/32,no-resolve
 IP-CIDR,71.18.255.146/32,no-resolve
 IP-CIDR,104.88.71.27/32,no-resolve
 IP-CIDR,104.88.71.57/32,no-resolve
+IP-CIDR,212.102.54.203/32,no-resolve
+
 
 # > Twitter
 
