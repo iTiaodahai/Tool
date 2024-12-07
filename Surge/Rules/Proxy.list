@@ -1,226 +1,97 @@
 # > A
 
-DOMAIN,api.trakt.tv
-DOMAIN,api.keygen.sh
-DOMAIN,appstorrent.ru
-DOMAIN-SUFFIX,acg.lol
-DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,alice.ws
-DOMAIN-SUFFIX,adtidy.org
-DOMAIN-SUFFIX,azioncdn.net
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,awsstatic.com
-DOMAIN-SUFFIX,api.clonoth.com
 DOMAIN-KEYWORD,akile.io
-DOMAIN-KEYWORD,amazonaws.com
-DOMAIN-KEYWORD,ap-southeast-1
-DOMAIN-KEYWORD,aws.amazon.com
-DOMAIN-KEYWORD,asusrouter.com
 
 # > B
-
-DOMAIN-SUFFIX,back4app.com
-DOMAIN-SUFFIX,byte-test.com
-DOMAIN-SUFFIX,blazingcdn.com
-DOMAIN-KEYWORD,b-cdn.net
-
 # > C
 
-DOMAIN-SUFFIX,cdn77.org
-DOMAIN-SUFFIX,cachefly.net
-DOMAIN-SUFFIX,cloudproxy.app
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudfunctions.net
-DOMAIN-SUFFIX,cloudflareperf.com
 DOMAIN-KEYWORD,claw.cloud
-DOMAIN-KEYWORD,console.aws
-DOMAIN-KEYWORD,comodoca.com
-DOMAIN-KEYWORD,cloudfront.net
-DOMAIN-KEYWORD,cloudflarestorage.com
 
 # > D
 
 DOMAIN,daisydiskapp.com
 DOMAIN-SUFFIX,dmit.io
 DOMAIN-SUFFIX,dash-panel.top
-DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-KEYWORD,digicert.com
 
 # > E
-
-DOMAIN-SUFFIX,exp-tas.com
-
 # > F
-
-DOMAIN,fivetiu.com
-DOMAIN-SUFFIX,fastly.net
-DOMAIN-SUFFIX,fontawesome.com
-DOMAIN-SUFFIX,fastly-edge.com
-DOMAIN-SUFFIX,flashedgecdn.net
-DOMAIN-SUFFIX,freecodecamp.org
-
 # > G
 
 DOMAIN,grafana.com
-DOMAIN,gravatar.com
-DOMAIN-SUFFIX,gov.hk
 DOMAIN-SUFFIX,gitbook.com
-DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,getkoala.com
-DOMAIN-SUFFIX,gcorelabs.com
-DOMAIN-SUFFIX,gstatic.font.im
-DOMAIN-KEYWORD,godaddy.com
-DOMAIN-KEYWORD,greasyfork.org
 
 # > H
-
-DOMAIN-SUFFIX,haproxy.com
-DOMAIN-KEYWORD,hostloc
-DOMAIN-KEYWORD,hcaptcha.com
-
 # > I
 
-DOMAIN-SUFFIX,ibb.co
-DOMAIN-SUFFIX,imgur.com
-DOMAIN-SUFFIX,iva-api.com
-DOMAIN-SUFFIX,ifreesite.com
-DOMAIN-SUFFIX,immuniweb.com
 DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-KEYWORD,ip-api
 
 # > J
-
-DOMAIN-SUFFIX,jivo.ru
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,jivosite.com
-
 # > K
 
 DOMAIN,kelee.one
-DOMAIN-SUFFIX,knock.app
-DOMAIN-SUFFIX,knat.network
 
 # > L
 
-DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,logi.com
-DOMAIN-SUFFIX,llnwi.net
 DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,logitech.com
 DOMAIN-SUFFIX,logitechg.com
-DOMAIN-SUFFIX,linkgraph.com
-DOMAIN-KEYWORD,llnwd.net
 
 # > M
-
-DOMAIN,mili.one
-DOMAIN-SUFFIX,mncdn.com
-DOMAIN-SUFFIX,mgmtekno.com
-DOMAIN-SUFFIX,macrumors.com
-DOMAIN-SUFFIX,macosicons.com
-DOMAIN-KEYWORD,mb3admin
-DOMAIN-KEYWORD,msftconnecttest.com
-
 # > N
 
-DOMAIN,nw-dlcdnet.asus.com
-DOMAIN-SUFFIX,nextdns.io
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nodeseek.com
-DOMAIN-SUFFIX,namesilo.com
 DOMAIN-KEYWORD,ntp.org
-DOMAIN-KEYWORD,nslookup.io
 
 # > O
 
-DOMAIN-SUFFIX,orange.com
 DOMAIN-SUFFIX,oyunfor.com
-DOMAIN-SUFFIX,onesignal.com
-DOMAIN-KEYWORD,onthe.io
-DOMAIN-KEYWORD,oss-cn-hongkong
 
 # > P
 
 DOMAIN,ping.sx
-DOMAIN,partwithner.com
 DOMAIN,proxy.safebrowsing.apple
-DOMAIN-SUFFIX,plyr.io
 DOMAIN-SUFFIX,pages.dev
-DOMAIN-SUFFIX,perfops.net
-DOMAIN-SUFFIX,prntscr.com
 DOMAIN-SUFFIX,parallels.com
-DOMAIN-KEYWORD,perfops.io
-DOMAIN-KEYWORD,pki.goog
 
 # > Q
 
 DOMAIN-SUFFIX,qingr.moe
-DOMAIN-SUFFIX,quad9.net
-DOMAIN-SUFFIX,qwilt.com
-DOMAIN-SUFFIX,qiyukf.com
-DOMAIN-SUFFIX,qcloudcdn.com
 
 # > R
-
-DOMAIN-SUFFIX,redircdn.com
-
 # > S
 
-DOMAIN,sentry.io
-DOMAIN,surrit.com
-DOMAIN,sixyik.com
-DOMAIN,stadiamaps.com
 DOMAIN-SUFFIX,skk.moe
-DOMAIN-SUFFIX,sda1.dev
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,skypack.dev
-DOMAIN-SUFFIX,swiftycdn.net
-DOMAIN-SUFFIX,stripe.network
-DOMAIN-SUFFIX,searchatlas.com
-DOMAIN-SUFFIX,shopvoxpopulus.com
-DOMAIN-SUFFIX,scrubbingcenter.com
-DOMAIN-KEYWORD,split.io
 DOMAIN-KEYWORD,sms-activate
-DOMAIN-KEYWORD,service-abuse
-DOMAIN-KEYWORD,skimresources.com
-DOMAIN-KEYWORD,smsactivate.s3.eu-central-1
 
 # > T
 
 DOMAIN,time.is
 DOMAIN,t66y.com
-DOMAIN,tupian.li
-DOMAIN,thumbsnap.com
 DOMAIN,token.safebrowsing.apple
-DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,typora.io
-DOMAIN-SUFFIX,thawte.com
 DOMAIN-SUFFIX,termius.com
-DOMAIN-SUFFIX,typekit.net
-DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tampermonkey.net
 
 # > U
-
-DOMAIN,unpkg.com
-DOMAIN,utteranc.es
-
 # > V
 
 DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,vsassets.io
 DOMAIN-KEYWORD,vercel.com
 
 # > W
 
 DOMAIN-SUFFIX,webp.se
 DOMAIN-SUFFIX,webp.li
-DOMAIN-SUFFIX,worldssl.net
 
 # > X
 
-DOMAIN-SUFFIX,xjh.me
 DOMAIN-SUFFIX,xns.one
 
 # > Y
@@ -229,7 +100,6 @@ DOMAIN-SUFFIX,xns.one
 # > 1
 
 DOMAIN-SUFFIX,1stream.icu
-DOMAIN-SUFFIX,1e100cdn.net
 IP-CIDR,17.188.171.200/32,no-resolve
 IP-CIDR,17.188.178.190/32,no-resolve
 IP-CIDR,17.248.225.70/32,no-resolve
@@ -260,7 +130,6 @@ IP-CIDR,172.93.220.0/24,no-resolve
 
 # > 2
 
-DOMAIN-KEYWORD,23img
 IP-CIDR,23.166.24.0/24,no-resolve
 IP-CIDR,206.237.31.0/24,no-resolve
 
@@ -283,14 +152,6 @@ IP-CIDR,46.232.60.0/24,no-resolve
 DOMAIN,5721004.xyz
 
 # > 6
-
-DOMAIN,66img.cc
-
 # > 7
 # > 8
-
-DOMAIN,8xsk.com
-DOMAIN,833330.xyz
-DOMAIN-SUFFIX,833330.xyz
-
 # > 9
