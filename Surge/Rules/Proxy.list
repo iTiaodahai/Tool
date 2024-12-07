@@ -92,7 +92,6 @@ DOMAIN-KEYWORD,ip-api
 # > J
 
 DOMAIN-SUFFIX,jivo.ru
-DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jivosite.com
 
@@ -117,12 +116,10 @@ DOMAIN-KEYWORD,llnwd.net
 
 DOMAIN,mili.one
 DOMAIN-SUFFIX,mncdn.com
-DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,mgmtekno.com
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,macosicons.com
 DOMAIN-KEYWORD,mb3admin
-DOMAIN-KEYWORD,mushroomtrack.com
 DOMAIN-KEYWORD,msftconnecttest.com
 
 # > N
@@ -166,7 +163,6 @@ DOMAIN-SUFFIX,qcloudcdn.com
 
 # > R
 
-DOMAIN-SUFFIX,recombee.com
 DOMAIN-SUFFIX,redircdn.com
 
 # > S
