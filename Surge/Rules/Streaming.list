@@ -25,11 +25,22 @@ PROCESS-NAME,tv.twitch.android.app
 
 # > Pandalive
 
+DOMAIN,afreecatv.com
 DOMAIN-SUFFIX,pandalive.co.kr
 
 # > Sooplive
 
 DOMAIN-SUFFIX,sooplive.co.kr
+
+# > kick
+
+DOMAIN,kick.com
+DOMAIN-SUFFIX,kick.com
+
+# > chzzk
+
+DOMAIN-SUFFIX,pstatic.net
+DOMAIN-SUFFIX,akamaized.net
 
 # > Jable
 
@@ -41,3 +52,6 @@ DOMAIN-KEYWORD,mushroomtrack.com
 DOMAIN,surrit.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,recombee.com
+
+
+
