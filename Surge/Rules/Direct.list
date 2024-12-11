@@ -9,9 +9,17 @@ DOMAIN,wl.jd.com
 DOMAIN-SUFFIX,cgbchina.com.cn
 DOMAIN-KEYWORD,globalsign.com
 
+# > iCloud Private Relay
+
+DOMAIN,mask.icloud.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-canary.icloud.com
+DOMAIN,mask.apple-dns.net
+DOMAIN,canary.mask.apple-dns.net
+
 # > Apple Domains
 
-DOMAIN,websitereview.corp.apple.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,me.com
@@ -20,6 +28,7 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,icloud-content.com
@@ -27,9 +36,6 @@ DOMAIN-SUFFIX,organicfruitapps.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,push-apple.com.akadns.net
-DOMAIN-KEYWORD,17.248.216.
-DOMAIN-KEYWORD,17.253.145.
-DOMAIN-KEYWORD,17.253.150.
 PROCESS-NAME,trustd
 PROCESS-NAME,netbiosd
 PROCESS-NAME,com.apple.geod
@@ -39,7 +45,7 @@ PROCESS-NAME,apsd
 PROCESS-NAME,fmfd
 PROCESS-NAME,findmydevice-user-agent
 PROCESS-NAME,CoreLocationAgent
-PROCESS-NAME,WeatherWidget
+PROCESS-NAME,WeatherWidgetv
 
 # > Apple China Special Domains
 
