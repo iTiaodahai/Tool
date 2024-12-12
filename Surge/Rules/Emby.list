@@ -2,6 +2,11 @@
 
 DOMAIN-SUFFIX,misakaf.org
 
+# > Terminus终点站 EMBY
+
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
+
 # > 蘑菇 EMBY
 
 DOMAIN-SUFFIX,ianong.cn
