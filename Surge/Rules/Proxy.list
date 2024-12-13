@@ -1,19 +1,12 @@
 # > A
-
-DOMAIN-SUFFIX,alice.ws
-DOMAIN-SUFFIX,trakt.tv
-DOMAIN-KEYWORD,akile.io
-
 # > B
 # > C
 
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-KEYWORD,claw.cloud
 
 # > D
 
 DOMAIN,daisydiskapp.com
-DOMAIN-SUFFIX,dmit.io
 DOMAIN-SUFFIX,dash-panel.top
 DOMAIN-KEYWORD,digicert.com
 
@@ -44,8 +37,6 @@ DOMAIN-SUFFIX,logitechg.com
 # > M
 # > N
 
-DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-KEYWORD,ntp.org
 
 # > O
@@ -60,20 +51,14 @@ DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,parallels.com
 
 # > Q
-
-DOMAIN-SUFFIX,qingr.moe
-
 # > R
 # > S
 
-DOMAIN-SUFFIX,skk.moe
-DOMAIN-SUFFIX,serv00.com
 DOMAIN-KEYWORD,sms-activate
 
 # > T
 
 DOMAIN,time.is
-DOMAIN,t66y.com
 DOMAIN,token.safebrowsing.apple
 DOMAIN-SUFFIX,typora.io
 DOMAIN-SUFFIX,termius.com
@@ -81,10 +66,6 @@ DOMAIN-SUFFIX,tampermonkey.net
 
 # > U
 # > V
-
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-KEYWORD,vercel.com
-
 # > W
 
 DOMAIN-SUFFIX,webp.se
@@ -148,9 +129,6 @@ IP-CIDR,46.3.104.0/24,no-resolve
 IP-CIDR,46.232.60.0/24,no-resolve
 
 # > 5
-
-DOMAIN,5721004.xyz
-
 # > 6
 # > 7
 # > 8
