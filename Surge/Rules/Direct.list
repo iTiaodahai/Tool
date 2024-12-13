@@ -1,6 +1,10 @@
 # > VPS
 
 DOMAIN,yxvm.com
+DOMAIN-SUFFIX,alice.ws
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-KEYWORD,akile.io
+DOMAIN-KEYWORD,claw.cloud
 
 # > 修正规则
 
