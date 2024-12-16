@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,datadoghq-browser-agent.com
 DOMAIN-KEYWORD,digicert.com
 
 # > E
+
+DOMAIN-SUFFIX,exp-tas.com
+
 # > F
 # > G
 
@@ -67,6 +70,10 @@ DOMAIN-SUFFIX,tampermonkey.net
 
 # > U
 # > V
+
+DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-cdn.net
+
 # > W
 
 DOMAIN-SUFFIX,webp.se
