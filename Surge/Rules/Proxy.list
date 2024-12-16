@@ -80,54 +80,19 @@ DOMAIN-SUFFIX,xns.one
 # > 1
 
 DOMAIN-SUFFIX,1stream.icu
-IP-CIDR,17.188.171.200/32,no-resolve
-IP-CIDR,17.188.178.190/32,no-resolve
-IP-CIDR,17.248.225.70/32,no-resolve
-IP-CIDR,17.248.245.4/32,no-resolve
-IP-CIDR,17.248.245.36/32,no-resolve
-IP-CIDR,17.248.245.132/32,no-resolve
-IP-CIDR,17.248.245.133/32,no-resolve
-IP-CIDR,17.248.245.134/32,no-resolve
-IP-CIDR,17.248.245.135/32,no-resolve
-IP-CIDR,17.248.245.136/32,no-resolve
-IP-CIDR,17.248.245.138/32,no-resolve
-IP-CIDR,17.248.245.228/32,no-resolve
-IP-CIDR,17.248.245.230/32,no-resolve
-IP-CIDR,17.248.245.232/32,no-resolve
-IP-CIDR,17.248.245.234/32,no-resolve
-IP-CIDR,17.253.5.207/32,no-resolve
-IP-CIDR,17.253.5.208/32,no-resolve
-IP-CIDR,17.253.17.211/32,no-resolve
-IP-CIDR,17.253.83.213/32,no-resolve
-IP-CIDR,104.21.5.0/24,no-resolve
-IP-CIDR,146.75.115.0/24,no-resolve
-IP-CIDR,148.178.21.0/24,no-resolve
-IP-CIDR,151.101.111.0/24,no-resolve
-IP-CIDR,152.89.168.0/24,no-resolve
 IP-CIDR,154.17.237.0/24,no-resolve
 IP-CIDR,156.229.160.0/24,no-resolve
-IP-CIDR,172.67.133.0/24,no-resolve
-IP-CIDR,172.93.220.0/24,no-resolve
 IP-CIDR,188.68.240.0/24,no-resolve
 
 # > 2
-
-IP-CIDR,23.166.24.0/24,no-resolve
-IP-CIDR,206.237.31.0/24,no-resolve
-
 # > 3
 
-IP-CIDR,34.143.130.0/24,no-resolve
 IP-CIDR,35.201.148.0/24,no-resolve
-IP-CIDR,38.54.24.0/24,no-resolve
 
 # > 4
 
-IP-CIDR,43.153.181.0/24,no-resolve
-IP-CIDR,46.3.99.0/24,no-resolve
 IP-CIDR,46.3.101.0/24,no-resolve
 IP-CIDR,46.3.104.0/24,no-resolve
-IP-CIDR,46.232.60.0/24,no-resolve
 
 # > 5
 # > 6
