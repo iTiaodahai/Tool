@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,globalsign.com
 # > Apple Domains 补充
 
 DOMAIN-SUFFIX,push.apple.com
+IP-CIDR,17.57.145.150/32,no-resolve
 
 # > iCloud Private Relay  https://ruleset.skk.moe/List/domainset/icloud_private_relay.conf
 
