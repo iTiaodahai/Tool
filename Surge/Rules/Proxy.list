@@ -122,3 +122,14 @@ IP-CIDR,151.101.111.0/24,no-resolve
 IP-CIDR,172.67.133.0/24,no-resolve
 IP-CIDR,172.93.220.0/24,no-resolve
 IP-CIDR,206.237.31.0/24,no-resolve
+
+# > Jable
+
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-KEYWORD,mushroomtrack.com
+
+# > Missav
+
+DOMAIN,surrit.com
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,recombee.com
