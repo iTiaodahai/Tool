@@ -1,8 +1,10 @@
 # > A
 # > B
+
+DOMAIN-SUFFIX,branch.io
+
 # > C
 
-DOMAIN,cdn.branch.io
 DOMAIN-SUFFIX,cloudflare.com
 
 # > D
