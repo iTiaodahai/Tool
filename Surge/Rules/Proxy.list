@@ -99,7 +99,9 @@ IP-CIDR,188.68.240.0/24,no-resolve
 # > 2
 # > 3
 
+IP-CIDR,34.92.173.0/24,no-resolve
 IP-CIDR,35.201.148.0/24,no-resolve
+IP-CIDR,35.201.189.0/24,no-resolve
 
 # > 4
 
@@ -113,6 +115,7 @@ IP-CIDR,46.3.104.0/24,no-resolve
 # > 9
 
 # > DNS
+
 IP-CIDR,38.54.24.0/24,no-resolve
 IP-CIDR,43.153.181.0/24,no-resolve
 IP-CIDR,104.21.5.0/24,no-resolve
