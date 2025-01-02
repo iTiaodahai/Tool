@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 34
+# 规则统计: 35
 
 DOMAIN,daisydiskapp.com
 DOMAIN,grafana.com
@@ -18,11 +18,11 @@ DOMAIN-SUFFIX,oyunfor.com
 DOMAIN-SUFFIX,serv00.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,termius.com
+DOMAIN-KEYWORD,120399.xyz
 DOMAIN-KEYWORD,akile.io
 DOMAIN-KEYWORD,claw.cloud
 DOMAIN-KEYWORD,digicert.com
 DOMAIN-KEYWORD,globalsign.com
-DOMAIN-KEYWORD,120399.xyz
 IP-CIDR,17.179.252.0/24,no-resolve
 IP-CIDR,17.248.216.0/24,no-resolve
 IP-CIDR,17.253.71.0/24,no-resolve

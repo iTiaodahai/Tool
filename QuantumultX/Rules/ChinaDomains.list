@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomains
-# 规则统计: 903
+# 规则统计: 904
 
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,ChinaDomains
 HOST,api.smoot.apple.cn,ChinaDomains
@@ -666,6 +666,7 @@ HOST-KEYWORD,120.241.190.,ChinaDomains
 HOST-KEYWORD,120.241.21.,ChinaDomains
 HOST-KEYWORD,120.241.25.,ChinaDomains
 HOST-KEYWORD,120.241.92.,ChinaDomains
+HOST-KEYWORD,120399.xyz,ChinaDomains
 HOST-KEYWORD,121.12.115.,ChinaDomains
 HOST-KEYWORD,121.14.142.,ChinaDomains
 HOST-KEYWORD,121.14.98.,ChinaDomains
