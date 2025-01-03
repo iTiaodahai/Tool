@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 747
+# 规则统计: 750
 
 HOST,ccmdl.adobe.com,Global
 HOST,ees.elsevier.com,Global
@@ -155,6 +155,7 @@ HOST-SUFFIX,cpuid.com,Global
 HOST-SUFFIX,creativelab5.com,Global
 HOST-SUFFIX,crypto.com,Global
 HOST-SUFFIX,cryptocompare.com,Global
+HOST-SUFFIX,curseforge.com,Global
 HOST-SUFFIX,dailymotion.com,Global
 HOST-SUFFIX,dashlane.com,Global
 HOST-SUFFIX,datadoghq-browser-agent.com,Global
@@ -353,6 +354,7 @@ HOST-SUFFIX,kakao.com,Global
 HOST-SUFFIX,kde.org,Global
 HOST-SUFFIX,kik.com,Global
 HOST-SUFFIX,kisscos.net,Global
+HOST-SUFFIX,ko-fi.com,Global
 HOST-SUFFIX,kobo.com,Global
 HOST-SUFFIX,kraken.com,Global
 HOST-SUFFIX,kucoin.com,Global
@@ -402,6 +404,7 @@ HOST-SUFFIX,mil,Global
 HOST-SUFFIX,missav.com,Global
 HOST-SUFFIX,mixcloud.com,Global
 HOST-SUFFIX,mn,Global
+HOST-SUFFIX,modrinth.com,Global
 HOST-SUFFIX,moe,Global
 HOST-SUFFIX,mojang.com,Global
 HOST-SUFFIX,mozilla.com,Global

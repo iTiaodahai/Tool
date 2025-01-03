@@ -1,9 +1,6 @@
 # 规则名称: Microsoft
-# 规则统计: 109
+# 规则统计: 88
 
-HOST,res-1.cdn.office.net,Microsoft
-HOST,res.cdn.office.net,Microsoft
-HOST,statics.teams.cdn.office.net,Microsoft
 HOST-SUFFIX,aadrm.com,Microsoft
 HOST-SUFFIX,acompli.com,Microsoft
 HOST-SUFFIX,acompli.net,Microsoft
@@ -18,30 +15,17 @@ HOST-SUFFIX,azure.net,Microsoft
 HOST-SUFFIX,azureedge.net,Microsoft
 HOST-SUFFIX,azurerms.com,Microsoft
 HOST-SUFFIX,bing.com,Microsoft
-HOST-SUFFIX,build.microsoft.com,Microsoft
 HOST-SUFFIX,clarity.ms,Microsoft
 HOST-SUFFIX,cloudapp.net,Microsoft
 HOST-SUFFIX,cloudappsecurity.com,Microsoft
-HOST-SUFFIX,cn.windowssearch.com,Microsoft
-HOST-SUFFIX,ctldl.windowsupdate.com,Microsoft
-HOST-SUFFIX,devblogs.microsoft.com,Microsoft
-HOST-SUFFIX,developer.microsoft.com,Microsoft
-HOST-SUFFIX,dl.delivery.mp.microsoft.com,Microsoft
 HOST-SUFFIX,docs.com,Microsoft
-HOST-SUFFIX,docs.microsoft.com,Microsoft
-HOST-SUFFIX,download.microsoft.com,Microsoft
-HOST-SUFFIX,download.prss.microsoft.com,Microsoft
-HOST-SUFFIX,download.visualstudio.microsoft.com,Microsoft
-HOST-SUFFIX,download.windowsupdate.com,Microsoft
 HOST-SUFFIX,edgesuite.net,Microsoft
-HOST-SUFFIX,fs.microsoft.com,Microsoft
 HOST-SUFFIX,gfx.ms,Microsoft
 HOST-SUFFIX,github.com,Microsoft
 HOST-SUFFIX,github.io,Microsoft
 HOST-SUFFIX,githubapp.com,Microsoft
 HOST-SUFFIX,githubassets.com,Microsoft
 HOST-SUFFIX,githubusercontent.com,Microsoft
-HOST-SUFFIX,learn.microsoft.com,Microsoft
 HOST-SUFFIX,live.com,Microsoft
 HOST-SUFFIX,live.net,Microsoft
 HOST-SUFFIX,lync.com,Microsoft
@@ -64,7 +48,6 @@ HOST-SUFFIX,oaspapps.com,Microsoft
 HOST-SUFFIX,office.com,Microsoft
 HOST-SUFFIX,office.net,Microsoft
 HOST-SUFFIX,office365.com,Microsoft
-HOST-SUFFIX,officecdn.microsoft.com,Microsoft
 HOST-SUFFIX,officeppe.net,Microsoft
 HOST-SUFFIX,omniroot.com,Microsoft
 HOST-SUFFIX,onedrive.com,Microsoft
@@ -75,7 +58,6 @@ HOST-SUFFIX,outlook.com,Microsoft
 HOST-SUFFIX,outlookmobile.com,Microsoft
 HOST-SUFFIX,phonefactor.net,Microsoft
 HOST-SUFFIX,public-trust.com,Microsoft
-HOST-SUFFIX,sdx.microsoft.com,Microsoft
 HOST-SUFFIX,sfbassets.com,Microsoft
 HOST-SUFFIX,sfx.ms,Microsoft
 HOST-SUFFIX,sharepoint.com,Microsoft
@@ -84,7 +66,6 @@ HOST-SUFFIX,skype.com,Microsoft
 HOST-SUFFIX,skypeassets.com,Microsoft
 HOST-SUFFIX,skypeforbusiness.com,Microsoft
 HOST-SUFFIX,staffhub.ms,Microsoft
-HOST-SUFFIX,storeedgefd.dsx.mp.microsoft.com,Microsoft
 HOST-SUFFIX,svc.ms,Microsoft
 HOST-SUFFIX,sway-cdn.com,Microsoft
 HOST-SUFFIX,sway-extensions.com,Microsoft
@@ -98,8 +79,6 @@ HOST-SUFFIX,windows.com,Microsoft
 HOST-SUFFIX,windows.net,Microsoft
 HOST-SUFFIX,windowsazure.com,Microsoft
 HOST-SUFFIX,windowsupdate.com,Microsoft
-HOST-SUFFIX,wscont1.apps.microsoft.com,Microsoft
-HOST-SUFFIX,wscont2.apps.microsoft.com,Microsoft
 HOST-SUFFIX,wunderlist.com,Microsoft
 HOST-SUFFIX,xbox.com,Microsoft
 HOST-SUFFIX,xboxlive.com,Microsoft
