@@ -1,13 +1,21 @@
 # 规则名称: ChinaDomains
-# 规则统计: 875
+# 规则统计: 906
 
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,ChinaDomains
+HOST,api.smoot.apple.cn,ChinaDomains
 HOST,btrace.qq.com,ChinaDomains
+HOST,canary.mask.apple-dns.net,ChinaDomains
 HOST,daisydiskapp.com,ChinaDomains
 HOST,dldir1.qq.com,ChinaDomains
 HOST,grafana.com,ChinaDomains
+HOST,gs-loc-cn.apple.com,ChinaDomains
 HOST,ifconfig.me,ChinaDomains
 HOST,kelee.one,ChinaDomains
+HOST,mask-api.icloud.com,ChinaDomains
+HOST,mask-canary.icloud.com,ChinaDomains
+HOST,mask-h2.icloud.com,ChinaDomains
+HOST,mask.apple-dns.net,ChinaDomains
+HOST,mask.icloud.com,ChinaDomains
 HOST,slife.xy-asia.com,ChinaDomains
 HOST,soup.v.qq.com,ChinaDomains
 HOST,vweixinf.tc.qq.com,ChinaDomains
@@ -23,6 +31,7 @@ HOST-SUFFIX,a2.mzstatic.com,ChinaDomains
 HOST-SUFFIX,a3.mzstatic.com,ChinaDomains
 HOST-SUFFIX,a4.mzstatic.com,ChinaDomains
 HOST-SUFFIX,a5.mzstatic.com,ChinaDomains
+HOST-SUFFIX,aaplimg.com,ChinaDomains
 HOST-SUFFIX,activity-zhendingtech.com,ChinaDomains
 HOST-SUFFIX,activitybyte.com,ChinaDomains
 HOST-SUFFIX,adcdownload.apple.com,ChinaDomains
@@ -42,9 +51,18 @@ HOST-SUFFIX,apis.map.qq.com,ChinaDomains
 HOST-SUFFIX,app-site-association.cdn-apple.com,ChinaDomains
 HOST-SUFFIX,appldnld.apple.com,ChinaDomains
 HOST-SUFFIX,appldnld.g.aaplimg.com,ChinaDomains
+HOST-SUFFIX,apple-cloudkit.com,ChinaDomains
+HOST-SUFFIX,apple-dns.net,ChinaDomains
+HOST-SUFFIX,apple-mapkit.com,ChinaDomains
+HOST-SUFFIX,apple.co,ChinaDomains
+HOST-SUFFIX,apple.com,ChinaDomains
+HOST-SUFFIX,apple.com.cn,ChinaDomains
+HOST-SUFFIX,apple.news,ChinaDomains
 HOST-SUFFIX,appleid.cdn-apple.com,ChinaDomains
 HOST-SUFFIX,apps.apple.com,ChinaDomains
 HOST-SUFFIX,apps.mzstatic.com,ChinaDomains
+HOST-SUFFIX,appsto.re,ChinaDomains
+HOST-SUFFIX,appstore.com,ChinaDomains
 HOST-SUFFIX,bag-cdn.itunes-apple.com.akadns.net,ChinaDomains
 HOST-SUFFIX,baike.com,ChinaDomains
 HOST-SUFFIX,bcy.net,ChinaDomains
@@ -90,6 +108,7 @@ HOST-SUFFIX,bytetcc.com,ChinaDomains
 HOST-SUFFIX,bytetos.com,ChinaDomains
 HOST-SUFFIX,bytexservice.com,ChinaDomains
 HOST-SUFFIX,cc.map.qq.com,ChinaDomains
+HOST-SUFFIX,cdn-apple.com,ChinaDomains
 HOST-SUFFIX,cdn-cn1.apple-mapkit.com,ChinaDomains
 HOST-SUFFIX,cdn-cn2.apple-mapkit.com,ChinaDomains
 HOST-SUFFIX,cdn-cn3.apple-mapkit.com,ChinaDomains
@@ -121,6 +140,9 @@ HOST-SUFFIX,cl5.apple.com,ChinaDomains
 HOST-SUFFIX,clientflow.apple.com,ChinaDomains
 HOST-SUFFIX,clientflow.apple.com.akadns.net,ChinaDomains
 HOST-SUFFIX,cn-smp-paymentservices.apple.com,ChinaDomains
+HOST-SUFFIX,cn-ssl.ls.apple.com,ChinaDomains
+HOST-SUFFIX,cn.apple.com,ChinaDomains
+HOST-SUFFIX,cn.ls.apple.com,ChinaDomains
 HOST-SUFFIX,configuration.apple.com,ChinaDomains
 HOST-SUFFIX,configuration.apple.com.akadns.net,ChinaDomains
 HOST-SUFFIX,cookicut.com,ChinaDomains
@@ -138,6 +160,8 @@ HOST-SUFFIX,dcarvod.com,ChinaDomains
 HOST-SUFFIX,dcdapp.com,ChinaDomains
 HOST-SUFFIX,dd-cdn.origin-apple.com.akadns.net,ChinaDomains
 HOST-SUFFIX,dejavu.apple.com,ChinaDomains
+HOST-SUFFIX,devimages-cdn.apple.com,ChinaDomains
+HOST-SUFFIX,devstreaming-cdn.apple.com,ChinaDomains
 HOST-SUFFIX,dmit.io,ChinaDomains
 HOST-SUFFIX,dongchedi.com,ChinaDomains
 HOST-SUFFIX,dongchediapp.com,ChinaDomains
@@ -250,7 +274,10 @@ HOST-SUFFIX,huoshanzhibo.net,ChinaDomains
 HOST-SUFFIX,iadsdk.apple.com,ChinaDomains
 HOST-SUFFIX,ibytedapm.com,ChinaDomains
 HOST-SUFFIX,icloud-cdn.icloud.com.akadns.net,ChinaDomains
+HOST-SUFFIX,icloud-content.com,ChinaDomains
 HOST-SUFFIX,icloud.cdn-apple.com,ChinaDomains
+HOST-SUFFIX,icloud.com,ChinaDomains
+HOST-SUFFIX,icloud.com.cn,ChinaDomains
 HOST-SUFFIX,icphoto.cn,ChinaDomains
 HOST-SUFFIX,idouyinpic.com,ChinaDomains
 HOST-SUFFIX,idouyinstatic.com,ChinaDomains
@@ -300,6 +327,7 @@ HOST-SUFFIX,is5-ssl.mzstatic.com,ChinaDomains
 HOST-SUFFIX,is5.mzstatic.com,ChinaDomains
 HOST-SUFFIX,itunes-apple.com.akadns.net,ChinaDomains
 HOST-SUFFIX,itunes.apple.com,ChinaDomains
+HOST-SUFFIX,itunes.com,ChinaDomains
 HOST-SUFFIX,itunesconnect.apple.com,ChinaDomains
 HOST-SUFFIX,ixgvideo.com,ChinaDomains
 HOST-SUFFIX,ixigua.com,ChinaDomains
@@ -335,6 +363,7 @@ HOST-SUFFIX,luckincalendar.com,ChinaDomains
 HOST-SUFFIX,luckycalendar.cn,ChinaDomains
 HOST-SUFFIX,maidouke.com,ChinaDomains
 HOST-SUFFIX,map.qq.com,ChinaDomains
+HOST-SUFFIX,me.com,ChinaDomains
 HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,ChinaDomains
 HOST-SUFFIX,mesu-china.apple.com.akadns.net,ChinaDomains
 HOST-SUFFIX,mesu.apple.com,ChinaDomains
@@ -368,6 +397,7 @@ HOST-SUFFIX,ocsp.apple.com,ChinaDomains
 HOST-SUFFIX,ocsp2-lb.apple.com.akadns.net,ChinaDomains
 HOST-SUFFIX,ocsp2.apple.com,ChinaDomains
 HOST-SUFFIX,oortgslb.com,ChinaDomains
+HOST-SUFFIX,organicfruitapps.com,ChinaDomains
 HOST-SUFFIX,oscdn.apple.com,ChinaDomains
 HOST-SUFFIX,oscdn.origin-apple.com.akadns.net,ChinaDomains
 HOST-SUFFIX,osxapps.itunes.g.aaplimg.com,ChinaDomains
@@ -391,6 +421,7 @@ HOST-SUFFIX,probe.siri.apple.com,ChinaDomains
 HOST-SUFFIX,prod-support.apple-support.akadns.net,ChinaDomains
 HOST-SUFFIX,pstatp.com,ChinaDomains
 HOST-SUFFIX,publicassets.cdn-apple.com,ChinaDomains
+HOST-SUFFIX,push-apple.com.akadns.net,ChinaDomains
 HOST-SUFFIX,qlogo.cn,ChinaDomains
 HOST-SUFFIX,qmoji.mobi,ChinaDomains
 HOST-SUFFIX,qmoji.net,ChinaDomains

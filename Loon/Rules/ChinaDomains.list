@@ -1,13 +1,21 @@
 # 规则名称: ChinaDomains
-# 规则统计: 878
+# 规则统计: 909
 
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
+DOMAIN,api.smoot.apple.cn
 DOMAIN,btrace.qq.com
+DOMAIN,canary.mask.apple-dns.net
 DOMAIN,daisydiskapp.com
 DOMAIN,dldir1.qq.com
 DOMAIN,grafana.com
+DOMAIN,gs-loc-cn.apple.com
 DOMAIN,ifconfig.me
 DOMAIN,kelee.one
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-canary.icloud.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask.apple-dns.net
+DOMAIN,mask.icloud.com
 DOMAIN,slife.xy-asia.com
 DOMAIN,soup.v.qq.com
 DOMAIN,vweixinf.tc.qq.com
@@ -23,6 +31,7 @@ DOMAIN-SUFFIX,a2.mzstatic.com
 DOMAIN-SUFFIX,a3.mzstatic.com
 DOMAIN-SUFFIX,a4.mzstatic.com
 DOMAIN-SUFFIX,a5.mzstatic.com
+DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,activity-zhendingtech.com
 DOMAIN-SUFFIX,activitybyte.com
 DOMAIN-SUFFIX,adcdownload.apple.com
@@ -42,9 +51,18 @@ DOMAIN-SUFFIX,apis.map.qq.com
 DOMAIN-SUFFIX,app-site-association.cdn-apple.com
 DOMAIN-SUFFIX,appldnld.apple.com
 DOMAIN-SUFFIX,appldnld.g.aaplimg.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appleid.cdn-apple.com
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,bag-cdn.itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,bcy.net
@@ -90,6 +108,7 @@ DOMAIN-SUFFIX,bytetcc.com
 DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytexservice.com
 DOMAIN-SUFFIX,cc.map.qq.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cdn-cn1.apple-mapkit.com
 DOMAIN-SUFFIX,cdn-cn2.apple-mapkit.com
 DOMAIN-SUFFIX,cdn-cn3.apple-mapkit.com
@@ -121,6 +140,9 @@ DOMAIN-SUFFIX,cl5.apple.com
 DOMAIN-SUFFIX,clientflow.apple.com
 DOMAIN-SUFFIX,clientflow.apple.com.akadns.net
 DOMAIN-SUFFIX,cn-smp-paymentservices.apple.com
+DOMAIN-SUFFIX,cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,cn.apple.com
+DOMAIN-SUFFIX,cn.ls.apple.com
 DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN-SUFFIX,configuration.apple.com.akadns.net
 DOMAIN-SUFFIX,cookicut.com
@@ -138,6 +160,8 @@ DOMAIN-SUFFIX,dcarvod.com
 DOMAIN-SUFFIX,dcdapp.com
 DOMAIN-SUFFIX,dd-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,dejavu.apple.com
+DOMAIN-SUFFIX,devimages-cdn.apple.com
+DOMAIN-SUFFIX,devstreaming-cdn.apple.com
 DOMAIN-SUFFIX,dmit.io
 DOMAIN-SUFFIX,dongchedi.com
 DOMAIN-SUFFIX,dongchediapp.com
@@ -250,7 +274,10 @@ DOMAIN-SUFFIX,huoshanzhibo.net
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net
+DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.cdn-apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icphoto.cn
 DOMAIN-SUFFIX,idouyinpic.com
 DOMAIN-SUFFIX,idouyinstatic.com
@@ -300,6 +327,7 @@ DOMAIN-SUFFIX,is5-ssl.mzstatic.com
 DOMAIN-SUFFIX,is5.mzstatic.com
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,itunesconnect.apple.com
 DOMAIN-SUFFIX,ixgvideo.com
 DOMAIN-SUFFIX,ixigua.com
@@ -335,6 +363,7 @@ DOMAIN-SUFFIX,luckincalendar.com
 DOMAIN-SUFFIX,luckycalendar.cn
 DOMAIN-SUFFIX,maidouke.com
 DOMAIN-SUFFIX,map.qq.com
+DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu.apple.com
@@ -368,6 +397,7 @@ DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,ocsp2-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp2.apple.com
 DOMAIN-SUFFIX,oortgslb.com
+DOMAIN-SUFFIX,organicfruitapps.com
 DOMAIN-SUFFIX,oscdn.apple.com
 DOMAIN-SUFFIX,oscdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,osxapps.itunes.g.aaplimg.com
@@ -391,6 +421,7 @@ DOMAIN-SUFFIX,probe.siri.apple.com
 DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,publicassets.cdn-apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qmoji.mobi
 DOMAIN-SUFFIX,qmoji.net
