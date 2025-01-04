@@ -56,6 +56,7 @@ jobs:
             done
             # 合并Apple/WeChat/抖音/大陆修正规则
             urls=(
+                "https://ruleset.skk.moe/List/domainset/apple_cdn.conf"
                 "https://ruleset.skk.moe/List/domainset/icloud_private_relay.conf"
                 "https://ruleset.skk.moe/List/non_ip/apple_services.conf"
                 "https://ruleset.skk.moe/List/non_ip/apple_cn.conf"
