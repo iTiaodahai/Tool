@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 426
+# 规则统计: 428
 
 HOST,40gspeedtest.mnsi.net,Speedtest
 HOST,5g.shunicomtest.com,Speedtest
@@ -20,7 +20,6 @@ HOST,cnk1speedtest.turktelekom.com.tr,Speedtest
 HOST,csfw.fj.chinamobile.com,Speedtest
 HOST,cugspeed.chinaunicomglobal.com,Speedtest
 HOST,dallas1.cabospeed.com,Speedtest
-HOST,de.speedtest.waicore.com,Speedtest
 HOST,digital.babeltik.com,Speedtest
 HOST,dllstx-ookla1.vyvebroadband.net,Speedtest
 HOST,erz1speedtest.turktelekom.com.tr,Speedtest
@@ -183,6 +182,7 @@ HOST,speedtest.macpaw.com,Speedtest
 HOST,speedtest.maisnetfibra.net.br,Speedtest
 HOST,speedtest.mel.mhn.cloud,Speedtest
 HOST,speedtest.mia.hivelocity.net,Speedtest
+HOST,speedtest.mtnetworks.mn,Speedtest
 HOST,speedtest.myaccess.ca,Speedtest
 HOST,speedtest.netflash.net,Speedtest
 HOST,speedtest.netwifi.com.tr,Speedtest
@@ -402,6 +402,7 @@ HOST-SUFFIX,speedtest.idv.tw,Speedtest
 HOST-SUFFIX,speedtest.jsinfo.net,Speedtest
 HOST-SUFFIX,speedtest.labixe.net,Speedtest
 HOST-SUFFIX,speedtest.leaptel.com.au,Speedtest
+HOST-SUFFIX,speedtest.moack.co.kr,Speedtest
 HOST-SUFFIX,speedtest.net,Speedtest
 HOST-SUFFIX,speedtest.optitel.com.au,Speedtest
 HOST-SUFFIX,speedtest.orange.fr,Speedtest
@@ -415,6 +416,7 @@ HOST-SUFFIX,speedtest.starhub.com,Speedtest
 HOST-SUFFIX,speedtest.telstra.net,Speedtest
 HOST-SUFFIX,speedtest.telus.com,Speedtest
 HOST-SUFFIX,speedtest.vodafone.com.au,Speedtest
+HOST-SUFFIX,speedtest.waicore.com,Speedtest
 HOST-SUFFIX,speedtest.warian.net,Speedtest
 HOST-SUFFIX,speedtest.windstream.net,Speedtest
 HOST-SUFFIX,speedtestcustom.com,Speedtest
