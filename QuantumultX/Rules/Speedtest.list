@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 445
+# 规则统计: 446
 
 HOST,40gspeedtest.mnsi.net,Speedtest
 HOST,5g.shunicomtest.com,Speedtest
@@ -271,6 +271,7 @@ HOST,spttp1_tc.taiwanmobile.com,Speedtest
 HOST,srvteste.edntelecom.net.br,Speedtest
 HOST,st.jnettelecom-am.com.br,Speedtest
 HOST,st.mow.gin.ru,Speedtest
+HOST,st02.mtnsat.net,Speedtest
 HOST,st2a.les.net,Speedtest
 HOST,stbrampton.rogers.com,Speedtest
 HOST,stbrantford.rogers.com,Speedtest

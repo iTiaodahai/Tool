@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 772
+# 规则统计: 773
 
 HOST,5721004.xyz,Global
 HOST,ccmdl.adobe.com,Global
@@ -765,6 +765,7 @@ IP-CIDR,154.17.237.0/24,Global
 IP-CIDR,156.229.160.0/24,Global
 IP-CIDR,172.67.133.0/24,Global
 IP-CIDR,172.93.220.0/24,Global
+IP-CIDR,188.68.240.0/24,Global
 IP-CIDR,206.237.31.0/24,Global
 IP-CIDR,34.92.173.0/24,Global
 IP-CIDR,35.201.189.0/24,Global

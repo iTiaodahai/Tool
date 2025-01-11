@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 56
+# 规则统计: 57
 
 HOST,5721004.xyz,Proxy
 HOST,filters.adtidy.org,Proxy
@@ -50,6 +50,7 @@ IP-CIDR,154.17.237.0/24,Proxy
 IP-CIDR,156.229.160.0/24,Proxy
 IP-CIDR,172.67.133.0/24,Proxy
 IP-CIDR,172.93.220.0/24,Proxy
+IP-CIDR,188.68.240.0/24,Proxy
 IP-CIDR,206.237.31.0/24,Proxy
 IP-CIDR,34.92.173.0/24,Proxy
 IP-CIDR,35.201.189.0/24,Proxy
