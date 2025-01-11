@@ -22,5 +22,5 @@ jobs:
         env:
           HOSTS_JSON: ${{ secrets.HOSTS_JSON }}
         run: |
-          chmod +x ./revive.sh
+          cd Serv00/ && chmod +x ./revive.sh
           ./revive.sh
