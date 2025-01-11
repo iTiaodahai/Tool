@@ -1,0 +1,27 @@
+# 规则名称: Direct
+# 规则统计: 24
+
+HOST,daisydiskapp.com,Direct
+HOST,grafana.com,Direct
+HOST,ifconfig.me,Direct
+HOST,kelee.one,Direct
+HOST-SUFFIX,cgbchina.com.cn,Direct
+HOST-SUFFIX,logi.com,Direct
+HOST-SUFFIX,logitech.com,Direct
+HOST-SUFFIX,logitechg.com,Direct
+HOST-SUFFIX,oyunfor.com,Direct
+HOST-SUFFIX,stripe.com,Direct
+HOST-SUFFIX,termius.com,Direct
+HOST-KEYWORD,120399.xyz,Direct
+HOST-KEYWORD,digicert.com,Direct
+HOST-KEYWORD,globalsign.com,Direct
+IP-CIDR,17.179.252.0/24,Direct
+IP-CIDR,17.248.216.0/24,Direct
+IP-CIDR,17.253.71.0/24,Direct
+IP-CIDR,17.253.87.0/24,Direct
+IP-CIDR,17.57.145.0/24,Direct
+IP-CIDR,18.180.93.0/24,Direct
+IP-CIDR,43.156.223.0/24,Direct
+IP-CIDR,43.156.255.0/24,Direct
+IP-CIDR,43.159.69.0/24,Direct
+IP-CIDR,43.160.144.0/24,Direct

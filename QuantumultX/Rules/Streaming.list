@@ -1,0 +1,31 @@
+# 规则名称: Streaming
+# 规则统计: 28
+
+HOST,afreecatv.com,Streaming
+HOST,kick.com,Streaming
+HOST-SUFFIX,akamaized.net,Streaming
+HOST-SUFFIX,ext-twitch.tv,Streaming
+HOST-SUFFIX,jtvnw.net,Streaming
+HOST-SUFFIX,kick.com,Streaming
+HOST-SUFFIX,live-video.net,Streaming
+HOST-SUFFIX,pandalive.co.kr,Streaming
+HOST-SUFFIX,pstatic.net,Streaming
+HOST-SUFFIX,sooplive.co.kr,Streaming
+HOST-SUFFIX,ttvnw.net,Streaming
+HOST-SUFFIX,twitch-ext.rootonline.de,Streaming
+HOST-SUFFIX,twitch.tv,Streaming
+HOST-SUFFIX,twitchcdn.net,Streaming
+HOST-SUFFIX,twitchsvc.net,Streaming
+HOST-KEYWORD,ttvnw,Streaming
+IP-CIDR,103.53.48.0/23,Streaming
+IP-CIDR,185.42.204.0/22,Streaming
+IP-CIDR,192.108.239.0/24,Streaming
+IP-CIDR,192.16.64.0/21,Streaming
+IP-CIDR,199.9.248.0/21,Streaming
+IP-CIDR,23.160.0.0/24,Streaming
+IP-CIDR,45.113.128.0/22,Streaming
+IP-CIDR,52.223.192.0/20,Streaming
+IP-CIDR,52.223.208.0/21,Streaming
+IP-CIDR,52.223.224.0/19,Streaming
+IP-CIDR,99.181.64.0/18,Streaming
+IP6-CIDR,2402:2a80::/32,Streaming

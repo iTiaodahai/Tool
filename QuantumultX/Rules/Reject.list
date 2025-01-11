@@ -1,0 +1,31 @@
+# 规则名称: Reject
+# 规则统计: 28
+
+HOST,ads-api.x.com,Reject
+HOST,al-log.d.meituan.net,Reject
+HOST,edge.bamgrid.com,Reject
+HOST,gdmf.apple.com,Reject
+HOST,maplocatesdksnapshot.d.meituan.net,Reject
+HOST,mesu.apple.com,Reject
+HOST,metrics-picture.d.meituan.net,Reject
+HOST,notifications.netflix.com,Reject
+HOST,ntp.nasa.gov,Reject
+HOST,sb.scorecardresearch.com,Reject
+HOST,search-api-disney.svcs.dssott.com,Reject
+HOST,updates-http.cdn-apple.com,Reject
+HOST-SUFFIX,branch.io,Reject
+HOST-SUFFIX,inmobi.com,Reject
+HOST-SUFFIX,jampp.com,Reject
+IP-CIDR,100.129.1.8/32,Reject
+IP-CIDR,101.36.166.16/32,Reject
+IP-CIDR,101.36.166.17/32,Reject
+IP-CIDR,101.36.166.18/32,Reject
+IP-CIDR,101.36.166.19/32,Reject
+IP-CIDR,203.209.230.39/32,Reject
+IP-CIDR,203.209.243.114/32,Reject
+IP-CIDR,203.209.243.4/32,Reject
+IP-CIDR,203.209.245.158/32,Reject
+IP-CIDR,203.209.247.95/32,Reject
+IP-CIDR,203.209.250.114/32,Reject
+IP-CIDR,203.209.250.41/32,Reject
+IP-CIDR,203.209.251.147/32,Reject
