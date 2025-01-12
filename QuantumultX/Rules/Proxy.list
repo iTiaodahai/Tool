@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 59
+# 规则统计: 61
 
 HOST,5721004.xyz,Proxy
 HOST,filters.adtidy.org,Proxy
@@ -35,6 +35,7 @@ HOST-SUFFIX,vscode-cdn.net,Proxy
 HOST-SUFFIX,vscode-unpkg.net,Proxy
 HOST-SUFFIX,webp.li,Proxy
 HOST-SUFFIX,xns.one,Proxy
+HOST-KEYWORD,52.156.58.,Proxy
 HOST-KEYWORD,akile.io,Proxy
 HOST-KEYWORD,claw.cloud,Proxy
 HOST-KEYWORD,fivetiu,Proxy
@@ -46,6 +47,7 @@ HOST-KEYWORD,sectigo.com,Proxy
 HOST-KEYWORD,sms-activate,Proxy
 IP-CIDR,104.21.5.0/24,Proxy
 IP-CIDR,146.75.115.0/24,Proxy
+IP-CIDR,146.75.95.0/24,Proxy
 IP-CIDR,148.178.21.0/24,Proxy
 IP-CIDR,151.101.111.0/24,Proxy
 IP-CIDR,154.17.237.0/24,Proxy

@@ -739,6 +739,7 @@ DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,zendesk.com
+DOMAIN-KEYWORD,52.156.58.
 DOMAIN-KEYWORD,akile.io
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,claw.cloud
@@ -758,6 +759,7 @@ DOMAIN-KEYWORD,sms-activate
 DOMAIN-KEYWORD,whatsapp
 IP-CIDR,104.21.5.0/24,no-resolve
 IP-CIDR,146.75.115.0/24,no-resolve
+IP-CIDR,146.75.95.0/24,no-resolve
 IP-CIDR,148.178.21.0/24,no-resolve
 IP-CIDR,151.101.111.0/24,no-resolve
 IP-CIDR,154.17.237.0/24,no-resolve

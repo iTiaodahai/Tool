@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 59
+# 规则统计: 61
 
 DOMAIN,5721004.xyz
 DOMAIN,filters.adtidy.org
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,webp.li
 DOMAIN-SUFFIX,xns.one
+DOMAIN-KEYWORD,52.156.58.
 DOMAIN-KEYWORD,akile.io
 DOMAIN-KEYWORD,claw.cloud
 DOMAIN-KEYWORD,fivetiu
@@ -46,6 +47,7 @@ DOMAIN-KEYWORD,sectigo.com
 DOMAIN-KEYWORD,sms-activate
 IP-CIDR,104.21.5.0/24,no-resolve
 IP-CIDR,146.75.115.0/24,no-resolve
+IP-CIDR,146.75.95.0/24,no-resolve
 IP-CIDR,148.178.21.0/24,no-resolve
 IP-CIDR,151.101.111.0/24,no-resolve
 IP-CIDR,154.17.237.0/24,no-resolve

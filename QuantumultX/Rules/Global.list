@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 775
+# 规则统计: 777
 
 HOST,5721004.xyz,Global
 HOST,ccmdl.adobe.com,Global
@@ -742,6 +742,7 @@ HOST-SUFFIX,yandex.net,Global
 HOST-SUFFIX,youtube.com,Global
 HOST-SUFFIX,ytimg.com,Global
 HOST-SUFFIX,zendesk.com,Global
+HOST-KEYWORD,52.156.58.,Global
 HOST-KEYWORD,akile.io,Global
 HOST-KEYWORD,blogspot,Global
 HOST-KEYWORD,claw.cloud,Global
@@ -761,6 +762,7 @@ HOST-KEYWORD,sms-activate,Global
 HOST-KEYWORD,whatsapp,Global
 IP-CIDR,104.21.5.0/24,Global
 IP-CIDR,146.75.115.0/24,Global
+IP-CIDR,146.75.95.0/24,Global
 IP-CIDR,148.178.21.0/24,Global
 IP-CIDR,151.101.111.0/24,Global
 IP-CIDR,154.17.237.0/24,Global
