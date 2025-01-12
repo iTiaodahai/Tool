@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 773
+# 规则统计: 775
 
 HOST,5721004.xyz,Global
 HOST,ccmdl.adobe.com,Global
@@ -50,6 +50,7 @@ HOST-SUFFIX,akamaihd.net,Global
 HOST-SUFFIX,alice.ws,Global
 HOST-SUFFIX,amazon.com,Global
 HOST-SUFFIX,amazonaws.com,Global
+HOST-SUFFIX,amazontrust.com,Global
 HOST-SUFFIX,ampproject.org,Global
 HOST-SUFFIX,android.com,Global
 HOST-SUFFIX,androidify.com,Global
@@ -378,6 +379,7 @@ HOST-SUFFIX,la,Global
 HOST-SUFFIX,launchdarkly.com,Global
 HOST-SUFFIX,ledger.com,Global
 HOST-SUFFIX,leetcode.com,Global
+HOST-SUFFIX,lencr.org,Global
 HOST-SUFFIX,libgen.fun,Global
 HOST-SUFFIX,lihkg.com,Global
 HOST-SUFFIX,line-apps-beta.com,Global

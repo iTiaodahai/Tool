@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 57
+# 规则统计: 59
 
 HOST,5721004.xyz,Proxy
 HOST,filters.adtidy.org,Proxy
@@ -10,6 +10,7 @@ HOST,t66y.com,Proxy
 HOST,yxvm.com,Proxy
 HOST-SUFFIX,1stream.icu,Proxy
 HOST-SUFFIX,alice.ws,Proxy
+HOST-SUFFIX,amazontrust.com,Proxy
 HOST-SUFFIX,claudeusercontent.com,Proxy
 HOST-SUFFIX,crashlytics.com,Proxy
 HOST-SUFFIX,dash-panel.top,Proxy
@@ -19,6 +20,7 @@ HOST-SUFFIX,exp-tas.com,Proxy
 HOST-SUFFIX,fontawesome.com,Proxy
 HOST-SUFFIX,gitbook.com,Proxy
 HOST-SUFFIX,hcaptcha.com,Proxy
+HOST-SUFFIX,lencr.org,Proxy
 HOST-SUFFIX,loli.net,Proxy
 HOST-SUFFIX,myavlive.com,Proxy
 HOST-SUFFIX,nodeseek.com,Proxy

@@ -1,5 +1,5 @@
 # 规则名称: Streaming
-# 规则统计: 29
+# 规则统计: 30
 
 DOMAIN,afreecatv.com
 DOMAIN,kick.com
@@ -29,5 +29,5 @@ IP-CIDR,52.223.208.0/21,no-resolve
 IP-CIDR,52.223.224.0/19,no-resolve
 IP-CIDR,99.181.64.0/18,no-resolve
 IP-CIDR6,2402:2a80::/32,no-resolve
-PROCESS-NAME,tv.twitch.android.app
 PROCESS-NAME,/opt/homebrew/Cellar/ffmpeg/7.1_3/bin/ffmpeg
+PROCESS-NAME,tv.twitch.android.app

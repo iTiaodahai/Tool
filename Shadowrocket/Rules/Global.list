@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 773
+# 规则统计: 775
 
 DOMAIN,5721004.xyz
 DOMAIN,ccmdl.adobe.com
@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,alice.ws
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
@@ -378,6 +379,7 @@ DOMAIN-SUFFIX,la
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,leetcode.com
+DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,libgen.fun
 DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,line-apps-beta.com
