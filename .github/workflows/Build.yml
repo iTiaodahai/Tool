@@ -1,4 +1,4 @@
-name: Build
+name: rules-actions
 
 on:
   workflow_dispatch:
