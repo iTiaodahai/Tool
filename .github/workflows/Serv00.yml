@@ -21,6 +21,9 @@ jobs:
       - name: 登录serv00并执行保活脚本
         env:
           HOSTS_JSON: ${{ secrets.HOSTS_JSON }}
+          TELEGRAM_TOKEN: ${{secrets.TELEGRAM_TOKEN}}
+          TELEGRAM_USERID: ${{secrets.TELEGRAM_USERID}}
+          SENDTYPE: ${{secrets.SENDTYPE}}
         run: |
           cd Serv00/ && chmod +x ./revive.sh
           ./revive.sh
