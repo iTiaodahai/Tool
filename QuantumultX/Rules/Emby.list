@@ -1,7 +1,8 @@
 # 规则名称: Emby
-# 规则统计: 4
+# 规则统计: 5
 
 HOST-SUFFIX,emby.wtf,Emby
+HOST-SUFFIX,phantasy.life,Emby
 HOST-SUFFIX,term.wtf,Emby
 HOST-SUFFIX,trakt.tv,Emby
 HOST-SUFFIX,yeahfast.com,Emby
