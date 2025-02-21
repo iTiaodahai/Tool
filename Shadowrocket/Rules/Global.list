@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31274
+# 规则统计: 31276
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -4049,6 +4049,7 @@ DOMAIN-SUFFIX,bitsquare.io
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,bitstream.com
 DOMAIN-SUFFIX,bitterwinter.org
+DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,bittrex.com
 DOMAIN-SUFFIX,bitvise.com
 DOMAIN-SUFFIX,bitwarden.com
@@ -31271,6 +31272,7 @@ DOMAIN-KEYWORD,keygen-dist
 DOMAIN-KEYWORD,mushroomtrack.com
 DOMAIN-KEYWORD,ntp.org
 DOMAIN-KEYWORD,pinterest
+DOMAIN-KEYWORD,sandai.net
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,sms-activate
 DOMAIN-KEYWORD,whatsapp

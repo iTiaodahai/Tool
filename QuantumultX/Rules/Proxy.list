@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 55
+# 规则统计: 57
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -19,6 +19,7 @@ HOST-SUFFIX,1stream.icu,Proxy
 HOST-SUFFIX,alice.ws,Proxy
 HOST-SUFFIX,ax1x.com,Proxy
 HOST-SUFFIX,back4app.com,Proxy
+HOST-SUFFIX,bittorrent.com,Proxy
 HOST-SUFFIX,cdn-centaurus.com,Proxy
 HOST-SUFFIX,claudeusercontent.com,Proxy
 HOST-SUFFIX,crashlytics.com,Proxy
@@ -55,4 +56,5 @@ HOST-KEYWORD,kelee.one,Proxy
 HOST-KEYWORD,keygen-dist,Proxy
 HOST-KEYWORD,mushroomtrack.com,Proxy
 HOST-KEYWORD,ntp.org,Proxy
+HOST-KEYWORD,sandai.net,Proxy
 HOST-KEYWORD,sms-activate,Proxy

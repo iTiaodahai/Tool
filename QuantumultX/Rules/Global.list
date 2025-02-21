@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31274
+# 规则统计: 31276
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -4049,6 +4049,7 @@ HOST-SUFFIX,bitsquare.io,Global
 HOST-SUFFIX,bitstamp.net,Global
 HOST-SUFFIX,bitstream.com,Global
 HOST-SUFFIX,bitterwinter.org,Global
+HOST-SUFFIX,bittorrent.com,Global
 HOST-SUFFIX,bittrex.com,Global
 HOST-SUFFIX,bitvise.com,Global
 HOST-SUFFIX,bitwarden.com,Global
@@ -31271,6 +31272,7 @@ HOST-KEYWORD,keygen-dist,Global
 HOST-KEYWORD,mushroomtrack.com,Global
 HOST-KEYWORD,ntp.org,Global
 HOST-KEYWORD,pinterest,Global
+HOST-KEYWORD,sandai.net,Global
 HOST-KEYWORD,sci-hub,Global
 HOST-KEYWORD,sms-activate,Global
 HOST-KEYWORD,whatsapp,Global
