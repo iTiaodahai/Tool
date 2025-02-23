@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31284
+# 规则统计: 31285
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -269,6 +269,7 @@ HOST-SUFFIX,1991way.com,Global
 HOST-SUFFIX,1992qq.xyz,Global
 HOST-SUFFIX,1994group.ac.uk,Global
 HOST-SUFFIX,1998cdp.org,Global
+HOST-SUFFIX,1anime.me,Global
 HOST-SUFFIX,1bao.org,Global
 HOST-SUFFIX,1bigclub.com,Global
 HOST-SUFFIX,1bokeponline.top,Global
