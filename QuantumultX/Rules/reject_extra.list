@@ -1,5 +1,5 @@
 # 规则名称: reject_extra
-# 规则统计: 62962
+# 规则统计: 62964
 
 HOST,2016.sina.cn,reject_extra
 HOST,9ibbcq2d.sina.cn,reject_extra
@@ -2911,6 +2911,7 @@ HOST-SUFFIX,ad-log.wemakeprice.com,reject_extra
 HOST-SUFFIX,ad-m.asia,reject_extra
 HOST-SUFFIX,ad-mapps.com,reject_extra
 HOST-SUFFIX,ad-maven.com,reject_extra
+HOST-SUFFIX,ad-platform.jmty.jp,reject_extra
 HOST-SUFFIX,ad-plus.cn,reject_extra
 HOST-SUFFIX,ad-recommend.com,reject_extra
 HOST-SUFFIX,ad-score.com,reject_extra
@@ -6245,7 +6246,6 @@ HOST-SUFFIX,api.a-kasse-guiden.dk,reject_extra
 HOST-SUFFIX,api.abcsinsights.com,reject_extra
 HOST-SUFFIX,api.acquirewithus.com,reject_extra
 HOST-SUFFIX,api.ad-locus.com,reject_extra
-HOST-SUFFIX,api.ad-platform.jmty.jp,reject_extra
 HOST-SUFFIX,api.ads.newsdigest.jp,reject_extra
 HOST-SUFFIX,api.ads.watchabc.go.com,reject_extra
 HOST-SUFFIX,api.ampiri.com,reject_extra
@@ -9888,7 +9888,6 @@ HOST-SUFFIX,cdn-media.brightline.tv,reject_extra
 HOST-SUFFIX,cdn-redirector.glopal.com,reject_extra
 HOST-SUFFIX,cdn-server.cc,reject_extra
 HOST-SUFFIX,cdn-server.top,reject_extra
-HOST-SUFFIX,cdn.ad-platform.jmty.jp,reject_extra
 HOST-SUFFIX,cdn.admatic.com.tr,reject_extra
 HOST-SUFFIX,cdn.ads-flipp.com,reject_extra
 HOST-SUFFIX,cdn.affiliatable.io,reject_extra
@@ -9913,7 +9912,6 @@ HOST-SUFFIX,cdn.net.elogia.net,reject_extra
 HOST-SUFFIX,cdn.nuqwe.com,reject_extra
 HOST-SUFFIX,cdn.odoscope.cloud,reject_extra
 HOST-SUFFIX,cdn.optmn.cloud,reject_extra
-HOST-SUFFIX,cdn.polarbyte.com,reject_extra
 HOST-SUFFIX,cdn.pranmcpkx.com,reject_extra
 HOST-SUFFIX,cdn.raekdata.com,reject_extra
 HOST-SUFFIX,cdn.reproio.com,reject_extra
@@ -10036,6 +10034,7 @@ HOST-SUFFIX,cejehd.eurohomme.co.kr,reject_extra
 HOST-SUFFIX,celebnewsuggestions.com,reject_extra
 HOST-SUFFIX,celeritascdn.com,reject_extra
 HOST-SUFFIX,celeryisolatedproject.com,reject_extra
+HOST-SUFFIX,celestialspectra.com,reject_extra
 HOST-SUFFIX,cellar-analytics.mapion.co.jp,reject_extra
 HOST-SUFFIX,cellspsoatic.com,reject_extra
 HOST-SUFFIX,celsiusours.com,reject_extra
@@ -10217,6 +10216,7 @@ HOST-SUFFIX,chengaib.net,reject_extra
 HOST-SUFFIX,cheqzone.com,reject_extra
 HOST-SUFFIX,cherteevahy.net,reject_extra
 HOST-SUFFIX,cherylssb.com,reject_extra
+HOST-SUFFIX,chessbranch.com,reject_extra
 HOST-SUFFIX,chetchoa.com,reject_extra
 HOST-SUFFIX,chetsingoptans.net,reject_extra
 HOST-SUFFIX,chezoams.com,reject_extra
@@ -20537,8 +20537,6 @@ HOST-SUFFIX,florinsqrs.top,reject_extra
 HOST-SUFFIX,flourishinginnovation.com,reject_extra
 HOST-SUFFIX,flourishingpartnership.com,reject_extra
 HOST-SUFFIX,flourishpath.online,reject_extra
-HOST-SUFFIX,flow.kiloutou.fr,reject_extra
-HOST-SUFFIX,floweryfact.com,reject_extra
 HOST-SUFFIX,flpwto.lohaco.jp,reject_extra
 HOST-SUFFIX,fls.shapeandhealthyslim.com,reject_extra
 HOST-SUFFIX,flstudiochina.com,reject_extra
@@ -21891,6 +21889,7 @@ HOST-SUFFIX,gli9.inseec-bs.com,reject_extra
 HOST-SUFFIX,gligoubsed.com,reject_extra
 HOST-SUFFIX,glijai.ten-navi.com,reject_extra
 HOST-SUFFIX,glimpaid.net,reject_extra
+HOST-SUFFIX,glimr.io,reject_extra
 HOST-SUFFIX,glimtors.net,reject_extra
 HOST-SUFFIX,glipigaicm.net,reject_extra
 HOST-SUFFIX,gliptareemote.net,reject_extra
@@ -29374,6 +29373,7 @@ HOST-SUFFIX,links.npsemails.mbna.co.uk,reject_extra
 HOST-SUFFIX,links.qumu.com,reject_extra
 HOST-SUFFIX,links.riverview.org,reject_extra
 HOST-SUFFIX,links.voyeurweb.com,reject_extra
+HOST-SUFFIX,linksprf.com,reject_extra
 HOST-SUFFIX,linkt.ausfuellhilfe.com,reject_extra
 HOST-SUFFIX,linktech.cn,reject_extra
 HOST-SUFFIX,linsaicki.net,reject_extra
@@ -36099,7 +36099,6 @@ HOST-SUFFIX,mnfblu.schubiger.ch,reject_extra
 HOST-SUFFIX,mnfqyj.corello.com.br,reject_extra
 HOST-SUFFIX,mng-ads.com,reject_extra
 HOST-SUFFIX,mnggif.kieler-jobanzeiger.de,reject_extra
-HOST-SUFFIX,mngusr.com,reject_extra
 HOST-SUFFIX,mnifdlax.top,reject_extra
 HOST-SUFFIX,mninoq.xyz,reject_extra
 HOST-SUFFIX,mnnmnn.com,reject_extra
@@ -40685,7 +40684,6 @@ HOST-SUFFIX,pixel.europapress.net,reject_extra
 HOST-SUFFIX,pixel.ex.co,reject_extra
 HOST-SUFFIX,pixel.facebook.com,reject_extra
 HOST-SUFFIX,pixel.fohr.co,reject_extra
-HOST-SUFFIX,pixel.glimr.io,reject_extra
 HOST-SUFFIX,pixel.homebook.pl,reject_extra
 HOST-SUFFIX,pixel.honestjohn.co.uk,reject_extra
 HOST-SUFFIX,pixel.hotcut.com.au,reject_extra
@@ -41985,6 +41983,7 @@ HOST-SUFFIX,pyxjkx.springjapan.com,reject_extra
 HOST-SUFFIX,pyymip.supportsmuraux.fr,reject_extra
 HOST-SUFFIX,pyyocq.luvreparis.co.kr,reject_extra
 HOST-SUFFIX,pzajdh.guicheweb.com.br,reject_extra
+HOST-SUFFIX,pzapi-ij.com,reject_extra
 HOST-SUFFIX,pzapi-kg.com,reject_extra
 HOST-SUFFIX,pzd.rakuten.co.jp,reject_extra
 HOST-SUFFIX,pzfqzv.xyz,reject_extra
@@ -42270,6 +42269,7 @@ HOST-SUFFIX,qnhi.cn,reject_extra
 HOST-SUFFIX,qnhnxr.markenkoffer.de,reject_extra
 HOST-SUFFIX,qnifdlay.top,reject_extra
 HOST-SUFFIX,qnjdgv.tostadora.fr,reject_extra
+HOST-SUFFIX,qnki.cn,reject_extra
 HOST-SUFFIX,qnlbs2m0uoto.www.videoath.com,reject_extra
 HOST-SUFFIX,qnnyok.123print.com,reject_extra
 HOST-SUFFIX,qnp16tstw.com,reject_extra
@@ -43769,6 +43769,7 @@ HOST-SUFFIX,rt.mbeastmysterybox.com,reject_extra
 HOST-SUFFIX,rt.meno-vita.com,reject_extra
 HOST-SUFFIX,rt.meuimperiodigital.com,reject_extra
 HOST-SUFFIX,rt.nationalhealthmatters.com,reject_extra
+HOST-SUFFIX,rt.newswire.ca,reject_extra
 HOST-SUFFIX,rt.nsadstracking.com,reject_extra
 HOST-SUFFIX,rt.policyfamilyquote.com,reject_extra
 HOST-SUFFIX,rt.policysidekick.com,reject_extra
@@ -45214,7 +45215,6 @@ HOST-SUFFIX,secure.gartnerformarketers.com,reject_extra
 HOST-SUFFIX,secure.golp4elik.com,reject_extra
 HOST-SUFFIX,secure.happyretirementnews.com,reject_extra
 HOST-SUFFIX,secure.happyretirementstories.com,reject_extra
-HOST-SUFFIX,secure.hiss3lark.com,reject_extra
 HOST-SUFFIX,secure.homeowner.wiki,reject_extra
 HOST-SUFFIX,secure.immixgroup.com,reject_extra
 HOST-SUFFIX,secure.info.domo.com,reject_extra
@@ -46771,6 +46771,7 @@ HOST-SUFFIX,snalzlb.top,reject_extra
 HOST-SUFFIX,snammar-jumntal.com,reject_extra
 HOST-SUFFIX,snapads.com,reject_extra
 HOST-SUFFIX,snapmobileasia.net,reject_extra
+HOST-SUFFIX,snapsgate.com,reject_extra
 HOST-SUFFIX,snaqyb.24mx.be,reject_extra
 HOST-SUFFIX,snarlsfuzzes.com,reject_extra
 HOST-SUFFIX,snat.goguardian.com,reject_extra
@@ -59078,6 +59079,7 @@ HOST-SUFFIX,view.email.hostplus.com.au,reject_extra
 HOST-SUFFIX,view.fujitv.co.jp,reject_extra
 HOST-SUFFIX,view.kirbybuildingsystems.com,reject_extra
 HOST-SUFFIX,view.metlspan.com,reject_extra
+HOST-SUFFIX,view.mngusr.com,reject_extra
 HOST-SUFFIX,view.nucorbuildingsystems.com,reject_extra
 HOST-SUFFIX,view.oportun.com,reject_extra
 HOST-SUFFIX,view.peek-cloppenburg.de,reject_extra
