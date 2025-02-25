@@ -129,11 +129,19 @@ jobs:
                 curl -f -L "$url" >> Tool-repo/Ruleset/Premium.list || { echo "Download Failed: $url"; exit 1; }
                 echo "" >> Tool-repo/Ruleset/Premium.list
             done
+            # 合并AI规则
+            urls=(
+                "https://ruleset.skk.moe/List/non_ip/ai.conf"
+                "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/xAI.list"
+            )
+            > Tool-repo/Ruleset/AI.list
+            for url in "${urls[@]}"; do
+                echo "Downloading: $url"
+                curl -f -L "$url" >> Tool-repo/Ruleset/AI.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/AI.list
+            done
             # 下载规则
             files=(
-                #AI
-                "AI.list https://ruleset.skk.moe/List/non_ip/ai.conf" 
-                
                 #Spotify
                 "Spotify.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Spotify.list"
                 
