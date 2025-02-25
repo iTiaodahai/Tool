@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1094
+# 规则统计: 1100
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -271,6 +271,7 @@ HOST,speed2.fiberlink.pl,Speedtest
 HOST,speed2.flawcra.cc,Speedtest
 HOST,speed4.snap.net.nz,Speedtest
 HOST,speedam.wsp.net.br,Speedtest
+HOST,speedcumra.lodosnet.com,Speedtest
 HOST,speedgauge2.optonline.net,Speedtest
 HOST,speedilgin.lodosnet.com,Speedtest
 HOST,speedlon.hyperoptic.com,Speedtest
@@ -486,6 +487,7 @@ HOST,speedtest.execulink.ca,Speedtest
 HOST,speedtest.extremanetwork.com.br,Speedtest
 HOST,speedtest.fiberlink.net.ua,Speedtest
 HOST,speedtest.fibernetics.ca,Speedtest
+HOST,speedtest.fibim.com.tr,Speedtest
 HOST,speedtest.finovy.com,Speedtest
 HOST,speedtest.fixnet.com.tr,Speedtest
 HOST,speedtest.fra01.fusionflare.cloud,Speedtest
@@ -553,6 +555,7 @@ HOST,speedtest.lureit.ru,Speedtest
 HOST,speedtest.macapatelecom.net.br,Speedtest
 HOST,speedtest.macpaw.com,Speedtest
 HOST,speedtest.maisnetfibra.net.br,Speedtest
+HOST,speedtest.markahost.com.tr,Speedtest
 HOST,speedtest.maryno.net,Speedtest
 HOST,speedtest.massivemesh.com,Speedtest
 HOST,speedtest.meerfarbig.net,Speedtest
@@ -649,6 +652,8 @@ HOST,speedtest.springfibre.com,Speedtest
 HOST,speedtest.sptel.com,Speedtest
 HOST,speedtest.starlink.ru,Speedtest
 HOST,speedtest.sth.tr,Speedtest
+HOST,speedtest.sunnysidehosting.net,Speedtest
+HOST,speedtest.sunucum.net.tr,Speedtest
 HOST,speedtest.surfshark.com,Speedtest
 HOST,speedtest.switch.ca,Speedtest
 HOST,speedtest.syd.mhn.cloud,Speedtest
@@ -657,6 +662,7 @@ HOST,speedtest.syd01.launtel.net.au,Speedtest
 HOST,speedtest.syscom.manaus.br,Speedtest
 HOST,speedtest.systemlifeline.com,Speedtest
 HOST,speedtest.taifo.com.tw,Speedtest
+HOST,speedtest.tay.net.tr,Speedtest
 HOST,speedtest.te.citywest.ca,Speedtest
 HOST,speedtest.team-host.ru,Speedtest
 HOST,speedtest.teknosos.com.tr,Speedtest

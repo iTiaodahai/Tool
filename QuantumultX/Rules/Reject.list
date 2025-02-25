@@ -1,10 +1,11 @@
 # 规则名称: Reject
-# 规则统计: 30
+# 规则统计: 31
 
 HOST,ads-api.x.com,Reject
 HOST,al-log.d.meituan.net,Reject
 HOST,edge.bamgrid.com,Reject
 HOST,gdmf.apple.com,Reject
+HOST,hub5pr.v6.phub.sandai.net,Reject
 HOST,maplocatesdksnapshot.d.meituan.net,Reject
 HOST,mesu.apple.com,Reject
 HOST,metrics-picture.d.meituan.net,Reject

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 57
+# 规则统计: 58
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -54,8 +54,8 @@ DOMAIN-KEYWORD,exp-tas.com
 DOMAIN-KEYWORD,ip-api
 DOMAIN-KEYWORD,kelee.one
 DOMAIN-KEYWORD,keygen-dist
+DOMAIN-KEYWORD,ktmcloud
 DOMAIN-KEYWORD,mushroomtrack.com
 DOMAIN-KEYWORD,ntp.org
 DOMAIN-KEYWORD,sandai.net
 DOMAIN-KEYWORD,sms-activate
-DOMAIN-KEYWORD,ktmcloud

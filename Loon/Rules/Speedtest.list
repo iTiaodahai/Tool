@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1094
+# 规则统计: 1100
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -271,6 +271,7 @@ DOMAIN,speed2.fiberlink.pl
 DOMAIN,speed2.flawcra.cc
 DOMAIN,speed4.snap.net.nz
 DOMAIN,speedam.wsp.net.br
+DOMAIN,speedcumra.lodosnet.com
 DOMAIN,speedgauge2.optonline.net
 DOMAIN,speedilgin.lodosnet.com
 DOMAIN,speedlon.hyperoptic.com
@@ -486,6 +487,7 @@ DOMAIN,speedtest.execulink.ca
 DOMAIN,speedtest.extremanetwork.com.br
 DOMAIN,speedtest.fiberlink.net.ua
 DOMAIN,speedtest.fibernetics.ca
+DOMAIN,speedtest.fibim.com.tr
 DOMAIN,speedtest.finovy.com
 DOMAIN,speedtest.fixnet.com.tr
 DOMAIN,speedtest.fra01.fusionflare.cloud
@@ -553,6 +555,7 @@ DOMAIN,speedtest.lureit.ru
 DOMAIN,speedtest.macapatelecom.net.br
 DOMAIN,speedtest.macpaw.com
 DOMAIN,speedtest.maisnetfibra.net.br
+DOMAIN,speedtest.markahost.com.tr
 DOMAIN,speedtest.maryno.net
 DOMAIN,speedtest.massivemesh.com
 DOMAIN,speedtest.meerfarbig.net
@@ -649,6 +652,8 @@ DOMAIN,speedtest.springfibre.com
 DOMAIN,speedtest.sptel.com
 DOMAIN,speedtest.starlink.ru
 DOMAIN,speedtest.sth.tr
+DOMAIN,speedtest.sunnysidehosting.net
+DOMAIN,speedtest.sunucum.net.tr
 DOMAIN,speedtest.surfshark.com
 DOMAIN,speedtest.switch.ca
 DOMAIN,speedtest.syd.mhn.cloud
@@ -657,6 +662,7 @@ DOMAIN,speedtest.syd01.launtel.net.au
 DOMAIN,speedtest.syscom.manaus.br
 DOMAIN,speedtest.systemlifeline.com
 DOMAIN,speedtest.taifo.com.tw
+DOMAIN,speedtest.tay.net.tr
 DOMAIN,speedtest.te.citywest.ca
 DOMAIN,speedtest.team-host.ru
 DOMAIN,speedtest.teknosos.com.tr
