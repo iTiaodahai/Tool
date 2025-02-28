@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1102
+# 规则统计: 1104
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -150,6 +150,8 @@ HOST,nyc01.screenshot.download,Speedtest
 HOST,nyc1-speedtest.webnx.com,Speedtest
 HOST,nycny-speedtest-ookla-01.st.charter.com,Speedtest
 HOST,o-uk-1.flwc.cc,Speedtest
+HOST,omnilink-dal-1-ookla.xarya.one,Speedtest
+HOST,omnilink-sjc-1-ookla.xarya.one,Speedtest
 HOST,ookla-ams.avur.no,Speedtest
 HOST,ookla-ita.asanet.tec.br,Speedtest
 HOST,ookla-london.briantbroadband.com,Speedtest
