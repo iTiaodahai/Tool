@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31373
+# 规则统计: 31403
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -75,6 +75,15 @@ HOST,missav.ai,Global
 HOST,mscrl.microsoft.com,Global
 HOST,muse.jhu.edu,Global
 HOST,nationalaustraliaban.tt.omtrdc.net,Global
+HOST,ntp-c.colorado.edu,Global
+HOST,ntp0.ntp-servers.net,Global
+HOST,ntp1.ntp-servers.net,Global
+HOST,ntp2.ntp-servers.net,Global
+HOST,ntp3.ntp-servers.net,Global
+HOST,ntp4.ntp-servers.net,Global
+HOST,ntp5.ntp-servers.net,Global
+HOST,ntp6.ntp-servers.net,Global
+HOST,ntp7.ntp-servers.net,Global
 HOST,nvidia.tt.omtrdc.net,Global
 HOST,ocsp.microsoft.com,Global
 HOST,oneocsp.microsoft.com,Global
@@ -95,6 +104,10 @@ HOST,t66y.com,Global
 HOST,tesla-cdn.thron.com,Global
 HOST,tmdb-image-prod.b-cdn.net,Global
 HOST,translomatic.foxfortmobile.com,Global
+HOST,ut1-time.colorado.edu,Global
+HOST,utcnist.colorado.edu,Global
+HOST,utcnist2.colorado.edu,Global
+HOST,utcnist3.colorado.edu,Global
 HOST,vmware.tt.omtrdc.net,Global
 HOST,vscode.search.windows.net,Global
 HOST,vsmarketplacebadge.apphb.com,Global
@@ -1768,6 +1781,10 @@ HOST-SUFFIX,amytele.com,Global
 HOST-SUFFIX,amzn.asia,Global
 HOST-SUFFIX,amzn.com,Global
 HOST-SUFFIX,amzn.to,Global
+HOST-SUFFIX,amzndns.co.uk,Global
+HOST-SUFFIX,amzndns.com,Global
+HOST-SUFFIX,amzndns.net,Global
+HOST-SUFFIX,amzndns.org,Global
 HOST-SUFFIX,amznl.com,Global
 HOST-SUFFIX,anacams.com,Global
 HOST-SUFFIX,anaconda.cloud,Global
@@ -1935,13 +1952,20 @@ HOST-SUFFIX,aopcuk.ac.uk,Global
 HOST-SUFFIX,aorus.com,Global
 HOST-SUFFIX,aoxx69.net,Global
 HOST-SUFFIX,ap-bangkok.myqcloud.com,Global
+HOST-SUFFIX,ap-bangkok.tencentcos.com,Global
 HOST-SUFFIX,ap-hongkong.myqcloud.com,Global
+HOST-SUFFIX,ap-hongkong.tencentcos.com,Global
 HOST-SUFFIX,ap-jakarta.myqcloud.com,Global
+HOST-SUFFIX,ap-jakarta.tencentcos.com,Global
 HOST-SUFFIX,ap-mumbai.myqcloud.com,Global
+HOST-SUFFIX,ap-mumbai.tencentcos.com,Global
 HOST-SUFFIX,ap-seoul.myqcloud.com,Global
+HOST-SUFFIX,ap-seoul.tencentcos.com,Global
 HOST-SUFFIX,ap-singapore.myqcloud.com,Global
+HOST-SUFFIX,ap-singapore.tencentcos.com,Global
 HOST-SUFFIX,ap-southeast-4.myhuaweicloud.com,Global
 HOST-SUFFIX,ap-tokyo.myqcloud.com,Global
+HOST-SUFFIX,ap-tokyo.tencentcos.com,Global
 HOST-SUFFIX,ap.org,Global
 HOST-SUFFIX,ap0le.com,Global
 HOST-SUFFIX,apa.org,Global
@@ -9512,7 +9536,9 @@ HOST-SUFFIX,etwealth.com,Global
 HOST-SUFFIX,eu,Global
 HOST-SUFFIX,eu-consumer-empowerment.com,Global
 HOST-SUFFIX,eu-frankfurt.myqcloud.com,Global
+HOST-SUFFIX,eu-frankfurt.tencentcos.com,Global
 HOST-SUFFIX,eu-moscow.myqcloud.com,Global
+HOST-SUFFIX,eu-moscow.tencentcos.com,Global
 HOST-SUFFIX,eu-west-101.myhuaweicloud.com,Global
 HOST-SUFFIX,eu.org,Global
 HOST-SUFFIX,eubluecardvisa.com,Global
@@ -19063,10 +19089,13 @@ HOST-SUFFIX,n3ro.net,Global
 HOST-SUFFIX,n3ro.wtf,Global
 HOST-SUFFIX,n8agrifood.ac.uk,Global
 HOST-SUFFIX,na-ashburn.myqcloud.com,Global
+HOST-SUFFIX,na-ashburn.tencentcos.com,Global
 HOST-SUFFIX,na-att-idns.net,Global
 HOST-SUFFIX,na-me.ac.uk,Global
 HOST-SUFFIX,na-siliconvalley.myqcloud.com,Global
+HOST-SUFFIX,na-siliconvalley.tencentcos.com,Global
 HOST-SUFFIX,na-toronto.myqcloud.com,Global
+HOST-SUFFIX,na-toronto.tencentcos.com,Global
 HOST-SUFFIX,naacoalition.org,Global
 HOST-SUFFIX,naaktevrouwenporno.com,Global
 HOST-SUFFIX,nab.com.au,Global
@@ -23600,6 +23629,7 @@ HOST-SUFFIX,s81c.com,Global
 HOST-SUFFIX,s8ds5gfm.xyz,Global
 HOST-SUFFIX,s8forum.com,Global
 HOST-SUFFIX,sa-saopaulo.myqcloud.com,Global
+HOST-SUFFIX,sa-saopaulo.tencentcos.com,Global
 HOST-SUFFIX,sa.com,Global
 HOST-SUFFIX,sa.hao123.com,Global
 HOST-SUFFIX,saasexch.com,Global
