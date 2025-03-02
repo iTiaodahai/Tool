@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1106
+# 规则统计: 1107
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -90,6 +90,7 @@ DOMAIN,hkt.hkspeedtest.com
 DOMAIN,hkthspeedtest02.telstraglobal.net
 DOMAIN,horizon.sadata.id
 DOMAIN,hoshiyomi.ratatoskr.org
+DOMAIN,hs14.aratwifi.com.tr
 DOMAIN,hv1.juce.ca
 DOMAIN,iperf-ams-nl.eranium.net
 DOMAIN,iperf.gakijken.nl
