@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1109
+# 规则统计: 1110
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -858,6 +858,7 @@ HOST,st-bolu-1.turksatkablo.com.tr,Speedtest
 HOST,st-bursa-1.turksatkablo.com.tr,Speedtest
 HOST,st-denizli-1.turksatkablo.com.tr,Speedtest
 HOST,st-erzincan-1.turksatkablo.com.tr,Speedtest
+HOST,st-erzurum-1.turksatkablo.com.tr,Speedtest
 HOST,st-eskisehir-1.turksatkablo.com.tr,Speedtest
 HOST,st-istanbul-1.corenetwork.com.tr,Speedtest
 HOST,st-izmir-1.turksatkablo.com.tr,Speedtest
