@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1110
+# 规则统计: 1113
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -202,6 +202,7 @@ HOST,seednet-ty1.seed.net.tw,Speedtest
 HOST,servidor.speedplay.com.br,Speedtest
 HOST,sfosj0096speedtestserver01.wiline.com,Speedtest
 HOST,sg-speedtest.fast.net.id,Speedtest
+HOST,sg.cloudhost.asia,Speedtest
 HOST,sgn-nperf.verizon.net,Speedtest
 HOST,sgspeed.chinaunicomglobal.com,Speedtest
 HOST,sig-speedtest.moratelindo.io,Speedtest
@@ -317,6 +318,7 @@ HOST,speedtest-eqx-sg1.ixtelecom.net,Speedtest
 HOST,speedtest-eqxae1.fsg-hosting.com,Speedtest
 HOST,speedtest-fkt-eqx.retn.net,Speedtest
 HOST,speedtest-fra.melbicom.net,Speedtest
+HOST,speedtest-hkg.retn.net,Speedtest
 HOST,speedtest-hob.launtel.net.au,Speedtest
 HOST,speedtest-intl.xl.co.id,Speedtest
 HOST,speedtest-ist-34-node.netzone.com.tr,Speedtest
@@ -424,6 +426,7 @@ HOST,speedtest.ams.wd6.net,Speedtest
 HOST,speedtest.ams0.nl.as61049.net,Speedtest
 HOST,speedtest.ams1.hivelocity.net,Speedtest
 HOST,speedtest.ams14.usenet.farm,Speedtest
+HOST,speedtest.ank01.edge.kernzen.com,Speedtest
 HOST,speedtest.anksoft.net,Speedtest
 HOST,speedtest.apnet-rr.com.br,Speedtest
 HOST,speedtest.apnic.net,Speedtest
