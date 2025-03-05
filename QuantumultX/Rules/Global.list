@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31460
+# 规则统计: 31461
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -26167,6 +26167,7 @@ HOST-SUFFIX,tail-f.com,Global
 HOST-SUFFIX,tailf.com,Global
 HOST-SUFFIX,tailscale.com,Global
 HOST-SUFFIX,tailscale.io,Global
+HOST-SUFFIX,tailwindcss.com,Global
 HOST-SUFFIX,tailwindtraders.com,Global
 HOST-SUFFIX,taiolongdh.sbs,Global
 HOST-SUFFIX,taipei.gov.tw,Global

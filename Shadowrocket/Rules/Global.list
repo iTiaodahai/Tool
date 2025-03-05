@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31460
+# 规则统计: 31461
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -26167,6 +26167,7 @@ DOMAIN-SUFFIX,tail-f.com
 DOMAIN-SUFFIX,tailf.com
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,tailwindcss.com
 DOMAIN-SUFFIX,tailwindtraders.com
 DOMAIN-SUFFIX,taiolongdh.sbs
 DOMAIN-SUFFIX,taipei.gov.tw
