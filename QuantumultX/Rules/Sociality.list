@@ -1,5 +1,5 @@
 # 规则名称: Sociality
-# 规则统计: 200
+# 规则统计: 227
 
 HOST,api.snapkit.com,Sociality
 HOST,audio4-ak-spotify-com.akamaized.net,Sociality
@@ -62,12 +62,14 @@ HOST-SUFFIX,byteoversea.com,Sociality
 HOST-SUFFIX,byteoversea.net,Sociality
 HOST-SUFFIX,bytetcdn.com,Sociality
 HOST-SUFFIX,capcut.com,Sociality
+HOST-SUFFIX,cdn-telegram.org,Sociality
 HOST-SUFFIX,cdninstagram.com,Sociality
 HOST-SUFFIX,facebook.com,Sociality
 HOST-SUFFIX,fb.com,Sociality
 HOST-SUFFIX,fb.me,Sociality
 HOST-SUFFIX,fbcdn.com,Sociality
 HOST-SUFFIX,fbcdn.net,Sociality
+HOST-SUFFIX,graph.org,Sociality
 HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,Sociality
 HOST-SUFFIX,ibytedtos.com,Sociality
 HOST-SUFFIX,ibyteimg.com,Sociality
@@ -75,6 +77,7 @@ HOST-SUFFIX,instagr.am,Sociality
 HOST-SUFFIX,instagram.com,Sociality
 HOST-SUFFIX,ipstatp.com,Sociality
 HOST-SUFFIX,isnssdk.com,Sociality
+HOST-SUFFIX,legra.ph,Sociality
 HOST-SUFFIX,mediawiki.org,Sociality
 HOST-SUFFIX,muscdn.com,Sociality
 HOST-SUFFIX,musemuse.cn,Sociality
@@ -108,6 +111,16 @@ HOST-SUFFIX,spotifyjobs.com,Sociality
 HOST-SUFFIX,spotifynewsroom.jp,Sociality
 HOST-SUFFIX,spotilocal.com,Sociality
 HOST-SUFFIX,t.co,Sociality
+HOST-SUFFIX,t.me,Sociality
+HOST-SUFFIX,tdesktop.com,Sociality
+HOST-SUFFIX,telega.one,Sociality
+HOST-SUFFIX,telegra.ph,Sociality
+HOST-SUFFIX,telegram.dog,Sociality
+HOST-SUFFIX,telegram.me,Sociality
+HOST-SUFFIX,telegram.org,Sociality
+HOST-SUFFIX,telegram.space,Sociality
+HOST-SUFFIX,telesco.pe,Sociality
+HOST-SUFFIX,tg.dev,Sociality
 HOST-SUFFIX,tik-tokapi.com,Sociality
 HOST-SUFFIX,tiktok-usts.net,Sociality
 HOST-SUFFIX,tiktok.com,Sociality
@@ -144,6 +157,7 @@ HOST-SUFFIX,twimg.org,Sociality
 HOST-SUFFIX,twitpic.com,Sociality
 HOST-SUFFIX,twitter.com,Sociality
 HOST-SUFFIX,twitter.jp,Sociality
+HOST-SUFFIX,tx.me,Sociality
 HOST-SUFFIX,tzvbfs.com,Sociality
 HOST-SUFFIX,vine.co,Sociality
 HOST-SUFFIX,whatsapp.biz,Sociality
@@ -177,6 +191,7 @@ HOST-KEYWORD,whatsapp,Sociality
 IP-CIDR,103.4.96.0/22,Sociality
 IP-CIDR,104.154.127.126/32,Sociality
 IP-CIDR,129.134.0.0/17,Sociality
+IP-CIDR,149.154.160.0/20,Sociality
 IP-CIDR,157.240.0.0/17,Sociality
 IP-CIDR,158.85.224.160/27,Sociality
 IP-CIDR,158.85.46.128/27,Sociality
@@ -188,6 +203,7 @@ IP-CIDR,179.60.192.0/22,Sociality
 IP-CIDR,18.194.0.0/15,Sociality
 IP-CIDR,184.173.128.0/17,Sociality
 IP-CIDR,185.60.216.0/22,Sociality
+IP-CIDR,185.76.151.0/24,Sociality
 IP-CIDR,204.15.20.0/22,Sociality
 IP-CIDR,208.43.122.128/27,Sociality
 IP-CIDR,31.13.24.0/21,Sociality
@@ -201,3 +217,14 @@ IP-CIDR,66.220.144.0/20,Sociality
 IP-CIDR,69.171.224.0/19,Sociality
 IP-CIDR,69.63.176.0/20,Sociality
 IP-CIDR,74.119.76.0/22,Sociality
+IP-CIDR,91.105.192.0/23,Sociality
+IP-CIDR,91.108.16.0/21,Sociality
+IP-CIDR,91.108.4.0/22,Sociality
+IP-CIDR,91.108.56.0/22,Sociality
+IP-CIDR,91.108.8.0/21,Sociality
+IP-CIDR,95.161.64.0/20,Sociality
+IP6-CIDR,2001:67c:4e8::/48,Sociality
+IP6-CIDR,2001:b28:f23c::/48,Sociality
+IP6-CIDR,2001:b28:f23d::/48,Sociality
+IP6-CIDR,2001:b28:f23f::/48,Sociality
+IP6-CIDR,2a0a:f280::/32,Sociality
