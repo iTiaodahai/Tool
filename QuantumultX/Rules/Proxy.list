@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 58
+# 规则统计: 61
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -59,3 +59,6 @@ HOST-KEYWORD,mushroomtrack.com,Proxy
 HOST-KEYWORD,ntp.org,Proxy
 HOST-KEYWORD,sandai.net,Proxy
 HOST-KEYWORD,sms-activate,Proxy
+IP-CIDR,23.218.216.39/32,Proxy
+IP-CIDR,34.102.215.99/32,Proxy
+IP-CIDR,71.18.74.192/32,Proxy

@@ -56,3 +56,6 @@ DOMAIN-KEYWORD,mushroomtrack.com
 DOMAIN-KEYWORD,ntp.org
 DOMAIN-KEYWORD,sandai.net
 DOMAIN-KEYWORD,sms-activate
+IP-CIDR,23.218.216.39/32,no-resolve
+IP-CIDR,34.102.215.99/32,no-resolve
+IP-CIDR,71.18.74.192/32,no-resolve
