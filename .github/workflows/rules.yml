@@ -55,7 +55,7 @@ jobs:
                 curl -f -L "$url" >> Tool-repo/Ruleset/Global.list || { echo "Download Failed: $url"; exit 1; }
                 echo "" >> Tool-repo/Ruleset/Global.list
             done
-            # 合并Apple/WeChat/抖音/斗鱼/大陆修正规则
+            # 合并Apple/WeChat/斗鱼/大陆修正规则
             urls=(
                 "https://ruleset.skk.moe/List/domainset/apple_cdn.conf"
                 "https://ruleset.skk.moe/List/domainset/icloud_private_relay.conf"
