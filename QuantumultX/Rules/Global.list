@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31537
+# 规则统计: 31542
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -31534,7 +31534,12 @@ HOST-KEYWORD,sandai.net,Global
 HOST-KEYWORD,sci-hub,Global
 HOST-KEYWORD,sms-activate,Global
 HOST-KEYWORD,whatsapp,Global
+IP-CIDR,23.205.104.18/32,Global
+IP-CIDR,23.205.104.9/32,Global
 IP-CIDR,23.218.216.39/32,Global
 IP-CIDR,34.102.215.99/32,Global
 IP-CIDR,71.18.74.192/32,Global
+IP-CIDR,89.187.160.36/32,Global
+IP-CIDR,98.96.192.11/32,Global
+IP-CIDR,98.98.70.41/32,Global
 USER-AGENT,Roam*,Global

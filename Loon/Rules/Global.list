@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31537
+# 规则统计: 31542
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -31534,7 +31534,12 @@ DOMAIN-KEYWORD,sandai.net
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,sms-activate
 DOMAIN-KEYWORD,whatsapp
+IP-CIDR,23.205.104.18/32,no-resolve
+IP-CIDR,23.205.104.9/32,no-resolve
 IP-CIDR,23.218.216.39/32,no-resolve
 IP-CIDR,34.102.215.99/32,no-resolve
 IP-CIDR,71.18.74.192/32,no-resolve
+IP-CIDR,89.187.160.36/32,no-resolve
+IP-CIDR,98.96.192.11/32,no-resolve
+IP-CIDR,98.98.70.41/32,no-resolve
 USER-AGENT,Roam*
