@@ -1,13 +1,23 @@
 # 规则名称: ChinaDomains
-# 规则统计: 576
+# 规则统计: 593
 
+HOST,alibaba.cdn.steampipe.steamcontent.com,ChinaDomains
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,ChinaDomains
 HOST,api.smoot.apple.cn,ChinaDomains
+HOST,assets1.xboxlive.cn,ChinaDomains
+HOST,assets2.xboxlive.cn,ChinaDomains
 HOST,btrace.qq.com,ChinaDomains
 HOST,canary.mask.apple-dns.net,ChinaDomains
+HOST,cdn-ali.content.steamchina.com,ChinaDomains
+HOST,cdn-qc.content.steamchina.com,ChinaDomains
+HOST,cdn-ws.content.steamchina.com,ChinaDomains
+HOST,dl.delivery.mp.microsoft.com,ChinaDomains
+HOST,dl.steam.clngaa.com,ChinaDomains
 HOST,dldir1.qq.com,ChinaDomains
+HOST,epicgames-download1-1251447533.file.myqcloud.com,ChinaDomains
 HOST,gs-loc-cn.apple.com,ChinaDomains
 HOST,ifconfig.me,ChinaDomains
+HOST,lv.queniujq.cn,ChinaDomains
 HOST,mask-api.icloud.com,ChinaDomains
 HOST,mask-canary.icloud.com,ChinaDomains
 HOST,mask-h2.icloud.com,ChinaDomains
@@ -15,11 +25,18 @@ HOST,mask.apple-dns.net,ChinaDomains
 HOST,mask.icloud.com,ChinaDomains
 HOST,slife.xy-asia.com,ChinaDomains
 HOST,soup.v.qq.com,ChinaDomains
+HOST,st.dl.bscstorage.net,ChinaDomains
+HOST,st.dl.eccdnx.com,ChinaDomains
+HOST,steampipe.steamcontent.tnkjmec.com,ChinaDomains
+HOST,tlu.dl.delivery.mp.microsoft.com,ChinaDomains
+HOST,trts.baishancdnx.cn,ChinaDomains
+HOST,uplaypc-s-ubisoft.cdn.ubionline.com.cn,ChinaDomains
 HOST,vweixinf.tc.qq.com,ChinaDomains
 HOST,weixin110.qq.com,ChinaDomains
 HOST,wup.imtt.qq.com,ChinaDomains
 HOST,wx.tenpay.com,ChinaDomains
 HOST,wxapp.tc.qq.com,ChinaDomains
+HOST,xz.pphimalayanrt.com,ChinaDomains
 HOST-SUFFIX,a1.mzstatic.com,ChinaDomains
 HOST-SUFFIX,a2.mzstatic.com,ChinaDomains
 HOST-SUFFIX,a3.mzstatic.com,ChinaDomains
