@@ -109,6 +109,8 @@ jobs:
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Reddit/Reddit.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Wikipedia/Wikipedia.list"
                 "https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Spotify.list"
+                "https://ruleset.skk.moe/List/non_ip/telegram.conf"
+                "https://ruleset.skk.moe/List/ip/telegram.conf"                
             )
             > Tool-repo/Ruleset/Sociality.list
             for url in "${urls[@]}"; do
