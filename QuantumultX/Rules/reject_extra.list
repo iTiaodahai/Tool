@@ -1,5 +1,5 @@
 # 规则名称: reject_extra
-# 规则统计: 67037
+# 规则统计: 67038
 
 HOST,118.89.204.198,reject_extra
 HOST,2016.sina.cn,reject_extra
@@ -31220,6 +31220,7 @@ HOST-SUFFIX,links.npsemails.mbna.co.uk,reject_extra
 HOST-SUFFIX,links.qumu.com,reject_extra
 HOST-SUFFIX,links.riverview.org,reject_extra
 HOST-SUFFIX,links.voyeurweb.com,reject_extra
+HOST-SUFFIX,linksprf.com,reject_extra
 HOST-SUFFIX,linkt.ausfuellhilfe.com,reject_extra
 HOST-SUFFIX,linktech.cn,reject_extra
 HOST-SUFFIX,linsaicki.net,reject_extra
