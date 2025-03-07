@@ -1,5 +1,5 @@
 # 规则名称: reject_extra
-# 规则统计: 67038
+# 规则统计: 67043
 
 HOST,118.89.204.198,reject_extra
 HOST,2016.sina.cn,reject_extra
@@ -235,7 +235,6 @@ HOST,als.baidu.com,reject_extra
 HOST,amap-aos-info-nogw.amap.com,reject_extra
 HOST,amdc.m.youku.com,reject_extra
 HOST,amos.alicdn.com,reject_extra
-HOST,analytics.163.com,reject_extra
 HOST,analytics.infomaniak.com,reject_extra
 HOST,analytics.msn.com,reject_extra
 HOST,analytics.nexon.com,reject_extra
@@ -3481,6 +3480,7 @@ HOST-SUFFIX,adasset.flixfiend.top,reject_extra
 HOST-SUFFIX,adat.borsonline.hu,reject_extra
 HOST-SUFFIX,adat.freemail.hu,reject_extra
 HOST-SUFFIX,adat.koponyeg.hu,reject_extra
+HOST-SUFFIX,adat.life.hu,reject_extra
 HOST-SUFFIX,adat.mindmegette.hu,reject_extra
 HOST-SUFFIX,adat.origo.hu,reject_extra
 HOST-SUFFIX,adat.videa.hu,reject_extra
@@ -4205,6 +4205,7 @@ HOST-SUFFIX,adstatistics.av380.net,reject_extra
 HOST-SUFFIX,adstats.tencentmusic.com,reject_extra
 HOST-SUFFIX,adstax-cdn.adrtx.net,reject_extra
 HOST-SUFFIX,adstik.click,reject_extra
+HOST-SUFFIX,adstk.io,reject_extra
 HOST-SUFFIX,adstook.com,reject_extra
 HOST-SUFFIX,adstrategy.biz.weibo.com,reject_extra
 HOST-SUFFIX,adsunflower.com,reject_extra
@@ -5664,6 +5665,7 @@ HOST-SUFFIX,analytics-tracking.meetup.com,reject_extra
 HOST-SUFFIX,analytics-v2.wetransfer.com,reject_extra
 HOST-SUFFIX,analytics-wcms.joins.net,reject_extra
 HOST-SUFFIX,analytics.126.net,reject_extra
+HOST-SUFFIX,analytics.163.com,reject_extra
 HOST-SUFFIX,analytics.1800contacts.com,reject_extra
 HOST-SUFFIX,analytics.1stnationalbank.com,reject_extra
 HOST-SUFFIX,analytics.2290online.com,reject_extra
@@ -21220,6 +21222,7 @@ HOST-SUFFIX,fastiswart.shop,reject_extra
 HOST-SUFFIX,fastlnd.com,reject_extra
 HOST-SUFFIX,fastnativead.com,reject_extra
 HOST-SUFFIX,fastorfar.com,reject_extra
+HOST-SUFFIX,fasttiger.io,reject_extra
 HOST-SUFFIX,fasttrack.fr,reject_extra
 HOST-SUFFIX,fasttracker.fr,reject_extra
 HOST-SUFFIX,fatafatasalalala.com,reject_extra
@@ -22460,7 +22463,6 @@ HOST-SUFFIX,g11edashb1.fun,reject_extra
 HOST-SUFFIX,g1386590346.co,reject_extra
 HOST-SUFFIX,g1584674682.co,reject_extra
 HOST-SUFFIX,g1584674684.co,reject_extra
-HOST-SUFFIX,g1782759015.co,reject_extra
 HOST-SUFFIX,g1be.swisslife-direct.fr,reject_extra
 HOST-SUFFIX,g2afse.com,reject_extra
 HOST-SUFFIX,g2ak5.com,reject_extra
@@ -23031,7 +23033,6 @@ HOST-SUFFIX,gixiluros.com,reject_extra
 HOST-SUFFIX,gizlnr.com,reject_extra
 HOST-SUFFIX,gizokraijaw.net,reject_extra
 HOST-SUFFIX,gizsyj.thegrommet.com,reject_extra
-HOST-SUFFIX,gj.mmstat.com,reject_extra
 HOST-SUFFIX,gjapplog.uc.cn,reject_extra
 HOST-SUFFIX,gjapplog.ucweb.com,reject_extra
 HOST-SUFFIX,gjarpi.oiaskin.co,reject_extra
@@ -28338,6 +28339,7 @@ HOST-SUFFIX,instancesflushedslander.com,reject_extra
 HOST-SUFFIX,instinctiveads.com,reject_extra
 HOST-SUFFIX,institutehopelessbeck.com,reject_extra
 HOST-SUFFIX,instrumenttactics.com,reject_extra
+HOST-SUFFIX,insulatech.com,reject_extra
 HOST-SUFFIX,insurads.com,reject_extra
 HOST-SUFFIX,insurance.alliant.com,reject_extra
 HOST-SUFFIX,insurance.caainsurancecompany.com,reject_extra
@@ -30855,7 +30857,6 @@ HOST-SUFFIX,leadmanagement.leads360.com,reject_extra
 HOST-SUFFIX,leadmanagement.velocify.com,reject_extra
 HOST-SUFFIX,leads.commercial.keurig.com,reject_extra
 HOST-SUFFIX,leadsleap.net,reject_extra
-HOST-SUFFIX,leadtracking.plumvoice.com,reject_extra
 HOST-SUFFIX,leadzu.com,reject_extra
 HOST-SUFFIX,leadzupc.com,reject_extra
 HOST-SUFFIX,leadzutw.com,reject_extra
@@ -37770,6 +37771,7 @@ HOST-SUFFIX,metrics.wnba.com,reject_extra
 HOST-SUFFIX,metrics.wolterskluwer.com,reject_extra
 HOST-SUFFIX,metrics.womansday.com,reject_extra
 HOST-SUFFIX,metrics.workforce.com,reject_extra
+HOST-SUFFIX,metrics.workfront.com,reject_extra
 HOST-SUFFIX,metrics.worldbank.org,reject_extra
 HOST-SUFFIX,metrics.worldmarket.com,reject_extra
 HOST-SUFFIX,metrics.worlds50bestbars.com,reject_extra
@@ -39260,6 +39262,7 @@ HOST-SUFFIX,nchbph.x2o.nl,reject_extra
 HOST-SUFFIX,nclljn.xyz,reject_extra
 HOST-SUFFIX,ncojkokhi.com,reject_extra
 HOST-SUFFIX,nct.ui-portal.de,reject_extra
+HOST-SUFFIX,nctrk.abmail.com.br,reject_extra
 HOST-SUFFIX,ncvsbz.bonds.com.au,reject_extra
 HOST-SUFFIX,ncvwahrct.com,reject_extra
 HOST-SUFFIX,ncvwnp.icu,reject_extra
@@ -41329,6 +41332,7 @@ HOST-SUFFIX,optout.pb.nordea.no,reject_extra
 HOST-SUFFIX,optumcoding.optum.com,reject_extra
 HOST-SUFFIX,optvz.com,reject_extra
 HOST-SUFFIX,optyruntchan.com,reject_extra
+HOST-SUFFIX,opulentsylvan.com,reject_extra
 HOST-SUFFIX,opummf.himiwaybike.com,reject_extra
 HOST-SUFFIX,opus.2lifecommunities.org,reject_extra
 HOST-SUFFIX,opvanillishan.com,reject_extra
@@ -42065,7 +42069,6 @@ HOST-SUFFIX,pappagallu.onefootball.com,reject_extra
 HOST-SUFFIX,paqgoc.shipgratis.si,reject_extra
 HOST-SUFFIX,paqqlk.motatos.de,reject_extra
 HOST-SUFFIX,paqvfi.petzone.com,reject_extra
-HOST-SUFFIX,paradoxfactor.com,reject_extra
 HOST-SUFFIX,parakeet.buildcodelearn.com,reject_extra
 HOST-SUFFIX,parakeet.jorenvanhocht.be,reject_extra
 HOST-SUFFIX,parakeet.kenleyar.ai,reject_extra
@@ -45506,6 +45509,7 @@ HOST-SUFFIX,receiver.eigene.io,reject_extra
 HOST-SUFFIX,receiver.habby.mobi,reject_extra
 HOST-SUFFIX,receptivereaction.com,reject_extra
 HOST-SUFFIX,recessionspeaksanybody.com,reject_extra
+HOST-SUFFIX,recessrain.com,reject_extra
 HOST-SUFFIX,rechenschieber.soccerdonna.de,reject_extra
 HOST-SUFFIX,rechenschieber.transfermarkt.at,reject_extra
 HOST-SUFFIX,rechenschieber.transfermarkt.be,reject_extra
@@ -48082,7 +48086,6 @@ HOST-SUFFIX,secure.info.zetes.com,reject_extra
 HOST-SUFFIX,secure.informationcreativeinnovative.com,reject_extra
 HOST-SUFFIX,secure.insightful-cloud-365.com,reject_extra
 HOST-SUFFIX,secure.insightful-enterprise-intelligence.com,reject_extra
-HOST-SUFFIX,secure.intelligent-consortium.com,reject_extra
 HOST-SUFFIX,secure.investingwithmind.com,reject_extra
 HOST-SUFFIX,secure.late6year.com,reject_extra
 HOST-SUFFIX,secure.laurelsprings.com,reject_extra
@@ -48566,7 +48569,6 @@ HOST-SUFFIX,service.cz.nl,reject_extra
 HOST-SUFFIX,service.hcob-bank.de,reject_extra
 HOST-SUFFIX,service.just.nl,reject_extra
 HOST-SUFFIX,service.pickuptravelguide.com,reject_extra
-HOST-SUFFIX,service.techzine.eu,reject_extra
 HOST-SUFFIX,service.trustpid.com,reject_extra
 HOST-SUFFIX,serviceo.comcast.net,reject_extra
 HOST-SUFFIX,serviceo.xfinity.com,reject_extra
@@ -56355,7 +56357,6 @@ HOST-SUFFIX,thpte.cn,reject_extra
 HOST-SUFFIX,threewoodslose.com,reject_extra
 HOST-SUFFIX,threkuth.com,reject_extra
 HOST-SUFFIX,threrlak.com,reject_extra
-HOST-SUFFIX,thrillasoft.com,reject_extra
 HOST-SUFFIX,thrive.metagenics.com,reject_extra
 HOST-SUFFIX,thrivescriss.com,reject_extra
 HOST-SUFFIX,thronosgeneura.com,reject_extra
@@ -59192,6 +59193,7 @@ HOST-SUFFIX,tracking.care.muschealth.org,reject_extra
 HOST-SUFFIX,tracking.care.salinasvalleyhealth.com,reject_extra
 HOST-SUFFIX,tracking.carpshop24.com,reject_extra
 HOST-SUFFIX,tracking.carsales.com.au,reject_extra
+HOST-SUFFIX,tracking.cat898.com,reject_extra
 HOST-SUFFIX,tracking.cdiscount.com,reject_extra
 HOST-SUFFIX,tracking.cello-square.com,reject_extra
 HOST-SUFFIX,tracking.cengage.com,reject_extra
@@ -62855,6 +62857,7 @@ HOST-SUFFIX,vlgstb.destinationxl.com,reject_extra
 HOST-SUFFIX,vlikiq.thelabellife.com,reject_extra
 HOST-SUFFIX,vlitag.com,reject_extra
 HOST-SUFFIX,vlogerads.com,reject_extra
+HOST-SUFFIX,vlogs.deja.media,reject_extra
 HOST-SUFFIX,vlrlav.rodinnebalenie.sk,reject_extra
 HOST-SUFFIX,vlupvo.innerartworld.com,reject_extra
 HOST-SUFFIX,vlzcsh.dtrtmen.com,reject_extra
@@ -64205,7 +64208,6 @@ HOST-SUFFIX,winslinks.com,reject_extra
 HOST-SUFFIX,winzessolicit.com,reject_extra
 HOST-SUFFIX,wioboy.xyz,reject_extra
 HOST-SUFFIX,wipzxpbs.com,reject_extra
-HOST-SUFFIX,wiredforcoffee.com,reject_extra
 HOST-SUFFIX,wirjoi.meetsmore.com,reject_extra
 HOST-SUFFIX,wirsilsa.net,reject_extra
 HOST-SUFFIX,wirtooxoajet.net,reject_extra
@@ -66907,11 +66909,14 @@ HOST-SUFFIX,zzsomo.footjoy.com,reject_extra
 HOST-SUFFIX,zzsqqx.shopjapan.co.jp,reject_extra
 HOST-SUFFIX,zztxfj.xyz,reject_extra
 HOST-SUFFIX,zzz.nafnaf.com,reject_extra
+HOST-KEYWORD,-adrevenue.appsflyersdk.com,reject_extra
 HOST-KEYWORD,-attr.appsflyersdk.com,reject_extra
 HOST-KEYWORD,-launches.appsflyersdk.com,reject_extra
 HOST-KEYWORD,-logging.nextmedia.com,reject_extra
+HOST-KEYWORD,-pia.appsflyersdk.com,reject_extra
 HOST-KEYWORD,-rtb.gravite.net,reject_extra
 HOST-KEYWORD,-s2s.sensic.net,reject_extra
+HOST-KEYWORD,-skadsdkless.appsflyersdk.com,reject_extra
 HOST-KEYWORD,-spiky.clevertap-prod.com,reject_extra
 HOST-KEYWORD,-tracker.biliapi.net,reject_extra
 HOST-KEYWORD,-txtagstore,reject_extra
