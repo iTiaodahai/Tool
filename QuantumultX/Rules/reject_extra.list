@@ -1,5 +1,5 @@
 # 规则名称: reject_extra
-# 规则统计: 67043
+# 规则统计: 67049
 
 HOST,118.89.204.198,reject_extra
 HOST,2016.sina.cn,reject_extra
@@ -18564,6 +18564,7 @@ HOST-SUFFIX,duplicatepokeheavy.com,reject_extra
 HOST-SUFFIX,duplonborak.shop,reject_extra
 HOST-SUFFIX,dupsyduckom.com,reject_extra
 HOST-SUFFIX,dupy-hsjctyn.icu,reject_extra
+HOST-SUFFIX,dupzbh.icu,reject_extra
 HOST-SUFFIX,duqfec.aosom.pt,reject_extra
 HOST-SUFFIX,duqqrl.jefchaussures.com,reject_extra
 HOST-SUFFIX,duqwsh.merongshop.com,reject_extra
@@ -20937,6 +20938,7 @@ HOST-SUFFIX,exmeqy.smartbuyglasses.de,reject_extra
 HOST-SUFFIX,exnesstrack.com,reject_extra
 HOST-SUFFIX,exnzlk.knittingroom.se,reject_extra
 HOST-SUFFIX,exoclick.com,reject_extra
+HOST-SUFFIX,exocoed.top,reject_extra
 HOST-SUFFIX,exodus.arhythmically.uno,reject_extra
 HOST-SUFFIX,exomonyf.com,reject_extra
 HOST-SUFFIX,exonymneavil.com,reject_extra
@@ -29192,6 +29194,7 @@ HOST-SUFFIX,jiusudie.com,reject_extra
 HOST-SUFFIX,jivsfr.drogarianovaesperanca.com.br,reject_extra
 HOST-SUFFIX,jivvjl.xyz,reject_extra
 HOST-SUFFIX,jiwire.com,reject_extra
+HOST-SUFFIX,jixurt.icu,reject_extra
 HOST-SUFFIX,jizpyy.bett1.ch,reject_extra
 HOST-SUFFIX,jizxnr.xyz,reject_extra
 HOST-SUFFIX,jizzads.com,reject_extra
@@ -31221,7 +31224,6 @@ HOST-SUFFIX,links.npsemails.mbna.co.uk,reject_extra
 HOST-SUFFIX,links.qumu.com,reject_extra
 HOST-SUFFIX,links.riverview.org,reject_extra
 HOST-SUFFIX,links.voyeurweb.com,reject_extra
-HOST-SUFFIX,linksprf.com,reject_extra
 HOST-SUFFIX,linkt.ausfuellhilfe.com,reject_extra
 HOST-SUFFIX,linktech.cn,reject_extra
 HOST-SUFFIX,linsaicki.net,reject_extra
@@ -32958,6 +32960,7 @@ HOST-SUFFIX,logs.ironsrc.mobi,reject_extra
 HOST-SUFFIX,logs.juspay.in,reject_extra
 HOST-SUFFIX,logs.mezmo.com,reject_extra
 HOST-SUFFIX,logs.naukri.com,reject_extra
+HOST-SUFFIX,logs.nebulahoroscope.com,reject_extra
 HOST-SUFFIX,logs.netflix.com,reject_extra
 HOST-SUFFIX,logs.ntvplus.tv,reject_extra
 HOST-SUFFIX,logs.openbank.com,reject_extra
@@ -44894,6 +44897,7 @@ HOST-SUFFIX,qnzrqy.anselmi.com.br,reject_extra
 HOST-SUFFIX,qo2.fun,reject_extra
 HOST-SUFFIX,qoaaa.com,reject_extra
 HOST-SUFFIX,qobuz.surveysparrow.com,reject_extra
+HOST-SUFFIX,qogonsuqq.com,reject_extra
 HOST-SUFFIX,qogrux.com,reject_extra
 HOST-SUFFIX,qohlsl.drawer.fr,reject_extra
 HOST-SUFFIX,qolhpm.iparts.pl,reject_extra
@@ -56378,6 +56382,7 @@ HOST-SUFFIX,thunderhead.com,reject_extra
 HOST-SUFFIX,thunnqyo.com,reject_extra
 HOST-SUFFIX,thuoccultive.com,reject_extra
 HOST-SUFFIX,thursejokers.top,reject_extra
+HOST-SUFFIX,thustilpn.com,reject_extra
 HOST-SUFFIX,thuthoock.net,reject_extra
 HOST-SUFFIX,thvaqe.kunooz.com,reject_extra
 HOST-SUFFIX,thwgtm.sporilek.cz,reject_extra
@@ -66577,6 +66582,7 @@ HOST-SUFFIX,ziyzcu.buzz,reject_extra
 HOST-SUFFIX,zjbfke.centerparcs.be,reject_extra
 HOST-SUFFIX,zjdruhn.xyz,reject_extra
 HOST-SUFFIX,zjejua.portmans.com.au,reject_extra
+HOST-SUFFIX,zjen.cn,reject_extra
 HOST-SUFFIX,zjfvpv.serengeticatalog.com,reject_extra
 HOST-SUFFIX,zjhlsx.exxpozed.de,reject_extra
 HOST-SUFFIX,zjhswy.comeup.com.tr,reject_extra
