@@ -1,8 +1,9 @@
 # 规则名称: Global
-# 规则统计: 32568
+# 规则统计: 32570
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
+HOST,69yun69.com,Global
 HOST,account-api.bandainamcoid.com,Global
 HOST,account.bandainamcoid.com,Global
 HOST,adobeereg.com,Global
@@ -32440,6 +32441,7 @@ HOST-KEYWORD,beetalk,Global
 HOST-KEYWORD,bgp.tools,Global
 HOST-KEYWORD,blogspot,Global
 HOST-KEYWORD,browserleaks,Global
+HOST-KEYWORD,checkhere.top,Global
 HOST-KEYWORD,claw.cloud,Global
 HOST-KEYWORD,discord,Global
 HOST-KEYWORD,dropbox,Global

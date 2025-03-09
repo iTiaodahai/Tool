@@ -1,8 +1,9 @@
 # 规则名称: Proxy
-# 规则统计: 66
+# 规则统计: 68
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
+HOST,69yun69.com,Proxy
 HOST,cdn.ziffstatic.com,Proxy
 HOST,digvps.com,Proxy
 HOST,filters.adtidy.org,Proxy
@@ -49,6 +50,7 @@ HOST-SUFFIX,webp.li,Proxy
 HOST-SUFFIX,xns.one,Proxy
 HOST-KEYWORD,akile.io,Proxy
 HOST-KEYWORD,bgp.tools,Proxy
+HOST-KEYWORD,checkhere.top,Proxy
 HOST-KEYWORD,claw.cloud,Proxy
 HOST-KEYWORD,exp-tas.com,Proxy
 HOST-KEYWORD,ip-api,Proxy
