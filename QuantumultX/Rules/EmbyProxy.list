@@ -1,0 +1,6 @@
+# 规则名称: EmbyProxy
+# 规则统计: 3
+
+HOST-SUFFIX,bangumi.ca,EmbyProxy
+HOST-SUFFIX,emby.wtf,EmbyProxy
+HOST-SUFFIX,term.wtf,EmbyProxy
