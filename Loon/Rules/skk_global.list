@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 760
+# 规则统计: 761
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
@@ -690,6 +690,7 @@ DOMAIN-SUFFIX,watch
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,weather.com
+DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,webrtc.org

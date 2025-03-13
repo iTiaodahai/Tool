@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 760
+# 规则统计: 761
 
 HOST,ccmdl.adobe.com,skk_global
 HOST,ees.elsevier.com,skk_global
@@ -690,6 +690,7 @@ HOST-SUFFIX,watch,skk_global
 HOST-SUFFIX,waveprotocol.org,skk_global
 HOST-SUFFIX,waymo.com,skk_global
 HOST-SUFFIX,weather.com,skk_global
+HOST-SUFFIX,webflow.com,skk_global
 HOST-SUFFIX,webmproject.org,skk_global
 HOST-SUFFIX,webpkgcache.com,skk_global
 HOST-SUFFIX,webrtc.org,skk_global
