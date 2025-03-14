@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1121
+# 规则统计: 1123
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -861,6 +861,7 @@ HOST,sptty1.taiwanmobile.com,Speedtest
 HOST,srv3.vncv1.bc.net,Speedtest
 HOST,srvteste.edntelecom.net.br,Speedtest
 HOST,st-4.fibrenest.com,Speedtest
+HOST,st-adana-1.turksatkablo.com.tr,Speedtest
 HOST,st-ankara-1.turksatkablo.com.tr,Speedtest
 HOST,st-atakoy-1.turksatkablo.com.tr,Speedtest
 HOST,st-balikesir-1.turksatkablo.com.tr,Speedtest
@@ -1016,6 +1017,7 @@ HOST,tsdvuspeedtest01p.allstream.com,Speedtest
 HOST,ty1.chtm.hinet.net,Speedtest
 HOST,uk-lon-tcy-mtn-speedtest-server-01.mtn.com,Speedtest
 HOST,umr1speedtest.turktelekom.com.tr,Speedtest
+HOST,uplinkfibra.brsserver.com.br,Speedtest
 HOST,uptelecom.brsserver.com.br,Speedtest
 HOST,vanspeedtest.altimatel.com,Speedtest
 HOST,velocidad.fiberlink.com.pa,Speedtest
