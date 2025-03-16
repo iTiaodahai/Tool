@@ -1,10 +1,10 @@
 # 规则名称: EmbyProxy
-# 规则统计: 5
+# 规则统计: 7
 
+DOMAIN-SUFFIX,697758.best
 DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,mooguu.xyz
 DOMAIN-SUFFIX,term.wtf
-DOMAIN-SUFFIX,zox.show
-DOMAIN-SUFFIX,697758.best
 DOMAIN-SUFFIX,yezi.my
+DOMAIN-SUFFIX,zox.show
