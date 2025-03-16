@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 69
+# 规则统计: 70
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -59,6 +59,7 @@ HOST-KEYWORD,kelee.one,Proxy
 HOST-KEYWORD,keygen-dist,Proxy
 HOST-KEYWORD,ktmcloud,Proxy
 HOST-KEYWORD,mushroomtrack.com,Proxy
+HOST-KEYWORD,nebula-media,Proxy
 HOST-KEYWORD,ntp.org,Proxy
 HOST-KEYWORD,sandai.net,Proxy
 HOST-KEYWORD,sms-activate,Proxy
