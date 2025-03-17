@@ -1,5 +1,5 @@
 # 规则名称: reject_extra
-# 规则统计: 75777
+# 规则统计: 75778
 
 HOST,118.89.204.198,reject_extra
 HOST,2016.sina.cn-,reject_extra
@@ -125,6 +125,7 @@ HOST,admarket.21cn.com,reject_extra
 HOST,admarketing.yahoo.net,reject_extra
 HOST,admonitor.thepaper.cn,reject_extra
 HOST,admusicpic.music.126.net,reject_extra
+HOST,adn-collector.voodoo-tech.io-,reject_extra
 HOST,adnew.wifi8.com,reject_extra
 HOST,adpai.thepaper.cn,reject_extra
 HOST,adping.qq.com-,reject_extra

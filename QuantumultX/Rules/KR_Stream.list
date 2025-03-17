@@ -1,0 +1,30 @@
+# 规则名称: KR_Stream
+# 规则统计: 27
+
+HOST,afreecatv.com,KR_Stream
+HOST-SUFFIX,akamaized.net,KR_Stream
+HOST-SUFFIX,ext-twitch.tv,KR_Stream
+HOST-SUFFIX,jtvnw.net,KR_Stream
+HOST-SUFFIX,live-video.net,KR_Stream
+HOST-SUFFIX,neolive.kr,KR_Stream
+HOST-SUFFIX,pstatic.net,KR_Stream
+HOST-SUFFIX,sooplive.co.kr,KR_Stream
+HOST-SUFFIX,ttvnw.net,KR_Stream
+HOST-SUFFIX,twitch-ext.rootonline.de,KR_Stream
+HOST-SUFFIX,twitch.tv,KR_Stream
+HOST-SUFFIX,twitchcdn.net,KR_Stream
+HOST-SUFFIX,twitchsvc.net,KR_Stream
+HOST-KEYWORD,kick.com,KR_Stream
+HOST-KEYWORD,ttvnw,KR_Stream
+IP-CIDR,103.53.48.0/23,KR_Stream
+IP-CIDR,185.42.204.0/22,KR_Stream
+IP-CIDR,192.108.239.0/24,KR_Stream
+IP-CIDR,192.16.64.0/21,KR_Stream
+IP-CIDR,199.9.248.0/21,KR_Stream
+IP-CIDR,23.160.0.0/24,KR_Stream
+IP-CIDR,45.113.128.0/22,KR_Stream
+IP-CIDR,52.223.192.0/20,KR_Stream
+IP-CIDR,52.223.208.0/21,KR_Stream
+IP-CIDR,52.223.224.0/19,KR_Stream
+IP-CIDR,99.181.64.0/18,KR_Stream
+IP6-CIDR,2402:2a80::/32,KR_Stream

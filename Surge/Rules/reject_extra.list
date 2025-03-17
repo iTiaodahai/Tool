@@ -1,5 +1,5 @@
 # 规则名称: reject_extra
-# 规则统计: 75778
+# 规则统计: 75779
 
 DOMAIN,118.89.204.198
 DOMAIN,2016.sina.cn-
@@ -125,6 +125,7 @@ DOMAIN,admarket.21cn.com
 DOMAIN,admarketing.yahoo.net
 DOMAIN,admonitor.thepaper.cn
 DOMAIN,admusicpic.music.126.net
+DOMAIN,adn-collector.voodoo-tech.io-
 DOMAIN,adnew.wifi8.com
 DOMAIN,adpai.thepaper.cn
 DOMAIN,adping.qq.com-
