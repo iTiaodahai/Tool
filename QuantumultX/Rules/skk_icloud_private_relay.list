@@ -1,9 +1,9 @@
 # 规则名称: skk_icloud_private_relay
 # 规则统计: 6
 
-HOST,canary.mask.apple-dns.net,skk_icloud_private_relay
-HOST,mask-api.icloud.com,skk_icloud_private_relay
-HOST,mask-canary.icloud.com,skk_icloud_private_relay
-HOST,mask-h2.icloud.com,skk_icloud_private_relay
-HOST,mask.apple-dns.net,skk_icloud_private_relay
-HOST,mask.icloud.com,skk_icloud_private_relay
+HOST,canary.mask.apple-dns.net-,skk_icloud_private_relay
+HOST,mask-api.icloud.com-,skk_icloud_private_relay
+HOST,mask-canary.icloud.com-,skk_icloud_private_relay
+HOST,mask-h2.icloud.com-,skk_icloud_private_relay
+HOST,mask.apple-dns.net-,skk_icloud_private_relay
+HOST,mask.icloud.com-,skk_icloud_private_relay

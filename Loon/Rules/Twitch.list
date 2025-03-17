@@ -1,20 +1,14 @@
-# 规则名称: Streaming
-# 规则统计: 28
+# 规则名称: Twitch
+# 规则统计: 21
 
-DOMAIN,afreecatv.com
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,live-video.net
-DOMAIN-SUFFIX,neolive.kr
-DOMAIN-SUFFIX,pstatic.net
-DOMAIN-SUFFIX,sooplive.co.kr
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitchsvc.net
-DOMAIN-KEYWORD,kick.com
 DOMAIN-KEYWORD,ttvnw
 IP-CIDR,103.53.48.0/23,no-resolve
 IP-CIDR,185.42.204.0/22,no-resolve
@@ -28,4 +22,3 @@ IP-CIDR,52.223.208.0/21,no-resolve
 IP-CIDR,52.223.224.0/19,no-resolve
 IP-CIDR,99.181.64.0/18,no-resolve
 IP-CIDR6,2402:2a80::/32,no-resolve
-PROCESS-NAME,tv.twitch.android.app

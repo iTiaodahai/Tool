@@ -1,11 +1,11 @@
 # 规则名称: skk_apple_cn
 # 规则统计: 8
 
-HOST,api.smoot.apple.cn,skk_apple_cn
-HOST,gs-loc-cn.apple.com,skk_apple_cn
-HOST-SUFFIX,apple.com.cn,skk_apple_cn
-HOST-SUFFIX,cn-ssl.ls.apple.com,skk_apple_cn
-HOST-SUFFIX,cn.apple.com,skk_apple_cn
-HOST-SUFFIX,cn.ls.apple.com,skk_apple_cn
-HOST-SUFFIX,gspe19-cn-ssl.ls.apple.com,skk_apple_cn
-HOST-SUFFIX,icloud.com.cn,skk_apple_cn
+HOST,api.smoot.apple.cn-,skk_apple_cn
+HOST,gs-loc-cn.apple.com-,skk_apple_cn
+HOST-SUFFIX,apple.com.cn-,skk_apple_cn
+HOST-SUFFIX,cn-ssl.ls.apple.com-,skk_apple_cn
+HOST-SUFFIX,cn.apple.com-,skk_apple_cn
+HOST-SUFFIX,cn.ls.apple.com-,skk_apple_cn
+HOST-SUFFIX,gspe19-cn-ssl.ls.apple.com-,skk_apple_cn
+HOST-SUFFIX,icloud.com.cn-,skk_apple_cn

@@ -1,23 +1,23 @@
 # 规则名称: skk_microsoft_cdn
 # 规则统计: 20
 
-HOST,res-1.cdn.office.net,skk_microsoft_cdn
-HOST,res.cdn.office.net,skk_microsoft_cdn
-HOST,statics.teams.cdn.office.net,skk_microsoft_cdn
-HOST-SUFFIX,cn.windowssearch.com,skk_microsoft_cdn
-HOST-SUFFIX,ctldl.windowsupdate.com,skk_microsoft_cdn
-HOST-SUFFIX,devblogs.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,developer.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,dl.delivery.mp.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,docs.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,download.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,download.prss.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,download.visualstudio.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,download.windowsupdate.com,skk_microsoft_cdn
-HOST-SUFFIX,fs.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,learn.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,officecdn.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,sdx.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,storeedgefd.dsx.mp.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,wscont1.apps.microsoft.com,skk_microsoft_cdn
-HOST-SUFFIX,wscont2.apps.microsoft.com,skk_microsoft_cdn
+HOST,res-1.cdn.office.net-,skk_microsoft_cdn
+HOST,res.cdn.office.net-,skk_microsoft_cdn
+HOST,statics.teams.cdn.office.net-,skk_microsoft_cdn
+HOST-SUFFIX,cn.windowssearch.com-,skk_microsoft_cdn
+HOST-SUFFIX,ctldl.windowsupdate.com-,skk_microsoft_cdn
+HOST-SUFFIX,devblogs.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,developer.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,dl.delivery.mp.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,docs.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,download.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,download.prss.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,download.visualstudio.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,download.windowsupdate.com-,skk_microsoft_cdn
+HOST-SUFFIX,fs.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,learn.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,officecdn.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,sdx.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,storeedgefd.dsx.mp.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,wscont1.apps.microsoft.com-,skk_microsoft_cdn
+HOST-SUFFIX,wscont2.apps.microsoft.com-,skk_microsoft_cdn
