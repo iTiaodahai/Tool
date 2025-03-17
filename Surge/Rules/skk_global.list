@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 761
+# 规则统计: 764
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
@@ -420,6 +420,9 @@ DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,mil
+DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,mixcloud.com
 DOMAIN-SUFFIX,mn

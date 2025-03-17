@@ -1,5 +1,5 @@
 # 规则名称: Domain_Final
-# 规则统计: 32521
+# 规则统计: 32522
 
 HOST,123av.com,Domain_Final
 HOST,5721004.xyz,Domain_Final
@@ -18626,6 +18626,7 @@ HOST-SUFFIX,mindgeek.com,Domain_Final
 HOST-SUFFIX,mindmeld.com,Domain_Final
 HOST-SUFFIX,mindnode.com,Domain_Final
 HOST-SUFFIX,mindrolling.org,Domain_Final
+HOST-SUFFIX,minecraft-services.net,Domain_Final
 HOST-SUFFIX,minecraft.net,Domain_Final
 HOST-SUFFIX,minecraft.wiki,Domain_Final
 HOST-SUFFIX,minecraftservices.com,Domain_Final

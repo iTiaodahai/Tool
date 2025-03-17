@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 761
+# 规则统计: 764
 
 HOST,ccmdl.adobe.com,skk_global
 HOST,ees.elsevier.com,skk_global
@@ -420,6 +420,9 @@ HOST-SUFFIX,metacritic.com,skk_global
 HOST-SUFFIX,mexc.com,skk_global
 HOST-SUFFIX,mikrotik.com,skk_global
 HOST-SUFFIX,mil,skk_global
+HOST-SUFFIX,minecraft-services.net,skk_global
+HOST-SUFFIX,minecraft.net,skk_global
+HOST-SUFFIX,minecraftservices.com,skk_global
 HOST-SUFFIX,missav.com,skk_global
 HOST-SUFFIX,mixcloud.com,skk_global
 HOST-SUFFIX,mn,skk_global
