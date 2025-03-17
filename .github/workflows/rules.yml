@@ -31,7 +31,7 @@ jobs:
         if [[ "$repo_name" == "Tool" ]]; then
             echo "Running in Tool repository"
             mkdir -p Tool-repo/Ruleset
-            # 合并Reject规则集
+            # 合并域名拦截规则集
             urls=(
                 "https://ruleset.skk.moe/List/domainset/reject.conf"
                 "https://ruleset.skk.moe/List/non_ip/reject.conf"
@@ -42,13 +42,13 @@ jobs:
                 "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Malicious.list"
                 "https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Extra/Reject/Tracking.list"
             )
-            > Tool-repo/Ruleset/reject_extra.list
+            > Tool-repo/Ruleset/Domain_reject.list
             for url in "${urls[@]}"; do
                 echo "Downloading: $url"
-                curl -f -L "$url" >> Tool-repo/Ruleset/reject_extra.list || { echo "Download Failed: $url"; exit 1; }
-                echo "" >> Tool-repo/Ruleset/reject_extra.list
+                curl -f -L "$url" >> Tool-repo/Ruleset/Domain_reject.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/Domain_reject.list
             done
-            # 合并Global规则
+            # 合并全球域名规则
             urls=(
                 "https://ruleset.skk.moe/List/non_ip/global.conf"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Global/Global_Domain.list"
@@ -58,62 +58,80 @@ jobs:
                 "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/gfw.txt"
                 "https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/Surge/Rules/DownloadCDN_Global.list"
             )
-            > Tool-repo/Ruleset/Global.list
+            > Tool-repo/Ruleset/Domain_Final.list
             for url in "${urls[@]}"; do
                 echo "Downloading: $url"
-                curl -f -L "$url" >> Tool-repo/Ruleset/Global.list || { echo "Download Failed: $url"; exit 1; }
-                echo "" >> Tool-repo/Ruleset/Global.list
+                curl -f -L "$url" >> Tool-repo/Ruleset/Domain_Final.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/Domain_Final.list
             done
-            # 合并Apple/斗鱼/Direct-fix/DownloadCDN_CN规则
+            # 合并苹果域名规则
             urls=(
                 "https://ruleset.skk.moe/List/domainset/apple_cdn.conf"
                 "https://ruleset.skk.moe/List/domainset/icloud_private_relay.conf"
                 "https://ruleset.skk.moe/List/non_ip/apple_services.conf"
                 "https://ruleset.skk.moe/List/non_ip/apple_cn.conf"
                 "https://ruleset.skk.moe/List/non_ip/apple_cdn.conf"
+            )
+            > Tool-repo/Ruleset/Domain_Apple.list
+            for url in "${urls[@]}"; do
+                echo "Downloading: $url"
+                curl -f -L "$url" >> Tool-repo/Ruleset/Domain_Apple.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/Domain_Apple.list
+            done
+            # 合并斗鱼/Direct-fix/DownloadCDN_CN规则
+            urls=(
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Douyu/Douyu.list"
                 "https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Direct.list"
                 "https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/Surge/Rules/DownloadCDN_CN.list"
             )
-            > Tool-repo/Ruleset/ChinaDomains.list
+            > Tool-repo/Ruleset/Domain_CN.list
             for url in "${urls[@]}"; do
                 echo "Downloading: $url"
-                curl -f -L "$url" >> Tool-repo/Ruleset/ChinaDomains.list || { echo "Download Failed: $url"; exit 1; }
-                echo "" >> Tool-repo/Ruleset/ChinaDomains.list
-            done
-            # 合并Microsoft/GitHub/PayPal/Talkatone/YouTube/Google规则
+                curl -f -L "$url" >> Tool-repo/Ruleset/Domain_CN.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/Domain_CN.list
+            done            
+            # 合并Microsoft/PayPal/Talkatone/Google规则
             urls=(
                 "https://ruleset.skk.moe/List/non_ip/microsoft.conf"
                 "https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf"
-                "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Bing/Bing.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
                 "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Talkatone.list"
-                "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list"
                 "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list"
             )
-            > Tool-repo/Ruleset/SiliconValley.list
+            > Tool-repo/Ruleset/Domain_US.list
             for url in "${urls[@]}"; do
                 echo "Downloading: $url"
-                curl -f -L "$url" >> Tool-repo/Ruleset/SiliconValley.list || { echo "Download Failed: $url"; exit 1; }
-                echo "" >> Tool-repo/Ruleset/SiliconValley.list
+                curl -f -L "$url" >> Tool-repo/Ruleset/Domain_US.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/Domain_US.list
             done
-            # 合并Facebook/Instagram/WhatsApp/TikTok/Twitter/Reddit/Wikipedia/Spotify规则
+            # 合并GitHub/YouTube/Reddit/TikTok规则
+            urls=(
+                "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list"
+                "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list"
+                "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Reddit/Reddit.list"
+                "https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/Surge/Rules/TikTok.list"
+            )
+            > Tool-repo/Ruleset/Global_any.list
+            for url in "${urls[@]}"; do
+                echo "Downloading: $url"
+                curl -f -L "$url" >> Tool-repo/Ruleset/Global_any.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/Global_any.list
+            done
+            # 合并Facebook/Instagram/WhatsApp/Twitter/Wikipedia/Spotify规则
             urls=(
                 "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list"
                 "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Whatsapp/Whatsapp.list"
-                "https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/Surge/Rules/TikTok.list"
                 "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list"
-                "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Reddit/Reddit.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Wikipedia/Wikipedia.list"
                 "https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Spotify.list"              
             )
-            > Tool-repo/Ruleset/Sociality.list
+            > Tool-repo/Ruleset/Domain_JP.list
             for url in "${urls[@]}"; do
                 echo "Downloading: $url"
-                curl -f -L "$url" >> Tool-repo/Ruleset/Sociality.list || { echo "Download Failed: $url"; exit 1; }
-                echo "" >> Tool-repo/Ruleset/Sociality.list
+                curl -f -L "$url" >> Tool-repo/Ruleset/Domain_JP.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/Domain_JP.list
             done
             # 合并Telegram规则
             urls=(
@@ -133,11 +151,11 @@ jobs:
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBO/HBO.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PrimeVideo/PrimeVideo.list"
             )
-            > Tool-repo/Ruleset/Premium.list
+            > Tool-repo/Ruleset/US_Stream.list
             for url in "${urls[@]}"; do
                 echo "Downloading: $url"
-                curl -f -L "$url" >> Tool-repo/Ruleset/Premium.list || { echo "Download Failed: $url"; exit 1; }
-                echo "" >> Tool-repo/Ruleset/Premium.list
+                curl -f -L "$url" >> Tool-repo/Ruleset/US_Stream.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/US_Stream.list
             done
             # 合并AI规则
             urls=(
@@ -150,7 +168,7 @@ jobs:
                 curl -f -L "$url" >> Tool-repo/Ruleset/AI.list || { echo "Download Failed: $url"; exit 1; }
                 echo "" >> Tool-repo/Ruleset/AI.list
             done
-            # 合并直播平台规则
+            # 合并韩国直播平台规则
             urls=(
                 "https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Kr_Stream.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Twitch/Twitch.list"
@@ -168,8 +186,7 @@ jobs:
                 "Douyu.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Douyu/Douyu.list"
                 "Disney.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Disney/Disney.list"
                 "Direct.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Direct.list"
-                "EmbyDirect.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/EmbyDirect.list"
-                "EmbyProxy.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/EmbyProxy.list" 
+                "Emby.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Emby.list" 
                 "Facebook.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list"
                 "Github.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list"
                 "Google.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list"
