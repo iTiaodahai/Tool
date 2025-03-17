@@ -155,11 +155,11 @@ jobs:
                 "https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Kr_Stream.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Twitch/Twitch.list"
             )
-            > Tool-repo/Ruleset/Kr_Stream.conf
+            > Tool-repo/Ruleset/KR_Stream.list
             for url in "${urls[@]}"; do
                 echo "Downloading: $url"
-                curl -f -L "$url" >> Tool-repo/Ruleset/Kr_Stream.conf || { echo "Download Failed: $url"; exit 1; }
-                echo "" >> Tool-repo/Ruleset/Kr_Stream.conf
+                curl -f -L "$url" >> Tool-repo/Ruleset/KR_Stream.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/KR_Stream.list
             done
             # 下载规则
             files=(
