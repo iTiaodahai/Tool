@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 2973
+# 规则统计: 2977
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,1010.hkspeedtest.com-,Speedtest
@@ -641,6 +641,7 @@ HOST,speed.coe.ad.jp--,Speedtest
 HOST,speed.data.cr,Speedtest
 HOST,speed.data.cr-,Speedtest
 HOST,speed.data.cr--,Speedtest
+HOST,speed.econett.com.br,Speedtest
 HOST,speed.econett.com.br--,Speedtest
 HOST,speed.fgtelecom.com.br,Speedtest
 HOST,speed.fgtelecom.com.br--,Speedtest
@@ -1270,6 +1271,7 @@ HOST,speedtest.ddps.jp-,Speedtest
 HOST,speedtest.ddps.jp--,Speedtest
 HOST,speedtest.deltacable.com,Speedtest
 HOST,speedtest.deltacable.com--,Speedtest
+HOST,speedtest.deltatelecomam.com.br,Speedtest
 HOST,speedtest.dgn.net.tr,Speedtest
 HOST,speedtest.dgn.net.tr--,Speedtest
 HOST,speedtest.didimnet.com.tr,Speedtest
@@ -1398,6 +1400,7 @@ HOST,speedtest.idnet.net.br--,Speedtest
 HOST,speedtest.imcloud.tw,Speedtest
 HOST,speedtest.imcloud.tw-,Speedtest
 HOST,speedtest.imcloud.tw--,Speedtest
+HOST,speedtest.infinirc.com,Speedtest
 HOST,speedtest.infogamesvr.net.br--,Speedtest
 HOST,speedtest.inforr.com.br,Speedtest
 HOST,speedtest.inforr.com.br-,Speedtest
@@ -1903,6 +1906,7 @@ HOST,speedtest.visiontelecom.com.br--,Speedtest
 HOST,speedtest.vnet.su,Speedtest
 HOST,speedtest.vnet.su-,Speedtest
 HOST,speedtest.vnet.su--,Speedtest
+HOST,speedtest.vodafone.com.tr,Speedtest
 HOST,speedtest.vodafone.com.tr--,Speedtest
 HOST,speedtest.voip-unlimited.net,Speedtest
 HOST,speedtest.voip-unlimited.net-,Speedtest
