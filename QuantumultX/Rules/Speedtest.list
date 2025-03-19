@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 2977
+# 规则统计: 2988
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,1010.hkspeedtest.com-,Speedtest
@@ -140,6 +140,7 @@ HOST,esk1speedtest.turktelekom.com.tr--,Speedtest
 HOST,falcon.its.utoronto.ca,Speedtest
 HOST,falcon.its.utoronto.ca-,Speedtest
 HOST,falcon.its.utoronto.ca--,Speedtest
+HOST,fetnt1.seed.net.tw,Speedtest
 HOST,fetnt1.seed.net.tw--,Speedtest
 HOST,fetyl1.seed.net.tw--,Speedtest
 HOST,fetzl1.seed.net.tw,Speedtest
@@ -218,6 +219,7 @@ HOST,horizon.sadata.id--,Speedtest
 HOST,hoshiyomi.ratatoskr.org,Speedtest
 HOST,hoshiyomi.ratatoskr.org-,Speedtest
 HOST,hoshiyomi.ratatoskr.org--,Speedtest
+HOST,hs14.aratwifi.com.tr,Speedtest
 HOST,hs14.aratwifi.com.tr--,Speedtest
 HOST,hv1.juce.ca,Speedtest
 HOST,hv1.juce.ca--,Speedtest
@@ -586,6 +588,7 @@ HOST,sp7.atcc-gns.net-,Speedtest
 HOST,sp7.atcc-gns.net--,Speedtest
 HOST,spd-tr-istanbul.hostlayici.net--,Speedtest
 HOST,spd.basefix.net--,Speedtest
+HOST,spd.cndd.net,Speedtest
 HOST,spd.fibranet.srv.br--,Speedtest
 HOST,spd.flexnetisp.com.br--,Speedtest
 HOST,spd.primenetisp.com.br,Speedtest
@@ -753,6 +756,7 @@ HOST,speednld.phoenixnap.com--,Speedtest
 HOST,speedperf.axione.fr,Speedtest
 HOST,speedperf.axione.fr-,Speedtest
 HOST,speedperf.axione.fr--,Speedtest
+HOST,speedsin.phoenixnap.com,Speedtest
 HOST,speedsin.phoenixnap.com--,Speedtest
 HOST,speedtest-1.litfibre.com,Speedtest
 HOST,speedtest-1.litfibre.com-,Speedtest
@@ -1180,6 +1184,7 @@ HOST,speedtest.bmcc.com.cn--,Speedtest
 HOST,speedtest.bnsdfw.com,Speedtest
 HOST,speedtest.bnsdfw.com-,Speedtest
 HOST,speedtest.bnsdfw.com--,Speedtest
+HOST,speedtest.bouwhuis.network,Speedtest
 HOST,speedtest.bouwhuis.network--,Speedtest
 HOST,speedtest.boxbroadband.co.uk,Speedtest
 HOST,speedtest.boxbroadband.co.uk-,Speedtest
@@ -2231,6 +2236,7 @@ HOST,spt-nyc.as13786.net--,Speedtest
 HOST,spt-sjo1.edgeuno.com,Speedtest
 HOST,spt-sjo1.edgeuno.com-,Speedtest
 HOST,spt-sjo1.edgeuno.com--,Speedtest
+HOST,spt.valexcloud.com,Speedtest
 HOST,sptch2.taiwanmobile.com,Speedtest
 HOST,sptch2.taiwanmobile.com-,Speedtest
 HOST,sptch2.taiwanmobile.com--,Speedtest
@@ -2286,16 +2292,19 @@ HOST,st-adana-1.turksatkablo.com.tr--,Speedtest
 HOST,st-ankara-1.turksatkablo.com.tr,Speedtest
 HOST,st-ankara-1.turksatkablo.com.tr-,Speedtest
 HOST,st-ankara-1.turksatkablo.com.tr--,Speedtest
+HOST,st-atakoy-1.turksatkablo.com.tr,Speedtest
 HOST,st-atakoy-1.turksatkablo.com.tr--,Speedtest
 HOST,st-balikesir-1.turksatkablo.com.tr,Speedtest
 HOST,st-balikesir-1.turksatkablo.com.tr-,Speedtest
 HOST,st-balikesir-1.turksatkablo.com.tr--,Speedtest
+HOST,st-balikesirbandirma-1.turksatkablo.com.tr,Speedtest
 HOST,st-bolu-1.turksatkablo.com.tr,Speedtest
 HOST,st-bolu-1.turksatkablo.com.tr-,Speedtest
 HOST,st-bolu-1.turksatkablo.com.tr--,Speedtest
 HOST,st-bursa-1.turksatkablo.com.tr,Speedtest
 HOST,st-bursa-1.turksatkablo.com.tr-,Speedtest
 HOST,st-bursa-1.turksatkablo.com.tr--,Speedtest
+HOST,st-denizli-1.turksatkablo.com.tr,Speedtest
 HOST,st-denizli-1.turksatkablo.com.tr--,Speedtest
 HOST,st-erzincan-1.turksatkablo.com.tr--,Speedtest
 HOST,st-erzurum-1.turksatkablo.com.tr,Speedtest
@@ -2325,6 +2334,7 @@ HOST,st-samsun-1.turksatkablo.com.tr--,Speedtest
 HOST,st-tekirdag-1.turksatkablo.com.tr,Speedtest
 HOST,st-tekirdag-1.turksatkablo.com.tr-,Speedtest
 HOST,st-tekirdag-1.turksatkablo.com.tr--,Speedtest
+HOST,st-tekirdagcorlu-1.turksatkablo.com.tr,Speedtest
 HOST,st-zonguldakeregli-1.turksatkablo.com.tr,Speedtest
 HOST,st-zonguldakeregli-1.turksatkablo.com.tr-,Speedtest
 HOST,st-zonguldakeregli-1.turksatkablo.com.tr--,Speedtest
@@ -2683,6 +2693,7 @@ HOST,umr1speedtest.turktelekom.com.tr--,Speedtest
 HOST,uplinkfibra.brsserver.com.br,Speedtest
 HOST,uplinkfibra.brsserver.com.br-,Speedtest
 HOST,uplinkfibra.brsserver.com.br--,Speedtest
+HOST,uptelecom.brsserver.com.br,Speedtest
 HOST,uptelecom.brsserver.com.br--,Speedtest
 HOST,vanspeedtest.altimatel.com,Speedtest
 HOST,vanspeedtest.altimatel.com--,Speedtest
