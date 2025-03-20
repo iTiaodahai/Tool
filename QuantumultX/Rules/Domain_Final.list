@@ -1,5 +1,5 @@
 # 规则名称: Domain_Final
-# 规则统计: 32517
+# 规则统计: 32518
 
 HOST,123av.com,Domain_Final
 HOST,5721004.xyz,Domain_Final
@@ -20200,6 +20200,7 @@ HOST-SUFFIX,newnews.ca,Domain_Final
 HOST-SUFFIX,newphd.ac.uk,Domain_Final
 HOST-SUFFIX,newport.ac.uk,Domain_Final
 HOST-SUFFIX,newpppp.com,Domain_Final
+HOST-SUFFIX,newrepublic.com,Domain_Final
 HOST-SUFFIX,newroutephd.ac.uk,Domain_Final
 HOST-SUFFIX,news.cnyes.com,Domain_Final
 HOST-SUFFIX,news.co.uk,Domain_Final

@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 873
+# 规则统计: 882
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,40gspeedtest.mnsi.net,Speedtest
@@ -34,6 +34,7 @@ HOST,dal-speedtest.net.sangoma.net,Speedtest
 HOST,dal-speedtest.transtelco.net,Speedtest
 HOST,dallas1.cabospeed.com,Speedtest
 HOST,dalspeedtest.rtatel.com,Speedtest
+HOST,dc-spdtst.treas.host,Speedtest
 HOST,de-bln2-ookla-01.wemacom.net,Speedtest
 HOST,de-ffm1-ookla-01.wemacom.net,Speedtest
 HOST,de-fra2-lg1.level66.network,Speedtest
@@ -84,6 +85,7 @@ HOST,lg-hkg.fdcservers.net,Speedtest
 HOST,lg-mia.advinservers.com,Speedtest
 HOST,lg-sin.fdcservers.net,Speedtest
 HOST,lg-syd.fdcservers.net,Speedtest
+HOST,lg-tok.fdcservers.net,Speedtest
 HOST,lg.mia.plasmarack.com,Speedtest
 HOST,librarian.comstar.ru,Speedtest
 HOST,lifitelecom.brsserver.com.br,Speedtest
@@ -103,6 +105,7 @@ HOST,miami.getstreamhosting.com,Speedtest
 HOST,miaspeedtest.blackburn-pr.com,Speedtest
 HOST,mirror.nforce.com,Speedtest
 HOST,mns.i-systems.com,Speedtest
+HOST,mobile.shunicomtest.com,Speedtest
 HOST,montsouris3.d2m.c2d.liveservices.fr,Speedtest
 HOST,msk-speedtest2.corbina.net,Speedtest
 HOST,msk3.companion.t2.ru,Speedtest
@@ -217,6 +220,7 @@ HOST,speed2.dg-sys.net,Speedtest
 HOST,speed2.fiberlink.pl,Speedtest
 HOST,speed4.snap.net.nz,Speedtest
 HOST,speedam.wsp.net.br,Speedtest
+HOST,speedapi.race.com,Speedtest
 HOST,speedcumra.lodosnet.com,Speedtest
 HOST,speedgauge2.optonline.net,Speedtest
 HOST,speedlon.hyperoptic.com,Speedtest
@@ -319,6 +323,7 @@ HOST,speedtest-tek.teksavvy.com,Speedtest
 HOST,speedtest-tesa.coelhotecnologia.com.br,Speedtest
 HOST,speedtest-thn.krystal.uk,Speedtest
 HOST,speedtest-tor.beanfield.com,Speedtest
+HOST,speedtest-txg.infinirc.net,Speedtest
 HOST,speedtest-utc.northland.net,Speedtest
 HOST,speedtest-wa.waveip.org,Speedtest
 HOST,speedtest-xg-oki.glbb.ne.jp,Speedtest
@@ -438,6 +443,7 @@ HOST,speedtest.layra.web.tr,Speedtest
 HOST,speedtest.lekloud.net,Speedtest
 HOST,speedtest.link.bm,Speedtest
 HOST,speedtest.linkamos.com.br,Speedtest
+HOST,speedtest.linknetbv.com,Speedtest
 HOST,speedtest.lla-cr.com,Speedtest
 HOST,speedtest.lodosnet.com.tr,Speedtest
 HOST,speedtest.lon1.edgoo.net,Speedtest
@@ -536,6 +542,7 @@ HOST,speedtest.telerys.net,Speedtest
 HOST,speedtest.thn.lon.network.as201838.net,Speedtest
 HOST,speedtest.thn.uk.syntura.io,Speedtest
 HOST,speedtest.three.com.hk,Speedtest
+HOST,speedtest.thryve.com.au,Speedtest
 HOST,speedtest.tigo.cr,Speedtest
 HOST,speedtest.tinp.net.tw,Speedtest
 HOST,speedtest.tngnet.com,Speedtest
@@ -652,6 +659,7 @@ HOST,spt-mia.edgeuno.com,Speedtest
 HOST,spt-nyc.as13786.net,Speedtest
 HOST,spt-sjo1.edgeuno.com,Speedtest
 HOST,spt.valexcloud.com,Speedtest
+HOST,spt2.valexcloud.com,Speedtest
 HOST,sptch2.taiwanmobile.com,Speedtest
 HOST,sptcy2.taiwanmobile.com,Speedtest
 HOST,sptdad.taiwanmobile.com,Speedtest
@@ -697,6 +705,7 @@ HOST,stbrantfordwireless.rogers.com,Speedtest
 HOST,stchathamwireless.rogers.com,Speedtest
 HOST,stdal.highlinefast.com,Speedtest
 HOST,stest.ultraconnect.com.br,Speedtest
+HOST,stestacb.netspeed.com.tr,Speedtest
 HOST,stetobicoke.netcrawler.ca,Speedtest
 HOST,stetobicoke.rogers.com,Speedtest
 HOST,stgeorgetownwireless.rogers.com,Speedtest

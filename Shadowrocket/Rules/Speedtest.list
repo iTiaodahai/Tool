@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 873
+# 规则统计: 882
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,40gspeedtest.mnsi.net
@@ -34,6 +34,7 @@ DOMAIN,dal-speedtest.net.sangoma.net
 DOMAIN,dal-speedtest.transtelco.net
 DOMAIN,dallas1.cabospeed.com
 DOMAIN,dalspeedtest.rtatel.com
+DOMAIN,dc-spdtst.treas.host
 DOMAIN,de-bln2-ookla-01.wemacom.net
 DOMAIN,de-ffm1-ookla-01.wemacom.net
 DOMAIN,de-fra2-lg1.level66.network
@@ -84,6 +85,7 @@ DOMAIN,lg-hkg.fdcservers.net
 DOMAIN,lg-mia.advinservers.com
 DOMAIN,lg-sin.fdcservers.net
 DOMAIN,lg-syd.fdcservers.net
+DOMAIN,lg-tok.fdcservers.net
 DOMAIN,lg.mia.plasmarack.com
 DOMAIN,librarian.comstar.ru
 DOMAIN,lifitelecom.brsserver.com.br
@@ -103,6 +105,7 @@ DOMAIN,miami.getstreamhosting.com
 DOMAIN,miaspeedtest.blackburn-pr.com
 DOMAIN,mirror.nforce.com
 DOMAIN,mns.i-systems.com
+DOMAIN,mobile.shunicomtest.com
 DOMAIN,montsouris3.d2m.c2d.liveservices.fr
 DOMAIN,msk-speedtest2.corbina.net
 DOMAIN,msk3.companion.t2.ru
@@ -217,6 +220,7 @@ DOMAIN,speed2.dg-sys.net
 DOMAIN,speed2.fiberlink.pl
 DOMAIN,speed4.snap.net.nz
 DOMAIN,speedam.wsp.net.br
+DOMAIN,speedapi.race.com
 DOMAIN,speedcumra.lodosnet.com
 DOMAIN,speedgauge2.optonline.net
 DOMAIN,speedlon.hyperoptic.com
@@ -319,6 +323,7 @@ DOMAIN,speedtest-tek.teksavvy.com
 DOMAIN,speedtest-tesa.coelhotecnologia.com.br
 DOMAIN,speedtest-thn.krystal.uk
 DOMAIN,speedtest-tor.beanfield.com
+DOMAIN,speedtest-txg.infinirc.net
 DOMAIN,speedtest-utc.northland.net
 DOMAIN,speedtest-wa.waveip.org
 DOMAIN,speedtest-xg-oki.glbb.ne.jp
@@ -438,6 +443,7 @@ DOMAIN,speedtest.layra.web.tr
 DOMAIN,speedtest.lekloud.net
 DOMAIN,speedtest.link.bm
 DOMAIN,speedtest.linkamos.com.br
+DOMAIN,speedtest.linknetbv.com
 DOMAIN,speedtest.lla-cr.com
 DOMAIN,speedtest.lodosnet.com.tr
 DOMAIN,speedtest.lon1.edgoo.net
@@ -536,6 +542,7 @@ DOMAIN,speedtest.telerys.net
 DOMAIN,speedtest.thn.lon.network.as201838.net
 DOMAIN,speedtest.thn.uk.syntura.io
 DOMAIN,speedtest.three.com.hk
+DOMAIN,speedtest.thryve.com.au
 DOMAIN,speedtest.tigo.cr
 DOMAIN,speedtest.tinp.net.tw
 DOMAIN,speedtest.tngnet.com
@@ -652,6 +659,7 @@ DOMAIN,spt-mia.edgeuno.com
 DOMAIN,spt-nyc.as13786.net
 DOMAIN,spt-sjo1.edgeuno.com
 DOMAIN,spt.valexcloud.com
+DOMAIN,spt2.valexcloud.com
 DOMAIN,sptch2.taiwanmobile.com
 DOMAIN,sptcy2.taiwanmobile.com
 DOMAIN,sptdad.taiwanmobile.com
@@ -697,6 +705,7 @@ DOMAIN,stbrantfordwireless.rogers.com
 DOMAIN,stchathamwireless.rogers.com
 DOMAIN,stdal.highlinefast.com
 DOMAIN,stest.ultraconnect.com.br
+DOMAIN,stestacb.netspeed.com.tr
 DOMAIN,stetobicoke.netcrawler.ca
 DOMAIN,stetobicoke.rogers.com
 DOMAIN,stgeorgetownwireless.rogers.com
