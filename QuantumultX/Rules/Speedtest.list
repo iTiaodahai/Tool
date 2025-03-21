@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 882
+# 规则统计: 888
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,40gspeedtest.mnsi.net,Speedtest
@@ -60,6 +60,7 @@ HOST,hiztesti.codit.com.tr,Speedtest
 HOST,hiztesti.fiberim.com.tr,Speedtest
 HOST,hiztesti.hiperbox.com.tr,Speedtest
 HOST,hiztesti.isimkayit.com,Speedtest
+HOST,hiztesti2.ondiso.io,Speedtest
 HOST,hkspeedtest.netvigator.com,Speedtest
 HOST,hkt.hkspeedtest.com,Speedtest
 HOST,hkthspeedtest02.telstraglobal.net,Speedtest
@@ -70,6 +71,7 @@ HOST,iperf.gakijken.nl,Speedtest
 HOST,ipl3pt.fft.ops.eu.uu.net,Speedtest
 HOST,ipl3pt.syd.ops.aspac.uu.net,Speedtest
 HOST,istanbul.sth.tr,Speedtest
+HOST,izm1speedtest.turktelekom.com.tr,Speedtest
 HOST,izmit-speed.tbtnet.com.tr,Speedtest
 HOST,jp-nperf.verizon.net,Speedtest
 HOST,kami.smartone.com,Speedtest
@@ -272,6 +274,7 @@ HOST,speedtest-limestonecoast-sa.optusnet.com.au,Speedtest
 HOST,speedtest-lon.retn.net,Speedtest
 HOST,speedtest-lon.veloxserv.net,Speedtest
 HOST,speedtest-lon06.vorboss.net,Speedtest
+HOST,speedtest-lon1.elite.net.uk,Speedtest
 HOST,speedtest-london-east.vodafone.co.uk,Speedtest
 HOST,speedtest-london.its-tg.net,Speedtest
 HOST,speedtest-london.start.ca,Speedtest
@@ -577,6 +580,7 @@ HOST,speedtest.wifi.net.tr,Speedtest
 HOST,speedtest.wifitelekom.com,Speedtest
 HOST,speedtest.wilcasji.com,Speedtest
 HOST,speedtest.xcdtelecom.com,Speedtest
+HOST,speedtest.xipnet.com,Speedtest
 HOST,speedtest.xsnews.nl,Speedtest
 HOST,speedtest.yless4u.com.au,Speedtest
 HOST,speedtest01.ams6.solcon.nl,Speedtest
@@ -761,6 +765,7 @@ HOST,tc1.chtm.hinet.net,Speedtest
 HOST,test.accesso.net.br,Speedtest
 HOST,test.infoconnecttelecom.com.br,Speedtest
 HOST,test.slic.com,Speedtest
+HOST,test.turuncunet.com.tr,Speedtest
 HOST,teste.diotelecom.com.br,Speedtest
 HOST,teste.firenetwork.com.br,Speedtest
 HOST,teste.jsnet.manaus.br,Speedtest
@@ -787,6 +792,7 @@ HOST,tr-ist.orfi.net.tr,Speedtest
 HOST,tr-istanbul.elmashost.com,Speedtest
 HOST,trtspeedtest.altimatel.com,Speedtest
 HOST,tsdvuspeedtest01p.allstream.com,Speedtest
+HOST,txg-speedtest.infinirc.com,Speedtest
 HOST,ty1.chtm.hinet.net,Speedtest
 HOST,uk-lon-tcy-mtn-speedtest-server-01.mtn.com,Speedtest
 HOST,umr1speedtest.turktelekom.com.tr,Speedtest

@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 765
+# 规则统计: 766
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
@@ -505,6 +505,7 @@ DOMAIN-SUFFIX,plurk.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,porntube.com
+DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,privacytest.info
 DOMAIN-SUFFIX,privateinternetaccess.com
 DOMAIN-SUFFIX,probit.com

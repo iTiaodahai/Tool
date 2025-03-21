@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 765
+# 规则统计: 766
 
 HOST,ccmdl.adobe.com,skk_global
 HOST,ees.elsevier.com,skk_global
@@ -505,6 +505,7 @@ HOST-SUFFIX,plurk.com,skk_global
 HOST-SUFFIX,polymer-project.org,skk_global
 HOST-SUFFIX,pornhub.com,skk_global
 HOST-SUFFIX,porntube.com,skk_global
+HOST-SUFFIX,prismlauncher.org,skk_global
 HOST-SUFFIX,privacytest.info,skk_global
 HOST-SUFFIX,privateinternetaccess.com,skk_global
 HOST-SUFFIX,probit.com,skk_global
