@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 981
+# 规则统计: 983
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,40gspeedtest.mnsi.net,Speedtest
@@ -606,6 +606,7 @@ HOST,speedtest.twerion.net,Speedtest
 HOST,speedtest.ubc.ca,Speedtest
 HOST,speedtest.ufinetlatam.net,Speedtest
 HOST,speedtest.uia.net,Speedtest
+HOST,speedtest.unifica.net.br,Speedtest
 HOST,speedtest.unitelecom.net.br,Speedtest
 HOST,speedtest.unlimitedfiber.com,Speedtest
 HOST,speedtest.uplinkrr.com.br,Speedtest
@@ -617,6 +618,7 @@ HOST,speedtest.vc.shawcable.net,Speedtest
 HOST,speedtest.vee.com.tw,Speedtest
 HOST,speedtest.verimek.com,Speedtest
 HOST,speedtest.viberlink.net,Speedtest
+HOST,speedtest.vipnetconexao.com.br,Speedtest
 HOST,speedtest.visiontelecom.com.br,Speedtest
 HOST,speedtest.vnet.su,Speedtest
 HOST,speedtest.vodafone.com.tr,Speedtest

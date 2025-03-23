@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 981
+# 规则统计: 983
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,40gspeedtest.mnsi.net
@@ -606,6 +606,7 @@ DOMAIN,speedtest.twerion.net
 DOMAIN,speedtest.ubc.ca
 DOMAIN,speedtest.ufinetlatam.net
 DOMAIN,speedtest.uia.net
+DOMAIN,speedtest.unifica.net.br
 DOMAIN,speedtest.unitelecom.net.br
 DOMAIN,speedtest.unlimitedfiber.com
 DOMAIN,speedtest.uplinkrr.com.br
@@ -617,6 +618,7 @@ DOMAIN,speedtest.vc.shawcable.net
 DOMAIN,speedtest.vee.com.tw
 DOMAIN,speedtest.verimek.com
 DOMAIN,speedtest.viberlink.net
+DOMAIN,speedtest.vipnetconexao.com.br
 DOMAIN,speedtest.visiontelecom.com.br
 DOMAIN,speedtest.vnet.su
 DOMAIN,speedtest.vodafone.com.tr
