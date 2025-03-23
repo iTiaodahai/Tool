@@ -1,5 +1,5 @@
 # 规则名称: Domain_Final
-# 规则统计: 32517
+# 规则统计: 32518
 
 HOST,123av.com,Domain_Final
 HOST,5721004.xyz,Domain_Final
@@ -14459,6 +14459,7 @@ HOST-SUFFIX,ic.ac.uk,Domain_Final
 HOST-SUFFIX,icac.ac.uk,Domain_Final
 HOST-SUFFIX,icair.ac.uk,Domain_Final
 HOST-SUFFIX,icams.com,Domain_Final
+HOST-SUFFIX,icann.org,Domain_Final
 HOST-SUFFIX,icashpassport.com.mx,Domain_Final
 HOST-SUFFIX,icca.ac.uk,Domain_Final
 HOST-SUFFIX,iccliverpool.ac.uk,Domain_Final

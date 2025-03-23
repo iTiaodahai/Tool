@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 766
+# 规则统计: 768
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
@@ -318,8 +318,10 @@ DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,huobi.pro
+DOMAIN-SUFFIX,iana.org
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,ibm.com
+DOMAIN-SUFFIX,icann.org
 DOMAIN-SUFFIX,idrive.com
 DOMAIN-SUFFIX,ietf.org
 DOMAIN-SUFFIX,ifixit.com

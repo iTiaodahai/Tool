@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 766
+# 规则统计: 768
 
 HOST,ccmdl.adobe.com,skk_global
 HOST,ees.elsevier.com,skk_global
@@ -318,8 +318,10 @@ HOST-SUFFIX,hostloc.com,skk_global
 HOST-SUFFIX,huggingface.co,skk_global
 HOST-SUFFIX,huobi.com,skk_global
 HOST-SUFFIX,huobi.pro,skk_global
+HOST-SUFFIX,iana.org,skk_global
 HOST-SUFFIX,ibb.co,skk_global
 HOST-SUFFIX,ibm.com,skk_global
+HOST-SUFFIX,icann.org,skk_global
 HOST-SUFFIX,idrive.com,skk_global
 HOST-SUFFIX,ietf.org,skk_global
 HOST-SUFFIX,ifixit.com,skk_global

@@ -1,5 +1,5 @@
 # 规则名称: skk_reject
-# 规则统计: 69616
+# 规则统计: 69618
 
 HOST,2016.sina.cn,skk_reject
 HOST,9ibbcq2d.sina.cn,skk_reject
@@ -212,6 +212,7 @@ HOST,cdn.1rtb.com,skk_reject
 HOST,cdn.cr-relay.com,skk_reject
 HOST,cdn.fds-ssl.api.xiaomi.com,skk_reject
 HOST,cdn.getkoala.com,skk_reject
+HOST,cdn.matomo.cloud,skk_reject
 HOST,cdn.pocoiq.cn,skk_reject
 HOST,charlestownwyllie.oaklawnnonantum.com,skk_reject
 HOST,choice.microsoft.com,skk_reject
@@ -42620,6 +42621,7 @@ HOST-SUFFIX,oehagy.fotobehang.com,skk_reject
 HOST-SUFFIX,oeiqfl.kiralikvilladatatil.com,skk_reject
 HOST-SUFFIX,oek7.april-moto.com,skk_reject
 HOST-SUFFIX,oeko.immergruen-energie.de,skk_reject
+HOST-SUFFIX,oelj.cn,skk_reject
 HOST-SUFFIX,oeryt111.fun,skk_reject
 HOST-SUFFIX,oesfco.glamira.pl,skk_reject
 HOST-SUFFIX,oesonx.10000recipe.com,skk_reject
