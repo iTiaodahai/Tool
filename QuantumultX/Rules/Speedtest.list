@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 983
+# 规则统计: 987
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,40gspeedtest.mnsi.net,Speedtest
@@ -45,6 +45,7 @@ HOST,dllstx-ookla1.vyvebroadband.net,Speedtest
 HOST,drtvpdspeedtestb.voiped.com,Speedtest
 HOST,east-speedtest.frontiernetworks.ca,Speedtest
 HOST,erz1speedtest.turktelekom.com.tr,Speedtest
+HOST,esn1speedtest.turktelekom.com.tr,Speedtest
 HOST,falcon.its.utoronto.ca,Speedtest
 HOST,fetnt1.seed.net.tw,Speedtest
 HOST,fetzl1.seed.net.tw,Speedtest
@@ -145,6 +146,7 @@ HOST,ookla.moji.fr,Speedtest
 HOST,ookla.opticaltel.com,Speedtest
 HOST,ookla.playmaisreverso.net.br,Speedtest
 HOST,ookla.siditelecom-isp.com.br,Speedtest
+HOST,ookla.speedtest.cnix.cn,Speedtest
 HOST,ookla.sy1.neptune.net.au,Speedtest
 HOST,ookla.xponnet.com.br,Speedtest
 HOST,ookla1.ccspublichost.com,Speedtest
@@ -223,6 +225,7 @@ HOST,speed.newclicktelecom.com.br,Speedtest
 HOST,speed.rnipnet.com.br,Speedtest
 HOST,speed.sdmnet.com.br,Speedtest
 HOST,speed.syd.aussiebroadband.com.au,Speedtest
+HOST,speed.tepenet.com.tr,Speedtest
 HOST,speed.turbodc.com,Speedtest
 HOST,speed.udx.icscoe.jp,Speedtest
 HOST,speed.uk.lon.m247.ro,Speedtest
@@ -580,6 +583,7 @@ HOST,speedtest.sptel.com,Speedtest
 HOST,speedtest.starlink.ru,Speedtest
 HOST,speedtest.sth.tr,Speedtest
 HOST,speedtest.sunnysidehosting.net,Speedtest
+HOST,speedtest.sunucum.net.tr,Speedtest
 HOST,speedtest.surfshark.com,Speedtest
 HOST,speedtest.switch.ca,Speedtest
 HOST,speedtest.syd.mhn.cloud,Speedtest
