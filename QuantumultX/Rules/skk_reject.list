@@ -1,5 +1,5 @@
 # 规则名称: skk_reject
-# 规则统计: 69640
+# 规则统计: 69644
 
 HOST,2016.sina.cn,skk_reject
 HOST,9ibbcq2d.sina.cn,skk_reject
@@ -9687,6 +9687,7 @@ HOST-SUFFIX,bn.voyage-prive.com,skk_reject
 HOST-SUFFIX,bn5x.net,skk_reject
 HOST-SUFFIX,bnaezl.hair-gallery.fr,skk_reject
 HOST-SUFFIX,bnalzlv.top,skk_reject
+HOST-SUFFIX,bnbwvp.top,skk_reject
 HOST-SUFFIX,bncloudfl.com,skk_reject
 HOST-SUFFIX,bndxrr.xyz,skk_reject
 HOST-SUFFIX,bnfectkp.icu,skk_reject
@@ -31533,6 +31534,7 @@ HOST-SUFFIX,khawzx.kirmizisepet.com,skk_reject
 HOST-SUFFIX,khcdhu.saraschool.net,skk_reject
 HOST-SUFFIX,khcsvdc.icu,skk_reject
 HOST-SUFFIX,khedastrilium.com,skk_reject
+HOST-SUFFIX,khegritww.com,skk_reject
 HOST-SUFFIX,khengrull.com,skk_reject
 HOST-SUFFIX,khesuts.com,skk_reject
 HOST-SUFFIX,khfiwx.sephora.com.br,skk_reject
@@ -31754,6 +31756,7 @@ HOST-SUFFIX,knownwarn.com,skk_reject
 HOST-SUFFIX,knpudr.jardin-concept.com,skk_reject
 HOST-SUFFIX,knuakd.capsuljewelry.com,skk_reject
 HOST-SUFFIX,knuinws.icu,skk_reject
+HOST-SUFFIX,knul.cn,skk_reject
 HOST-SUFFIX,knutenegros.pro,skk_reject
 HOST-SUFFIX,knvyzx.h201shift.com,skk_reject
 HOST-SUFFIX,knymhv.ariat.com,skk_reject
@@ -47592,6 +47595,7 @@ HOST-SUFFIX,r66net.net,skk_reject
 HOST-SUFFIX,r932o.com,skk_reject
 HOST-SUFFIX,r973.timesheraldonline.com,skk_reject
 HOST-SUFFIX,ra1.xyz,skk_reject
+HOST-SUFFIX,ra10.xyz,skk_reject
 HOST-SUFFIX,ra5.xyz,skk_reject
 HOST-SUFFIX,rabbit.kilowatt.media,skk_reject
 HOST-SUFFIX,rabbit.radicalxchange.org,skk_reject

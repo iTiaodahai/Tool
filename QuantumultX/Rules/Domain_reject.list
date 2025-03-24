@@ -1,5 +1,5 @@
 # 规则名称: Domain_reject
-# 规则统计: 72606
+# 规则统计: 72610
 
 HOST,118.89.204.198,Domain_reject
 HOST,2016.sina.cn,Domain_reject
@@ -10312,6 +10312,7 @@ HOST-SUFFIX,bn.voyage-prive.com,Domain_reject
 HOST-SUFFIX,bn5x.net,Domain_reject
 HOST-SUFFIX,bnaezl.hair-gallery.fr,Domain_reject
 HOST-SUFFIX,bnalzlv.top,Domain_reject
+HOST-SUFFIX,bnbwvp.top,Domain_reject
 HOST-SUFFIX,bncloudfl.com,Domain_reject
 HOST-SUFFIX,bndxrr.xyz,Domain_reject
 HOST-SUFFIX,bnfectkp.icu,Domain_reject
@@ -32881,6 +32882,7 @@ HOST-SUFFIX,khawzx.kirmizisepet.com,Domain_reject
 HOST-SUFFIX,khcdhu.saraschool.net,Domain_reject
 HOST-SUFFIX,khcsvdc.icu,Domain_reject
 HOST-SUFFIX,khedastrilium.com,Domain_reject
+HOST-SUFFIX,khegritww.com,Domain_reject
 HOST-SUFFIX,khengrull.com,Domain_reject
 HOST-SUFFIX,khesuts.com,Domain_reject
 HOST-SUFFIX,khfiwx.sephora.com.br,Domain_reject
@@ -33129,6 +33131,7 @@ HOST-SUFFIX,knpkxgfp.xyz,Domain_reject
 HOST-SUFFIX,knpudr.jardin-concept.com,Domain_reject
 HOST-SUFFIX,knuakd.capsuljewelry.com,Domain_reject
 HOST-SUFFIX,knuinws.icu,Domain_reject
+HOST-SUFFIX,knul.cn,Domain_reject
 HOST-SUFFIX,knutenegros.pro,Domain_reject
 HOST-SUFFIX,knvyzx.h201shift.com,Domain_reject
 HOST-SUFFIX,knymhv.ariat.com,Domain_reject
@@ -49499,6 +49502,7 @@ HOST-SUFFIX,r932o.com,Domain_reject
 HOST-SUFFIX,r973.timesheraldonline.com,Domain_reject
 HOST-SUFFIX,r9ffi.fun,Domain_reject
 HOST-SUFFIX,ra1.xyz,Domain_reject
+HOST-SUFFIX,ra10.xyz,Domain_reject
 HOST-SUFFIX,ra5.xyz,Domain_reject
 HOST-SUFFIX,ra6.xyz,Domain_reject
 HOST-SUFFIX,rabbit.kilowatt.media,Domain_reject
