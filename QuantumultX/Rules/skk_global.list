@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 768
+# 规则统计: 769
 
 HOST,ccmdl.adobe.com,skk_global
 HOST,ees.elsevier.com,skk_global
@@ -305,6 +305,7 @@ HOST-SUFFIX,gvt7.com,skk_global
 HOST-SUFFIX,gvt9.com,skk_global
 HOST-SUFFIX,gwtproject.org,skk_global
 HOST-SUFFIX,hanime1.me,skk_global
+HOST-SUFFIX,hanimeone.me,skk_global
 HOST-SUFFIX,hbg.com,skk_global
 HOST-SUFFIX,he.net,skk_global
 HOST-SUFFIX,hentaifox.com,skk_global

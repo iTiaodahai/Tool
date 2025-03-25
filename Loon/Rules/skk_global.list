@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 768
+# 规则统计: 769
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
@@ -305,6 +305,7 @@ DOMAIN-SUFFIX,gvt7.com
 DOMAIN-SUFFIX,gvt9.com
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,hanimeone.me
 DOMAIN-SUFFIX,hbg.com
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,hentaifox.com

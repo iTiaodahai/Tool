@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 987
+# 规则统计: 991
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,40gspeedtest.mnsi.net,Speedtest
@@ -44,6 +44,7 @@ HOST,denizli.verinomidns.com,Speedtest
 HOST,dllstx-ookla1.vyvebroadband.net,Speedtest
 HOST,drtvpdspeedtestb.voiped.com,Speedtest
 HOST,east-speedtest.frontiernetworks.ca,Speedtest
+HOST,eregli.flix.net.tr,Speedtest
 HOST,erz1speedtest.turktelekom.com.tr,Speedtest
 HOST,esn1speedtest.turktelekom.com.tr,Speedtest
 HOST,falcon.its.utoronto.ca,Speedtest
@@ -80,6 +81,7 @@ HOST,izm1speedtest.turktelekom.com.tr,Speedtest
 HOST,izmit-speed.tbtnet.com.tr,Speedtest
 HOST,jp-nperf.verizon.net,Speedtest
 HOST,kami.smartone.com,Speedtest
+HOST,karapinar.kentwifi.com.tr,Speedtest
 HOST,kh1.chtm.hinet.net,Speedtest
 HOST,kmlpbcnu-speedtest-01.telus.com,Speedtest
 HOST,konya.verinomidns.com,Speedtest
@@ -473,6 +475,7 @@ HOST,speedtest.jetspeed.com.br,Speedtest
 HOST,speedtest.jp230.hnd.jp.ctcsci.com,Speedtest
 HOST,speedtest.jsqiuying.com,Speedtest
 HOST,speedtest.jvswifi.com.br,Speedtest
+HOST,speedtest.kairun.jp,Speedtest
 HOST,speedtest.kapteyan.com.tr,Speedtest
 HOST,speedtest.kko.me,Speedtest
 HOST,speedtest.kr260.gmp.kr.ctcsci.com,Speedtest
@@ -702,6 +705,7 @@ HOST,speedtest6.vodafone.com.tr,Speedtest
 HOST,speedtest8.vodafone.com.tr,Speedtest
 HOST,speedtest9.vodafone.com.tr,Speedtest
 HOST,speedtestac.vtal.net.br,Speedtest
+HOST,speedtestalmtelecom.com.br,Speedtest
 HOST,speedtestam.vtal.net.br,Speedtest
 HOST,speedtestap.vtal.net.br,Speedtest
 HOST,speedtestbb.hk.chinamobile.com,Speedtest

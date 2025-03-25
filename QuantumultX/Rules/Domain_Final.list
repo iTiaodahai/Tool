@@ -1,5 +1,5 @@
 # 规则名称: Domain_Final
-# 规则统计: 32509
+# 规则统计: 32510
 
 HOST,123av.com,Domain_Final
 HOST,5721004.xyz,Domain_Final
@@ -13042,6 +13042,7 @@ HOST-SUFFIX,hanime.me,Domain_Final
 HOST-SUFFIX,hanime.tv,Domain_Final
 HOST-SUFFIX,hanime.xxx,Domain_Final
 HOST-SUFFIX,hanime1.me,Domain_Final
+HOST-SUFFIX,hanimeone.me,Domain_Final
 HOST-SUFFIX,hanminzu.org,Domain_Final
 HOST-SUFFIX,hannah.ac.uk,Domain_Final
 HOST-SUFFIX,hanr-bao.mom,Domain_Final
