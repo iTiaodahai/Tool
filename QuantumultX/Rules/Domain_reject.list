@@ -1,5 +1,5 @@
 # 规则名称: Domain_reject
-# 规则统计: 73151
+# 规则统计: 73159
 
 HOST,118.89.204.198,Domain_reject
 HOST,2016.sina.cn,Domain_reject
@@ -1478,6 +1478,7 @@ HOST-SUFFIX,3.cjcp.cn,Domain_reject
 HOST-SUFFIX,3.ssqzj.com,Domain_reject
 HOST-SUFFIX,300daytravel.com,Domain_reject
 HOST-SUFFIX,301848.com,Domain_reject
+HOST-SUFFIX,301redirect.site,Domain_reject
 HOST-SUFFIX,303marketplace.com,Domain_reject
 HOST-SUFFIX,305791ddd9.ea1e71ef6c.com,Domain_reject
 HOST-SUFFIX,30937261.xyz,Domain_reject
@@ -1500,6 +1501,7 @@ HOST-SUFFIX,3221dkf7m2.com,Domain_reject
 HOST-SUFFIX,32n.icu,Domain_reject
 HOST-SUFFIX,32ycta.xyz,Domain_reject
 HOST-SUFFIX,33109166.xyz,Domain_reject
+HOST-SUFFIX,331f7bf198.com,Domain_reject
 HOST-SUFFIX,3337723.com,Domain_reject
 HOST-SUFFIX,3337738.com,Domain_reject
 HOST-SUFFIX,333bbb777bbb.com,Domain_reject
@@ -2409,7 +2411,6 @@ HOST-SUFFIX,a3.jandan.net,Domain_reject
 HOST-SUFFIX,a3.ogt.jp,Domain_reject
 HOST-SUFFIX,a32ef3be6e.9a56b01cf5.com,Domain_reject
 HOST-SUFFIX,a352.sandiegouniontribune.com,Domain_reject
-HOST-SUFFIX,a398b1fb80.331f7bf198.com,Domain_reject
 HOST-SUFFIX,a3yqjsrczwwp.com,Domain_reject
 HOST-SUFFIX,a433.dailypress.com,Domain_reject
 HOST-SUFFIX,a4bj6.xyz,Domain_reject
@@ -10275,6 +10276,7 @@ HOST-SUFFIX,blok.link,Domain_reject
 HOST-SUFFIX,blrhel.veronicabeard.com,Domain_reject
 HOST-SUFFIX,blrpbt.xyz,Domain_reject
 HOST-SUFFIX,blsoof.wirwinzer.de,Domain_reject
+HOST-SUFFIX,blsznpcpmsjmeq.com,Domain_reject
 HOST-SUFFIX,blthwbe.xyz,Domain_reject
 HOST-SUFFIX,bltmjevd.xyz,Domain_reject
 HOST-SUFFIX,blu5fdclr.com,Domain_reject
@@ -12329,6 +12331,7 @@ HOST-SUFFIX,ckoalloxwad.com,Domain_reject
 HOST-SUFFIX,ckpxtt.justfly.com,Domain_reject
 HOST-SUFFIX,ckqebz.cn,Domain_reject
 HOST-SUFFIX,cksfgh.jaycar.com.au,Domain_reject
+HOST-SUFFIX,ckydlxzejeepc.rocks,Domain_reject
 HOST-SUFFIX,ckygge.mohd.it,Domain_reject
 HOST-SUFFIX,ckyhec.maxisport.com,Domain_reject
 HOST-SUFFIX,ckyriuf.icu,Domain_reject
@@ -27977,6 +27980,7 @@ HOST-SUFFIX,herpes2.pa-ruit.jp,Domain_reject
 HOST-SUFFIX,herring.artemis.cloud,Domain_reject
 HOST-SUFFIX,herring.panda.network,Domain_reject
 HOST-SUFFIX,herringgloomilytennis.com,Domain_reject
+HOST-SUFFIX,hertouchingthew.com,Domain_reject
 HOST-SUFFIX,herynore.com,Domain_reject
 HOST-SUFFIX,heryt111.fun,Domain_reject
 HOST-SUFFIX,herzotph.icu,Domain_reject
@@ -37431,6 +37435,7 @@ HOST-SUFFIX,makingnude.com,Domain_reject
 HOST-SUFFIX,makqsd.icu,Domain_reject
 HOST-SUFFIX,makumva.all-usanomination.com,Domain_reject
 HOST-SUFFIX,maldini.xyz,Domain_reject
+HOST-SUFFIX,malikabusers.top,Domain_reject
 HOST-SUFFIX,malikiresids.com,Domain_reject
 HOST-SUFFIX,maling.dn.no,Domain_reject
 HOST-SUFFIX,maling.ue.dn.no,Domain_reject
@@ -49061,6 +49066,7 @@ HOST-SUFFIX,pzphmkf.xyz,Domain_reject
 HOST-SUFFIX,pzpivx.xyz,Domain_reject
 HOST-SUFFIX,pzscee.fation.co.kr,Domain_reject
 HOST-SUFFIX,pzscub.prestiter.it,Domain_reject
+HOST-SUFFIX,pzshzhja.com,Domain_reject
 HOST-SUFFIX,pztezl.xyz,Domain_reject
 HOST-SUFFIX,pzxhyp.aeropostale.com,Domain_reject
 HOST-SUFFIX,pzzdhj.rockyboots.com,Domain_reject
@@ -54458,6 +54464,7 @@ HOST-SUFFIX,sjdgkfhwkrkmi.com,Domain_reject
 HOST-SUFFIX,sjdyxk.shozankan-shop.com,Domain_reject
 HOST-SUFFIX,sjezce.xyz,Domain_reject
 HOST-SUFFIX,sjgsgy.xyz,Domain_reject
+HOST-SUFFIX,sjgtsqnmrqswz.space,Domain_reject
 HOST-SUFFIX,sjguws.tamaramellon.com,Domain_reject
 HOST-SUFFIX,sjimtyb.top,Domain_reject
 HOST-SUFFIX,sjivueoknmpt.com,Domain_reject
@@ -54902,6 +54909,7 @@ HOST-SUFFIX,snlpclc.com,Domain_reject
 HOST-SUFFIX,snnd.co,Domain_reject
 HOST-SUFFIX,snnmgdt.icu,Domain_reject
 HOST-SUFFIX,sno1.snowrental.com,Domain_reject
+HOST-SUFFIX,snomoneyandf.com,Domain_reject
 HOST-SUFFIX,snoop.minecraft.net,Domain_reject
 HOST-SUFFIX,snoopundesirable.com,Domain_reject
 HOST-SUFFIX,snortedbingo.com,Domain_reject
