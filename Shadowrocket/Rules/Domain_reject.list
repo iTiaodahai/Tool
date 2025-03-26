@@ -1,5 +1,5 @@
 # 规则名称: Domain_reject
-# 规则统计: 73554
+# 规则统计: 73552
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -4852,6 +4852,7 @@ DOMAIN-SUFFIX,adsfac.us
 DOMAIN-SUFFIX,adsfactor.net
 DOMAIN-SUFFIX,adsfan.net
 DOMAIN-SUFFIX,adsfcdn.com
+DOMAIN-SUFFIX,adsfloow.net
 DOMAIN-SUFFIX,adsfs-sdkconfig.heytapimage.com
 DOMAIN-SUFFIX,adsfs.oppomobile.com
 DOMAIN-SUFFIX,adsfundi.com
@@ -7342,6 +7343,7 @@ DOMAIN-SUFFIX,analytics.unand.ac.id
 DOMAIN-SUFFIX,analytics.underarmour.com
 DOMAIN-SUFFIX,analytics.unibuddy.co
 DOMAIN-SUFFIX,analytics.unilogcorp.com
+DOMAIN-SUFFIX,analytics.unity3d.com
 DOMAIN-SUFFIX,analytics.unive.nl
 DOMAIN-SUFFIX,analytics.unsw.edu.au
 DOMAIN-SUFFIX,analytics.upworthy.com
@@ -13361,7 +13363,6 @@ DOMAIN-SUFFIX,collect.allianzcinema.ch
 DOMAIN-SUFFIX,collect.allianzdriveincinema.ch
 DOMAIN-SUFFIX,collect.alphastream.io
 DOMAIN-SUFFIX,collect.analyse.lnearn.com
-DOMAIN-SUFFIX,collect.analytics.unity3d.com
 DOMAIN-SUFFIX,collect.ansons.de
 DOMAIN-SUFFIX,collect.asics.com
 DOMAIN-SUFFIX,collect.babybus.com
@@ -71453,7 +71454,6 @@ DOMAIN-SUFFIX,xmindchina.net
 DOMAIN-SUFFIX,xmkmryu.icu
 DOMAIN-SUFFIX,xml-api.online
 DOMAIN-SUFFIX,xml-eu-v4.adscholars.com
-DOMAIN-SUFFIX,xml-eu-v4.adsfloow.net
 DOMAIN-SUFFIX,xml-eu-v4.adverttise.com
 DOMAIN-SUFFIX,xml-eu-v4.adxpoint.com
 DOMAIN-SUFFIX,xml-eu-v4.agilitydigitalmedia.com
@@ -71482,7 +71482,6 @@ DOMAIN-SUFFIX,xml-eu.srvqck9.com
 DOMAIN-SUFFIX,xml-v4.9versemedia.com
 DOMAIN-SUFFIX,xml-v4.a1.0network.com
 DOMAIN-SUFFIX,xml-v4.adscholars.com
-DOMAIN-SUFFIX,xml-v4.adsfloow.net
 DOMAIN-SUFFIX,xml-v4.adtapmedia.com
 DOMAIN-SUFFIX,xml-v4.adverttise.com
 DOMAIN-SUFFIX,xml-v4.adzreach.com
@@ -71528,7 +71527,6 @@ DOMAIN-SUFFIX,xml.adopt.media
 DOMAIN-SUFFIX,xml.adportonic.com
 DOMAIN-SUFFIX,xml.adservezme.com
 DOMAIN-SUFFIX,xml.adservtday.com
-DOMAIN-SUFFIX,xml.adsfloow.net
 DOMAIN-SUFFIX,xml.adverttise.com
 DOMAIN-SUFFIX,xml.adxpoint.com
 DOMAIN-SUFFIX,xml.audienceye.com

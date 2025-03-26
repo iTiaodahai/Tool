@@ -1,5 +1,5 @@
 # 规则名称: Domain_reject
-# 规则统计: 73553
+# 规则统计: 73551
 
 HOST,03.lzzncm.com,Domain_reject
 HOST,04.lzzncm.com,Domain_reject
@@ -4852,6 +4852,7 @@ HOST-SUFFIX,adsfac.us,Domain_reject
 HOST-SUFFIX,adsfactor.net,Domain_reject
 HOST-SUFFIX,adsfan.net,Domain_reject
 HOST-SUFFIX,adsfcdn.com,Domain_reject
+HOST-SUFFIX,adsfloow.net,Domain_reject
 HOST-SUFFIX,adsfs-sdkconfig.heytapimage.com,Domain_reject
 HOST-SUFFIX,adsfs.oppomobile.com,Domain_reject
 HOST-SUFFIX,adsfundi.com,Domain_reject
@@ -7342,6 +7343,7 @@ HOST-SUFFIX,analytics.unand.ac.id,Domain_reject
 HOST-SUFFIX,analytics.underarmour.com,Domain_reject
 HOST-SUFFIX,analytics.unibuddy.co,Domain_reject
 HOST-SUFFIX,analytics.unilogcorp.com,Domain_reject
+HOST-SUFFIX,analytics.unity3d.com,Domain_reject
 HOST-SUFFIX,analytics.unive.nl,Domain_reject
 HOST-SUFFIX,analytics.unsw.edu.au,Domain_reject
 HOST-SUFFIX,analytics.upworthy.com,Domain_reject
@@ -13361,7 +13363,6 @@ HOST-SUFFIX,collect.allianzcinema.ch,Domain_reject
 HOST-SUFFIX,collect.allianzdriveincinema.ch,Domain_reject
 HOST-SUFFIX,collect.alphastream.io,Domain_reject
 HOST-SUFFIX,collect.analyse.lnearn.com,Domain_reject
-HOST-SUFFIX,collect.analytics.unity3d.com,Domain_reject
 HOST-SUFFIX,collect.ansons.de,Domain_reject
 HOST-SUFFIX,collect.asics.com,Domain_reject
 HOST-SUFFIX,collect.babybus.com,Domain_reject
@@ -71453,7 +71454,6 @@ HOST-SUFFIX,xmindchina.net,Domain_reject
 HOST-SUFFIX,xmkmryu.icu,Domain_reject
 HOST-SUFFIX,xml-api.online,Domain_reject
 HOST-SUFFIX,xml-eu-v4.adscholars.com,Domain_reject
-HOST-SUFFIX,xml-eu-v4.adsfloow.net,Domain_reject
 HOST-SUFFIX,xml-eu-v4.adverttise.com,Domain_reject
 HOST-SUFFIX,xml-eu-v4.adxpoint.com,Domain_reject
 HOST-SUFFIX,xml-eu-v4.agilitydigitalmedia.com,Domain_reject
@@ -71482,7 +71482,6 @@ HOST-SUFFIX,xml-eu.srvqck9.com,Domain_reject
 HOST-SUFFIX,xml-v4.9versemedia.com,Domain_reject
 HOST-SUFFIX,xml-v4.a1.0network.com,Domain_reject
 HOST-SUFFIX,xml-v4.adscholars.com,Domain_reject
-HOST-SUFFIX,xml-v4.adsfloow.net,Domain_reject
 HOST-SUFFIX,xml-v4.adtapmedia.com,Domain_reject
 HOST-SUFFIX,xml-v4.adverttise.com,Domain_reject
 HOST-SUFFIX,xml-v4.adzreach.com,Domain_reject
@@ -71528,7 +71527,6 @@ HOST-SUFFIX,xml.adopt.media,Domain_reject
 HOST-SUFFIX,xml.adportonic.com,Domain_reject
 HOST-SUFFIX,xml.adservezme.com,Domain_reject
 HOST-SUFFIX,xml.adservtday.com,Domain_reject
-HOST-SUFFIX,xml.adsfloow.net,Domain_reject
 HOST-SUFFIX,xml.adverttise.com,Domain_reject
 HOST-SUFFIX,xml.adxpoint.com,Domain_reject
 HOST-SUFFIX,xml.audienceye.com,Domain_reject

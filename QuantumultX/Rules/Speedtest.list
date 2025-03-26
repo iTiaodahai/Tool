@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 991
+# 规则统计: 993
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,40gspeedtest.mnsi.net,Speedtest
@@ -403,6 +403,7 @@ HOST,speedtest.cg.shawcable.net,Speedtest
 HOST,speedtest.clarkson.edu,Speedtest
 HOST,speedtest.cod4-server.com,Speedtest
 HOST,speedtest.cogeco.ca,Speedtest
+HOST,speedtest.conectaamazonia.com.br,Speedtest
 HOST,speedtest.connectbv8.com.br,Speedtest
 HOST,speedtest.coopesantos.com,Speedtest
 HOST,speedtest.coreix.net,Speedtest
@@ -700,6 +701,7 @@ HOST,speedtest3.dal.nxlink.com,Speedtest
 HOST,speedtest3.sasknet.sk.ca,Speedtest
 HOST,speedtest3.vodafone.com.tr,Speedtest
 HOST,speedtest3.westmancom.com,Speedtest
+HOST,speedtest4.vodafone.com.tr,Speedtest
 HOST,speedtest5.fybercom.net,Speedtest
 HOST,speedtest6.vodafone.com.tr,Speedtest
 HOST,speedtest8.vodafone.com.tr,Speedtest

@@ -1,5 +1,5 @@
 # 规则名称: Domain_CN
-# 规则统计: 50
+# 规则统计: 41
 
 HOST,alibaba.cdn.steampipe.steamcontent.com,Domain_CN
 HOST,assets1.xboxlive.cn,Domain_CN
@@ -41,13 +41,4 @@ HOST-KEYWORD,120399.xyz,Domain_CN
 HOST-KEYWORD,digicert.com,Domain_CN
 HOST-KEYWORD,edgesrv.com,Domain_CN
 HOST-KEYWORD,globalsign.com,Domain_CN
-IP-CIDR,152.89.168.0/24,Domain_CN
-IP-CIDR,154.17.237.0/24,Domain_CN
-IP-CIDR,156.229.160.0/24,Domain_CN
-IP-CIDR,188.68.240.0/24,Domain_CN
-IP-CIDR,193.31.24.0/24,Domain_CN
-IP-CIDR,34.92.173.0/24,Domain_CN
-IP-CIDR,35.201.189.0/24,Domain_CN
 IP-CIDR,43.160.144.0/24,Domain_CN
-IP-CIDR,46.3.101.0/24,Domain_CN
-IP-CIDR,46.3.104.0/24,Domain_CN

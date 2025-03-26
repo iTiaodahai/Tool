@@ -1,5 +1,5 @@
 # 规则名称: skk_reject
-# 规则统计: 70610
+# 规则统计: 70608
 
 HOST,03.lzzncm.com,skk_reject
 HOST,04.lzzncm.com,skk_reject
@@ -4428,6 +4428,7 @@ HOST-SUFFIX,adsfac.us,skk_reject
 HOST-SUFFIX,adsfactor.net,skk_reject
 HOST-SUFFIX,adsfan.net,skk_reject
 HOST-SUFFIX,adsfcdn.com,skk_reject
+HOST-SUFFIX,adsfloow.net,skk_reject
 HOST-SUFFIX,adsfs-sdkconfig.heytapimage.com,skk_reject
 HOST-SUFFIX,adsfs.oppomobile.com,skk_reject
 HOST-SUFFIX,adsfundi.com,skk_reject
@@ -6870,6 +6871,7 @@ HOST-SUFFIX,analytics.unand.ac.id,skk_reject
 HOST-SUFFIX,analytics.underarmour.com,skk_reject
 HOST-SUFFIX,analytics.unibuddy.co,skk_reject
 HOST-SUFFIX,analytics.unilogcorp.com,skk_reject
+HOST-SUFFIX,analytics.unity3d.com,skk_reject
 HOST-SUFFIX,analytics.unive.nl,skk_reject
 HOST-SUFFIX,analytics.unsw.edu.au,skk_reject
 HOST-SUFFIX,analytics.upworthy.com,skk_reject
@@ -12629,7 +12631,6 @@ HOST-SUFFIX,collect.allianzcinema.ch,skk_reject
 HOST-SUFFIX,collect.allianzdriveincinema.ch,skk_reject
 HOST-SUFFIX,collect.alphastream.io,skk_reject
 HOST-SUFFIX,collect.analyse.lnearn.com,skk_reject
-HOST-SUFFIX,collect.analytics.unity3d.com,skk_reject
 HOST-SUFFIX,collect.ansons.de,skk_reject
 HOST-SUFFIX,collect.asics.com,skk_reject
 HOST-SUFFIX,collect.babybus.com,skk_reject
@@ -68879,7 +68880,6 @@ HOST-SUFFIX,xmindchina.net,skk_reject
 HOST-SUFFIX,xmkmryu.icu,skk_reject
 HOST-SUFFIX,xml-api.online,skk_reject
 HOST-SUFFIX,xml-eu-v4.adscholars.com,skk_reject
-HOST-SUFFIX,xml-eu-v4.adsfloow.net,skk_reject
 HOST-SUFFIX,xml-eu-v4.adverttise.com,skk_reject
 HOST-SUFFIX,xml-eu-v4.adxpoint.com,skk_reject
 HOST-SUFFIX,xml-eu-v4.agilitydigitalmedia.com,skk_reject
@@ -68908,7 +68908,6 @@ HOST-SUFFIX,xml-eu.srvqck9.com,skk_reject
 HOST-SUFFIX,xml-v4.9versemedia.com,skk_reject
 HOST-SUFFIX,xml-v4.a1.0network.com,skk_reject
 HOST-SUFFIX,xml-v4.adscholars.com,skk_reject
-HOST-SUFFIX,xml-v4.adsfloow.net,skk_reject
 HOST-SUFFIX,xml-v4.adtapmedia.com,skk_reject
 HOST-SUFFIX,xml-v4.adverttise.com,skk_reject
 HOST-SUFFIX,xml-v4.adzreach.com,skk_reject
@@ -68954,7 +68953,6 @@ HOST-SUFFIX,xml.adopt.media,skk_reject
 HOST-SUFFIX,xml.adportonic.com,skk_reject
 HOST-SUFFIX,xml.adservezme.com,skk_reject
 HOST-SUFFIX,xml.adservtday.com,skk_reject
-HOST-SUFFIX,xml.adsfloow.net,skk_reject
 HOST-SUFFIX,xml.adverttise.com,skk_reject
 HOST-SUFFIX,xml.adxpoint.com,skk_reject
 HOST-SUFFIX,xml.audienceye.com,skk_reject

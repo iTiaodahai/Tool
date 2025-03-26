@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 770
+# 规则统计: 804
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,androidpolice.com
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,ant.design
 DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,apernet.io
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkmirror.com
@@ -80,6 +81,7 @@ DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,azure-mobile.net
+DOMAIN-SUFFIX,azurecontainer.io
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,bad.news
 DOMAIN-SUFFIX,bandcamp.com
@@ -99,6 +101,7 @@ DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitly.com
 DOMAIN-SUFFIX,bitmex.com
@@ -128,6 +131,7 @@ DOMAIN-SUFFIX,cbslocal.com
 DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,cdpn.io
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,ch
 DOMAIN-SUFFIX,change.org
@@ -148,6 +152,10 @@ DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,codecov.io
+DOMAIN-SUFFIX,codepen.io
+DOMAIN-SUFFIX,codesandbox.io
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coindesk.com
 DOMAIN-SUFFIX,coinex.com
@@ -156,11 +164,13 @@ DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,cosplay-jav.com
 DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,coveralls.io
 DOMAIN-SUFFIX,cpuid.com
 DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,curseforge.com
+DOMAIN-SUFFIX,cuty.io
 DOMAIN-SUFFIX,cy
 DOMAIN-SUFFIX,cz
 DOMAIN-SUFFIX,dailymail.com
@@ -214,6 +224,7 @@ DOMAIN-SUFFIX,elasticbeanstalk.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,eroterest.net
+DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,eu.org
@@ -256,17 +267,23 @@ DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,gartner.com
+DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,gcld-line.com
+DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gd
 DOMAIN-SUFFIX,geekbench.com
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getchu.com
+DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gettyimages.com
 DOMAIN-SUFFIX,gg
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghostery.com
+DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubcopilot.com
@@ -274,9 +291,11 @@ DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gitkraken.com
 DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,gl
 DOMAIN-SUFFIX,gle
 DOMAIN-SUFFIX,glitch.com
+DOMAIN-SUFFIX,globalping.io
 DOMAIN-SUFFIX,globo.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmodules.com
@@ -289,7 +308,9 @@ DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,googl.com
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,grammarly.io
 DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,greenhouse.io
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,gs
 DOMAIN-SUFFIX,gstatic.com
@@ -339,8 +360,8 @@ DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instatus.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,intodns.com
-DOMAIN-SUFFIX,io
 DOMAIN-SUFFIX,ip-scan.adspower.net
+DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,is
 DOMAIN-SUFFIX,issuu.com
@@ -412,22 +433,27 @@ DOMAIN-SUFFIX,makerworld.com
 DOMAIN-SUFFIX,malwarebytes.com
 DOMAIN-SUFFIX,manhuabika.com
 DOMAIN-SUFFIX,mapbox.com
+DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,mayoclinic.org
 DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meetup.com
+DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacritic.com
+DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,mil
 DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftforum.net
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,mixcloud.com
 DOMAIN-SUFFIX,mn
 DOMAIN-SUFFIX,modrinth.com
@@ -462,6 +488,7 @@ DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,nownews.com
 DOMAIN-SUFFIX,npm.im
+DOMAIN-SUFFIX,npm.io
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,nsfwr34.com
@@ -480,6 +507,7 @@ DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,one.com
 DOMAIN-SUFFIX,opencollective.com
+DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,oracle.com
@@ -561,6 +589,7 @@ DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,se
 DOMAIN-SUFFIX,sendbird.com
 DOMAIN-SUFFIX,sendgrid.net
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,serverfault.com
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,sex.com
@@ -569,7 +598,10 @@ DOMAIN-SUFFIX,sfmcompile.club
 DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,sh
 DOMAIN-SUFFIX,shadowsocks.org
+DOMAIN-SUFFIX,shattered.io
+DOMAIN-SUFFIX,short.io
 DOMAIN-SUFFIX,shutterstock.com
+DOMAIN-SUFFIX,shw.io
 DOMAIN-SUFFIX,si
 DOMAIN-SUFFIX,signal.art
 DOMAIN-SUFFIX,signal.org
@@ -600,6 +632,7 @@ DOMAIN-SUFFIX,south-plus.org
 DOMAIN-SUFFIX,spankbang.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,st
 DOMAIN-SUFFIX,stackblitz.com
 DOMAIN-SUFFIX,stackexchange.com
@@ -671,6 +704,7 @@ DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,updownradar.com
 DOMAIN-SUFFIX,uptimerobot.com
 DOMAIN-SUFFIX,uptodown.com
+DOMAIN-SUFFIX,urlscan.io
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,usertesting.com
 DOMAIN-SUFFIX,v2ex.com
