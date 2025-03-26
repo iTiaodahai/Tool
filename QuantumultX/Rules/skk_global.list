@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 769
+# 规则统计: 770
 
 HOST,ccmdl.adobe.com,skk_global
 HOST,ees.elsevier.com,skk_global
@@ -371,6 +371,7 @@ HOST-SUFFIX,justdns.info,skk_global
 HOST-SUFFIX,kagi.com,skk_global
 HOST-SUFFIX,kakao.com,skk_global
 HOST-SUFFIX,kde.org,skk_global
+HOST-SUFFIX,kick.com,skk_global
 HOST-SUFFIX,kik.com,skk_global
 HOST-SUFFIX,kisscos.net,skk_global
 HOST-SUFFIX,ko-fi.com,skk_global

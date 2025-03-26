@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 769
+# 规则统计: 770
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
@@ -371,6 +371,7 @@ DOMAIN-SUFFIX,justdns.info
 DOMAIN-SUFFIX,kagi.com
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kde.org
+DOMAIN-SUFFIX,kick.com
 DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,kisscos.net
 DOMAIN-SUFFIX,ko-fi.com

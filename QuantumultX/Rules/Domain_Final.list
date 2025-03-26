@@ -1,5 +1,5 @@
 # 规则名称: Domain_Final
-# 规则统计: 32510
+# 规则统计: 32511
 
 HOST,123av.com,Domain_Final
 HOST,5721004.xyz,Domain_Final
@@ -16440,6 +16440,7 @@ HOST-SUFFIX,khotruyentranhx.com,Domain_Final
 HOST-SUFFIX,kiad.ac.uk,Domain_Final
 HOST-SUFFIX,kichiku-doujinko.com,Domain_Final
 HOST-SUFFIX,kichikuou.com,Domain_Final
+HOST-SUFFIX,kick.com,Domain_Final
 HOST-SUFFIX,kickporn.com,Domain_Final
 HOST-SUFFIX,kickshatchannel.com,Domain_Final
 HOST-SUFFIX,kicksnike1.com,Domain_Final
