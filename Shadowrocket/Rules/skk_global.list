@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 804
+# 规则统计: 824
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,ac
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,activated.win
+DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,adidas.com
@@ -41,6 +42,7 @@ DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,airav.cc
+DOMAIN-SUFFIX,airav.io
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,amazon.com
@@ -141,6 +143,7 @@ DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,circleci.com
 DOMAIN-SUFFIX,cisco.com
+DOMAIN-SUFFIX,cla-assistant.io
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare.com
@@ -187,6 +190,7 @@ DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dev
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,deviantart.net
+DOMAIN-SUFFIX,dialgrams.net
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,discourse.group
@@ -207,6 +211,7 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,doujins.com
 DOMAIN-SUFFIX,downdetector.com
 DOMAIN-SUFFIX,downdetectorapi.com
+DOMAIN-SUFFIX,draw.io
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,duckduckgo.com
@@ -230,6 +235,7 @@ DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,explainthis.io
 DOMAIN-SUFFIX,expressvpn.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,f8.com
@@ -255,6 +261,7 @@ DOMAIN-SUFFIX,fixupx.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flipkart.com
+DOMAIN-SUFFIX,fly.io
 DOMAIN-SUFFIX,fm
 DOMAIN-SUFFIX,fo
 DOMAIN-SUFFIX,forbes.com
@@ -263,6 +270,7 @@ DOMAIN-SUFFIX,fr
 DOMAIN-SUFFIX,freepik.com
 DOMAIN-SUFFIX,fuq.com
 DOMAIN-SUFFIX,fxtwitter.com
+DOMAIN-SUFFIX,fydeos.io
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,gameloft.com
@@ -282,6 +290,7 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghostery.com
 DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
@@ -315,6 +324,7 @@ DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,gs
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gumroad.com
+DOMAIN-SUFFIX,guru
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
@@ -335,6 +345,7 @@ DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,holopin.io
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,huggingface.co
@@ -349,6 +360,7 @@ DOMAIN-SUFFIX,ietf.org
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,iheart.com
 DOMAIN-SUFFIX,iloveimg.com
+DOMAIN-SUFFIX,imagekit.io
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,imo.im
@@ -369,7 +381,6 @@ DOMAIN-SUFFIX,istockphoto.com
 DOMAIN-SUFFIX,it
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,ixxx.com
-DOMAIN-SUFFIX,jav.guru
 DOMAIN-SUFFIX,jav.pw
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,javbus.com
@@ -422,6 +433,7 @@ DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,list-manage.com
 DOMAIN-SUFFIX,localazy.com
+DOMAIN-SUFFIX,logto.io
 DOMAIN-SUFFIX,lol
 DOMAIN-SUFFIX,ly
 DOMAIN-SUFFIX,lynxjs.org
@@ -475,6 +487,7 @@ DOMAIN-SUFFIX,nest.com
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,newrepublic.com
 DOMAIN-SUFFIX,newsblur.com
+DOMAIN-SUFFIX,nextdns.io
 DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,nextra.site
 DOMAIN-SUFFIX,nhentai.net
@@ -537,11 +550,13 @@ DOMAIN-SUFFIX,plurk.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,porntube.com
+DOMAIN-SUFFIX,prisma.io
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,privacytest.info
 DOMAIN-SUFFIX,privateinternetaccess.com
 DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,producthunt.com
+DOMAIN-SUFFIX,prometheus.io
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,prowritingaid.com
 DOMAIN-SUFFIX,proxmox.com
@@ -554,6 +569,7 @@ DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,raspberrypi.com
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,readme.com
+DOMAIN-SUFFIX,readthedocs.io
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,recombee.com
 DOMAIN-SUFFIX,reddit.com
@@ -638,6 +654,7 @@ DOMAIN-SUFFIX,stackblitz.com
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,startpage.com
+DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,stripchat.com
@@ -662,6 +679,7 @@ DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,tesco.com
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,tfbnw.net
+DOMAIN-SUFFIX,tgstat.com
 DOMAIN-SUFFIX,thaiheadlines.com
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,theinitium.com
@@ -697,6 +715,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twittpr.com
+DOMAIN-SUFFIX,ubuntu-touch.io
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,ui.com
@@ -717,6 +736,7 @@ DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,vivaldi.com
+DOMAIN-SUFFIX,vjav.com
 DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,vn

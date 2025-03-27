@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 804
+# 规则统计: 824
 
 HOST,ccmdl.adobe.com,skk_global
 HOST,ees.elsevier.com,skk_global
@@ -32,6 +32,7 @@ HOST-SUFFIX,abc.xyz,skk_global
 HOST-SUFFIX,ac,skk_global
 HOST-SUFFIX,accountkit.com,skk_global
 HOST-SUFFIX,activated.win,skk_global
+HOST-SUFFIX,adguard-dns.io,skk_global
 HOST-SUFFIX,adguard.com,skk_global
 HOST-SUFFIX,adguard.org,skk_global
 HOST-SUFFIX,adidas.com,skk_global
@@ -41,6 +42,7 @@ HOST-SUFFIX,ai,skk_global
 HOST-SUFFIX,aicoin.com,skk_global
 HOST-SUFFIX,aimoon.com,skk_global
 HOST-SUFFIX,airav.cc,skk_global
+HOST-SUFFIX,airav.io,skk_global
 HOST-SUFFIX,akamai.net,skk_global
 HOST-SUFFIX,akamaihd.net,skk_global
 HOST-SUFFIX,amazon.com,skk_global
@@ -141,6 +143,7 @@ HOST-SUFFIX,chromestatus.com,skk_global
 HOST-SUFFIX,chromium.org,skk_global
 HOST-SUFFIX,circleci.com,skk_global
 HOST-SUFFIX,cisco.com,skk_global
+HOST-SUFFIX,cla-assistant.io,skk_global
 HOST-SUFFIX,cloudapp.net,skk_global
 HOST-SUFFIX,cloudflare-dns.com,skk_global
 HOST-SUFFIX,cloudflare.com,skk_global
@@ -187,6 +190,7 @@ HOST-SUFFIX,deezer.com,skk_global
 HOST-SUFFIX,dev,skk_global
 HOST-SUFFIX,deviantart.com,skk_global
 HOST-SUFFIX,deviantart.net,skk_global
+HOST-SUFFIX,dialgrams.net,skk_global
 HOST-SUFFIX,dialogflow.com,skk_global
 HOST-SUFFIX,digitalocean.com,skk_global
 HOST-SUFFIX,discourse.group,skk_global
@@ -207,6 +211,7 @@ HOST-SUFFIX,docker.com,skk_global
 HOST-SUFFIX,doujins.com,skk_global
 HOST-SUFFIX,downdetector.com,skk_global
 HOST-SUFFIX,downdetectorapi.com,skk_global
+HOST-SUFFIX,draw.io,skk_global
 HOST-SUFFIX,dribbble.com,skk_global
 HOST-SUFFIX,duck.com,skk_global
 HOST-SUFFIX,duckduckgo.com,skk_global
@@ -230,6 +235,7 @@ HOST-SUFFIX,eu,skk_global
 HOST-SUFFIX,eu.org,skk_global
 HOST-SUFFIX,euronews.com,skk_global
 HOST-SUFFIX,exhentai.org,skk_global
+HOST-SUFFIX,explainthis.io,skk_global
 HOST-SUFFIX,expressvpn.com,skk_global
 HOST-SUFFIX,f-droid.org,skk_global
 HOST-SUFFIX,f8.com,skk_global
@@ -255,6 +261,7 @@ HOST-SUFFIX,fixupx.com,skk_global
 HOST-SUFFIX,flickr.com,skk_global
 HOST-SUFFIX,flipboard.com,skk_global
 HOST-SUFFIX,flipkart.com,skk_global
+HOST-SUFFIX,fly.io,skk_global
 HOST-SUFFIX,fm,skk_global
 HOST-SUFFIX,fo,skk_global
 HOST-SUFFIX,forbes.com,skk_global
@@ -263,6 +270,7 @@ HOST-SUFFIX,fr,skk_global
 HOST-SUFFIX,freepik.com,skk_global
 HOST-SUFFIX,fuq.com,skk_global
 HOST-SUFFIX,fxtwitter.com,skk_global
+HOST-SUFFIX,fydeos.io,skk_global
 HOST-SUFFIX,g.co,skk_global
 HOST-SUFFIX,g2.com,skk_global
 HOST-SUFFIX,gameloft.com,skk_global
@@ -282,6 +290,7 @@ HOST-SUFFIX,ggpht.com,skk_global
 HOST-SUFFIX,gh.io,skk_global
 HOST-SUFFIX,ghostery.com,skk_global
 HOST-SUFFIX,git.io,skk_global
+HOST-SUFFIX,gitbook.io,skk_global
 HOST-SUFFIX,github.com,skk_global
 HOST-SUFFIX,github.io,skk_global
 HOST-SUFFIX,githubapp.com,skk_global
@@ -315,6 +324,7 @@ HOST-SUFFIX,grindr.com,skk_global
 HOST-SUFFIX,gs,skk_global
 HOST-SUFFIX,gstatic.com,skk_global
 HOST-SUFFIX,gumroad.com,skk_global
+HOST-SUFFIX,guru,skk_global
 HOST-SUFFIX,gv.com,skk_global
 HOST-SUFFIX,gvt0.com,skk_global
 HOST-SUFFIX,gvt1.com,skk_global
@@ -335,6 +345,7 @@ HOST-SUFFIX,herokuapp.com,skk_global
 HOST-SUFFIX,hetzner.com,skk_global
 HOST-SUFFIX,hinet.net,skk_global
 HOST-SUFFIX,hk01.com,skk_global
+HOST-SUFFIX,holopin.io,skk_global
 HOST-SUFFIX,homedepot.com,skk_global
 HOST-SUFFIX,hostloc.com,skk_global
 HOST-SUFFIX,huggingface.co,skk_global
@@ -349,6 +360,7 @@ HOST-SUFFIX,ietf.org,skk_global
 HOST-SUFFIX,ifixit.com,skk_global
 HOST-SUFFIX,iheart.com,skk_global
 HOST-SUFFIX,iloveimg.com,skk_global
+HOST-SUFFIX,imagekit.io,skk_global
 HOST-SUFFIX,imdb.com,skk_global
 HOST-SUFFIX,imgur.com,skk_global
 HOST-SUFFIX,imo.im,skk_global
@@ -369,7 +381,6 @@ HOST-SUFFIX,istockphoto.com,skk_global
 HOST-SUFFIX,it,skk_global
 HOST-SUFFIX,itasoftware.com,skk_global
 HOST-SUFFIX,ixxx.com,skk_global
-HOST-SUFFIX,jav.guru,skk_global
 HOST-SUFFIX,jav.pw,skk_global
 HOST-SUFFIX,java.com,skk_global
 HOST-SUFFIX,javbus.com,skk_global
@@ -422,6 +433,7 @@ HOST-SUFFIX,lineshoppingseller.com,skk_global
 HOST-SUFFIX,linkedin.com,skk_global
 HOST-SUFFIX,list-manage.com,skk_global
 HOST-SUFFIX,localazy.com,skk_global
+HOST-SUFFIX,logto.io,skk_global
 HOST-SUFFIX,lol,skk_global
 HOST-SUFFIX,ly,skk_global
 HOST-SUFFIX,lynxjs.org,skk_global
@@ -475,6 +487,7 @@ HOST-SUFFIX,nest.com,skk_global
 HOST-SUFFIX,network,skk_global
 HOST-SUFFIX,newrepublic.com,skk_global
 HOST-SUFFIX,newsblur.com,skk_global
+HOST-SUFFIX,nextdns.io,skk_global
 HOST-SUFFIX,nextjs.org,skk_global
 HOST-SUFFIX,nextra.site,skk_global
 HOST-SUFFIX,nhentai.net,skk_global
@@ -537,11 +550,13 @@ HOST-SUFFIX,plurk.com,skk_global
 HOST-SUFFIX,polymer-project.org,skk_global
 HOST-SUFFIX,pornhub.com,skk_global
 HOST-SUFFIX,porntube.com,skk_global
+HOST-SUFFIX,prisma.io,skk_global
 HOST-SUFFIX,prismlauncher.org,skk_global
 HOST-SUFFIX,privacytest.info,skk_global
 HOST-SUFFIX,privateinternetaccess.com,skk_global
 HOST-SUFFIX,probit.com,skk_global
 HOST-SUFFIX,producthunt.com,skk_global
+HOST-SUFFIX,prometheus.io,skk_global
 HOST-SUFFIX,proton.me,skk_global
 HOST-SUFFIX,prowritingaid.com,skk_global
 HOST-SUFFIX,proxmox.com,skk_global
@@ -554,6 +569,7 @@ HOST-SUFFIX,quoracdn.net,skk_global
 HOST-SUFFIX,raspberrypi.com,skk_global
 HOST-SUFFIX,rawgit.com,skk_global
 HOST-SUFFIX,readme.com,skk_global
+HOST-SUFFIX,readthedocs.io,skk_global
 HOST-SUFFIX,recaptcha.net,skk_global
 HOST-SUFFIX,recombee.com,skk_global
 HOST-SUFFIX,reddit.com,skk_global
@@ -638,6 +654,7 @@ HOST-SUFFIX,stackblitz.com,skk_global
 HOST-SUFFIX,stackexchange.com,skk_global
 HOST-SUFFIX,stackoverflow.com,skk_global
 HOST-SUFFIX,startpage.com,skk_global
+HOST-SUFFIX,statuspage.io,skk_global
 HOST-SUFFIX,steamcommunity.com,skk_global
 HOST-SUFFIX,strava.com,skk_global
 HOST-SUFFIX,stripchat.com,skk_global
@@ -662,6 +679,7 @@ HOST-SUFFIX,termius.com,skk_global
 HOST-SUFFIX,tesco.com,skk_global
 HOST-SUFFIX,textnow.me,skk_global
 HOST-SUFFIX,tfbnw.net,skk_global
+HOST-SUFFIX,tgstat.com,skk_global
 HOST-SUFFIX,thaiheadlines.com,skk_global
 HOST-SUFFIX,theguardian.com,skk_global
 HOST-SUFFIX,theinitium.com,skk_global
@@ -697,6 +715,7 @@ HOST-SUFFIX,twimg.com,skk_global
 HOST-SUFFIX,twitpic.com,skk_global
 HOST-SUFFIX,twitter.com,skk_global
 HOST-SUFFIX,twittpr.com,skk_global
+HOST-SUFFIX,ubuntu-touch.io,skk_global
 HOST-SUFFIX,ubuntu.com,skk_global
 HOST-SUFFIX,udn.com,skk_global
 HOST-SUFFIX,ui.com,skk_global
@@ -717,6 +736,7 @@ HOST-SUFFIX,vikacg.com,skk_global
 HOST-SUFFIX,vimeo.com,skk_global
 HOST-SUFFIX,vine.co,skk_global
 HOST-SUFFIX,vivaldi.com,skk_global
+HOST-SUFFIX,vjav.com,skk_global
 HOST-SUFFIX,vk.com,skk_global
 HOST-SUFFIX,vmware.com,skk_global
 HOST-SUFFIX,vn,skk_global
