@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 70
+# 规则统计: 71
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -32,6 +32,7 @@ HOST-SUFFIX,gitbook.com,Proxy
 HOST-SUFFIX,hcaptcha.com,Proxy
 HOST-SUFFIX,istatmenus.app,Proxy
 HOST-SUFFIX,jivosite.com,Proxy
+HOST-SUFFIX,linux.do,Proxy
 HOST-SUFFIX,loli.net,Proxy
 HOST-SUFFIX,macosicons.com,Proxy
 HOST-SUFFIX,milocdn.com,Proxy

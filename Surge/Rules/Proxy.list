@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 70
+# 规则统计: 71
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,jivosite.com
+DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,macosicons.com
 DOMAIN-SUFFIX,milocdn.com
@@ -71,4 +72,3 @@ IP-CIDR,71.18.74.192/32,no-resolve
 IP-CIDR,89.187.160.36/32,no-resolve
 IP-CIDR,98.96.192.11/32,no-resolve
 IP-CIDR,98.98.70.41/32,no-resolve
-DOMAIN-SUFFIX,linux.do

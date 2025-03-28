@@ -1,5 +1,5 @@
 # 规则名称: Domain_Final
-# 规则统计: 32565
+# 规则统计: 32566
 
 HOST,123av.com,Domain_Final
 HOST,5721004.xyz,Domain_Final
@@ -17174,6 +17174,7 @@ HOST-SUFFIX,linotype.com,Domain_Final
 HOST-SUFFIX,linpie.com,Domain_Final
 HOST-SUFFIX,linseysworld.com,Domain_Final
 HOST-SUFFIX,linst.ac.uk,Domain_Final
+HOST-SUFFIX,linux.do,Domain_Final
 HOST-SUFFIX,linux.org,Domain_Final
 HOST-SUFFIX,linux.org.hk,Domain_Final
 HOST-SUFFIX,linuxfoundation.org,Domain_Final
