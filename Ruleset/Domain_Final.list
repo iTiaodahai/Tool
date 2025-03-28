@@ -29,8 +29,6 @@ DOMAIN,avodmp4s3ww-a.akamaihd.net
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 DOMAIN,az764295.vo.msecnd.net
-DOMAIN,azure.microsoft.com
-DOMAIN,azuremarketplace.microsoft.com
 DOMAIN,azuremigrate.download.prss.microsoft.com
 DOMAIN,azuremigratetest.download.prss.microsoft.com
 DOMAIN,azurestackhub.download.prss.microsoft.com
@@ -81,7 +79,6 @@ DOMAIN,cookbook.fivem.net
 DOMAIN,courier-push-apple.com.akadns.net
 DOMAIN,crash-ingress.fivem.net
 DOMAIN,crashes.fivem.net
-DOMAIN,crl.microsoft.com
 DOMAIN,crl.versign.net
 DOMAIN,d.docs.live.net
 DOMAIN,d19eijqb5qll1w.cloudfront.net
@@ -100,7 +97,6 @@ DOMAIN,db.download.prss.microsoft.com
 DOMAIN,default.exp-tas.com
 DOMAIN,deribit.cdn.prismic.io
 DOMAIN,deutschewelle.h-cdn.com
-DOMAIN,developer.microsoft.com
 DOMAIN,dfs.cloudflare.steamstatic.com
 DOMAIN,digvps.com
 DOMAIN,disk.yandex.com
@@ -113,7 +109,6 @@ DOMAIN,download.dlsite.com
 DOMAIN,download.dm.origin.com
 DOMAIN,download.epicgames.com
 DOMAIN,download.hikarifield.co.jp
-DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,download2.epicgames.com
 DOMAIN,download3.epicgames.com
 DOMAIN,download4.epicgames.com
@@ -172,7 +167,6 @@ DOMAIN,lgelectronics.122.2o7.net
 DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN,linux.do
 DOMAIN,live-patreon-marketing.pantheonsite.io
-DOMAIN,location.microsoft.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,lol.dyn.riotcdn.net
 DOMAIN,lol.secure.dyn.riotcdn.net
@@ -192,7 +186,6 @@ DOMAIN,mpnbenefits.download.prss.microsoft.com
 DOMAIN,mpnbenefitsrtl.download.prss.microsoft.com
 DOMAIN,mpnbenefitsrtluat.download.prss.microsoft.com
 DOMAIN,msconnect.download.prss.microsoft.com
-DOMAIN,mscrl.microsoft.com
 DOMAIN,msdn.download.prss.microsoft.com
 DOMAIN,msdprod-ad.download.prss.microsoft.com
 DOMAIN,msproduct.download.prss.microsoft.com
@@ -220,13 +213,11 @@ DOMAIN,object-web.blue-protocol.com
 DOMAIN,object-web.gundamevolution.jp
 DOMAIN,object.gundamevolution.jp
 DOMAIN,ocsp.int-x3.letsencrypt.org
-DOMAIN,ocsp.microsoft.com
 DOMAIN,oemsoc.download.prss.microsoft.com
 DOMAIN,oemsocuat.download.prss.microsoft.com
 DOMAIN,officecdn.microsoft.com
 DOMAIN,officemkt.download.prss.microsoft.com
 DOMAIN,officemktuat.download.prss.microsoft.com
-DOMAIN,oneocsp.microsoft.com
 DOMAIN,ood.opsource.net
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,osrelease.download.prss.microsoft.com
@@ -251,7 +242,6 @@ DOMAIN,runtime.fivem.net
 DOMAIN,s3-ap-northeast-1.amazonaws.com
 DOMAIN,s3-ap-southeast-2.amazonaws.com
 DOMAIN,search.yahoo.co.jp
-DOMAIN,self.events.data.microsoft.com
 DOMAIN,sentry.fivem.net
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,servers-frontend.fivem.net
@@ -1254,6 +1244,7 @@ DOMAIN-SUFFIX,adobesign.com
 DOMAIN-SUFFIX,adobesigncdn.com
 DOMAIN-SUFFIX,adobespark.com
 DOMAIN-SUFFIX,adobess.com
+DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,adobestock.com
 DOMAIN-SUFFIX,adobetag.com
 DOMAIN-SUFFIX,adobetarget.com
@@ -4046,6 +4037,7 @@ DOMAIN-SUFFIX,bestpremiumpornsite.com
 DOMAIN-SUFFIX,bestrecipes.com.au
 DOMAIN-SUFFIX,bestsexcam.com
 DOMAIN-SUFFIX,bestshoesale2014.net
+DOMAIN-SUFFIX,bestsrv.de
 DOMAIN-SUFFIX,besttitstube.com
 DOMAIN-SUFFIX,besttube4you.com
 DOMAIN-SUFFIX,bestvpn.com
@@ -12424,6 +12416,7 @@ DOMAIN-SUFFIX,goodreaders.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,goodsdunk.net
 DOMAIN-SUFFIX,goodsexporn.org
+DOMAIN-SUFFIX,goodsrv.de
 DOMAIN-SUFFIX,goodtv.com.tw
 DOMAIN-SUFFIX,goodtv.tv
 DOMAIN-SUFFIX,goofind.com
@@ -13077,6 +13070,7 @@ DOMAIN-SUFFIX,happymeal.com
 DOMAIN-SUFFIX,happymeal.com.au
 DOMAIN-SUFFIX,happymealdigital.com
 DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,happysrv.de
 DOMAIN-SUFFIX,haproxy.org
 DOMAIN-SUFFIX,hardanalfucking.com
 DOMAIN-SUFFIX,hardcore-sex-filme.com
@@ -13562,6 +13556,7 @@ DOMAIN-SUFFIX,heyuedi.com
 DOMAIN-SUFFIX,heywire.com
 DOMAIN-SUFFIX,heyzo.com
 DOMAIN-SUFFIX,hf-iphone.com
+DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,hfaes.ac.uk
 DOMAIN-SUFFIX,hfals.ac.uk
 DOMAIN-SUFFIX,hfma.ac.uk
@@ -13939,6 +13934,7 @@ DOMAIN-SUFFIX,hotsexvideo.mobi
 DOMAIN-SUFFIX,hotsexydolls.com
 DOMAIN-SUFFIX,hotshame.com
 DOMAIN-SUFFIX,hotspotshield.com
+DOMAIN-SUFFIX,hotsrv.de
 DOMAIN-SUFFIX,hotstar-cdn.net
 DOMAIN-SUFFIX,hotstar-labs.com
 DOMAIN-SUFFIX,hotstar.com
@@ -15646,6 +15642,8 @@ DOMAIN-SUFFIX,italiatibet.org
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,itcanwait.com
 DOMAIN-SUFFIX,itcfonts.com
+DOMAIN-SUFFIX,itch.io
+DOMAIN-SUFFIX,itch.zone
 DOMAIN-SUFFIX,itchen.ac.uk
 DOMAIN-SUFFIX,iteach.ac.uk
 DOMAIN-SUFFIX,itec.ac.uk
@@ -18308,6 +18306,7 @@ DOMAIN-SUFFIX,megaporno.com.br
 DOMAIN-SUFFIX,megapornpics.com
 DOMAIN-SUFFIX,megaproxy.com
 DOMAIN-SUFFIX,megarotic.com
+DOMAIN-SUFFIX,megasrv.de
 DOMAIN-SUFFIX,megatitsminka.com
 DOMAIN-SUFFIX,megaupload.com
 DOMAIN-SUFFIX,megavideo.com
@@ -20398,6 +20397,7 @@ DOMAIN-SUFFIX,niceanimegames.com
 DOMAIN-SUFFIX,nicehash.com
 DOMAIN-SUFFIX,niceporn.tv
 DOMAIN-SUFFIX,nicer.ac.uk
+DOMAIN-SUFFIX,nicesrv.de
 DOMAIN-SUFFIX,nicesshop.net
 DOMAIN-SUFFIX,nichepornsite.com
 DOMAIN-SUFFIX,nichepornsites.com
@@ -21469,6 +21469,7 @@ DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opendemocracy.net
 DOMAIN-SUFFIX,opendn.xyz
+DOMAIN-SUFFIX,opendns.com
 DOMAIN-SUFFIX,opendroneid.org
 DOMAIN-SUFFIX,opened.ac.uk
 DOMAIN-SUFFIX,openengineeringlaboratory.ac.uk
@@ -21484,6 +21485,7 @@ DOMAIN-SUFFIX,openlibrary.org
 DOMAIN-SUFFIX,openmaps.org
 DOMAIN-SUFFIX,openreality.com
 DOMAIN-SUFFIX,openresty.org
+DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,opensciencelab.ac.uk
 DOMAIN-SUFFIX,opensciencelaboratory.ac.uk
 DOMAIN-SUFFIX,opensea.io
@@ -23044,6 +23046,7 @@ DOMAIN-SUFFIX,powerpointninja.com
 DOMAIN-SUFFIX,powershape-e.com
 DOMAIN-SUFFIX,powershape.com
 DOMAIN-SUFFIX,powershellgallery.com
+DOMAIN-SUFFIX,powersrv.de
 DOMAIN-SUFFIX,powersunitedvr.com
 DOMAIN-SUFFIX,powia.ac.uk
 DOMAIN-SUFFIX,pp-soc.com
@@ -23513,6 +23516,7 @@ DOMAIN-SUFFIX,quicinc.com
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickiepage.com
 DOMAIN-SUFFIX,quickoffice.com
+DOMAIN-SUFFIX,quicksrv.de
 DOMAIN-SUFFIX,quicktake.video
 DOMAIN-SUFFIX,quicktime.cc
 DOMAIN-SUFFIX,quicktime.com
@@ -28736,6 +28740,7 @@ DOMAIN-SUFFIX,ultimaforever.com
 DOMAIN-SUFFIX,ultimaonline.com
 DOMAIN-SUFFIX,ultradonkey.com
 DOMAIN-SUFFIX,ultralab.ac.uk
+DOMAIN-SUFFIX,ultrasrv.de
 DOMAIN-SUFFIX,ultrasurf.us
 DOMAIN-SUFFIX,ultravpn.com
 DOMAIN-SUFFIX,ultravpn.fr
@@ -28744,6 +28749,7 @@ DOMAIN-SUFFIX,ultrayoungsex.com
 DOMAIN-SUFFIX,ulyssesapp.com
 DOMAIN-SUFFIX,umagazine.com.hk
 DOMAIN-SUFFIX,umass.edu
+DOMAIN-SUFFIX,umbrella.com
 DOMAIN-SUFFIX,umds.ac.uk
 DOMAIN-SUFFIX,umich.edu
 DOMAIN-SUFFIX,umis.ac.uk
@@ -30469,6 +30475,7 @@ DOMAIN-SUFFIX,whystudyenglish.ac.uk
 DOMAIN-SUFFIX,whystudylanguages.ac.uk
 DOMAIN-SUFFIX,whystudymaterials.ac.uk
 DOMAIN-SUFFIX,whyx.org
+DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,wias.ac.uk
 DOMAIN-SUFFIX,wicn.ac.uk
 DOMAIN-SUFFIX,widevine.com

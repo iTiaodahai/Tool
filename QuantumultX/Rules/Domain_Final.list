@@ -1,5 +1,5 @@
 # 规则名称: Domain_Final
-# 规则统计: 32558
+# 规则统计: 32565
 
 HOST,123av.com,Domain_Final
 HOST,5721004.xyz,Domain_Final
@@ -32,8 +32,6 @@ HOST,avodmp4s3ww-a.akamaihd.net,Domain_Final
 HOST,az416426.vo.msecnd.net,Domain_Final
 HOST,az668014.vo.msecnd.net,Domain_Final
 HOST,az764295.vo.msecnd.net,Domain_Final
-HOST,azure.microsoft.com,Domain_Final
-HOST,azuremarketplace.microsoft.com,Domain_Final
 HOST,azuremigrate.download.prss.microsoft.com,Domain_Final
 HOST,azuremigratetest.download.prss.microsoft.com,Domain_Final
 HOST,azurestackhub.download.prss.microsoft.com,Domain_Final
@@ -84,7 +82,6 @@ HOST,cookbook.fivem.net,Domain_Final
 HOST,courier-push-apple.com.akadns.net,Domain_Final
 HOST,crash-ingress.fivem.net,Domain_Final
 HOST,crashes.fivem.net,Domain_Final
-HOST,crl.microsoft.com,Domain_Final
 HOST,crl.versign.net,Domain_Final
 HOST,d.docs.live.net,Domain_Final
 HOST,d19eijqb5qll1w.cloudfront.net,Domain_Final
@@ -103,7 +100,6 @@ HOST,db.download.prss.microsoft.com,Domain_Final
 HOST,default.exp-tas.com,Domain_Final
 HOST,deribit.cdn.prismic.io,Domain_Final
 HOST,deutschewelle.h-cdn.com,Domain_Final
-HOST,developer.microsoft.com,Domain_Final
 HOST,dfs.cloudflare.steamstatic.com,Domain_Final
 HOST,digvps.com,Domain_Final
 HOST,disk.yandex.com,Domain_Final
@@ -116,7 +112,6 @@ HOST,download.dlsite.com,Domain_Final
 HOST,download.dm.origin.com,Domain_Final
 HOST,download.epicgames.com,Domain_Final
 HOST,download.hikarifield.co.jp,Domain_Final
-HOST,download.visualstudio.microsoft.com,Domain_Final
 HOST,download2.epicgames.com,Domain_Final
 HOST,download3.epicgames.com,Domain_Final
 HOST,download4.epicgames.com,Domain_Final
@@ -175,7 +170,6 @@ HOST,lgelectronics.122.2o7.net,Domain_Final
 HOST,linkedin.sc.omtrdc.net,Domain_Final
 HOST,linux.do,Domain_Final
 HOST,live-patreon-marketing.pantheonsite.io,Domain_Final
-HOST,location.microsoft.com,Domain_Final
 HOST,login.microsoftonline.com,Domain_Final
 HOST,lol.dyn.riotcdn.net,Domain_Final
 HOST,lol.secure.dyn.riotcdn.net,Domain_Final
@@ -195,7 +189,6 @@ HOST,mpnbenefits.download.prss.microsoft.com,Domain_Final
 HOST,mpnbenefitsrtl.download.prss.microsoft.com,Domain_Final
 HOST,mpnbenefitsrtluat.download.prss.microsoft.com,Domain_Final
 HOST,msconnect.download.prss.microsoft.com,Domain_Final
-HOST,mscrl.microsoft.com,Domain_Final
 HOST,msdn.download.prss.microsoft.com,Domain_Final
 HOST,msdprod-ad.download.prss.microsoft.com,Domain_Final
 HOST,msproduct.download.prss.microsoft.com,Domain_Final
@@ -223,13 +216,11 @@ HOST,object-web.blue-protocol.com,Domain_Final
 HOST,object-web.gundamevolution.jp,Domain_Final
 HOST,object.gundamevolution.jp,Domain_Final
 HOST,ocsp.int-x3.letsencrypt.org,Domain_Final
-HOST,ocsp.microsoft.com,Domain_Final
 HOST,oemsoc.download.prss.microsoft.com,Domain_Final
 HOST,oemsocuat.download.prss.microsoft.com,Domain_Final
 HOST,officecdn.microsoft.com,Domain_Final
 HOST,officemkt.download.prss.microsoft.com,Domain_Final
 HOST,officemktuat.download.prss.microsoft.com,Domain_Final
-HOST,oneocsp.microsoft.com,Domain_Final
 HOST,ood.opsource.net,Domain_Final
 HOST,origin-a.akamaihd.net,Domain_Final
 HOST,osrelease.download.prss.microsoft.com,Domain_Final
@@ -254,7 +245,6 @@ HOST,runtime.fivem.net,Domain_Final
 HOST,s3-ap-northeast-1.amazonaws.com,Domain_Final
 HOST,s3-ap-southeast-2.amazonaws.com,Domain_Final
 HOST,search.yahoo.co.jp,Domain_Final
-HOST,self.events.data.microsoft.com,Domain_Final
 HOST,sentry.fivem.net,Domain_Final
 HOST,servd-anthropic-website.b-cdn.net,Domain_Final
 HOST,servers-frontend.fivem.net,Domain_Final
@@ -1257,6 +1247,7 @@ HOST-SUFFIX,adobesign.com,Domain_Final
 HOST-SUFFIX,adobesigncdn.com,Domain_Final
 HOST-SUFFIX,adobespark.com,Domain_Final
 HOST-SUFFIX,adobess.com,Domain_Final
+HOST-SUFFIX,adobestats.io,Domain_Final
 HOST-SUFFIX,adobestock.com,Domain_Final
 HOST-SUFFIX,adobetag.com,Domain_Final
 HOST-SUFFIX,adobetarget.com,Domain_Final
@@ -4049,6 +4040,7 @@ HOST-SUFFIX,bestpremiumpornsite.com,Domain_Final
 HOST-SUFFIX,bestrecipes.com.au,Domain_Final
 HOST-SUFFIX,bestsexcam.com,Domain_Final
 HOST-SUFFIX,bestshoesale2014.net,Domain_Final
+HOST-SUFFIX,bestsrv.de,Domain_Final
 HOST-SUFFIX,besttitstube.com,Domain_Final
 HOST-SUFFIX,besttube4you.com,Domain_Final
 HOST-SUFFIX,bestvpn.com,Domain_Final
@@ -12427,6 +12419,7 @@ HOST-SUFFIX,goodreaders.com,Domain_Final
 HOST-SUFFIX,goodreads.com,Domain_Final
 HOST-SUFFIX,goodsdunk.net,Domain_Final
 HOST-SUFFIX,goodsexporn.org,Domain_Final
+HOST-SUFFIX,goodsrv.de,Domain_Final
 HOST-SUFFIX,goodtv.com.tw,Domain_Final
 HOST-SUFFIX,goodtv.tv,Domain_Final
 HOST-SUFFIX,goofind.com,Domain_Final
@@ -13080,6 +13073,7 @@ HOST-SUFFIX,happymeal.com,Domain_Final
 HOST-SUFFIX,happymeal.com.au,Domain_Final
 HOST-SUFFIX,happymealdigital.com,Domain_Final
 HOST-SUFFIX,happyon.jp,Domain_Final
+HOST-SUFFIX,happysrv.de,Domain_Final
 HOST-SUFFIX,haproxy.org,Domain_Final
 HOST-SUFFIX,hardanalfucking.com,Domain_Final
 HOST-SUFFIX,hardcore-sex-filme.com,Domain_Final
@@ -13565,6 +13559,7 @@ HOST-SUFFIX,heyuedi.com,Domain_Final
 HOST-SUFFIX,heywire.com,Domain_Final
 HOST-SUFFIX,heyzo.com,Domain_Final
 HOST-SUFFIX,hf-iphone.com,Domain_Final
+HOST-SUFFIX,hf.co,Domain_Final
 HOST-SUFFIX,hfaes.ac.uk,Domain_Final
 HOST-SUFFIX,hfals.ac.uk,Domain_Final
 HOST-SUFFIX,hfma.ac.uk,Domain_Final
@@ -13942,6 +13937,7 @@ HOST-SUFFIX,hotsexvideo.mobi,Domain_Final
 HOST-SUFFIX,hotsexydolls.com,Domain_Final
 HOST-SUFFIX,hotshame.com,Domain_Final
 HOST-SUFFIX,hotspotshield.com,Domain_Final
+HOST-SUFFIX,hotsrv.de,Domain_Final
 HOST-SUFFIX,hotstar-cdn.net,Domain_Final
 HOST-SUFFIX,hotstar-labs.com,Domain_Final
 HOST-SUFFIX,hotstar.com,Domain_Final
@@ -15649,6 +15645,8 @@ HOST-SUFFIX,italiatibet.org,Domain_Final
 HOST-SUFFIX,itasoftware.com,Domain_Final
 HOST-SUFFIX,itcanwait.com,Domain_Final
 HOST-SUFFIX,itcfonts.com,Domain_Final
+HOST-SUFFIX,itch.io,Domain_Final
+HOST-SUFFIX,itch.zone,Domain_Final
 HOST-SUFFIX,itchen.ac.uk,Domain_Final
 HOST-SUFFIX,iteach.ac.uk,Domain_Final
 HOST-SUFFIX,itec.ac.uk,Domain_Final
@@ -18311,6 +18309,7 @@ HOST-SUFFIX,megaporno.com.br,Domain_Final
 HOST-SUFFIX,megapornpics.com,Domain_Final
 HOST-SUFFIX,megaproxy.com,Domain_Final
 HOST-SUFFIX,megarotic.com,Domain_Final
+HOST-SUFFIX,megasrv.de,Domain_Final
 HOST-SUFFIX,megatitsminka.com,Domain_Final
 HOST-SUFFIX,megaupload.com,Domain_Final
 HOST-SUFFIX,megavideo.com,Domain_Final
@@ -20401,6 +20400,7 @@ HOST-SUFFIX,niceanimegames.com,Domain_Final
 HOST-SUFFIX,nicehash.com,Domain_Final
 HOST-SUFFIX,niceporn.tv,Domain_Final
 HOST-SUFFIX,nicer.ac.uk,Domain_Final
+HOST-SUFFIX,nicesrv.de,Domain_Final
 HOST-SUFFIX,nicesshop.net,Domain_Final
 HOST-SUFFIX,nichepornsite.com,Domain_Final
 HOST-SUFFIX,nichepornsites.com,Domain_Final
@@ -21472,6 +21472,7 @@ HOST-SUFFIX,opencollective.com,Domain_Final
 HOST-SUFFIX,opencreate.org,Domain_Final
 HOST-SUFFIX,opendemocracy.net,Domain_Final
 HOST-SUFFIX,opendn.xyz,Domain_Final
+HOST-SUFFIX,opendns.com,Domain_Final
 HOST-SUFFIX,opendroneid.org,Domain_Final
 HOST-SUFFIX,opened.ac.uk,Domain_Final
 HOST-SUFFIX,openengineeringlaboratory.ac.uk,Domain_Final
@@ -21487,6 +21488,7 @@ HOST-SUFFIX,openlibrary.org,Domain_Final
 HOST-SUFFIX,openmaps.org,Domain_Final
 HOST-SUFFIX,openreality.com,Domain_Final
 HOST-SUFFIX,openresty.org,Domain_Final
+HOST-SUFFIX,openrouter.ai,Domain_Final
 HOST-SUFFIX,opensciencelab.ac.uk,Domain_Final
 HOST-SUFFIX,opensciencelaboratory.ac.uk,Domain_Final
 HOST-SUFFIX,opensea.io,Domain_Final
@@ -23047,6 +23049,7 @@ HOST-SUFFIX,powerpointninja.com,Domain_Final
 HOST-SUFFIX,powershape-e.com,Domain_Final
 HOST-SUFFIX,powershape.com,Domain_Final
 HOST-SUFFIX,powershellgallery.com,Domain_Final
+HOST-SUFFIX,powersrv.de,Domain_Final
 HOST-SUFFIX,powersunitedvr.com,Domain_Final
 HOST-SUFFIX,powia.ac.uk,Domain_Final
 HOST-SUFFIX,pp-soc.com,Domain_Final
@@ -23516,6 +23519,7 @@ HOST-SUFFIX,quicinc.com,Domain_Final
 HOST-SUFFIX,quickconnect.to,Domain_Final
 HOST-SUFFIX,quickiepage.com,Domain_Final
 HOST-SUFFIX,quickoffice.com,Domain_Final
+HOST-SUFFIX,quicksrv.de,Domain_Final
 HOST-SUFFIX,quicktake.video,Domain_Final
 HOST-SUFFIX,quicktime.cc,Domain_Final
 HOST-SUFFIX,quicktime.com,Domain_Final
@@ -28739,6 +28743,7 @@ HOST-SUFFIX,ultimaforever.com,Domain_Final
 HOST-SUFFIX,ultimaonline.com,Domain_Final
 HOST-SUFFIX,ultradonkey.com,Domain_Final
 HOST-SUFFIX,ultralab.ac.uk,Domain_Final
+HOST-SUFFIX,ultrasrv.de,Domain_Final
 HOST-SUFFIX,ultrasurf.us,Domain_Final
 HOST-SUFFIX,ultravpn.com,Domain_Final
 HOST-SUFFIX,ultravpn.fr,Domain_Final
@@ -28747,6 +28752,7 @@ HOST-SUFFIX,ultrayoungsex.com,Domain_Final
 HOST-SUFFIX,ulyssesapp.com,Domain_Final
 HOST-SUFFIX,umagazine.com.hk,Domain_Final
 HOST-SUFFIX,umass.edu,Domain_Final
+HOST-SUFFIX,umbrella.com,Domain_Final
 HOST-SUFFIX,umds.ac.uk,Domain_Final
 HOST-SUFFIX,umich.edu,Domain_Final
 HOST-SUFFIX,umis.ac.uk,Domain_Final
@@ -30472,6 +30478,7 @@ HOST-SUFFIX,whystudyenglish.ac.uk,Domain_Final
 HOST-SUFFIX,whystudylanguages.ac.uk,Domain_Final
 HOST-SUFFIX,whystudymaterials.ac.uk,Domain_Final
 HOST-SUFFIX,whyx.org,Domain_Final
+HOST-SUFFIX,wi-fi.org,Domain_Final
 HOST-SUFFIX,wias.ac.uk,Domain_Final
 HOST-SUFFIX,wicn.ac.uk,Domain_Final
 HOST-SUFFIX,widevine.com,Domain_Final
