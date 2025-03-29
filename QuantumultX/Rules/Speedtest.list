@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 995
+# 规则统计: 999
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,40gspeedtest.mnsi.net,Speedtest
@@ -103,11 +103,13 @@ HOST,lon-hex-speedtest.cloudconnx.net,Speedtest
 HOST,lon-ix1-tptest1.31173.se,Speedtest
 HOST,los-angeles-speedtest.reliablesite.net,Speedtest
 HOST,lsanca-speedtest-ookla-02.st.charter.com,Speedtest
+HOST,lvconnect.brsserver.com.br,Speedtest
 HOST,m1speedtest1.m1net.com.sg,Speedtest
 HOST,mars-speedtest.guzel.net.tr,Speedtest
 HOST,medidor.nortelecom.com.br,Speedtest
 HOST,melndm1speed1.wireline.com.au,Speedtest
 HOST,mensura.cdn-apple.com,Speedtest
+HOST,mgnc.atlantisnet.com.tr,Speedtest
 HOST,mia-eqx1-ookla-1.99.network,Speedtest
 HOST,mia01.screenshot.download,Speedtest
 HOST,miami-speedtest.reliablesite.net,Speedtest
@@ -309,6 +311,7 @@ HOST,speedtest-mel.vocus.net,Speedtest
 HOST,speedtest-mel0.encoo.com.au,Speedtest
 HOST,speedtest-melbourne.macquarietelecom.com,Speedtest
 HOST,speedtest-mia.dish-wireless.com,Speedtest
+HOST,speedtest-msk.megafon.ru,Speedtest
 HOST,speedtest-msk.melbicom.net,Speedtest
 HOST,speedtest-msk.retn.net,Speedtest
 HOST,speedtest-msk.yota.ru,Speedtest
@@ -365,6 +368,7 @@ HOST,speedtest.58243.as,Speedtest
 HOST,speedtest.5x5tele.com,Speedtest
 HOST,speedtest.absolutevalidation.com,Speedtest
 HOST,speedtest.actelecom.com.br,Speedtest
+HOST,speedtest.ade01.launtel.net.au,Speedtest
 HOST,speedtest.aeza.network,Speedtest
 HOST,speedtest.alastyr.com,Speedtest
 HOST,speedtest.albatroznetwork.com.br,Speedtest
