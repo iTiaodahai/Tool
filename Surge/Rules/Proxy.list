@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 71
+# 规则统计: 72
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,milocdn.com
 DOMAIN-SUFFIX,namesilo.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,serv00.com
 DOMAIN-SUFFIX,snipaste.com
@@ -72,4 +73,3 @@ IP-CIDR,71.18.74.192/32,no-resolve
 IP-CIDR,89.187.160.36/32,no-resolve
 IP-CIDR,98.96.192.11/32,no-resolve
 IP-CIDR,98.98.70.41/32,no-resolve
-DOMAIN-SUFFIX,pcbeta.com

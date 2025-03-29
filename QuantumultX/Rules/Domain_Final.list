@@ -1,5 +1,5 @@
 # 规则名称: Domain_Final
-# 规则统计: 32566
+# 规则统计: 32583
 
 HOST,123av.com,Domain_Final
 HOST,5721004.xyz,Domain_Final
@@ -502,7 +502,9 @@ HOST-SUFFIX,1lib.tw,Domain_Final
 HOST-SUFFIX,1mobile.com,Domain_Final
 HOST-SUFFIX,1mobile.tw,Domain_Final
 HOST-SUFFIX,1monsterbeatsbydreus.com,Domain_Final
+HOST-SUFFIX,1password.ca,Domain_Final
 HOST-SUFFIX,1password.com,Domain_Final
+HOST-SUFFIX,1password.eu,Domain_Final
 HOST-SUFFIX,1passwordservices.com,Domain_Final
 HOST-SUFFIX,1point3acres.com,Domain_Final
 HOST-SUFFIX,1pondo.tv,Domain_Final
@@ -962,6 +964,7 @@ HOST-SUFFIX,aabb1802.com,Domain_Final
 HOST-SUFFIX,aabb1803.com,Domain_Final
 HOST-SUFFIX,aacrjournals.org,Domain_Final
 HOST-SUFFIX,aadmv.com,Domain_Final
+HOST-SUFFIX,aadrm.com,Domain_Final
 HOST-SUFFIX,aaex.uk,Domain_Final
 HOST-SUFFIX,aalah.me,Domain_Final
 HOST-SUFFIX,aamacau.com,Domain_Final
@@ -1410,6 +1413,7 @@ HOST-SUFFIX,agedm.tv,Domain_Final
 HOST-SUFFIX,agemys.org,Domain_Final
 HOST-SUFFIX,agendaweek.com,Domain_Final
 HOST-SUFFIX,agenet.ac.uk,Domain_Final
+HOST-SUFFIX,agilebits.com,Domain_Final
 HOST-SUFFIX,agnesb.fr,Domain_Final
 HOST-SUFFIX,agocg.ac.uk,Domain_Final
 HOST-SUFFIX,agoogleaday.com,Domain_Final
@@ -8166,7 +8170,9 @@ HOST-SUFFIX,difangwenge.org,Domain_Final
 HOST-SUFFIX,dify.ai,Domain_Final
 HOST-SUFFIX,digicert-cn.com,Domain_Final
 HOST-SUFFIX,digicert-validation.com,Domain_Final
+HOST-SUFFIX,digicert.co.jp,Domain_Final
 HOST-SUFFIX,digicert.com,Domain_Final
+HOST-SUFFIX,digicert.eu,Domain_Final
 HOST-SUFFIX,digiland.tw,Domain_Final
 HOST-SUFFIX,digimap.ac.uk,Domain_Final
 HOST-SUFFIX,digisfera.com,Domain_Final
@@ -9706,6 +9712,7 @@ HOST-SUFFIX,enterprisebydesign.ac.uk,Domain_Final
 HOST-SUFFIX,enterprisepaging.com,Domain_Final
 HOST-SUFFIX,enterpriseresearch.ac.uk,Domain_Final
 HOST-SUFFIX,enterprisessl.com,Domain_Final
+HOST-SUFFIX,entrust.com,Domain_Final
 HOST-SUFFIX,entrust.net,Domain_Final
 HOST-SUFFIX,entrustdatacard.com,Domain_Final
 HOST-SUFFIX,enveast.ac.uk,Domain_Final
@@ -15733,6 +15740,7 @@ HOST-SUFFIX,iwork.wang,Domain_Final
 HOST-SUFFIX,iwyn138.com,Domain_Final
 HOST-SUFFIX,ixnxx.tv,Domain_Final
 HOST-SUFFIX,ixquick.com,Domain_Final
+HOST-SUFFIX,ixsystems.com,Domain_Final
 HOST-SUFFIX,ixxx.com,Domain_Final
 HOST-SUFFIX,iyalc.com,Domain_Final
 HOST-SUFFIX,iyf.tv,Domain_Final
@@ -18515,6 +18523,7 @@ HOST-SUFFIX,microsoftadvertising.com,Domain_Final
 HOST-SUFFIX,microsoftadvertisingregionalawards.com,Domain_Final
 HOST-SUFFIX,microsoftaffiliates.com,Domain_Final
 HOST-SUFFIX,microsoftapp.net,Domain_Final
+HOST-SUFFIX,microsoftazuread-sso.com,Domain_Final
 HOST-SUFFIX,microsoftazuresponsorships.com,Domain_Final
 HOST-SUFFIX,microsoftcloud.com,Domain_Final
 HOST-SUFFIX,microsoftcloudsummit.com,Domain_Final
@@ -21718,6 +21727,9 @@ HOST-SUFFIX,ozchinese.com,Domain_Final
 HOST-SUFFIX,ozeex.com,Domain_Final
 HOST-SUFFIX,ozodi.org,Domain_Final
 HOST-SUFFIX,ozodlik.org,Domain_Final
+HOST-SUFFIX,ozon.ru,Domain_Final
+HOST-SUFFIX,ozone.ru,Domain_Final
+HOST-SUFFIX,ozonusercontent.com,Domain_Final
 HOST-SUFFIX,ozvoice.org,Domain_Final
 HOST-SUFFIX,ozxw.com,Domain_Final
 HOST-SUFFIX,ozyoyo.com,Domain_Final
@@ -22047,6 +22059,7 @@ HOST-SUFFIX,pca.st,Domain_Final
 HOST-SUFFIX,pcad.ac.uk,Domain_Final
 HOST-SUFFIX,pcae.ac.uk,Domain_Final
 HOST-SUFFIX,pcanywhere.net,Domain_Final
+HOST-SUFFIX,pcbeta.com,Domain_Final
 HOST-SUFFIX,pcc.gov.tw,Domain_Final
 HOST-SUFFIX,pccw.com,Domain_Final
 HOST-SUFFIX,pccwglobal.com,Domain_Final
@@ -22482,6 +22495,8 @@ HOST-SUFFIX,playbydurex.com,Domain_Final
 HOST-SUFFIX,playcover.io,Domain_Final
 HOST-SUFFIX,player.fm,Domain_Final
 HOST-SUFFIX,playerjs.io,Domain_Final
+HOST-SUFFIX,playfab.com,Domain_Final
+HOST-SUFFIX,playfabapi.com,Domain_Final
 HOST-SUFFIX,playforceone.com,Domain_Final
 HOST-SUFFIX,playhearthstone.com,Domain_Final
 HOST-SUFFIX,playmation.com,Domain_Final
@@ -28108,6 +28123,7 @@ HOST-SUFFIX,truebuddha-md.org,Domain_Final
 HOST-SUFFIX,truedepth3d.com,Domain_Final
 HOST-SUFFIX,truedwg.com,Domain_Final
 HOST-SUFFIX,truefi.io,Domain_Final
+HOST-SUFFIX,truenas.com,Domain_Final
 HOST-SUFFIX,trulyergonomic.com,Domain_Final
 HOST-SUFFIX,trunest.com,Domain_Final
 HOST-SUFFIX,truro-penwith.ac.uk,Domain_Final
@@ -29574,6 +29590,7 @@ HOST-SUFFIX,visa.tc,Domain_Final
 HOST-SUFFIX,visabank.org,Domain_Final
 HOST-SUFFIX,visabg.com,Domain_Final
 HOST-SUFFIX,visabusinessinsights.com,Domain_Final
+HOST-SUFFIX,visaca.com,Domain_Final
 HOST-SUFFIX,visacarddesignlab.com,Domain_Final
 HOST-SUFFIX,visacards.com,Domain_Final
 HOST-SUFFIX,visacheckout.net,Domain_Final

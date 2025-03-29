@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 71
+# 规则统计: 72
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -39,6 +39,7 @@ HOST-SUFFIX,milocdn.com,Proxy
 HOST-SUFFIX,namesilo.com,Proxy
 HOST-SUFFIX,nodeseek.com,Proxy
 HOST-SUFFIX,pages.dev,Proxy
+HOST-SUFFIX,pcbeta.com,Proxy
 HOST-SUFFIX,revenuecat.com,Proxy
 HOST-SUFFIX,serv00.com,Proxy
 HOST-SUFFIX,snipaste.com,Proxy
