@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 824
+# 规则统计: 825
 
 HOST,ccmdl.adobe.com,skk_global
 HOST,ees.elsevier.com,skk_global
@@ -503,6 +503,7 @@ HOST-SUFFIX,nownews.com,skk_global
 HOST-SUFFIX,npm.im,skk_global
 HOST-SUFFIX,npm.io,skk_global
 HOST-SUFFIX,npmjs.com,skk_global
+HOST-SUFFIX,npmjs.org,skk_global
 HOST-SUFFIX,npr.org,skk_global
 HOST-SUFFIX,nsfwr34.com,skk_global
 HOST-SUFFIX,nssurge.com,skk_global

@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 824
+# 规则统计: 825
 
 DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
@@ -503,6 +503,7 @@ DOMAIN-SUFFIX,nownews.com
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,npm.io
 DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,nsfwr34.com
 DOMAIN-SUFFIX,nssurge.com

@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1011
+# 规则统计: 1012
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -628,6 +628,7 @@ DOMAIN,speedtest.unitelecom.net.br
 DOMAIN,speedtest.unlimitedfiber.com
 DOMAIN,speedtest.uplinkrr.com.br
 DOMAIN,speedtest.upp.com
+DOMAIN,speedtest.uptelecom-ro.com.br
 DOMAIN,speedtest.us.openinfra.com
 DOMAIN,speedtest.us310.lax.us.ctcsci.com
 DOMAIN,speedtest.uzmansoft.net
