@@ -1,5 +1,5 @@
 # 规则名称: Domain_Final
-# 规则统计: 32583
+# 规则统计: 32584
 
 HOST,123av.com,Domain_Final
 HOST,5721004.xyz,Domain_Final
@@ -6379,6 +6379,7 @@ HOST-SUFFIX,chatgpt.livekit.cloud,Domain_Final
 HOST-SUFFIX,chatgptvideo.xyz,Domain_Final
 HOST-SUFFIX,chatgptvideob.buzz,Domain_Final
 HOST-SUFFIX,chatnook.com,Domain_Final
+HOST-SUFFIX,chatra.io,Domain_Final
 HOST-SUFFIX,chatsex.xxx,Domain_Final
 HOST-SUFFIX,chatter.com,Domain_Final
 HOST-SUFFIX,chatterbate.io,Domain_Final

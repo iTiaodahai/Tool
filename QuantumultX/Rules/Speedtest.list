@@ -1,7 +1,8 @@
 # 规则名称: Speedtest
-# 规则统计: 999
+# 规则统计: 1011
 
 HOST,1010.hkspeedtest.com,Speedtest
+HOST,383-2speedtest.wightman.ca,Speedtest
 HOST,40gspeedtest.mnsi.net,Speedtest
 HOST,a-speedtest.brasildigital.net.br,Speedtest
 HOST,ab-thn-ookla01.air-band.net,Speedtest
@@ -520,6 +521,7 @@ HOST,speedtest.micron21.com,Speedtest
 HOST,speedtest.mirror.digitalpacific.com.au,Speedtest
 HOST,speedtest.mirror.serversaustralia.com.au,Speedtest
 HOST,speedtest.mixam.com.br,Speedtest
+HOST,speedtest.mornington.ca,Speedtest
 HOST,speedtest.msk.ertelecom.ru,Speedtest
 HOST,speedtest.mtnetworks.mn,Speedtest
 HOST,speedtest.multicablehn.com,Speedtest
@@ -600,6 +602,7 @@ HOST,speedtest.syd.mhn.cloud,Speedtest
 HOST,speedtest.syd.netsg.net.au,Speedtest
 HOST,speedtest.syd01.launtel.net.au,Speedtest
 HOST,speedtest.syscom.manaus.br,Speedtest
+HOST,speedtest.systemlifeline.com,Speedtest
 HOST,speedtest.taifo.com.tw,Speedtest
 HOST,speedtest.te.citywest.ca,Speedtest
 HOST,speedtest.team-host.ru,Speedtest
@@ -655,6 +658,7 @@ HOST,speedtest.xsnews.nl,Speedtest
 HOST,speedtest.yless4u.com.au,Speedtest
 HOST,speedtest01.ams6.solcon.nl,Speedtest
 HOST,speedtest01.dns-net.de,Speedtest
+HOST,speedtest01.ehtel.ca,Speedtest
 HOST,speedtest01.o-net.ca,Speedtest
 HOST,speedtest01.srv.hcvlny.alticeusa.net,Speedtest
 HOST,speedtest01.syd1.spintel.net.au,Speedtest
@@ -794,6 +798,8 @@ HOST,st1.scaleway.com,Speedtest
 HOST,st1.tbaytel.net,Speedtest
 HOST,st2.octopustelecom.co.uk,Speedtest
 HOST,st2a.les.net,Speedtest
+HOST,stbrampton.netcrawler.ca,Speedtest
+HOST,stbrampton.rogers.com,Speedtest
 HOST,stbrantford.rogers.com,Speedtest
 HOST,stbrantfordwireless.rogers.com,Speedtest
 HOST,stcalgarywireless.rogers.com,Speedtest
@@ -812,6 +818,8 @@ HOST,sthamilton.netcrawler.ca,Speedtest
 HOST,sthamilton.rogers.com,Speedtest
 HOST,sthamiltonwireless.rogers.com,Speedtest
 HOST,stkelownawireless.rogers.com,Speedtest
+HOST,stkingcity.netcrawler.ca,Speedtest
+HOST,stkingcity.rogers.com,Speedtest
 HOST,stkitchener.rogers.com,Speedtest
 HOST,stkitchenerwireless.rogers.com,Speedtest
 HOST,stleamingtonwireless.rogers.com,Speedtest
@@ -832,6 +840,8 @@ HOST,stnorthyork.netcrawler.ca,Speedtest
 HOST,stnorthyork.rogers.com,Speedtest
 HOST,stnorthyorkwireless.rogers.com,Speedtest
 HOST,stoakville.rogers.com,Speedtest
+HOST,storangeville.rogers.com,Speedtest
+HOST,storangevillewireless.rogers.com,Speedtest
 HOST,stosat-rvlt-01.sys.comcast.net,Speedtest
 HOST,streddeerwireless.rogers.com,Speedtest
 HOST,stsarniawireless.rogers.com,Speedtest
@@ -848,6 +858,8 @@ HOST,stthunderbaywireless.rogers.com,Speedtest
 HOST,sttoronto.rogers.com,Speedtest
 HOST,sttorontowireless.rogers.com,Speedtest
 HOST,stvancouverwireless.rogers.com,Speedtest
+HOST,stvaughan.netcrawler.ca,Speedtest
+HOST,stvaughan.rogers.com,Speedtest
 HOST,stvictoriawireless.rogers.com,Speedtest
 HOST,stwaterloo.netcrawler.ca,Speedtest
 HOST,stwaterloo.rogers.com,Speedtest

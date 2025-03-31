@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 72
+# 规则统计: 73
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -23,6 +23,7 @@ HOST-SUFFIX,ax1x.com,Proxy
 HOST-SUFFIX,back4app.com,Proxy
 HOST-SUFFIX,bittorrent.com,Proxy
 HOST-SUFFIX,cdn-centaurus.com,Proxy
+HOST-SUFFIX,chatra.io,Proxy
 HOST-SUFFIX,claudeusercontent.com,Proxy
 HOST-SUFFIX,crashlytics.com,Proxy
 HOST-SUFFIX,dash-panel.top,Proxy

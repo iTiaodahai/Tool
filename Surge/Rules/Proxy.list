@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 72
+# 规则统计: 73
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,back4app.com
 DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,cdn-centaurus.com
+DOMAIN-SUFFIX,chatra.io
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,dash-panel.top
@@ -73,4 +74,3 @@ IP-CIDR,71.18.74.192/32,no-resolve
 IP-CIDR,89.187.160.36/32,no-resolve
 IP-CIDR,98.96.192.11/32,no-resolve
 IP-CIDR,98.98.70.41/32,no-resolve
-DOMAIN-SUFFIX,chatra.io
