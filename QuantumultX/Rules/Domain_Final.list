@@ -1,5 +1,5 @@
 # 规则名称: Domain_Final
-# 规则统计: 32584
+# 规则统计: 32586
 
 HOST,123av.com,Domain_Final
 HOST,5721004.xyz,Domain_Final
@@ -21178,6 +21178,7 @@ HOST-SUFFIX,nytimg.com,Domain_Final
 HOST-SUFFIX,nytlog.com,Domain_Final
 HOST-SUFFIX,nytstyle.com,Domain_Final
 HOST-SUFFIX,nyu.ac.uk,Domain_Final
+HOST-SUFFIX,nyunews.com,Domain_Final
 HOST-SUFFIX,nz,Domain_Final
 HOST-SUFFIX,nzchinese.com,Domain_Final
 HOST-SUFFIX,nzchinese.net.nz,Domain_Final
@@ -21762,6 +21763,7 @@ HOST-SUFFIX,page3.com,Domain_Final
 HOST-SUFFIX,pagecdn.com,Domain_Final
 HOST-SUFFIX,pagecdn.io,Domain_Final
 HOST-SUFFIX,pages.dev,Domain_Final
+HOST-SUFFIX,pagesix.com,Domain_Final
 HOST-SUFFIX,pagespeedmobilizer.com,Domain_Final
 HOST-SUFFIX,pageview.mobi,Domain_Final
 HOST-SUFFIX,pagodabox.com,Domain_Final

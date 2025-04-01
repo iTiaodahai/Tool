@@ -1,5 +1,5 @@
 # 规则名称: skk_global
-# 规则统计: 825
+# 规则统计: 827
 
 HOST,ccmdl.adobe.com,skk_global
 HOST,ees.elsevier.com,skk_global
@@ -512,6 +512,7 @@ HOST-SUFFIX,nyt.com,skk_global
 HOST-SUFFIX,nytco.com,skk_global
 HOST-SUFFIX,nytimes.com,skk_global
 HOST-SUFFIX,nytstyle.com,skk_global
+HOST-SUFFIX,nyunews.com,skk_global
 HOST-SUFFIX,nz,skk_global
 HOST-SUFFIX,oculus.com,skk_global
 HOST-SUFFIX,oculuscdn.com,skk_global
@@ -528,6 +529,7 @@ HOST-SUFFIX,oracle.com,skk_global
 HOST-SUFFIX,ovpnleaktest.com,skk_global
 HOST-SUFFIX,packagephobia.com,skk_global
 HOST-SUFFIX,page.link,skk_global
+HOST-SUFFIX,pagesix.com,skk_global
 HOST-SUFFIX,party,skk_global
 HOST-SUFFIX,pastebin.com,skk_global
 HOST-SUFFIX,patreon.com,skk_global
