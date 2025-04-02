@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32586
+# 规则统计: 32594
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -283,6 +283,7 @@ HOST,tmdb-image-prod.b-cdn.net,Global
 HOST,translomatic.foxfortmobile.com,Global
 HOST,trial.dlsite.com,Global
 HOST,tronlink-images.s3.us-east-2.amazonaws.com,Global
+HOST,ucarecdn.com,Global
 HOST,uplaypc-s-ubisoft-ww.cdn.ubi.com,Global
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,Global
 HOST,upos-hz-mirrorakam.akamaized.net,Global
@@ -12014,6 +12015,7 @@ HOST-SUFFIX,getgom.com,Global
 HOST-SUFFIX,geti2p.net,Global
 HOST-SUFFIX,getiton.com,Global
 HOST-SUFFIX,getjetso.com,Global
+HOST-SUFFIX,getkoala.com,Global
 HOST-SUFFIX,getlantern.org,Global
 HOST-SUFFIX,getmalus.com,Global
 HOST-SUFFIX,getmdl.io,Global
@@ -13834,6 +13836,7 @@ HOST-SUFFIX,homo.xxx,Global
 HOST-SUFFIX,honawalaan.com,Global
 HOST-SUFFIX,honestpornreviews.com,Global
 HOST-SUFFIX,honey-monitoring.ac.uk,Global
+HOST-SUFFIX,honey.io,Global
 HOST-SUFFIX,honeynet.org,Global
 HOST-SUFFIX,hongjie10.xyz,Global
 HOST-SUFFIX,hongjie11.xyz,Global
@@ -17170,6 +17173,7 @@ HOST-SUFFIX,linkage.ac.uk,Global
 HOST-SUFFIX,linkagecollege.ac.uk,Global
 HOST-SUFFIX,linkedin.at,Global
 HOST-SUFFIX,linkedin.com,Global
+HOST-SUFFIX,linkgraph.com,Global
 HOST-SUFFIX,linkideo.com,Global
 HOST-SUFFIX,linkinglondon.ac.uk,Global
 HOST-SUFFIX,linkjunkies.com,Global
@@ -18436,6 +18440,7 @@ HOST-SUFFIX,mfg-inspector.com,Global
 HOST-SUFFIX,mfmf.club,Global
 HOST-SUFFIX,mfo.ac.uk,Global
 HOST-SUFFIX,mfxmedia.com,Global
+HOST-SUFFIX,mgmtekno.com,Global
 HOST-SUFFIX,mgo-images.com,Global
 HOST-SUFFIX,mgo.com,Global
 HOST-SUFFIX,mgoon.com,Global
@@ -19755,6 +19760,7 @@ HOST-SUFFIX,myyoungmomisnude.com,Global
 HOST-SUFFIX,myyoungwifeisnude.com,Global
 HOST-SUFFIX,myz.info,Global
 HOST-SUFFIX,mzed.com,Global
+HOST-SUFFIX,mzstatic.com,Global
 HOST-SUFFIX,n15zev3w.shop,Global
 HOST-SUFFIX,n3ro.lol,Global
 HOST-SUFFIX,n3ro.net,Global
@@ -24804,6 +24810,7 @@ HOST-SUFFIX,search.com,Global
 HOST-SUFFIX,search.xxx,Global
 HOST-SUFFIX,search.yahoo.co.jp,Global
 HOST-SUFFIX,search25.ac.uk,Global
+HOST-SUFFIX,searchatlas.com,Global
 HOST-SUFFIX,searchtruth.com,Global
 HOST-SUFFIX,searx.me,Global
 HOST-SUFFIX,seas.ac.uk,Global
@@ -32485,6 +32492,7 @@ HOST-KEYWORD,skydrive,Global
 HOST-KEYWORD,sms-activate,Global
 HOST-KEYWORD,speedtest,Global
 HOST-KEYWORD,spotify,Global
+HOST-KEYWORD,streamrecorder.io,Global
 HOST-KEYWORD,telegram,Global
 HOST-KEYWORD,ttvnw,Global
 HOST-KEYWORD,twitter,Global

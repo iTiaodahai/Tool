@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 73
+# 规则统计: 81
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -15,6 +15,7 @@ HOST,missav.ai,Proxy
 HOST,sixyik.com,Proxy
 HOST,surrit.com,Proxy
 HOST,t66y.com,Proxy
+HOST,ucarecdn.com,Proxy
 HOST,yxvm.com,Proxy
 HOST-SUFFIX,1stream.icu,Proxy
 HOST-SUFFIX,alice.ws,Proxy
@@ -29,19 +30,25 @@ HOST-SUFFIX,crashlytics.com,Proxy
 HOST-SUFFIX,dash-panel.top,Proxy
 HOST-SUFFIX,dmit.io,Proxy
 HOST-SUFFIX,font.im,Proxy
+HOST-SUFFIX,getkoala.com,Proxy
 HOST-SUFFIX,gitbook.com,Proxy
 HOST-SUFFIX,hcaptcha.com,Proxy
+HOST-SUFFIX,honey.io,Proxy
 HOST-SUFFIX,istatmenus.app,Proxy
 HOST-SUFFIX,jivosite.com,Proxy
+HOST-SUFFIX,linkgraph.com,Proxy
 HOST-SUFFIX,linux.do,Proxy
 HOST-SUFFIX,loli.net,Proxy
 HOST-SUFFIX,macosicons.com,Proxy
+HOST-SUFFIX,mgmtekno.com,Proxy
 HOST-SUFFIX,milocdn.com,Proxy
+HOST-SUFFIX,mzstatic.com,Proxy
 HOST-SUFFIX,namesilo.com,Proxy
 HOST-SUFFIX,nodeseek.com,Proxy
 HOST-SUFFIX,pages.dev,Proxy
 HOST-SUFFIX,pcbeta.com,Proxy
 HOST-SUFFIX,revenuecat.com,Proxy
+HOST-SUFFIX,searchatlas.com,Proxy
 HOST-SUFFIX,serv00.com,Proxy
 HOST-SUFFIX,snipaste.com,Proxy
 HOST-SUFFIX,srcdn.net,Proxy
@@ -66,6 +73,7 @@ HOST-KEYWORD,nebula-media,Proxy
 HOST-KEYWORD,ntp.org,Proxy
 HOST-KEYWORD,sandai.net,Proxy
 HOST-KEYWORD,sms-activate,Proxy
+HOST-KEYWORD,streamrecorder.io,Proxy
 IP-CIDR,23.205.104.18/32,Proxy
 IP-CIDR,23.205.104.9/32,Proxy
 IP-CIDR,23.218.216.39/32,Proxy

@@ -1,7 +1,6 @@
 # 规则名称: Proxy
-# 规则统计: 73
+# 规则统计: 81
 
-DOMAIN,ucarecdn.com
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
 DOMAIN,69yun69.com
@@ -16,6 +15,7 @@ DOMAIN,missav.ai
 DOMAIN,sixyik.com
 DOMAIN,surrit.com
 DOMAIN,t66y.com
+DOMAIN,ucarecdn.com
 DOMAIN,yxvm.com
 DOMAIN-SUFFIX,1stream.icu
 DOMAIN-SUFFIX,alice.ws
@@ -30,19 +30,25 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,dash-panel.top
 DOMAIN-SUFFIX,dmit.io
 DOMAIN-SUFFIX,font.im
+DOMAIN-SUFFIX,getkoala.com
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,honey.io
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,jivosite.com
+DOMAIN-SUFFIX,linkgraph.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,macosicons.com
+DOMAIN-SUFFIX,mgmtekno.com
 DOMAIN-SUFFIX,milocdn.com
+DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,namesilo.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,searchatlas.com
 DOMAIN-SUFFIX,serv00.com
 DOMAIN-SUFFIX,snipaste.com
 DOMAIN-SUFFIX,srcdn.net
@@ -53,12 +59,6 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,webp.li
 DOMAIN-SUFFIX,xns.one
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,getkoala.com
-DOMAIN-SUFFIX,mgmtekno.com
-DOMAIN-SUFFIX,linkgraph.com
-DOMAIN-SUFFIX,searchatlas.com
-DOMAIN-SUFFIX,honey.io
 DOMAIN-KEYWORD,akile.io
 DOMAIN-KEYWORD,bgp.tools
 DOMAIN-KEYWORD,checkhere.top
