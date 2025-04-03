@@ -2,7 +2,7 @@ name: Serv00-actions
 
 on:
   schedule:
-    - cron: '0 */3 * * *' #每 3 小时运行
+    #- cron: '0 */3 * * *' #每 3 小时运行
   workflow_dispatch:
 
 jobs:
