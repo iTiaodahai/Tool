@@ -1,11 +1,11 @@
-name: Serv00-actions
+#name: Serv00-actions
 
-on:
-  schedule:
+#on:
+  #schedule:
     #- cron: '0 */3 * * *' #每 3 小时运行
-  workflow_dispatch:
+  #workflow_dispatch:
 
-jobs:
+#jobs:
   deploy:
     runs-on: ubuntu-latest
 
