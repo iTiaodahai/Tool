@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32600
+# 规则统计: 32601
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -29713,6 +29713,7 @@ HOST-SUFFIX,vkvideo.ru,Global
 HOST-SUFFIX,vl4x.net,Global
 HOST-SUFFIX,vllcs.org,Global
 HOST-SUFFIX,vlog.xuite.net,Global
+HOST-SUFFIX,vma.cc,Global
 HOST-SUFFIX,vmglobal.net,Global
 HOST-SUFFIX,vmixcore.com,Global
 HOST-SUFFIX,vmmark.com,Global

@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1015
+# 规则统计: 1019
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -244,6 +244,7 @@ HOST,speed09.gonetspeed.com,Speedtest
 HOST,speed1.myascend.ca,Speedtest
 HOST,speed1.spitfireuk.net,Speedtest
 HOST,speed1.syseleven.net,Speedtest
+HOST,speed12.gonetspeed.com,Speedtest
 HOST,speed2.dg-sys.net,Speedtest
 HOST,speed2.fiberlink.pl,Speedtest
 HOST,speed4.snap.net.nz,Speedtest
@@ -564,6 +565,7 @@ HOST,speedtest.quadro.net,Speedtest
 HOST,speedtest.reconn.ru,Speedtest
 HOST,speedtest.redactus.co.uk,Speedtest
 HOST,speedtest.redbirdcommunications.ca,Speedtest
+HOST,speedtest.reycom.cr,Speedtest
 HOST,speedtest.rfchost.net,Speedtest
 HOST,speedtest.rfnow.net,Speedtest
 HOST,speedtest.rit.edu,Speedtest
@@ -635,6 +637,7 @@ HOST,speedtest.uptelecom-ro.com.br,Speedtest
 HOST,speedtest.us.openinfra.com,Speedtest
 HOST,speedtest.us310.lax.us.ctcsci.com,Speedtest
 HOST,speedtest.uzmansoft.net,Speedtest
+HOST,speedtest.vanciscloud.nl,Speedtest
 HOST,speedtest.vc.shawcable.net,Speedtest
 HOST,speedtest.vee.com.tw,Speedtest
 HOST,speedtest.verimek.com,Speedtest
@@ -881,6 +884,7 @@ HOST,syrny-speedtest-ookla-02.st.charter.com,Speedtest
 HOST,t4y-tor-sts1.ser.tek4you.ca,Speedtest
 HOST,tc1.chtm.hinet.net,Speedtest
 HOST,test.accesso.net.br,Speedtest
+HOST,test.beamtelecom.com.br,Speedtest
 HOST,test.infoconnecttelecom.com.br,Speedtest
 HOST,test.internetliontelecom.com.br,Speedtest
 HOST,test.slic.com,Speedtest
