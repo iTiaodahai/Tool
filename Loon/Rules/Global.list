@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32603
+# 规则统计: 32604
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -5479,6 +5479,7 @@ DOMAIN-SUFFIX,btsynckeys.com
 DOMAIN-SUFFIX,btt804.com
 DOMAIN-SUFFIX,btt904.com
 DOMAIN-SUFFIX,bttzyw.com
+DOMAIN-SUFFIX,bttzyw.net
 DOMAIN-SUFFIX,btwrdn.com
 DOMAIN-SUFFIX,buba.ac.uk
 DOMAIN-SUFFIX,bubbaporn.com

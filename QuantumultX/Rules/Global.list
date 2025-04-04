@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32601
+# 规则统计: 32602
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -5479,6 +5479,7 @@ HOST-SUFFIX,btsynckeys.com,Global
 HOST-SUFFIX,btt804.com,Global
 HOST-SUFFIX,btt904.com,Global
 HOST-SUFFIX,bttzyw.com,Global
+HOST-SUFFIX,bttzyw.net,Global
 HOST-SUFFIX,btwrdn.com,Global
 HOST-SUFFIX,buba.ac.uk,Global
 HOST-SUFFIX,bubbaporn.com,Global
