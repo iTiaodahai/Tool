@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32605
+# 规则统计: 32607
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -253,6 +253,7 @@ DOMAIN,servers-live.fivem.net
 DOMAIN,servers-staging.fivem.net
 DOMAIN,servers.fivem.net
 DOMAIN,sessions.bugsnag.com
+DOMAIN,sgminorshort.wechat.com
 DOMAIN,sixyik.com
 DOMAIN,software-static.download.prss.microsoft.com
 DOMAIN,software.download.prss.microsoft.com
@@ -14477,6 +14478,7 @@ DOMAIN-SUFFIX,ibook.eu
 DOMAIN-SUFFIX,ibook.net
 DOMAIN-SUFFIX,ibookpartner.com
 DOMAIN-SUFFIX,ibooksauthor.com
+DOMAIN-SUFFIX,iboysoft.com
 DOMAIN-SUFFIX,ibradome.com
 DOMAIN-SUFFIX,ibros.org
 DOMAIN-SUFFIX,ibss.ac.uk

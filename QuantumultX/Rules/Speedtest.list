@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1029
+# 规则统计: 1035
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -165,6 +165,7 @@ HOST,pauseq4vost1.datamossa.cloud,Speedtest
 HOST,perf-01.ixn.as42689.net,Speedtest
 HOST,perf.keyyo.net,Speedtest
 HOST,postapps.com,Speedtest
+HOST,pvh.speedtest.vipnetconexao.com.br,Speedtest
 HOST,qld-speedtest.spirit.com.au,Speedtest
 HOST,reflector.aberythmic.com,Speedtest
 HOST,sam1speedtest.turktelekom.com.tr,Speedtest
@@ -206,7 +207,9 @@ HOST,spd01-mel.au.superloop.com,Speedtest
 HOST,spd03-syd.au.superloop.com,Speedtest
 HOST,spd33.claro.com.br,Speedtest
 HOST,spd49.claro.com.br,Speedtest
+HOST,spd53.claro.com.br,Speedtest
 HOST,spdms.twincher.ru,Speedtest
+HOST,spdtes.phoenix.net.tr,Speedtest
 HOST,spdtst.xenyth.net,Speedtest
 HOST,spedvae.lodosnet.com.tr,Speedtest
 HOST,speed-mel.gigacomm.net.au,Speedtest
@@ -221,6 +224,7 @@ HOST,speed.econett.com.br,Speedtest
 HOST,speed.fgtelecom.com.br,Speedtest
 HOST,speed.flix.net.tr,Speedtest
 HOST,speed.golddata.net,Speedtest
+HOST,speed.grinternett.com.br,Speedtest
 HOST,speed.lax-1.serverforge.org,Speedtest
 HOST,speed.matrixtelecon.com.br,Speedtest
 HOST,speed.mel.aussiebroadband.com.au,Speedtest
@@ -454,6 +458,7 @@ HOST,speedtest.finovy.com,Speedtest
 HOST,speedtest.fixnet.com.tr,Speedtest
 HOST,speedtest.fra01.fusionflare.cloud,Speedtest
 HOST,speedtest.fra1.hivelocity.net,Speedtest
+HOST,speedtest.gamedoping.com,Speedtest
 HOST,speedtest.gatchina.ru,Speedtest
 HOST,speedtest.gelicon.ru,Speedtest
 HOST,speedtest.getstreamhosting.com,Speedtest
@@ -641,6 +646,7 @@ HOST,speedtest.unlimitedfiber.com,Speedtest
 HOST,speedtest.uplinkrr.com.br,Speedtest
 HOST,speedtest.upp.com,Speedtest
 HOST,speedtest.uptelecom-ro.com.br,Speedtest
+HOST,speedtest.us.mirhosting.net,Speedtest
 HOST,speedtest.us.openinfra.com,Speedtest
 HOST,speedtest.us310.lax.us.ctcsci.com,Speedtest
 HOST,speedtest.uzmansoft.net,Speedtest
