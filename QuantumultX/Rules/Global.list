@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32602
+# 规则统计: 32603
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -2955,6 +2955,7 @@ HOST-SUFFIX,auricularesbeatsbaratosshop.com,Global
 HOST-SUFFIX,auricularesbeatsmarkt.com,Global
 HOST-SUFFIX,auroraoss.com,Global
 HOST-SUFFIX,ausbeatsbydrdre.com,Global
+HOST-SUFFIX,auth.openai.com,Global
 HOST-SUFFIX,auth0.com,Global
 HOST-SUFFIX,authorizeddns.net,Global
 HOST-SUFFIX,authorizeddns.org,Global
@@ -21494,6 +21495,7 @@ HOST-SUFFIX,openart.ai,Global
 HOST-SUFFIX,opencollective.com,Global
 HOST-SUFFIX,opencreate.org,Global
 HOST-SUFFIX,opendemocracy.net,Global
+HOST-SUFFIX,opendesktop.org,Global
 HOST-SUFFIX,opendn.xyz,Global
 HOST-SUFFIX,opendns.com,Global
 HOST-SUFFIX,opendroneid.org,Global
@@ -31403,7 +31405,6 @@ HOST-SUFFIX,xxbbx.com,Global
 HOST-SUFFIX,xxbook.cc,Global
 HOST-SUFFIX,xxbrits.com,Global
 HOST-SUFFIX,xxeronetxx.info,Global
-HOST-SUFFIX,xxfbiaa.xyz,Global
 HOST-SUFFIX,xxgasm.com,Global
 HOST-SUFFIX,xxindianporn.com,Global
 HOST-SUFFIX,xxiqiyiavxx.buzz,Global
