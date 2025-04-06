@@ -1,11 +1,13 @@
 # 规则名称: skk_global
-# 规则统计: 829
+# 规则统计: 834
 
 HOST,ccmdl.adobe.com,skk_global
 HOST,ees.elsevier.com,skk_global
 HOST,help.ubnt.com,skk_global
 HOST,media.steampowered.com,skk_global
+HOST,sglong.wechat.com,skk_global
 HOST,sgminorshort.wechat.com,skk_global
+HOST,sgshort.wechat.com,skk_global
 HOST,store.ui.com.cn,skk_global
 HOST,wego.here.com,skk_global
 HOST-SUFFIX,18comic.org,skk_global
@@ -61,6 +63,7 @@ HOST-SUFFIX,apk-dl.com,skk_global
 HOST-SUFFIX,apkmirror.com,skk_global
 HOST-SUFFIX,apkpure.com,skk_global
 HOST-SUFFIX,apkpure.net,skk_global
+HOST-SUFFIX,apnews.com,skk_global
 HOST-SUFFIX,app,skk_global
 HOST-SUFFIX,appspot.com,skk_global
 HOST-SUFFIX,aptoide.com,skk_global
@@ -495,6 +498,7 @@ HOST-SUFFIX,nextra.site,skk_global
 HOST-SUFFIX,nhentai.net,skk_global
 HOST-SUFFIX,nicehash.com,skk_global
 HOST-SUFFIX,nitter.net,skk_global
+HOST-SUFFIX,nj.com,skk_global
 HOST-SUFFIX,nodeseek.com,skk_global
 HOST-SUFFIX,noip.com,skk_global
 HOST-SUFFIX,nordvpn.com,skk_global
@@ -805,6 +809,7 @@ HOST-SUFFIX,xgroovy.com,skk_global
 HOST-SUFFIX,xhamster.com,skk_global
 HOST-SUFFIX,xhamsterlive.com,skk_global
 HOST-SUFFIX,xhcdn.com,skk_global
+HOST-SUFFIX,xhlive.org,skk_global
 HOST-SUFFIX,xing.com,skk_global
 HOST-SUFFIX,xn--ngstr-lra8j.com,skk_global
 HOST-SUFFIX,xnxx.com,skk_global

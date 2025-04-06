@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32607
+# 规则统计: 32611
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -253,7 +253,9 @@ DOMAIN,servers-live.fivem.net
 DOMAIN,servers-staging.fivem.net
 DOMAIN,servers.fivem.net
 DOMAIN,sessions.bugsnag.com
+DOMAIN,sglong.wechat.com
 DOMAIN,sgminorshort.wechat.com
+DOMAIN,sgshort.wechat.com
 DOMAIN,sixyik.com
 DOMAIN,software-static.download.prss.microsoft.com
 DOMAIN,software.download.prss.microsoft.com
@@ -20673,6 +20675,7 @@ DOMAIN-SUFFIX,nivodi.tv
 DOMAIN-SUFFIX,nivodz.com
 DOMAIN-SUFFIX,nixos.org
 DOMAIN-SUFFIX,niziero.info
+DOMAIN-SUFFIX,nj.com
 DOMAIN-SUFFIX,njactb.org
 DOMAIN-SUFFIX,njav.tv
 DOMAIN-SUFFIX,njncscotlandscolleges.ac.uk
@@ -31107,6 +31110,7 @@ DOMAIN-SUFFIX,xhamster18.desi
 DOMAIN-SUFFIX,xhamster2.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xhlive.org
 DOMAIN-SUFFIX,xhot.pro
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,xhub.tv

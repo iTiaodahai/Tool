@@ -2,7 +2,9 @@ DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
 DOMAIN,help.ubnt.com
 DOMAIN,media.steampowered.com
+DOMAIN,sglong.wechat.com
 DOMAIN,sgminorshort.wechat.com
+DOMAIN,sgshort.wechat.com
 DOMAIN,store.ui.com.cn
 DOMAIN,wego.here.com
 DOMAIN-SUFFIX,18comic.org
@@ -58,6 +60,7 @@ DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkpure.net
+DOMAIN-SUFFIX,apnews.com
 DOMAIN-SUFFIX,app
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,aptoide.com
@@ -492,6 +495,7 @@ DOMAIN-SUFFIX,nextra.site
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,nicehash.com
 DOMAIN-SUFFIX,nitter.net
+DOMAIN-SUFFIX,nj.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,noip.com
 DOMAIN-SUFFIX,nordvpn.com
@@ -802,6 +806,7 @@ DOMAIN-SUFFIX,xgroovy.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xhlive.org
 DOMAIN-SUFFIX,xing.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xnxx.com

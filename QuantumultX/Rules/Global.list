@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32605
+# 规则统计: 32609
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -253,7 +253,9 @@ HOST,servers-live.fivem.net,Global
 HOST,servers-staging.fivem.net,Global
 HOST,servers.fivem.net,Global
 HOST,sessions.bugsnag.com,Global
+HOST,sglong.wechat.com,Global
 HOST,sgminorshort.wechat.com,Global
+HOST,sgshort.wechat.com,Global
 HOST,sixyik.com,Global
 HOST,software-static.download.prss.microsoft.com,Global
 HOST,software.download.prss.microsoft.com,Global
@@ -20673,6 +20675,7 @@ HOST-SUFFIX,nivodi.tv,Global
 HOST-SUFFIX,nivodz.com,Global
 HOST-SUFFIX,nixos.org,Global
 HOST-SUFFIX,niziero.info,Global
+HOST-SUFFIX,nj.com,Global
 HOST-SUFFIX,njactb.org,Global
 HOST-SUFFIX,njav.tv,Global
 HOST-SUFFIX,njncscotlandscolleges.ac.uk,Global
@@ -31107,6 +31110,7 @@ HOST-SUFFIX,xhamster18.desi,Global
 HOST-SUFFIX,xhamster2.com,Global
 HOST-SUFFIX,xhamsterlive.com,Global
 HOST-SUFFIX,xhcdn.com,Global
+HOST-SUFFIX,xhlive.org,Global
 HOST-SUFFIX,xhot.pro,Global
 HOST-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,Global
 HOST-SUFFIX,xhub.tv,Global
