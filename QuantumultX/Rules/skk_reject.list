@@ -1,5 +1,5 @@
 # 规则名称: skk_reject
-# 规则统计: 78230
+# 规则统计: 78234
 
 HOST,03.lzzncm.com,skk_reject
 HOST,04.lzzncm.com,skk_reject
@@ -31324,6 +31324,7 @@ HOST-SUFFIX,ieymhkx.icu,skk_reject
 HOST-SUFFIX,iezxmddndn.com,skk_reject
 HOST-SUFFIX,ifbmqi.dental-worker.com,skk_reject
 HOST-SUFFIX,ifdnzact.com,skk_reject
+HOST-SUFFIX,ifej.cn,skk_reject
 HOST-SUFFIX,iffalh.y-aoyama.jp,skk_reject
 HOST-SUFFIX,iffobi.xyz,skk_reject
 HOST-SUFFIX,ifi-trk.informa.com,skk_reject
@@ -45384,6 +45385,7 @@ HOST-SUFFIX,metrix.emagister.com,skk_reject
 HOST-SUFFIX,metrix.publix.com,skk_reject
 HOST-SUFFIX,metrix.youravon.com,skk_reject
 HOST-SUFFIX,metsaubs.net,skk_reject
+HOST-SUFFIX,mevedyru.com,skk_reject
 HOST-SUFFIX,mevents.trusteer.com,skk_reject
 HOST-SUFFIX,mewgzllnsp.com,skk_reject
 HOST-SUFFIX,mewrutx.top,skk_reject
@@ -54603,6 +54605,7 @@ HOST-SUFFIX,rhybey.gap.co.jp,skk_reject
 HOST-SUFFIX,rhythmxchange.com,skk_reject
 HOST-SUFFIX,rhzofr.icu,skk_reject
 HOST-SUFFIX,ri.mistermenuiserie.com,skk_reject
+HOST-SUFFIX,ribghr.icu,skk_reject
 HOST-SUFFIX,ribsaiji.com,skk_reject
 HOST-SUFFIX,ric-ric-rum.com,skk_reject
 HOST-SUFFIX,ric.arrive-im-herzogpark.de,skk_reject
@@ -73627,6 +73630,7 @@ HOST-SUFFIX,vgzytn.xyz,skk_reject
 HOST-SUFFIX,vh8.icu,skk_reject
 HOST-SUFFIX,vhans.siege-corp.com,skk_reject
 HOST-SUFFIX,vhasqd.zarina.ru,skk_reject
+HOST-SUFFIX,vhid.cn,skk_reject
 HOST-SUFFIX,vhje.cn,skk_reject
 HOST-SUFFIX,vhmewg.edreams.fr,skk_reject
 HOST-SUFFIX,vhmjci.edreams.co.uk,skk_reject
