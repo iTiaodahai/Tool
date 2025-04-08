@@ -1,5 +1,5 @@
 # 规则名称: Direct_CN
-# 规则统计: 41
+# 规则统计: 28
 
 HOST,alibaba.cdn.steampipe.steamcontent.com,Direct_CN
 HOST,assets1.xboxlive.cn,Direct_CN
@@ -19,21 +19,8 @@ HOST,tlu.dl.delivery.mp.microsoft.com,Direct_CN
 HOST,trts.baishancdnx.cn,Direct_CN
 HOST,uplaypc-s-ubisoft.cdn.ubionline.com.cn,Direct_CN
 HOST,xz.pphimalayanrt.com,Direct_CN
-HOST-SUFFIX,bytefcdnrd.com,Direct_CN
 HOST-SUFFIX,cgbchina.com.cn,Direct_CN
-HOST-SUFFIX,douyu.com,Direct_CN
-HOST-SUFFIX,douyu.tv,Direct_CN
-HOST-SUFFIX,douyuba.cn,Direct_CN
-HOST-SUFFIX,douyucdn.cn,Direct_CN
-HOST-SUFFIX,douyucdn2.cn,Direct_CN
-HOST-SUFFIX,douyupcdn.cn,Direct_CN
-HOST-SUFFIX,douyuscdn.com,Direct_CN
-HOST-SUFFIX,douyutv.com,Direct_CN
-HOST-SUFFIX,doyonoc.com,Direct_CN
-HOST-SUFFIX,edgesrv.com,Direct_CN
-HOST-SUFFIX,guguyuyin.com,Direct_CN
 HOST-SUFFIX,oyunfor.com,Direct_CN
-HOST-SUFFIX,oywtv.com,Direct_CN
 HOST-SUFFIX,pandalive.co.kr,Direct_CN
 HOST-SUFFIX,stripe.com,Direct_CN
 HOST-SUFFIX,termius.com,Direct_CN

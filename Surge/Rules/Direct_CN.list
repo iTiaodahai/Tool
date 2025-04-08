@@ -1,5 +1,5 @@
 # 规则名称: Direct_CN
-# 规则统计: 43
+# 规则统计: 30
 
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,assets1.xboxlive.cn
@@ -19,21 +19,8 @@ DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,trts.baishancdnx.cn
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 DOMAIN,xz.pphimalayanrt.com
-DOMAIN-SUFFIX,bytefcdnrd.com
 DOMAIN-SUFFIX,cgbchina.com.cn
-DOMAIN-SUFFIX,douyu.com
-DOMAIN-SUFFIX,douyu.tv
-DOMAIN-SUFFIX,douyuba.cn
-DOMAIN-SUFFIX,douyucdn.cn
-DOMAIN-SUFFIX,douyucdn2.cn
-DOMAIN-SUFFIX,douyupcdn.cn
-DOMAIN-SUFFIX,douyuscdn.com
-DOMAIN-SUFFIX,douyutv.com
-DOMAIN-SUFFIX,doyonoc.com
-DOMAIN-SUFFIX,edgesrv.com
-DOMAIN-SUFFIX,guguyuyin.com
 DOMAIN-SUFFIX,oyunfor.com
-DOMAIN-SUFFIX,oywtv.com
 DOMAIN-SUFFIX,pandalive.co.kr
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,termius.com
