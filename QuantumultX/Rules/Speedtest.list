@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1037
+# 规则统计: 1041
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -412,6 +412,7 @@ HOST,speedtest.bri01.launtel.net.au,Speedtest
 HOST,speedtest.brightstar.cloud,Speedtest
 HOST,speedtest.brooketel.coop,Speedtest
 HOST,speedtest.brsk.co.uk,Speedtest
+HOST,speedtest.bursabil.com.tr,Speedtest
 HOST,speedtest.cadence.net.uk,Speedtest
 HOST,speedtest.capti.com.au,Speedtest
 HOST,speedtest.cdmsfirst.com,Speedtest
@@ -477,6 +478,7 @@ HOST,speedtest.hk210.hkg.cn.ctcsci.com,Speedtest
 HOST,speedtest.hk212.hkg.cn.nerocloud.io,Speedtest
 HOST,speedtest.honest.net,Speedtest
 HOST,speedtest.host.com.tw,Speedtest
+HOST,speedtest.hyperwave.uk,Speedtest
 HOST,speedtest.hytekcomputers.com,Speedtest
 HOST,speedtest.i4networks.nl,Speedtest
 HOST,speedtest.idnet.net.br,Speedtest
@@ -525,6 +527,7 @@ HOST,speedtest.massivemesh.com,Speedtest
 HOST,speedtest.meerfarbig.net,Speedtest
 HOST,speedtest.mel.mhn.cloud,Speedtest
 HOST,speedtest.mel01.launtel.net.au,Speedtest
+HOST,speedtest.meric.net.tr,Speedtest
 HOST,speedtest.merlin.mb.ca,Speedtest
 HOST,speedtest.mhcable.com,Speedtest
 HOST,speedtest.mia.upx.net.br,Speedtest
@@ -764,6 +767,7 @@ HOST,speedtestro.vtal.net.br,Speedtest
 HOST,speedtestrr.vtal.net.br,Speedtest
 HOST,speedtestsantarem.zumtelecom.com.br,Speedtest
 HOST,speedtestsgp.fpt.vn,Speedtest
+HOST,speedtestspeednet.com.br,Speedtest
 HOST,speedtestuk1.cybersmart.co.za,Speedtest
 HOST,speedtestus.pvdatanet.com,Speedtest
 HOST,spetstmns01.timbrasil.com.br,Speedtest
