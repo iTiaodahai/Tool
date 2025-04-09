@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 11
+# 规则统计: 12
 
 HOST,ifconfig.me,Direct
 HOST-SUFFIX,cgbchina.com.cn,Direct
@@ -11,4 +11,5 @@ HOST-KEYWORD,120399.xyz,Direct
 HOST-KEYWORD,digicert.com,Direct
 HOST-KEYWORD,edgesrv.com,Direct
 HOST-KEYWORD,globalsign.com,Direct
+IP-CIDR,17.252.203.151/32,Direct
 IP-CIDR,43.160.144.0/24,Direct
