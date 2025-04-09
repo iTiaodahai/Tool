@@ -1,9 +1,10 @@
 # 规则名称: Emby
-# 规则统计: 12
+# 规则统计: 13
 
 DOMAIN,emby.69yun69.com
 DOMAIN,emby2.69yun69.com
 DOMAIN,emby3.69yun69.com
+DOMAIN-SUFFIX,28.al
 DOMAIN-SUFFIX,697758.best
 DOMAIN-SUFFIX,aliz.work
 DOMAIN-SUFFIX,bangumi.ca
@@ -13,4 +14,3 @@ DOMAIN-SUFFIX,mooguu.xyz
 DOMAIN-SUFFIX,term.wtf
 DOMAIN-SUFFIX,yezi.my
 DOMAIN-SUFFIX,zox.show
-DOMAIN-SUFFIX,28.al
