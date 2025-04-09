@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1041
+# 规则统计: 1042
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -989,6 +989,7 @@ DOMAIN-SUFFIX,ookla.rcp.net
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,speed.googlefiber.net
+DOMAIN-SUFFIX,speed.hinet.net
 DOMAIN-SUFFIX,speed.misaka.one
 DOMAIN-SUFFIX,speed.pfm.gg
 DOMAIN-SUFFIX,speednet.net.tr

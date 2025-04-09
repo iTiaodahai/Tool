@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1041
+# 规则统计: 1042
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -989,6 +989,7 @@ HOST-SUFFIX,ookla.rcp.net,Speedtest
 HOST-SUFFIX,ooklaserver.net,Speedtest
 HOST-SUFFIX,speed.cloudflare.com,Speedtest
 HOST-SUFFIX,speed.googlefiber.net,Speedtest
+HOST-SUFFIX,speed.hinet.net,Speedtest
 HOST-SUFFIX,speed.misaka.one,Speedtest
 HOST-SUFFIX,speed.pfm.gg,Speedtest
 HOST-SUFFIX,speednet.net.tr,Speedtest

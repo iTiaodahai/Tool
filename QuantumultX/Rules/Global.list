@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7964
+# 规则统计: 7965
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -5518,6 +5518,7 @@ HOST-SUFFIX,rconversation.blogs.com,Global
 HOST-SUFFIX,rd.com,Global
 HOST-SUFFIX,rdio.com,Global
 HOST-SUFFIX,rdtcdn.com,Global
+HOST-SUFFIX,re,Global
 HOST-SUFFIX,reabble.com,Global
 HOST-SUFFIX,read01.com,Global
 HOST-SUFFIX,read100.com,Global

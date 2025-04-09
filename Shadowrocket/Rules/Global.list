@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7966
+# 规则统计: 7967
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -5518,6 +5518,7 @@ DOMAIN-SUFFIX,rconversation.blogs.com
 DOMAIN-SUFFIX,rd.com
 DOMAIN-SUFFIX,rdio.com
 DOMAIN-SUFFIX,rdtcdn.com
+DOMAIN-SUFFIX,re
 DOMAIN-SUFFIX,reabble.com
 DOMAIN-SUFFIX,read01.com
 DOMAIN-SUFFIX,read100.com
