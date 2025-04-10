@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 83
+# 规则统计: 84
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,webp.li
 DOMAIN-SUFFIX,xns.one
+DOMAIN-SUFFIX,xxxh.de
 DOMAIN-KEYWORD,akile.io
 DOMAIN-KEYWORD,bgp.tools
 DOMAIN-KEYWORD,checkhere.top
@@ -84,4 +85,3 @@ IP-CIDR,71.18.74.192/32,no-resolve
 IP-CIDR,89.187.160.36/32,no-resolve
 IP-CIDR,98.96.192.11/32,no-resolve
 IP-CIDR,98.98.70.41/32,no-resolve
-DOMAIN-SUFFIX,xxxh.de

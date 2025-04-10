@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7965
+# 规则统计: 7966
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -7613,6 +7613,7 @@ HOST-SUFFIX,xxx,Global
 HOST-SUFFIX,xxx.com,Global
 HOST-SUFFIX,xxx.xxx,Global
 HOST-SUFFIX,xxxfuckmom.com,Global
+HOST-SUFFIX,xxxh.de,Global
 HOST-SUFFIX,xxxx.com.au,Global
 HOST-SUFFIX,xxxy.biz,Global
 HOST-SUFFIX,xxxy.info,Global

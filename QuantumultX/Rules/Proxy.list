@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 83
+# 规则统计: 84
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -61,6 +61,7 @@ HOST-SUFFIX,vscode-cdn.net,Proxy
 HOST-SUFFIX,vscode-unpkg.net,Proxy
 HOST-SUFFIX,webp.li,Proxy
 HOST-SUFFIX,xns.one,Proxy
+HOST-SUFFIX,xxxh.de,Proxy
 HOST-KEYWORD,akile.io,Proxy
 HOST-KEYWORD,bgp.tools,Proxy
 HOST-KEYWORD,checkhere.top,Proxy
