@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1042
+# 规则统计: 1048
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -208,6 +208,7 @@ DOMAIN,spd03-syd.au.superloop.com
 DOMAIN,spd33.claro.com.br
 DOMAIN,spd49.claro.com.br
 DOMAIN,spd53.claro.com.br
+DOMAIN,spdfra.cndd.net
 DOMAIN,spdms.twincher.ru
 DOMAIN,spdtes.phoenix.net.tr
 DOMAIN,spdtst.xenyth.net
@@ -450,6 +451,8 @@ DOMAIN,speedtest.embrasnet.com.br
 DOMAIN,speedtest.eminnet.com.tr
 DOMAIN,speedtest.empireaccess.com
 DOMAIN,speedtest.epl.ca
+DOMAIN,speedtest.eu-lo.kamatera.com
+DOMAIN,speedtest.eu.kamatera.com
 DOMAIN,speedtest.execulink.ca
 DOMAIN,speedtest.extremanetwork.com.br
 DOMAIN,speedtest.fiberlink.net.ua
@@ -544,6 +547,7 @@ DOMAIN,speedtest.myaccess.ca
 DOMAIN,speedtest.myarena.ru
 DOMAIN,speedtest.myrepublic.com.sg
 DOMAIN,speedtest.naturalwireless.com
+DOMAIN,speedtest.net360.cloud
 DOMAIN,speedtest.netcalibre.net
 DOMAIN,speedtest.netcrawler.ca
 DOMAIN,speedtest.netflash.net
@@ -649,6 +653,7 @@ DOMAIN,speedtest.unlimitedfiber.com
 DOMAIN,speedtest.uplinkrr.com.br
 DOMAIN,speedtest.upp.com
 DOMAIN,speedtest.uptelecom-ro.com.br
+DOMAIN,speedtest.us-se.kamatera.com
 DOMAIN,speedtest.us.mirhosting.net
 DOMAIN,speedtest.us.openinfra.com
 DOMAIN,speedtest.us310.lax.us.ctcsci.com
@@ -959,6 +964,7 @@ DOMAIN,velocidade.softtelecom.net.br
 DOMAIN,velocimetro-mns.virtua.com.br
 DOMAIN,velocimetro-rbo.virtua.com.br
 DOMAIN,velocimetro-spt.akto.com.br
+DOMAIN,velocimetro.esolution.srv.br
 DOMAIN,velocimetro.fibernetwork.com.br
 DOMAIN,velocimetro.govistabr.com.br
 DOMAIN,velocimetro.proveinter.com.br

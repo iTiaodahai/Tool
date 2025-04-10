@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1042
+# 规则统计: 1048
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -208,6 +208,7 @@ HOST,spd03-syd.au.superloop.com,Speedtest
 HOST,spd33.claro.com.br,Speedtest
 HOST,spd49.claro.com.br,Speedtest
 HOST,spd53.claro.com.br,Speedtest
+HOST,spdfra.cndd.net,Speedtest
 HOST,spdms.twincher.ru,Speedtest
 HOST,spdtes.phoenix.net.tr,Speedtest
 HOST,spdtst.xenyth.net,Speedtest
@@ -450,6 +451,8 @@ HOST,speedtest.embrasnet.com.br,Speedtest
 HOST,speedtest.eminnet.com.tr,Speedtest
 HOST,speedtest.empireaccess.com,Speedtest
 HOST,speedtest.epl.ca,Speedtest
+HOST,speedtest.eu-lo.kamatera.com,Speedtest
+HOST,speedtest.eu.kamatera.com,Speedtest
 HOST,speedtest.execulink.ca,Speedtest
 HOST,speedtest.extremanetwork.com.br,Speedtest
 HOST,speedtest.fiberlink.net.ua,Speedtest
@@ -544,6 +547,7 @@ HOST,speedtest.myaccess.ca,Speedtest
 HOST,speedtest.myarena.ru,Speedtest
 HOST,speedtest.myrepublic.com.sg,Speedtest
 HOST,speedtest.naturalwireless.com,Speedtest
+HOST,speedtest.net360.cloud,Speedtest
 HOST,speedtest.netcalibre.net,Speedtest
 HOST,speedtest.netcrawler.ca,Speedtest
 HOST,speedtest.netflash.net,Speedtest
@@ -649,6 +653,7 @@ HOST,speedtest.unlimitedfiber.com,Speedtest
 HOST,speedtest.uplinkrr.com.br,Speedtest
 HOST,speedtest.upp.com,Speedtest
 HOST,speedtest.uptelecom-ro.com.br,Speedtest
+HOST,speedtest.us-se.kamatera.com,Speedtest
 HOST,speedtest.us.mirhosting.net,Speedtest
 HOST,speedtest.us.openinfra.com,Speedtest
 HOST,speedtest.us310.lax.us.ctcsci.com,Speedtest
@@ -959,6 +964,7 @@ HOST,velocidade.softtelecom.net.br,Speedtest
 HOST,velocimetro-mns.virtua.com.br,Speedtest
 HOST,velocimetro-rbo.virtua.com.br,Speedtest
 HOST,velocimetro-spt.akto.com.br,Speedtest
+HOST,velocimetro.esolution.srv.br,Speedtest
 HOST,velocimetro.fibernetwork.com.br,Speedtest
 HOST,velocimetro.govistabr.com.br,Speedtest
 HOST,velocimetro.proveinter.com.br,Speedtest
