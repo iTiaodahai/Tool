@@ -1,5 +1,5 @@
 # 规则名称: Direct_CN
-# 规则统计: 31
+# 规则统计: 32
 
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,assets1.xboxlive.cn
@@ -10,6 +10,7 @@ DOMAIN,cdn-ws.content.steamchina.com
 DOMAIN,dl.delivery.mp.microsoft.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+DOMAIN,fides-pol.apple.com
 DOMAIN,ifconfig.me
 DOMAIN,lv.queniujq.cn
 DOMAIN,st.dl.bscstorage.net

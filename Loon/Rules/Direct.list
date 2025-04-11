@@ -1,6 +1,7 @@
 # 规则名称: Direct
-# 规则统计: 14
+# 规则统计: 15
 
+DOMAIN,fides-pol.apple.com
 DOMAIN,ifconfig.me
 DOMAIN-SUFFIX,cgbchina.com.cn
 DOMAIN-SUFFIX,oyunfor.com

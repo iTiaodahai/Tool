@@ -1,5 +1,5 @@
 # 规则名称: Direct_CN
-# 规则统计: 29
+# 规则统计: 30
 
 HOST,alibaba.cdn.steampipe.steamcontent.com,Direct_CN
 HOST,assets1.xboxlive.cn,Direct_CN
@@ -10,6 +10,7 @@ HOST,cdn-ws.content.steamchina.com,Direct_CN
 HOST,dl.delivery.mp.microsoft.com,Direct_CN
 HOST,dl.steam.clngaa.com,Direct_CN
 HOST,epicgames-download1-1251447533.file.myqcloud.com,Direct_CN
+HOST,fides-pol.apple.com,Direct_CN
 HOST,ifconfig.me,Direct_CN
 HOST,lv.queniujq.cn,Direct_CN
 HOST,st.dl.bscstorage.net,Direct_CN

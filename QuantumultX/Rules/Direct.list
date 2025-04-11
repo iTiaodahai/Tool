@@ -1,6 +1,7 @@
 # 规则名称: Direct
-# 规则统计: 12
+# 规则统计: 13
 
+HOST,fides-pol.apple.com,Direct
 HOST,ifconfig.me,Direct
 HOST-SUFFIX,cgbchina.com.cn,Direct
 HOST-SUFFIX,oyunfor.com,Direct
