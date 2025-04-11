@@ -165,7 +165,6 @@ jobs:
             done
             # 合并韩国直播平台规则
             urls=(
-                "https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Kr_Stream.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Twitch/Twitch.list"
             )
             > Tool-repo/Ruleset/KR_Stream.list
