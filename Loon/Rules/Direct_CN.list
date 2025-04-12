@@ -10,7 +10,6 @@ DOMAIN,cdn-ws.content.steamchina.com
 DOMAIN,dl.delivery.mp.microsoft.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
-DOMAIN,fides-pol.apple.com
 DOMAIN,ifconfig.me
 DOMAIN,lv.queniujq.cn
 DOMAIN,st.dl.bscstorage.net
@@ -28,6 +27,7 @@ DOMAIN-SUFFIX,termius.com
 DOMAIN-KEYWORD,120399.xyz
 DOMAIN-KEYWORD,digicert.com
 DOMAIN-KEYWORD,edgesrv.com
+DOMAIN-KEYWORD,fides-pol
 DOMAIN-KEYWORD,globalsign.com
 IP-CIDR,17.252.203.151/32,no-resolve
 IP-CIDR,43.160.144.0/24,no-resolve
