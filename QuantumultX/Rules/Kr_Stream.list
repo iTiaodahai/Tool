@@ -1,12 +1,10 @@
 # 规则名称: Kr_Stream
-# 规则统计: 9
+# 规则统计: 7
 
 HOST,afreecatv.com,Kr_Stream
 HOST-SUFFIX,akamaized.net,Kr_Stream
-HOST-SUFFIX,lrc.cx,Kr_Stream
 HOST-SUFFIX,neolive.kr,Kr_Stream
 HOST-SUFFIX,pstatic.net,Kr_Stream
 HOST-SUFFIX,sooplive.co.kr,Kr_Stream
-HOST-SUFFIX,xms.mx,Kr_Stream
 HOST-SUFFIX,xxxh.de,Kr_Stream
 HOST-KEYWORD,kick.com,Kr_Stream
