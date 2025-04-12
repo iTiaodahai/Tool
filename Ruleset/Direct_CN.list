@@ -27,7 +27,7 @@ DOMAIN-KEYWORD,digicert.com
 DOMAIN-KEYWORD,edgesrv.com
 DOMAIN-KEYWORD,fides-pol
 DOMAIN-KEYWORD,globalsign.com
-IP-CIDR,17.252.203.151/32,no-resolve
+IP-CIDR,17.252.203.0/24,no-resolve
 IP-CIDR,43.160.144.0/24,no-resolve
 DEST-PORT,1130
 DEST-PORT,22

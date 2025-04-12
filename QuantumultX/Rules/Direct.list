@@ -13,5 +13,5 @@ HOST-KEYWORD,digicert.com,Direct
 HOST-KEYWORD,edgesrv.com,Direct
 HOST-KEYWORD,fides-pol,Direct
 HOST-KEYWORD,globalsign.com,Direct
-IP-CIDR,17.252.203.151/32,Direct
+IP-CIDR,17.252.203.0/24,Direct
 IP-CIDR,43.160.144.0/24,Direct
