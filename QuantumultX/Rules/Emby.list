@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 13
+# 规则统计: 12
 
 HOST,emby.69yun69.com,Emby
 HOST,emby2.69yun69.com,Emby
@@ -8,7 +8,6 @@ HOST-SUFFIX,28.al,Emby
 HOST-SUFFIX,697758.best,Emby
 HOST-SUFFIX,aliz.work,Emby
 HOST-SUFFIX,bangumi.ca,Emby
-HOST-SUFFIX,bwihz.cn,Emby
 HOST-SUFFIX,emby.wtf,Emby
 HOST-SUFFIX,mooguu.xyz,Emby
 HOST-SUFFIX,term.wtf,Emby

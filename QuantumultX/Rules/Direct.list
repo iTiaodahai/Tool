@@ -1,7 +1,8 @@
 # 规则名称: Direct
-# 规则统计: 13
+# 规则统计: 14
 
 HOST,ifconfig.me,Direct
+HOST-SUFFIX,bwihz.cn,Direct
 HOST-SUFFIX,cgbchina.com.cn,Direct
 HOST-SUFFIX,oyunfor.com,Direct
 HOST-SUFFIX,pandalive.co.kr,Direct
