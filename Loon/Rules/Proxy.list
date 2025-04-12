@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 84
+# 规则统计: 86
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,linkgraph.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,lrc.cx
 DOMAIN-SUFFIX,macosicons.com
 DOMAIN-SUFFIX,mgmtekno.com
 DOMAIN-SUFFIX,milocdn.com
@@ -60,6 +61,7 @@ DOMAIN-SUFFIX,vma.cc
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,webp.li
+DOMAIN-SUFFIX,xms.mx
 DOMAIN-SUFFIX,xns.one
 DOMAIN-SUFFIX,xxxh.de
 DOMAIN-KEYWORD,akile.io

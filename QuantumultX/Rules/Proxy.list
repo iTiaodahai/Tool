@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 84
+# 规则统计: 86
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -40,6 +40,7 @@ HOST-SUFFIX,jivosite.com,Proxy
 HOST-SUFFIX,linkgraph.com,Proxy
 HOST-SUFFIX,linux.do,Proxy
 HOST-SUFFIX,loli.net,Proxy
+HOST-SUFFIX,lrc.cx,Proxy
 HOST-SUFFIX,macosicons.com,Proxy
 HOST-SUFFIX,mgmtekno.com,Proxy
 HOST-SUFFIX,milocdn.com,Proxy
@@ -60,6 +61,7 @@ HOST-SUFFIX,vma.cc,Proxy
 HOST-SUFFIX,vscode-cdn.net,Proxy
 HOST-SUFFIX,vscode-unpkg.net,Proxy
 HOST-SUFFIX,webp.li,Proxy
+HOST-SUFFIX,xms.mx,Proxy
 HOST-SUFFIX,xns.one,Proxy
 HOST-SUFFIX,xxxh.de,Proxy
 HOST-KEYWORD,akile.io,Proxy
