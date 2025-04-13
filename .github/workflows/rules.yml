@@ -88,41 +88,24 @@ jobs:
                 curl -f -L "$url" >> Tool-repo/Ruleset/Direct_CN.list || { echo "Download Failed: $url"; exit 1; }
                 echo "" >> Tool-repo/Ruleset/Direct_CN.list
             done            
-            # 合并Microsoft/PayPal/Talkatone/Google规则
+            # 合并Microsoft规则
             urls=(
                 "https://ruleset.skk.moe/List/non_ip/microsoft.conf"
                 "https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Bing/Bing.list"
-                "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
-                "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Talkatone.list"
-                "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list"
             )
-            > Tool-repo/Ruleset/Proxy_US.list
+            > Tool-repo/Ruleset/Microsoft.list
             for url in "${urls[@]}"; do
                 echo "Downloading: $url"
-                curl -f -L "$url" >> Tool-repo/Ruleset/Proxy_US.list || { echo "Download Failed: $url"; exit 1; }
-                echo "" >> Tool-repo/Ruleset/Proxy_US.list
-            done
-            # 合并GitHub/YouTube/Reddit规则
-            urls=(
-                "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list"
-                "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list"
-                "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Reddit/Reddit.list"
-            )
-            > Tool-repo/Ruleset/Proxy_any.list
-            for url in "${urls[@]}"; do
-                echo "Downloading: $url"
-                curl -f -L "$url" >> Tool-repo/Ruleset/Proxy_any.list || { echo "Download Failed: $url"; exit 1; }
-                echo "" >> Tool-repo/Ruleset/Proxy_any.list
+                curl -f -L "$url" >> Tool-repo/Ruleset/Microsoft.list || { echo "Download Failed: $url"; exit 1; }
+                echo "" >> Tool-repo/Ruleset/Microsoft.list
             done
             # 合并Facebook/Instagram/WhatsApp/Twitter/Wikipedia/Spotify规则
             urls=(
                 "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list"
                 "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Whatsapp/Whatsapp.list"
-                "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list"
-                "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Wikipedia/Wikipedia.list"
-                "https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Spotify.list"              
+                "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Wikipedia/Wikipedia.list"           
             )
             > Tool-repo/Ruleset/Proxy_Social.list
             for url in "${urls[@]}"; do
@@ -185,6 +168,7 @@ jobs:
                 "Netflix.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
                 "PayPal.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
                 "Proxy.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Proxy.list"
+                "Reddit.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Reddit/Reddit.list"
                 "Reject.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Reject.list"
                 "Speedtest.list https://ruleset.skk.moe/List/domainset/speedtest.conf"              
                 "Spotify.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Spotify.list"    
