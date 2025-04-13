@@ -1,8 +1,7 @@
 # 规则名称: Direct
-# 规则统计: 16
+# 规则统计: 15
 
 DOMAIN,ifconfig.me
-DOMAIN-SUFFIX,bwihz.cn
 DOMAIN-SUFFIX,cgbchina.com.cn
 DOMAIN-SUFFIX,oyunfor.com
 DOMAIN-SUFFIX,pandalive.co.kr

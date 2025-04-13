@@ -1,5 +1,5 @@
 # 规则名称: Direct_CN
-# 规则统计: 31
+# 规则统计: 30
 
 HOST,alibaba.cdn.steampipe.steamcontent.com,Direct_CN
 HOST,assets1.xboxlive.cn,Direct_CN
@@ -19,7 +19,6 @@ HOST,tlu.dl.delivery.mp.microsoft.com,Direct_CN
 HOST,trts.baishancdnx.cn,Direct_CN
 HOST,uplaypc-s-ubisoft.cdn.ubionline.com.cn,Direct_CN
 HOST,xz.pphimalayanrt.com,Direct_CN
-HOST-SUFFIX,bwihz.cn,Direct_CN
 HOST-SUFFIX,cgbchina.com.cn,Direct_CN
 HOST-SUFFIX,oyunfor.com,Direct_CN
 HOST-SUFFIX,pandalive.co.kr,Direct_CN
