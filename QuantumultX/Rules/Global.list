@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8243
+# 规则统计: 8245
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -752,6 +752,7 @@ HOST-SUFFIX,atnext.com,Global
 HOST-SUFFIX,au,Global
 HOST-SUFFIX,auctions.yahoo.co.jp,Global
 HOST-SUFFIX,audacy.com,Global
+HOST-SUFFIX,audiomack.com,Global
 HOST-SUFFIX,audionow.com,Global
 HOST-SUFFIX,auntology.fandom.com,Global
 HOST-SUFFIX,auth.openai.com,Global
@@ -5875,6 +5876,7 @@ HOST-SUFFIX,s1s1s1.com,Global
 HOST-SUFFIX,s3-ap-southeast-1.amazonaws.com,Global
 HOST-SUFFIX,s3-ap-southeast-2.amazonaws.com,Global
 HOST-SUFFIX,s3.amazonaws.com,Global
+HOST-SUFFIX,s3.eu-central-1.amazonaws.com,Global
 HOST-SUFFIX,s4miniarchive.com,Global
 HOST-SUFFIX,s8forum.com,Global
 HOST-SUFFIX,sa.hao123.com,Global

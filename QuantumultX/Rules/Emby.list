@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 12
+# 规则统计: 13
 
 HOST,emby.69yun69.com,Emby
 HOST,emby2.69yun69.com,Emby
@@ -13,3 +13,4 @@ HOST-SUFFIX,mooguu.xyz,Emby
 HOST-SUFFIX,term.wtf,Emby
 HOST-SUFFIX,yezi.my,Emby
 HOST-SUFFIX,zox.show,Emby
+HOST-KEYWORD,misty.cx,Emby
