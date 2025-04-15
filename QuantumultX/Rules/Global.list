@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8358
+# 规则统计: 8360
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -761,6 +761,7 @@ HOST-SUFFIX,auth0.com,Global
 HOST-SUFFIX,authorizeddns.net,Global
 HOST-SUFFIX,authorizeddns.org,Global
 HOST-SUFFIX,authorizeddns.us,Global
+HOST-SUFFIX,autodesk.com,Global
 HOST-SUFFIX,autodraw.com,Global
 HOST-SUFFIX,av-e-body.com,Global
 HOST-SUFFIX,av.com,Global
@@ -2626,6 +2627,7 @@ HOST-SUFFIX,freedomhongkong.org,Global
 HOST-SUFFIX,freedomhouse.org,Global
 HOST-SUFFIX,freedominfonetweb.wordpress.com,Global
 HOST-SUFFIX,freedomsherald.org,Global
+HOST-SUFFIX,freedownloadmanager.org,Global
 HOST-SUFFIX,freeforums.org,Global
 HOST-SUFFIX,freefq.com,Global
 HOST-SUFFIX,freefuckvids.com,Global

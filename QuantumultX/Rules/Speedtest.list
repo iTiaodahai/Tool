@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1049
+# 规则统计: 1053
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -24,6 +24,7 @@ HOST,ber.wsqm.telekom-dienste.de,Speedtest
 HOST,brindb2speed1.wireline.com.au,Speedtest
 HOST,btestmcp.vocetelecom.vc,Speedtest
 HOST,bur1speedtest.turktelekom.com.tr,Speedtest
+HOST,ccs.los-angeles.ca.speedtest.6667890.xyz,Speedtest
 HOST,cesu-hz.zjtelecom.com.cn,Speedtest
 HOST,cesu-nb.zjtelecom.com.cn,Speedtest
 HOST,ch1.chtm.hinet.net,Speedtest
@@ -569,6 +570,7 @@ HOST,speedtest.omegasul.com.br,Speedtest
 HOST,speedtest.orixinet.com.br,Speedtest
 HOST,speedtest.pa5.as198831.net,Speedtest
 HOST,speedtest.packetworks.net,Speedtest
+HOST,speedtest.par1.adky.net,Speedtest
 HOST,speedtest.pendc.com,Speedtest
 HOST,speedtest.pilotfiber.com,Speedtest
 HOST,speedtest.pimcommcorp.com,Speedtest
@@ -695,8 +697,10 @@ HOST,speedtest01.syd1.spintel.net.au,Speedtest
 HOST,speedtest01.tek.net.tr,Speedtest
 HOST,speedtest01.wowrack.com,Speedtest
 HOST,speedtest02a.web.zen.net.uk,Speedtest
+HOST,speedtest03.ber.server.camp,Speedtest
 HOST,speedtest03.bluestreamfiber.net,Speedtest
 HOST,speedtest03.srv.whplny.alticeusa.net,Speedtest
+HOST,speedtest04.ber.server.camp,Speedtest
 HOST,speedtest1-qupra-ams-nl.ebgp.fi,Speedtest
 HOST,speedtest1-sttlwawb.as20055.net,Speedtest
 HOST,speedtest1.atlantisnet.com.tr,Speedtest
