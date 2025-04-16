@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1053
+# 规则统计: 1061
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -16,6 +16,7 @@ HOST,amsterdam.getstreamhosting.com,Speedtest
 HOST,ant1speedtest.turktelekom.com.tr,Speedtest
 HOST,aragonnetspeedtest.com.br,Speedtest
 HOST,asanet.brsserver.com.br,Speedtest
+HOST,au.st.spacecore.pro,Speedtest
 HOST,aus-nperf.verizon.net,Speedtest
 HOST,balikesirspeedtest.fixnet.com.tr,Speedtest
 HOST,bassoon-sg-1.violin.co.th,Speedtest
@@ -43,6 +44,7 @@ HOST,dc-spdtst.treas.host,Speedtest
 HOST,de-bln2-ookla-01.wemacom.net,Speedtest
 HOST,de-ffm1-ookla-01.wemacom.net,Speedtest
 HOST,de-fra2-lg1.level66.network,Speedtest
+HOST,de.st.spacecore.pro,Speedtest
 HOST,denizli.verinomidns.com,Speedtest
 HOST,dllstx-ookla1.vyvebroadband.net,Speedtest
 HOST,drtvpdspeedtestb.voiped.com,Speedtest
@@ -59,6 +61,7 @@ HOST,fra1speedtest01.skylogic.com,Speedtest
 HOST,gay1speedtest.turktelekom.com.tr,Speedtest
 HOST,gd-speedtest.homeplus.net.tw,Speedtest
 HOST,gh-speedtest.homeplus.net.tw,Speedtest
+HOST,glconnect.brsserver.com.br,Speedtest
 HOST,gun1speedtest.turktelekom.com.tr,Speedtest
 HOST,hc1.chtm.hinet.net,Speedtest
 HOST,hizaydin.durunet.com.tr,Speedtest
@@ -161,6 +164,7 @@ HOST,ookla3.1und1-mobilfunk.de,Speedtest
 HOST,ooklaspeedtest-ist1.quickzone.net,Speedtest
 HOST,ooklatins.redeconexaonet.com,Speedtest
 HOST,open.cachefly.net,Speedtest
+HOST,osk.speedtest.love,Speedtest
 HOST,par1speedtest01.skylogic.com,Speedtest
 HOST,pauseq4vost1.datamossa.cloud,Speedtest
 HOST,perf-01.ixn.as42689.net,Speedtest
@@ -179,6 +183,7 @@ HOST,servidor.speedplay.com.br,Speedtest
 HOST,sfosj0096speedtestserver01.wiline.com,Speedtest
 HOST,sg-speedtest.fast.net.id,Speedtest
 HOST,sg.cloudhost.asia,Speedtest
+HOST,sg.st.spacecore.pro,Speedtest
 HOST,sgn-nperf.verizon.net,Speedtest
 HOST,sgspeed.chinaunicomglobal.com,Speedtest
 HOST,sig-speedtest.moratelindo.io,Speedtest
@@ -337,6 +342,7 @@ HOST,speedtest-nxtb2.fsg-hosting.com,Speedtest
 HOST,speedtest-nxts1.fsg-hosting.com,Speedtest
 HOST,speedtest-nyc.dish-wireless.com,Speedtest
 HOST,speedtest-obd.redeconecta.com,Speedtest
+HOST,speedtest-ookla-beta.giant.net.uk,Speedtest
 HOST,speedtest-ookla-par.as62000.net,Speedtest
 HOST,speedtest-ookla-roc1.synoptek.com,Speedtest
 HOST,speedtest-prs.vts.bf,Speedtest
@@ -353,6 +359,7 @@ HOST,speedtest-sg1.simba.sg,Speedtest
 HOST,speedtest-sin.melbicom.net,Speedtest
 HOST,speedtest-sjc.acreto.net,Speedtest
 HOST,speedtest-sjc.dish-wireless.com,Speedtest
+HOST,speedtest-srv01.tut.net,Speedtest
 HOST,speedtest-stf.megafon.ru,Speedtest
 HOST,speedtest-stm.redeconecta.com,Speedtest
 HOST,speedtest-syd-dn1.empower.net.au,Speedtest
@@ -975,6 +982,7 @@ HOST,velocimetro.govistabr.com.br,Speedtest
 HOST,velocimetro.proveinter.com.br,Speedtest
 HOST,velocimetro.speednetworks.com.br,Speedtest
 HOST,velocimetro.wiretelecom.com.br,Speedtest
+HOST,velocity.softtelecom.net.br,Speedtest
 HOST,veloteste.mrjomar.com.br,Speedtest
 HOST,venusone.horystech.com,Speedtest
 HOST,vic-speedtest.spirit.com.au,Speedtest

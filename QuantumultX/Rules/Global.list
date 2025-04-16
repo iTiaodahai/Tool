@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8360
+# 规则统计: 8362
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -578,6 +578,7 @@ HOST-SUFFIX,amnesty.tw,Global
 HOST-SUFFIX,amnestyusa.org,Global
 HOST-SUFFIX,amnyemachen.org,Global
 HOST-SUFFIX,amoiist.com,Global
+HOST-SUFFIX,amplience.com,Global
 HOST-SUFFIX,amplitude.com,Global
 HOST-SUFFIX,ampproject.org,Global
 HOST-SUFFIX,amtb-taipei.org,Global
@@ -750,6 +751,7 @@ HOST-SUFFIX,atlaspost.com,Global
 HOST-SUFFIX,atlassian.com,Global
 HOST-SUFFIX,atlassian.net,Global
 HOST-SUFFIX,atnext.com,Global
+HOST-SUFFIX,atom.com,Global
 HOST-SUFFIX,au,Global
 HOST-SUFFIX,auctions.yahoo.co.jp,Global
 HOST-SUFFIX,audacy.com,Global
