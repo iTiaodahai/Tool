@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1061
+# 规则统计: 1065
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -178,8 +178,10 @@ HOST,sanjoseiturbide.openti.mx,Speedtest
 HOST,sb-speedtest-1.twmbroadband.net,Speedtest
 HOST,sc-speedtest.homeplus.net.tw,Speedtest
 HOST,sea-speedtest.net.sangoma.net,Speedtest
+HOST,sea.st.spacecore.pro,Speedtest
 HOST,seednet-ty1.seed.net.tw,Speedtest
 HOST,servidor.speedplay.com.br,Speedtest
+HOST,seveninternet.brsserver.com.br,Speedtest
 HOST,sfosj0096speedtestserver01.wiline.com,Speedtest
 HOST,sg-speedtest.fast.net.id,Speedtest
 HOST,sg.cloudhost.asia,Speedtest
@@ -206,6 +208,7 @@ HOST,sp3.atcc-gns.net,Speedtest
 HOST,sp3.basinbroadband.ca,Speedtest
 HOST,sp3.contilnet.net,Speedtest
 HOST,sp7.atcc-gns.net,Speedtest
+HOST,spd.basefix.net,Speedtest
 HOST,spd.cndd.net,Speedtest
 HOST,spd.primenetisp.com.br,Speedtest
 HOST,spd01-adl.au.superloop.com,Speedtest
@@ -957,6 +960,7 @@ HOST,trtspeedtest.altimatel.com,Speedtest
 HOST,tsdvuspeedtest01p.allstream.com,Speedtest
 HOST,txg-speedtest.infinirc.com,Speedtest
 HOST,ty1.chtm.hinet.net,Speedtest
+HOST,tyo.st.spacecore.pro,Speedtest
 HOST,uk-lon-tcy-mtn-speedtest-server-01.mtn.com,Speedtest
 HOST,umr1speedtest.turktelekom.com.tr,Speedtest
 HOST,uplinkfibra.brsserver.com.br,Speedtest
