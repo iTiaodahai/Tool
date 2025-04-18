@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8418
+# 规则统计: 8419
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -3689,6 +3689,7 @@ DOMAIN-SUFFIX,hybrid-analysis.com
 DOMAIN-SUFFIX,hyperrate.com
 DOMAIN-SUFFIX,hypothes.is
 DOMAIN-SUFFIX,hyread.com.tw
+DOMAIN-SUFFIX,hysteria.network
 DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,i-part.com.tw
 DOMAIN-SUFFIX,i-scmp.com

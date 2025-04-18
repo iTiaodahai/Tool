@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8416
+# 规则统计: 8417
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -3689,6 +3689,7 @@ HOST-SUFFIX,hybrid-analysis.com,Global
 HOST-SUFFIX,hyperrate.com,Global
 HOST-SUFFIX,hypothes.is,Global
 HOST-SUFFIX,hyread.com.tw,Global
+HOST-SUFFIX,hysteria.network,Global
 HOST-SUFFIX,i-cable.com,Global
 HOST-SUFFIX,i-part.com.tw,Global
 HOST-SUFFIX,i-scmp.com,Global
