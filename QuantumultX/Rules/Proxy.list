@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 85
+# 规则统计: 97
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -64,6 +64,8 @@ HOST-SUFFIX,webp.li,Proxy
 HOST-SUFFIX,xms.mx,Proxy
 HOST-SUFFIX,xns.one,Proxy
 HOST-KEYWORD,akile.io,Proxy
+HOST-KEYWORD,ampaeservices.com,Proxy
+HOST-KEYWORD,awsstatic.com,Proxy
 HOST-KEYWORD,bgp.tools,Proxy
 HOST-KEYWORD,checkhere.top,Proxy
 HOST-KEYWORD,claw.cloud,Proxy
@@ -75,13 +77,23 @@ HOST-KEYWORD,ktmcloud,Proxy
 HOST-KEYWORD,mushroomtrack.com,Proxy
 HOST-KEYWORD,nebula-media,Proxy
 HOST-KEYWORD,ntp.org,Proxy
+HOST-KEYWORD,rudderstack.com,Proxy
 HOST-KEYWORD,sandai.net,Proxy
+HOST-KEYWORD,sanity.io,Proxy
 HOST-KEYWORD,sms-activate,Proxy
 HOST-KEYWORD,streamrecorder.io,Proxy
+HOST-KEYWORD,tailscale.com,Proxy
+HOST-KEYWORD,tomcat.run,Proxy
+HOST-KEYWORD,userpilot.io,Proxy
 IP-CIDR,23.205.104.18/32,Proxy
 IP-CIDR,23.205.104.9/32,Proxy
 IP-CIDR,23.218.216.39/32,Proxy
 IP-CIDR,34.102.215.99/32,Proxy
+IP-CIDR,34.92.173.0/24,Proxy
+IP-CIDR,35.201.189.0/24,Proxy
+IP-CIDR,46.3.101.0/24,Proxy
+IP-CIDR,46.3.104.0/24,Proxy
+IP-CIDR,46.3.97.0/24,Proxy
 IP-CIDR,71.18.74.192/32,Proxy
 IP-CIDR,89.187.160.36/32,Proxy
 IP-CIDR,98.96.192.11/32,Proxy

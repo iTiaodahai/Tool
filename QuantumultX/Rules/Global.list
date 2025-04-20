@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8417
+# 规则统计: 8429
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -8180,9 +8180,11 @@ HOST-KEYWORD,1e100,Global
 HOST-KEYWORD,abema,Global
 HOST-KEYWORD,akile.io,Global
 HOST-KEYWORD,amazon,Global
+HOST-KEYWORD,ampaeservices.com,Global
 HOST-KEYWORD,appledaily,Global
 HOST-KEYWORD,avoddashs,Global
 HOST-KEYWORD,avtb,Global
+HOST-KEYWORD,awsstatic.com,Global
 HOST-KEYWORD,bbcfmt,Global
 HOST-KEYWORD,beetalk,Global
 HOST-KEYWORD,bgp.tools,Global
@@ -8215,19 +8217,24 @@ HOST-KEYWORD,onedrive,Global
 HOST-KEYWORD,paypal,Global
 HOST-KEYWORD,pinterest,Global
 HOST-KEYWORD,porn,Global
+HOST-KEYWORD,rudderstack.com,Global
 HOST-KEYWORD,sandai.net,Global
+HOST-KEYWORD,sanity.io,Global
 HOST-KEYWORD,sci-hub,Global
 HOST-KEYWORD,skydrive,Global
 HOST-KEYWORD,sms-activate,Global
 HOST-KEYWORD,speedtest,Global
 HOST-KEYWORD,spotify,Global
 HOST-KEYWORD,streamrecorder.io,Global
+HOST-KEYWORD,tailscale.com,Global
 HOST-KEYWORD,telegram,Global
 HOST-KEYWORD,tiktok,Global
+HOST-KEYWORD,tomcat.run,Global
 HOST-KEYWORD,ttvnw,Global
 HOST-KEYWORD,twimg,Global
 HOST-KEYWORD,twitter,Global
 HOST-KEYWORD,uk-live,Global
+HOST-KEYWORD,userpilot.io,Global
 HOST-KEYWORD,voddazn,Global
 HOST-KEYWORD,whatsapp,Global
 HOST-KEYWORD,wikileaks,Global
@@ -8324,12 +8331,17 @@ IP-CIDR,31.13.24.0/21,Global
 IP-CIDR,31.13.64.0/18,Global
 IP-CIDR,34.102.215.99/32,Global
 IP-CIDR,34.224.0.0/12,Global
+IP-CIDR,34.92.173.0/24,Global
 IP-CIDR,35.157.215.84/32,Global
 IP-CIDR,35.157.217.255/32,Global
+IP-CIDR,35.201.189.0/24,Global
 IP-CIDR,37.77.184.0/21,Global
 IP-CIDR,44.205.88.94/32,Global
 IP-CIDR,45.57.0.0/17,Global
 IP-CIDR,45.64.40.0/22,Global
+IP-CIDR,46.3.101.0/24,Global
+IP-CIDR,46.3.104.0/24,Global
+IP-CIDR,46.3.97.0/24,Global
 IP-CIDR,50.22.198.204/30,Global
 IP-CIDR,52.200.0.0/13,Global
 IP-CIDR,52.58.0.0/15,Global
