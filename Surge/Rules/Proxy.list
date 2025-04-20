@@ -86,3 +86,15 @@ IP-CIDR,71.18.74.192/32,no-resolve
 IP-CIDR,89.187.160.36/32,no-resolve
 IP-CIDR,98.96.192.11/32,no-resolve
 IP-CIDR,98.98.70.41/32,no-resolve
+DOMAIN-KEYWORD,tailscale.com
+DOMAIN-KEYWORD,awsstatic.com
+DOMAIN-KEYWORD,sanity.io
+DOMAIN-KEYWORD,rudderstack.com
+DOMAIN-KEYWORD,tomcat.run
+DOMAIN-KEYWORD,userpilot.io
+DOMAIN-KEYWORD,ampaeservices.com
+IP-CIDR,35.201.189.0/24,no-resolve
+IP-CIDR,34.92.173.0/24,no-resolve
+IP-CIDR,46.3.97.0/24,no-resolve
+IP-CIDR,46.3.104.0/24,no-resolve
+IP-CIDR,46.3.101.0/24,no-resolve
