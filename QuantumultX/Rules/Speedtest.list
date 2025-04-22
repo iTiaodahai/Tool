@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1073
+# 规则统计: 1083
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -295,6 +295,7 @@ HOST,speedtest-bne-dn1.empower.net.au,Speedtest
 HOST,speedtest-bne.vocus.net,Speedtest
 HOST,speedtest-bri.optusnet.com.au,Speedtest
 HOST,speedtest-brisbane.macquarietelecom.com,Speedtest
+HOST,speedtest-brisbane.optusnet.com.au,Speedtest
 HOST,speedtest-buffalo.greenlightnetworks.com,Speedtest
 HOST,speedtest-ca.pq.hosting,Speedtest
 HOST,speedtest-cbr.cdn.on.net,Speedtest
@@ -302,14 +303,18 @@ HOST,speedtest-dallas.swyftfiber.com,Speedtest
 HOST,speedtest-darwin-nt.optusnet.com.au,Speedtest
 HOST,speedtest-de.pq.hosting,Speedtest
 HOST,speedtest-dfw.dish-wireless.com,Speedtest
+HOST,speedtest-eastburwood.optusnet.com.au,Speedtest
 HOST,speedtest-ebw.optusnet.com.au,Speedtest
 HOST,speedtest-engine.primus.ca,Speedtest
 HOST,speedtest-eqx-sg1.ixtelecom.net,Speedtest
 HOST,speedtest-eqxae1.fsg-hosting.com,Speedtest
 HOST,speedtest-fkt-eqx.retn.net,Speedtest
 HOST,speedtest-fra.melbicom.net,Speedtest
+HOST,speedtest-geelong.optusnet.com.au,Speedtest
+HOST,speedtest-goldcoast.optusnet.com.au,Speedtest
 HOST,speedtest-hkg.retn.net,Speedtest
 HOST,speedtest-hob.launtel.net.au,Speedtest
+HOST,speedtest-hobart.optusnet.com.au,Speedtest
 HOST,speedtest-intl.xl.co.id,Speedtest
 HOST,speedtest-ist-34-node.netzone.com.tr,Speedtest
 HOST,speedtest-jp.tgb-host.com,Speedtest
@@ -322,6 +327,7 @@ HOST,speedtest-lax.perfectip.net,Speedtest
 HOST,speedtest-ld8.mindthespeed.co.za,Speedtest
 HOST,speedtest-ldn.voxtelecom.co.za,Speedtest
 HOST,speedtest-limestonecoast-sa.optusnet.com.au,Speedtest
+HOST,speedtest-limestonecoast.optusnet.com.au,Speedtest
 HOST,speedtest-lon.retn.net,Speedtest
 HOST,speedtest-lon.veloxserv.net,Speedtest
 HOST,speedtest-lon06.vorboss.net,Speedtest
@@ -335,7 +341,9 @@ HOST,speedtest-mel.vic.au.hostuniversal.com.au,Speedtest
 HOST,speedtest-mel.vocus.net,Speedtest
 HOST,speedtest-mel0.encoo.com.au,Speedtest
 HOST,speedtest-melbourne.macquarietelecom.com,Speedtest
+HOST,speedtest-melbourne.optusnet.com.au,Speedtest
 HOST,speedtest-mia.dish-wireless.com,Speedtest
+HOST,speedtest-moorooka.optusnet.com.au,Speedtest
 HOST,speedtest-msk.megafon.ru,Speedtest
 HOST,speedtest-msk.melbicom.net,Speedtest
 HOST,speedtest-msk.retn.net,Speedtest
@@ -370,6 +378,7 @@ HOST,speedtest-sjc.dish-wireless.com,Speedtest
 HOST,speedtest-srv01.tut.net,Speedtest
 HOST,speedtest-stf.megafon.ru,Speedtest
 HOST,speedtest-stm.redeconecta.com,Speedtest
+HOST,speedtest-sunshine.optusnet.com.au,Speedtest
 HOST,speedtest-syd-dn1.empower.net.au,Speedtest
 HOST,speedtest-syd.nsw.au.hostuniversal.com.au,Speedtest
 HOST,speedtest-syd.optusnet.com.au,Speedtest
@@ -384,6 +393,7 @@ HOST,speedtest-tek.teksavvy.com,Speedtest
 HOST,speedtest-tesa.coelhotecnologia.com.br,Speedtest
 HOST,speedtest-thn.krystal.uk,Speedtest
 HOST,speedtest-tor.beanfield.com,Speedtest
+HOST,speedtest-townsville.optusnet.com.au,Speedtest
 HOST,speedtest-txg.infinirc.net,Speedtest
 HOST,speedtest-utc.northland.net,Speedtest
 HOST,speedtest-van.beanfield.com,Speedtest

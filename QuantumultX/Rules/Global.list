@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8429
+# 规则统计: 8434
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -611,6 +611,7 @@ HOST-SUFFIX,angelfire.com,Global
 HOST-SUFFIX,angola.org,Global
 HOST-SUFFIX,angularjs.org,Global
 HOST-SUFFIX,animecrazy.net,Global
+HOST-SUFFIX,animes.garden,Global
 HOST-SUFFIX,animeshippuuden.com,Global
 HOST-SUFFIX,aniscartujo.com,Global
 HOST-SUFFIX,ankr.com,Global
@@ -1561,6 +1562,7 @@ HOST-SUFFIX,christianstudy.com,Global
 HOST-SUFFIX,christiantimes.org.hk,Global
 HOST-SUFFIX,christusrex.org,Global
 HOST-SUFFIX,chrlawyers.hk,Global
+HOST-SUFFIX,chrome,Global
 HOST-SUFFIX,chrome.com,Global
 HOST-SUFFIX,chromecast.com,Global
 HOST-SUFFIX,chromeenterprise.google,Global
@@ -1930,6 +1932,7 @@ HOST-SUFFIX,ddns.ms,Global
 HOST-SUFFIX,ddns.name,Global
 HOST-SUFFIX,ddns.net,Global
 HOST-SUFFIX,ddns.us,Global
+HOST-SUFFIX,ddys.mov,Global
 HOST-SUFFIX,de,Global
 HOST-SUFFIX,de-sci.org,Global
 HOST-SUFFIX,de1lib.org,Global
@@ -2899,6 +2902,7 @@ HOST-SUFFIX,githack.com,Global
 HOST-SUFFIX,github.blog,Global
 HOST-SUFFIX,github.com,Global
 HOST-SUFFIX,github.io,Global
+HOST-SUFFIX,github.media,Global
 HOST-SUFFIX,githubapp.com,Global
 HOST-SUFFIX,githubassets.com,Global
 HOST-SUFFIX,githubcopilot.com,Global
@@ -5436,6 +5440,7 @@ HOST-SUFFIX,photodharma.net,Global
 HOST-SUFFIX,photofocus.com,Global
 HOST-SUFFIX,photonmedia.net,Global
 HOST-SUFFIX,photos.live.com,Global
+HOST-SUFFIX,photoshop.adobe.com,Global
 HOST-SUFFIX,phprcdn.com,Global
 HOST-SUFFIX,phptutorial.net,Global
 HOST-SUFFIX,phuquocservices.com,Global

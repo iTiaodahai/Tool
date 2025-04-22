@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8431
+# 规则统计: 8436
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -611,6 +611,7 @@ DOMAIN-SUFFIX,angelfire.com
 DOMAIN-SUFFIX,angola.org
 DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,animecrazy.net
+DOMAIN-SUFFIX,animes.garden
 DOMAIN-SUFFIX,animeshippuuden.com
 DOMAIN-SUFFIX,aniscartujo.com
 DOMAIN-SUFFIX,ankr.com
@@ -1561,6 +1562,7 @@ DOMAIN-SUFFIX,christianstudy.com
 DOMAIN-SUFFIX,christiantimes.org.hk
 DOMAIN-SUFFIX,christusrex.org
 DOMAIN-SUFFIX,chrlawyers.hk
+DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromecast.com
 DOMAIN-SUFFIX,chromeenterprise.google
@@ -1930,6 +1932,7 @@ DOMAIN-SUFFIX,ddns.ms
 DOMAIN-SUFFIX,ddns.name
 DOMAIN-SUFFIX,ddns.net
 DOMAIN-SUFFIX,ddns.us
+DOMAIN-SUFFIX,ddys.mov
 DOMAIN-SUFFIX,de
 DOMAIN-SUFFIX,de-sci.org
 DOMAIN-SUFFIX,de1lib.org
@@ -2899,6 +2902,7 @@ DOMAIN-SUFFIX,githack.com
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.media
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubcopilot.com
@@ -5436,6 +5440,7 @@ DOMAIN-SUFFIX,photodharma.net
 DOMAIN-SUFFIX,photofocus.com
 DOMAIN-SUFFIX,photonmedia.net
 DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,photoshop.adobe.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,phptutorial.net
 DOMAIN-SUFFIX,phuquocservices.com
