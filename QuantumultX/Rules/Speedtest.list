@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1087
+# 规则统计: 1090
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -94,6 +94,7 @@ HOST,kmlpbcnu-speedtest-01.telus.com,Speedtest
 HOST,konya.verinomidns.com,Speedtest
 HOST,ks-speedtest.homeplus.net.tw,Speedtest
 HOST,la-ookla.geolinks.com,Speedtest
+HOST,lax01.screenshot.download,Speedtest
 HOST,lax1a-speedtest.webnx.com,Speedtest
 HOST,laxla0001speedtestserver01.wiline.com,Speedtest
 HOST,ldnspeedtest.rackdog.com,Speedtest
@@ -449,6 +450,7 @@ HOST,speedtest.cdmsfirst.com,Speedtest
 HOST,speedtest.cenosnetworks.net,Speedtest
 HOST,speedtest.cerberusnetworks.co.uk,Speedtest
 HOST,speedtest.cg.shawcable.net,Speedtest
+HOST,speedtest.citytelecom.ru,Speedtest
 HOST,speedtest.clarkson.edu,Speedtest
 HOST,speedtest.cod4-server.com,Speedtest
 HOST,speedtest.cogeco.ca,Speedtest
@@ -723,6 +725,7 @@ HOST,speedtest01.ehtel.ca,Speedtest
 HOST,speedtest01.o-net.ca,Speedtest
 HOST,speedtest01.srv.dllstx.alticeusa.net,Speedtest
 HOST,speedtest01.srv.hcvlny.alticeusa.net,Speedtest
+HOST,speedtest01.srv.snjsca.alticeusa.net,Speedtest
 HOST,speedtest01.syd1.spintel.net.au,Speedtest
 HOST,speedtest01.tek.net.tr,Speedtest
 HOST,speedtest01.wowrack.com,Speedtest
