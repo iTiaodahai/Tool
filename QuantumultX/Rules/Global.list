@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8452
+# 规则统计: 8453
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -6420,6 +6420,7 @@ HOST-SUFFIX,sstm.moe,Global
 HOST-SUFFIX,sstmlt.moe,Global
 HOST-SUFFIX,sstmlt.net,Global
 HOST-SUFFIX,st,Global
+HOST-SUFFIX,stacher.io,Global
 HOST-SUFFIX,stackblitz.com,Global
 HOST-SUFFIX,stackexchange.com,Global
 HOST-SUFFIX,stackoverflow.com,Global

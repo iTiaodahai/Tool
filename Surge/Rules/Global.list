@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8455
+# 规则统计: 8456
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -6420,6 +6420,7 @@ DOMAIN-SUFFIX,sstm.moe
 DOMAIN-SUFFIX,sstmlt.moe
 DOMAIN-SUFFIX,sstmlt.net
 DOMAIN-SUFFIX,st
+DOMAIN-SUFFIX,stacher.io
 DOMAIN-SUFFIX,stackblitz.com
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,stackoverflow.com
