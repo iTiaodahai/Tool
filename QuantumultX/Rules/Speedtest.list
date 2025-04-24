@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1083
+# 规则统计: 1087
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -301,6 +301,7 @@ HOST,speedtest-ca.pq.hosting,Speedtest
 HOST,speedtest-cbr.cdn.on.net,Speedtest
 HOST,speedtest-dallas.swyftfiber.com,Speedtest
 HOST,speedtest-darwin-nt.optusnet.com.au,Speedtest
+HOST,speedtest-darwin.optusnet.com.au,Speedtest
 HOST,speedtest-de.pq.hosting,Speedtest
 HOST,speedtest-dfw.dish-wireless.com,Speedtest
 HOST,speedtest-eastburwood.optusnet.com.au,Speedtest
@@ -350,6 +351,7 @@ HOST,speedtest-msk.retn.net,Speedtest
 HOST,speedtest-msk.yota.ru,Speedtest
 HOST,speedtest-mtl.beanfield.com,Speedtest
 HOST,speedtest-net.mk.de,Speedtest
+HOST,speedtest-net.xjtlu.edu.cn,Speedtest
 HOST,speedtest-newcastle.optusnet.com.au,Speedtest
 HOST,speedtest-nl.cloudlease.co.il,Speedtest
 HOST,speedtest-nl.hyperfilter.com,Speedtest
@@ -588,6 +590,7 @@ HOST,speedtest.nexicom.net,Speedtest
 HOST,speedtest.nftctelecom.net,Speedtest
 HOST,speedtest.nik.fiber.nl,Speedtest
 HOST,speedtest.nikhef.qonnected.net,Speedtest
+HOST,speedtest.nl.novoserve.com,Speedtest
 HOST,speedtest.nl3.mirhosting.net,Speedtest
 HOST,speedtest.nrbn.ca,Speedtest
 HOST,speedtest.octaplus.uk,Speedtest
@@ -799,6 +802,7 @@ HOST,speedtestlondon.telecom.mu,Speedtest
 HOST,speedtestmacapa.webflash.net.br,Speedtest
 HOST,speedtestmera.vs.mythic-beasts.com,Speedtest
 HOST,speedtestmia.gethotwired.com,Speedtest
+HOST,speedtestmiabr.telxius.com,Speedtest
 HOST,speedtestmiami.telecablecr.com,Speedtest
 HOST,speedtestookla.hya.tw,Speedtest
 HOST,speedtestro.vtal.net.br,Speedtest

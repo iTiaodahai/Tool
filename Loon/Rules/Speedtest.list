@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1083
+# 规则统计: 1087
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -301,6 +301,7 @@ DOMAIN,speedtest-ca.pq.hosting
 DOMAIN,speedtest-cbr.cdn.on.net
 DOMAIN,speedtest-dallas.swyftfiber.com
 DOMAIN,speedtest-darwin-nt.optusnet.com.au
+DOMAIN,speedtest-darwin.optusnet.com.au
 DOMAIN,speedtest-de.pq.hosting
 DOMAIN,speedtest-dfw.dish-wireless.com
 DOMAIN,speedtest-eastburwood.optusnet.com.au
@@ -350,6 +351,7 @@ DOMAIN,speedtest-msk.retn.net
 DOMAIN,speedtest-msk.yota.ru
 DOMAIN,speedtest-mtl.beanfield.com
 DOMAIN,speedtest-net.mk.de
+DOMAIN,speedtest-net.xjtlu.edu.cn
 DOMAIN,speedtest-newcastle.optusnet.com.au
 DOMAIN,speedtest-nl.cloudlease.co.il
 DOMAIN,speedtest-nl.hyperfilter.com
@@ -588,6 +590,7 @@ DOMAIN,speedtest.nexicom.net
 DOMAIN,speedtest.nftctelecom.net
 DOMAIN,speedtest.nik.fiber.nl
 DOMAIN,speedtest.nikhef.qonnected.net
+DOMAIN,speedtest.nl.novoserve.com
 DOMAIN,speedtest.nl3.mirhosting.net
 DOMAIN,speedtest.nrbn.ca
 DOMAIN,speedtest.octaplus.uk
@@ -799,6 +802,7 @@ DOMAIN,speedtestlondon.telecom.mu
 DOMAIN,speedtestmacapa.webflash.net.br
 DOMAIN,speedtestmera.vs.mythic-beasts.com
 DOMAIN,speedtestmia.gethotwired.com
+DOMAIN,speedtestmiabr.telxius.com
 DOMAIN,speedtestmiami.telecablecr.com
 DOMAIN,speedtestookla.hya.tw
 DOMAIN,speedtestro.vtal.net.br
