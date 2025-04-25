@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 17
+# 规则统计: 18
 
 DOMAIN,ifconfig.me
 DOMAIN-SUFFIX,cgbchina.com.cn
@@ -12,10 +12,10 @@ DOMAIN-KEYWORD,digicert.com
 DOMAIN-KEYWORD,edgesrv.com
 DOMAIN-KEYWORD,fides-pol
 DOMAIN-KEYWORD,globalsign.com
+IP-CIDR,17.137.162.0/24,no-resolve
 IP-CIDR,17.252.203.0/24,no-resolve
 IP-CIDR,17.253.145.0/24,no-resolve
 IP-CIDR,17.253.150.0/24,no-resolve
 IP-CIDR,43.160.144.0/24,no-resolve
 DEST-PORT,1130
 DEST-PORT,22
-IP-CIDR,17.137.162.0/24,no-resolve

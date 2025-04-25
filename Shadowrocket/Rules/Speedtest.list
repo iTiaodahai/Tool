@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1090
+# 规则统计: 1092
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -83,6 +83,7 @@ DOMAIN,iperf-ams-nl.eranium.net
 DOMAIN,iperf.gakijken.nl
 DOMAIN,ipl3pt.fft.ops.eu.uu.net
 DOMAIN,ipl3pt.syd.ops.aspac.uu.net
+DOMAIN,iskendurum.veganet.com.tr
 DOMAIN,istanbul.sth.tr
 DOMAIN,izm1speedtest.turktelekom.com.tr
 DOMAIN,izmit-speed.tbtnet.com.tr
@@ -611,6 +612,7 @@ DOMAIN,speedtest.pinguimtelecom.net.br
 DOMAIN,speedtest.polycomm.net
 DOMAIN,speedtest.pr.citywest.ca
 DOMAIN,speedtest.provisiondata.net
+DOMAIN,speedtest.pulse.web.tr
 DOMAIN,speedtest.qld.edgeix.net.au
 DOMAIN,speedtest.quadro.net
 DOMAIN,speedtest.reconn.ru
