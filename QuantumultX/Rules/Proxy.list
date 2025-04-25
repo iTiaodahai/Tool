@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 98
+# 规则统计: 99
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -82,6 +82,7 @@ HOST-KEYWORD,rudderstack.com,Proxy
 HOST-KEYWORD,sandai.net,Proxy
 HOST-KEYWORD,sanity.io,Proxy
 HOST-KEYWORD,sms-activate,Proxy
+HOST-KEYWORD,stacher-cloud.com,Proxy
 HOST-KEYWORD,streamrecorder.io,Proxy
 HOST-KEYWORD,tailscale.com,Proxy
 HOST-KEYWORD,tomcat.run,Proxy

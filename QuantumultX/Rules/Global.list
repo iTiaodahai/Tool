@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8455
+# 规则统计: 8456
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -8251,6 +8251,7 @@ HOST-KEYWORD,skydrive,Global
 HOST-KEYWORD,sms-activate,Global
 HOST-KEYWORD,speedtest,Global
 HOST-KEYWORD,spotify,Global
+HOST-KEYWORD,stacher-cloud.com,Global
 HOST-KEYWORD,streamrecorder.io,Global
 HOST-KEYWORD,tailscale.com,Global
 HOST-KEYWORD,telegram,Global
