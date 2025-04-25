@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8453
+# 规则统计: 8455
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -773,6 +773,7 @@ HOST-SUFFIX,audacy.com,Global
 HOST-SUFFIX,audiomack.com,Global
 HOST-SUFFIX,audionow.com,Global
 HOST-SUFFIX,auntology.fandom.com,Global
+HOST-SUFFIX,auth.openai.com,Global
 HOST-SUFFIX,auth0.com,Global
 HOST-SUFFIX,authorizeddns.net,Global
 HOST-SUFFIX,authorizeddns.org,Global
@@ -2267,7 +2268,6 @@ HOST-SUFFIX,empfil.com,Global
 HOST-SUFFIX,emule-ed2k.com,Global
 HOST-SUFFIX,emulefans.com,Global
 HOST-SUFFIX,emuparadise.me,Global
-HOST-SUFFIX,en.favotter.net,Global
 HOST-SUFFIX,en.hao123.com,Global
 HOST-SUFFIX,enanyang.my,Global
 HOST-SUFFIX,encrypt.me,Global
@@ -2442,6 +2442,7 @@ HOST-SUFFIX,fanbox.cc,Global
 HOST-SUFFIX,fandom.com,Global
 HOST-SUFFIX,fangbinxing.com,Global
 HOST-SUFFIX,fangeming.com,Global
+HOST-SUFFIX,fangeming.comffvpn.com,Global
 HOST-SUFFIX,fangeqiang.com,Global
 HOST-SUFFIX,fanglizhi.info,Global
 HOST-SUFFIX,fangmincn.org,Global
@@ -3282,7 +3283,6 @@ HOST-SUFFIX,gospelherald.com,Global
 HOST-SUFFIX,got-game.org,Global
 HOST-SUFFIX,gotdns.ch,Global
 HOST-SUFFIX,gotgeeks.com,Global
-HOST-SUFFIX,gotquestions.org,Global
 HOST-SUFFIX,gotrusted.com,Global
 HOST-SUFFIX,gotw.ca,Global
 HOST-SUFFIX,gov,Global
@@ -3748,7 +3748,6 @@ HOST-SUFFIX,idemocracy.asia,Global
 HOST-SUFFIX,identi.ca,Global
 HOST-SUFFIX,idiomconnection.com,Global
 HOST-SUFFIX,idlcoyote.com,Global
-HOST-SUFFIX,idope.se,Global
 HOST-SUFFIX,idouga.com,Global
 HOST-SUFFIX,idreamx.com,Global
 HOST-SUFFIX,idrive.com,Global
@@ -4968,6 +4967,7 @@ HOST-SUFFIX,newrepublic.com,Global
 HOST-SUFFIX,news.cnyes.com,Global
 HOST-SUFFIX,news.ebc.net.tw,Global
 HOST-SUFFIX,news.msn.com.tw,Global
+HOST-SUFFIX,news.mt.co.kr,Global
 HOST-SUFFIX,news.nationalgeographic.com,Global
 HOST-SUFFIX,news.omy.sg,Global
 HOST-SUFFIX,news.seehua.com,Global
@@ -5235,6 +5235,7 @@ HOST-SUFFIX,onapp.com,Global
 HOST-SUFFIX,one.com,Global
 HOST-SUFFIX,one.one,Global
 HOST-SUFFIX,one.one.one,Global
+HOST-SUFFIX,one.one.one.one,Global
 HOST-SUFFIX,oneclient.sfx.ms,Global
 HOST-SUFFIX,onedrive.com,Global
 HOST-SUFFIX,onedrive.live.com,Global
@@ -5937,6 +5938,7 @@ HOST-SUFFIX,rushbee.com,Global
 HOST-SUFFIX,rusvpn.com,Global
 HOST-SUFFIX,ruten.com.tw,Global
 HOST-SUFFIX,rutracker.net,Global
+HOST-SUFFIX,rutracker.org,Global
 HOST-SUFFIX,rutube.ru,Global
 HOST-SUFFIX,ruyiseek.com,Global
 HOST-SUFFIX,rxhj.net,Global
@@ -5950,6 +5952,7 @@ HOST-SUFFIX,s1s1s1.com,Global
 HOST-SUFFIX,s3-ap-southeast-1.amazonaws.com,Global
 HOST-SUFFIX,s3-ap-southeast-2.amazonaws.com,Global
 HOST-SUFFIX,s3.amazonaws.com,Global
+HOST-SUFFIX,s3.eu-central-1.amazonaws.com,Global
 HOST-SUFFIX,s4miniarchive.com,Global
 HOST-SUFFIX,s8forum.com,Global
 HOST-SUFFIX,sa.hao123.com,Global
@@ -6502,7 +6505,6 @@ HOST-SUFFIX,stupidvideos.com,Global
 HOST-SUFFIX,stweetly.com,Global
 HOST-SUFFIX,su,Global
 HOST-SUFFIX,subacme.rerouted.org,Global
-HOST-SUFFIX,subhd.tv,Global
 HOST-SUFFIX,substack.com,Global
 HOST-SUFFIX,successfn.com,Global
 HOST-SUFFIX,suche.gmx.net,Global
@@ -7358,6 +7360,7 @@ HOST-SUFFIX,uygur.org,Global
 HOST-SUFFIX,uymaarip.com,Global
 HOST-SUFFIX,v.roucdn,Global
 HOST-SUFFIX,v2.help,Global
+HOST-SUFFIX,v2.hysteria.network,Global
 HOST-SUFFIX,v2ex.co,Global
 HOST-SUFFIX,v2ex.com,Global
 HOST-SUFFIX,v2fly.org,Global
@@ -7408,7 +7411,6 @@ HOST-SUFFIX,video.aol.ca,Global
 HOST-SUFFIX,video.aol.co.uk,Global
 HOST-SUFFIX,video.aol.com,Global
 HOST-SUFFIX,video.ap.org,Global
-HOST-SUFFIX,video.fdbox.com,Global
 HOST-SUFFIX,video.foxbusiness.com,Global
 HOST-SUFFIX,videobam.com,Global
 HOST-SUFFIX,videodelivery.net,Global
