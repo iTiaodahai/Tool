@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 99
+# 规则统计: 103
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -37,6 +37,7 @@ HOST-SUFFIX,hcaptcha.com,Proxy
 HOST-SUFFIX,honey.io,Proxy
 HOST-SUFFIX,istatmenus.app,Proxy
 HOST-SUFFIX,jivosite.com,Proxy
+HOST-SUFFIX,lasso.link,Proxy
 HOST-SUFFIX,linkgraph.com,Proxy
 HOST-SUFFIX,linux.do,Proxy
 HOST-SUFFIX,loli.net,Proxy
@@ -70,7 +71,9 @@ HOST-KEYWORD,awsstatic.com,Proxy
 HOST-KEYWORD,bgp.tools,Proxy
 HOST-KEYWORD,checkhere.top,Proxy
 HOST-KEYWORD,claw.cloud,Proxy
+HOST-KEYWORD,crisp.chat,Proxy
 HOST-KEYWORD,exp-tas.com,Proxy
+HOST-KEYWORD,flowercloud.net,Proxy
 HOST-KEYWORD,ip-api,Proxy
 HOST-KEYWORD,kelee.one,Proxy
 HOST-KEYWORD,keygen-dist,Proxy
@@ -79,6 +82,7 @@ HOST-KEYWORD,mushroomtrack.com,Proxy
 HOST-KEYWORD,nebula-media,Proxy
 HOST-KEYWORD,ntp.org,Proxy
 HOST-KEYWORD,rudderstack.com,Proxy
+HOST-KEYWORD,runtufenxiang.com,Proxy
 HOST-KEYWORD,sandai.net,Proxy
 HOST-KEYWORD,sanity.io,Proxy
 HOST-KEYWORD,sms-activate,Proxy

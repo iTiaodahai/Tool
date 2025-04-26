@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8456
+# 规则统计: 8460
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -4250,6 +4250,7 @@ HOST-SUFFIX,laoyang.info,Global
 HOST-SUFFIX,laptoplockdown.com,Global
 HOST-SUFFIX,laqingdan.net,Global
 HOST-SUFFIX,larsgeorge.com,Global
+HOST-SUFFIX,lasso.link,Global
 HOST-SUFFIX,lastcombat.com,Global
 HOST-SUFFIX,lastfm.es,Global
 HOST-SUFFIX,latelinenews.com,Global
@@ -8218,6 +8219,7 @@ HOST-KEYWORD,blogspot,Global
 HOST-KEYWORD,browserleaks,Global
 HOST-KEYWORD,checkhere.top,Global
 HOST-KEYWORD,claw.cloud,Global
+HOST-KEYWORD,crisp.chat,Global
 HOST-KEYWORD,discord,Global
 HOST-KEYWORD,dlercloud,Global
 HOST-KEYWORD,dropbox,Global
@@ -8225,6 +8227,7 @@ HOST-KEYWORD,epicgames-download,Global
 HOST-KEYWORD,exp-tas.com,Global
 HOST-KEYWORD,facebook,Global
 HOST-KEYWORD,fbcdn,Global
+HOST-KEYWORD,flowercloud.net,Global
 HOST-KEYWORD,github,Global
 HOST-KEYWORD,gmail,Global
 HOST-KEYWORD,google,Global
@@ -8244,6 +8247,7 @@ HOST-KEYWORD,paypal,Global
 HOST-KEYWORD,pinterest,Global
 HOST-KEYWORD,porn,Global
 HOST-KEYWORD,rudderstack.com,Global
+HOST-KEYWORD,runtufenxiang.com,Global
 HOST-KEYWORD,sandai.net,Global
 HOST-KEYWORD,sanity.io,Global
 HOST-KEYWORD,sci-hub,Global
