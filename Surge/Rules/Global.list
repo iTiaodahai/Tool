@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8463
+# 规则统计: 8464
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -8228,6 +8228,7 @@ DOMAIN-KEYWORD,exp-tas.com
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,flowercloud.net
+DOMAIN-KEYWORD,ghcr.io
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google

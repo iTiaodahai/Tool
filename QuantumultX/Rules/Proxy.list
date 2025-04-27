@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 103
+# 规则统计: 104
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -74,6 +74,7 @@ HOST-KEYWORD,claw.cloud,Proxy
 HOST-KEYWORD,crisp.chat,Proxy
 HOST-KEYWORD,exp-tas.com,Proxy
 HOST-KEYWORD,flowercloud.net,Proxy
+HOST-KEYWORD,ghcr.io,Proxy
 HOST-KEYWORD,ip-api,Proxy
 HOST-KEYWORD,kelee.one,Proxy
 HOST-KEYWORD,keygen-dist,Proxy

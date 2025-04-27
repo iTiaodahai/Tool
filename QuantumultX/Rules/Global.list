@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8460
+# 规则统计: 8461
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -8228,6 +8228,7 @@ HOST-KEYWORD,exp-tas.com,Global
 HOST-KEYWORD,facebook,Global
 HOST-KEYWORD,fbcdn,Global
 HOST-KEYWORD,flowercloud.net,Global
+HOST-KEYWORD,ghcr.io,Global
 HOST-KEYWORD,github,Global
 HOST-KEYWORD,gmail,Global
 HOST-KEYWORD,google,Global

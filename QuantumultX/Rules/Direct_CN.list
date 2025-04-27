@@ -1,5 +1,5 @@
 # 规则名称: Direct_CN
-# 规则统计: 34
+# 规则统计: 35
 
 HOST,alibaba.cdn.steampipe.steamcontent.com,Direct_CN
 HOST,assets1.xboxlive.cn,Direct_CN
@@ -31,6 +31,7 @@ HOST-KEYWORD,fides-pol,Direct_CN
 HOST-KEYWORD,globalsign.com,Direct_CN
 IP-CIDR,17.137.162.0/24,Direct_CN
 IP-CIDR,17.248.193.0/24,Direct_CN
+IP-CIDR,17.248.216.0/24,Direct_CN
 IP-CIDR,17.252.203.0/24,Direct_CN
 IP-CIDR,17.253.145.0/24,Direct_CN
 IP-CIDR,17.253.150.0/24,Direct_CN
