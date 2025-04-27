@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1094
+# 规则统计: 1099
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -453,6 +453,7 @@ HOST,speedtest.cerberusnetworks.co.uk,Speedtest
 HOST,speedtest.cg.shawcable.net,Speedtest
 HOST,speedtest.citytelecom.ru,Speedtest
 HOST,speedtest.clarkson.edu,Speedtest
+HOST,speedtest.cloudwifi.ca,Speedtest
 HOST,speedtest.cod4-server.com,Speedtest
 HOST,speedtest.cogeco.ca,Speedtest
 HOST,speedtest.conectaamazonia.com.br,Speedtest
@@ -880,6 +881,7 @@ HOST,stbrantford.rogers.com,Speedtest
 HOST,stbrantfordwireless.rogers.com,Speedtest
 HOST,stcalgarywireless.rogers.com,Speedtest
 HOST,stchathamwireless.rogers.com,Speedtest
+HOST,stczs.norteultrafibra.com.br,Speedtest
 HOST,stdal.highlinefast.com,Speedtest
 HOST,stedmontonwireless.rogers.com,Speedtest
 HOST,stest.ultraconnect.com.br,Speedtest
@@ -964,6 +966,7 @@ HOST,teste.firenetwork.com.br,Speedtest
 HOST,teste.i9va.net.br,Speedtest
 HOST,teste.jsnet.manaus.br,Speedtest
 HOST,teste.linkonfibra.com.br,Speedtest
+HOST,teste.mundialnettelecom.com.br,Speedtest
 HOST,teste.mwhtelecom.com.br,Speedtest
 HOST,teste.newsolutionnet.com.br,Speedtest
 HOST,teste.oriontelecom.link,Speedtest
@@ -1026,6 +1029,8 @@ HOST,wh-netspeed.nwtel.ca,Speedtest
 HOST,yk-netspeed.nwtel.ca,Speedtest
 HOST,yyc-speedtest.xplore.ca,Speedtest
 HOST,yyz-speedtest.xplore.ca,Speedtest
+HOST,zdt-iptv.highspeed.com.tr,Speedtest
+HOST,zeusnet.almotafael.com,Speedtest
 HOST-SUFFIX,backend.librespeed.org,Speedtest
 HOST-SUFFIX,fast.com,Speedtest
 HOST-SUFFIX,hizinitestet.com,Speedtest
