@@ -10,6 +10,7 @@ DOMAIN-KEYWORD,edgesrv.com
 DOMAIN-KEYWORD,fides-pol
 DOMAIN-KEYWORD,globalsign.com
 IP-CIDR,17.137.162.0/24,no-resolve
+IP-CIDR,17.248.193.0/24,no-resolve
 IP-CIDR,17.252.203.0/24,no-resolve
 IP-CIDR,17.253.145.0/24,no-resolve
 IP-CIDR,17.253.150.0/24,no-resolve
