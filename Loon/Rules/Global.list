@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8463
+# 规则统计: 8464
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -8219,6 +8219,7 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,browserleaks
 DOMAIN-KEYWORD,checkhere.top
 DOMAIN-KEYWORD,claw.cloud
+DOMAIN-KEYWORD,cookielaw.org
 DOMAIN-KEYWORD,crisp.chat
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,dlercloud

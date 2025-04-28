@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8461
+# 规则统计: 8462
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -8219,6 +8219,7 @@ HOST-KEYWORD,blogspot,Global
 HOST-KEYWORD,browserleaks,Global
 HOST-KEYWORD,checkhere.top,Global
 HOST-KEYWORD,claw.cloud,Global
+HOST-KEYWORD,cookielaw.org,Global
 HOST-KEYWORD,crisp.chat,Global
 HOST-KEYWORD,discord,Global
 HOST-KEYWORD,dlercloud,Global
