@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8462
+# 规则统计: 8464
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -4260,6 +4260,7 @@ HOST-SUFFIX,lausan.hk,Global
 HOST-SUFFIX,law.com,Global
 HOST-SUFFIX,lbank.info,Global
 HOST-SUFFIX,ld.hao123img.com,Global
+HOST-SUFFIX,ldstatic.com,Global
 HOST-SUFFIX,le-vpn.com,Global
 HOST-SUFFIX,leafyvpn.net,Global
 HOST-SUFFIX,lecloud.net,Global
@@ -8233,6 +8234,7 @@ HOST-KEYWORD,ghcr.io,Global
 HOST-KEYWORD,github,Global
 HOST-KEYWORD,gmail,Global
 HOST-KEYWORD,google,Global
+HOST-KEYWORD,inputsource.pro,Global
 HOST-KEYWORD,instagram,Global
 HOST-KEYWORD,ip-api,Global
 HOST-KEYWORD,jav,Global

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 105
+# 规则统计: 107
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,honey.io
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,lasso.link
+DOMAIN-SUFFIX,ldstatic.com
 DOMAIN-SUFFIX,linkgraph.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,loli.net
@@ -76,6 +77,7 @@ DOMAIN-KEYWORD,crisp.chat
 DOMAIN-KEYWORD,exp-tas.com
 DOMAIN-KEYWORD,flowercloud.net
 DOMAIN-KEYWORD,ghcr.io
+DOMAIN-KEYWORD,inputsource.pro
 DOMAIN-KEYWORD,ip-api
 DOMAIN-KEYWORD,kelee.one
 DOMAIN-KEYWORD,keygen-dist
@@ -106,5 +108,3 @@ IP-CIDR,71.18.74.192/32,no-resolve
 IP-CIDR,89.187.160.36/32,no-resolve
 IP-CIDR,98.96.192.11/32,no-resolve
 IP-CIDR,98.98.70.41/32,no-resolve
-DOMAIN-KEYWORD,inputsource.pro
-DOMAIN-SUFFIX,ldstatic.com
