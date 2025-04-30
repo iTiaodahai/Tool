@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 8464
+# 规则统计: 8469
 
 HOST,123av.com,Global
 HOST,5721004.xyz,Global
@@ -14,6 +14,7 @@ HOST,api.sprig.com,Global
 HOST,api2.amplitude.com,Global
 HOST,assets1.xboxlive.com,Global
 HOST,assets2.xboxlive.com,Global
+HOST,assetsconfigcdn.org,Global
 HOST,atv-ps.amazon.com,Global
 HOST,avatars.akamai.steamstatic.com,Global
 HOST,avatars.cloudflare.steamstatic.com,Global
@@ -8205,6 +8206,7 @@ HOST-KEYWORD,.archive.,Global
 HOST-KEYWORD,.blogspot.,Global
 HOST-KEYWORD,1drv,Global
 HOST-KEYWORD,1e100,Global
+HOST-KEYWORD,a.intercom.io,Global
 HOST-KEYWORD,abema,Global
 HOST-KEYWORD,akile.io,Global
 HOST-KEYWORD,amazon,Global
@@ -8219,6 +8221,7 @@ HOST-KEYWORD,bgp.tools,Global
 HOST-KEYWORD,blogspot,Global
 HOST-KEYWORD,browserleaks,Global
 HOST-KEYWORD,checkhere.top,Global
+HOST-KEYWORD,chronosphere.io,Global
 HOST-KEYWORD,claw.cloud,Global
 HOST-KEYWORD,cookielaw.org,Global
 HOST-KEYWORD,crisp.chat,Global
@@ -8236,6 +8239,7 @@ HOST-KEYWORD,gmail,Global
 HOST-KEYWORD,google,Global
 HOST-KEYWORD,inputsource.pro,Global
 HOST-KEYWORD,instagram,Global
+HOST-KEYWORD,ios.mobile-messenger,Global
 HOST-KEYWORD,ip-api,Global
 HOST-KEYWORD,jav,Global
 HOST-KEYWORD,kelee.one,Global
@@ -8255,6 +8259,7 @@ HOST-KEYWORD,runtufenxiang.com,Global
 HOST-KEYWORD,sandai.net,Global
 HOST-KEYWORD,sanity.io,Global
 HOST-KEYWORD,sci-hub,Global
+HOST-KEYWORD,siftscience.com,Global
 HOST-KEYWORD,skydrive,Global
 HOST-KEYWORD,sms-activate,Global
 HOST-KEYWORD,speedtest,Global

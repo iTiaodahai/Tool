@@ -1,9 +1,10 @@
 # 规则名称: Proxy
-# 规则统计: 107
+# 规则统计: 112
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
 DOMAIN,69yun69.com
+DOMAIN,assetsconfigcdn.org
 DOMAIN,cdn.ziffstatic.com
 DOMAIN,digvps.com
 DOMAIN,filters.adtidy.org
@@ -66,11 +67,13 @@ DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,webp.li
 DOMAIN-SUFFIX,xms.mx
 DOMAIN-SUFFIX,xns.one
+DOMAIN-KEYWORD,a.intercom.io
 DOMAIN-KEYWORD,akile.io
 DOMAIN-KEYWORD,ampaeservices.com
 DOMAIN-KEYWORD,awsstatic.com
 DOMAIN-KEYWORD,bgp.tools
 DOMAIN-KEYWORD,checkhere.top
+DOMAIN-KEYWORD,chronosphere.io
 DOMAIN-KEYWORD,claw.cloud
 DOMAIN-KEYWORD,cookielaw.org
 DOMAIN-KEYWORD,crisp.chat
@@ -78,6 +81,7 @@ DOMAIN-KEYWORD,exp-tas.com
 DOMAIN-KEYWORD,flowercloud.net
 DOMAIN-KEYWORD,ghcr.io
 DOMAIN-KEYWORD,inputsource.pro
+DOMAIN-KEYWORD,ios.mobile-messenger
 DOMAIN-KEYWORD,ip-api
 DOMAIN-KEYWORD,kelee.one
 DOMAIN-KEYWORD,keygen-dist
@@ -89,6 +93,7 @@ DOMAIN-KEYWORD,rudderstack.com
 DOMAIN-KEYWORD,runtufenxiang.com
 DOMAIN-KEYWORD,sandai.net
 DOMAIN-KEYWORD,sanity.io
+DOMAIN-KEYWORD,siftscience.com
 DOMAIN-KEYWORD,sms-activate
 DOMAIN-KEYWORD,stacher-cloud.com
 DOMAIN-KEYWORD,streamrecorder.io
@@ -108,8 +113,3 @@ IP-CIDR,71.18.74.192/32,no-resolve
 IP-CIDR,89.187.160.36/32,no-resolve
 IP-CIDR,98.96.192.11/32,no-resolve
 IP-CIDR,98.98.70.41/32,no-resolve
-DOMAIN-KEYWORD,siftscience.com
-DOMAIN-KEYWORD,ios.mobile-messenger
-DOMAIN,assetsconfigcdn.org
-DOMAIN-KEYWORD,a.intercom.io
-DOMAIN-KEYWORD,chronosphere.io

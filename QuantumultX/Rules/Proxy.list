@@ -1,9 +1,10 @@
 # 规则名称: Proxy
-# 规则统计: 107
+# 规则统计: 112
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
 HOST,69yun69.com,Proxy
+HOST,assetsconfigcdn.org,Proxy
 HOST,cdn.ziffstatic.com,Proxy
 HOST,digvps.com,Proxy
 HOST,filters.adtidy.org,Proxy
@@ -66,11 +67,13 @@ HOST-SUFFIX,vscode-unpkg.net,Proxy
 HOST-SUFFIX,webp.li,Proxy
 HOST-SUFFIX,xms.mx,Proxy
 HOST-SUFFIX,xns.one,Proxy
+HOST-KEYWORD,a.intercom.io,Proxy
 HOST-KEYWORD,akile.io,Proxy
 HOST-KEYWORD,ampaeservices.com,Proxy
 HOST-KEYWORD,awsstatic.com,Proxy
 HOST-KEYWORD,bgp.tools,Proxy
 HOST-KEYWORD,checkhere.top,Proxy
+HOST-KEYWORD,chronosphere.io,Proxy
 HOST-KEYWORD,claw.cloud,Proxy
 HOST-KEYWORD,cookielaw.org,Proxy
 HOST-KEYWORD,crisp.chat,Proxy
@@ -78,6 +81,7 @@ HOST-KEYWORD,exp-tas.com,Proxy
 HOST-KEYWORD,flowercloud.net,Proxy
 HOST-KEYWORD,ghcr.io,Proxy
 HOST-KEYWORD,inputsource.pro,Proxy
+HOST-KEYWORD,ios.mobile-messenger,Proxy
 HOST-KEYWORD,ip-api,Proxy
 HOST-KEYWORD,kelee.one,Proxy
 HOST-KEYWORD,keygen-dist,Proxy
@@ -89,6 +93,7 @@ HOST-KEYWORD,rudderstack.com,Proxy
 HOST-KEYWORD,runtufenxiang.com,Proxy
 HOST-KEYWORD,sandai.net,Proxy
 HOST-KEYWORD,sanity.io,Proxy
+HOST-KEYWORD,siftscience.com,Proxy
 HOST-KEYWORD,sms-activate,Proxy
 HOST-KEYWORD,stacher-cloud.com,Proxy
 HOST-KEYWORD,streamrecorder.io,Proxy
