@@ -10,6 +10,7 @@ HOST,cdn-ws.content.steamchina.com,Direct_CN
 HOST,dl.delivery.mp.microsoft.com,Direct_CN
 HOST,dl.steam.clngaa.com,Direct_CN
 HOST,epicgames-download1-1251447533.file.myqcloud.com,Direct_CN
+HOST,fides-pol.apple.com,Direct_CN
 HOST,ifconfig.me,Direct_CN
 HOST,lv.queniujq.cn,Direct_CN
 HOST,st.dl.bscstorage.net,Direct_CN
@@ -27,7 +28,6 @@ HOST-SUFFIX,termius.com,Direct_CN
 HOST-KEYWORD,120399.xyz,Direct_CN
 HOST-KEYWORD,digicert.com,Direct_CN
 HOST-KEYWORD,edgesrv.com,Direct_CN
-HOST-KEYWORD,fides-pol,Direct_CN
 HOST-KEYWORD,globalsign.com,Direct_CN
 IP-CIDR,17.137.162.0/24,Direct_CN
 IP-CIDR,17.248.193.0/24,Direct_CN

@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1104
+# 规则统计: 1107
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -46,6 +46,7 @@ DOMAIN,de-ffm1-ookla-01.wemacom.net
 DOMAIN,de-fra2-lg1.level66.network
 DOMAIN,de.st.spacecore.pro
 DOMAIN,denizli.verinomidns.com
+DOMAIN,diy1speedtest.turktelekom.com.tr
 DOMAIN,dllstx-ookla1.vyvebroadband.net
 DOMAIN,drtvpdspeedtestb.voiped.com
 DOMAIN,east-speedtest.frontiernetworks.ca
@@ -202,6 +203,7 @@ DOMAIN,sosimhk.datapath.three.com.hk
 DOMAIN,sp-thn2.wildanet.com
 DOMAIN,sp.merkurnet.com.tr
 DOMAIN,sp.pendc.com
+DOMAIN,sp.provedordantasnet.com.br
 DOMAIN,sp01.rbfibra.net.br
 DOMAIN,sp1.asthriona.com
 DOMAIN,sp1.basinbroadband.ca
@@ -792,6 +794,7 @@ DOMAIN,speedtest4.vodafone.com.tr
 DOMAIN,speedtest5.fybercom.net
 DOMAIN,speedtest5.vodafone.com.tr
 DOMAIN,speedtest6.vodafone.com.tr
+DOMAIN,speedtest7.vodafone.com.tr
 DOMAIN,speedtest8.vodafone.com.tr
 DOMAIN,speedtest9.vodafone.com.tr
 DOMAIN,speedtestac.vtal.net.br
