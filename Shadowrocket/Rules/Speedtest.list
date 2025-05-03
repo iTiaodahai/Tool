@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1115
+# 规则统计: 1117
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -68,6 +68,7 @@ DOMAIN,gun1speedtest.turktelekom.com.tr
 DOMAIN,hc1.chtm.hinet.net
 DOMAIN,hizaydin.durunet.com.tr
 DOMAIN,hizbalikesir.durunet.com.tr
+DOMAIN,hizgaziantep.durunet.com.tr
 DOMAIN,hiztesti-ist.codit.com.tr
 DOMAIN,hiztesti.codit.com.tr
 DOMAIN,hiztesti.fiberim.com.tr
@@ -870,6 +871,7 @@ DOMAIN,st-bursa-1.turksatkablo.com.tr
 DOMAIN,st-denizli-1.turksatkablo.com.tr
 DOMAIN,st-erzurum-1.turksatkablo.com.tr
 DOMAIN,st-eskisehir-1.turksatkablo.com.tr
+DOMAIN,st-gaziantep-1.turksatkablo.com.tr
 DOMAIN,st-izmir-1.turksatkablo.com.tr
 DOMAIN,st-kayseri-1.turksatkablo.com.tr
 DOMAIN,st-kocaeli-1.turksatkablo.com.tr
