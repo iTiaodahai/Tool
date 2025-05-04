@@ -1,5 +1,5 @@
 # 规则名称: Direct_CN
-# 规则统计: 37
+# 规则统计: 49
 
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,assets1.xboxlive.cn
@@ -13,6 +13,7 @@ DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 DOMAIN,fides-pol.apple.com
 DOMAIN,ifconfig.me
 DOMAIN,lv.queniujq.cn
+DOMAIN,splunk-hec.apple.com
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,steampipe.steamcontent.tnkjmec.com
@@ -29,12 +30,23 @@ DOMAIN-KEYWORD,120399.xyz
 DOMAIN-KEYWORD,digicert.com
 DOMAIN-KEYWORD,edgesrv.com
 DOMAIN-KEYWORD,globalsign.com
+IP-CIDR,103.195.189.0/24,no-resolve
+IP-CIDR,106.38.208.0/24,no-resolve
+IP-CIDR,117.186.219.0/24,no-resolve
+IP-CIDR,163.177.58.0/24,no-resolve
 IP-CIDR,17.137.162.0/24,no-resolve
 IP-CIDR,17.248.193.0/24,no-resolve
 IP-CIDR,17.248.216.0/24,no-resolve
 IP-CIDR,17.252.203.0/24,no-resolve
 IP-CIDR,17.253.145.0/24,no-resolve
 IP-CIDR,17.253.150.0/24,no-resolve
+IP-CIDR,202.46.227.0/24,no-resolve
+IP-CIDR,202.61.225.0/24,no-resolve
+IP-CIDR,210.74.226.0/24,no-resolve
+IP-CIDR,223.69.130.0/24,no-resolve
 IP-CIDR,43.160.144.0/24,no-resolve
+IP-CIDR,5.226.48.0/24,no-resolve
+IP-CIDR,52.195.206.0/24,no-resolve
+IP-CIDR,8.210.92.0/24,no-resolve
 DEST-PORT,1130
 DEST-PORT,22
