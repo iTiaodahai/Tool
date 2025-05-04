@@ -45,3 +45,8 @@ IP-CIDR,8.210.92.0/24,no-resolve
 IP-CIDR,89.185.28.0/24,no-resolve
 DEST-PORT,1130
 DEST-PORT,22
+IP-CIDR,17.57.145.0/24,no-resolve
+IP-CIDR,8.219.72.0/24,no-resolve
+IP-CIDR,154.17.238.0/24,no-resolve
+IP-CIDR,64.181.251.0/24,no-resolve
+IP-CIDR,213.35.105.0/24,no-resolve
