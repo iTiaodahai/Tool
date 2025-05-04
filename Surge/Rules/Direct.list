@@ -21,3 +21,15 @@ IP-CIDR,17.253.150.0/24,no-resolve
 IP-CIDR,43.160.144.0/24,no-resolve
 DEST-PORT,1130
 DEST-PORT,22
+IP-CIDR,202.46.227.0/24,no-resolve
+IP-CIDR,163.177.58.0/24,no-resolve
+IP-CIDR,117.186.219.0/24,no-resolve
+IP-CIDR,210.74.226.0/24,no-resolve
+IP-CIDR,106.38.208.0/24,no-resolve
+IP-CIDR,223.69.130.0/24,no-resolve
+IP-CIDR,8.210.92.0/24,no-resolve
+IP-CIDR,103.195.189.0/24,no-resolve
+IP-CIDR,5.226.48.0/24,no-resolve
+IP-CIDR,52.195.206.0/24,no-resolve
+IP-CIDR,202.61.225.0/24,no-resolve
+DOMAIN,splunk-hec.apple.com
