@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 114
+# 规则统计: 120
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -24,6 +24,7 @@ HOST-SUFFIX,alice.ws,Proxy
 HOST-SUFFIX,asuscomm.com,Proxy
 HOST-SUFFIX,ax1x.com,Proxy
 HOST-SUFFIX,back4app.com,Proxy
+HOST-SUFFIX,betterttv.net,Proxy
 HOST-SUFFIX,bittorrent.com,Proxy
 HOST-SUFFIX,broadcom.com,Proxy
 HOST-SUFFIX,cdn-centaurus.com,Proxy
@@ -33,10 +34,12 @@ HOST-SUFFIX,crashlytics.com,Proxy
 HOST-SUFFIX,dash-panel.top,Proxy
 HOST-SUFFIX,dmit.io,Proxy
 HOST-SUFFIX,font.im,Proxy
+HOST-SUFFIX,frankerfacez.com,Proxy
 HOST-SUFFIX,getkoala.com,Proxy
 HOST-SUFFIX,gitbook.com,Proxy
 HOST-SUFFIX,hcaptcha.com,Proxy
 HOST-SUFFIX,honey.io,Proxy
+HOST-SUFFIX,imrworldwide.com,Proxy
 HOST-SUFFIX,istatmenus.app,Proxy
 HOST-SUFFIX,jivosite.com,Proxy
 HOST-SUFFIX,lasso.link,Proxy
@@ -59,6 +62,7 @@ HOST-SUFFIX,serv00.com,Proxy
 HOST-SUFFIX,snipaste.com,Proxy
 HOST-SUFFIX,srcdn.net,Proxy
 HOST-SUFFIX,stacher.io,Proxy
+HOST-SUFFIX,streamlabs.com,Proxy
 HOST-SUFFIX,strpst.com,Proxy
 HOST-SUFFIX,tampermonkey.net,Proxy
 HOST-SUFFIX,trustpilot.com,Proxy
@@ -88,6 +92,7 @@ HOST-KEYWORD,ip-api,Proxy
 HOST-KEYWORD,kelee.one,Proxy
 HOST-KEYWORD,keygen-dist,Proxy
 HOST-KEYWORD,ktmcloud,Proxy
+HOST-KEYWORD,lencr.org,Proxy
 HOST-KEYWORD,mushroomtrack.com,Proxy
 HOST-KEYWORD,nebula-media,Proxy
 HOST-KEYWORD,ntp.org,Proxy
@@ -95,6 +100,7 @@ HOST-KEYWORD,rudderstack.com,Proxy
 HOST-KEYWORD,runtufenxiang.com,Proxy
 HOST-KEYWORD,sandai.net,Proxy
 HOST-KEYWORD,sanity.io,Proxy
+HOST-KEYWORD,sectigo.com,Proxy
 HOST-KEYWORD,siftscience.com,Proxy
 HOST-KEYWORD,sms-activate,Proxy
 HOST-KEYWORD,stacher-cloud.com,Proxy
