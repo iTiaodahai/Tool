@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 112
+# 规则统计: 114
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -18,6 +18,7 @@ HOST,surrit.com,Proxy
 HOST,t66y.com,Proxy
 HOST,ucarecdn.com,Proxy
 HOST,yxvm.com,Proxy
+HOST-SUFFIX,111666.best,Proxy
 HOST-SUFFIX,1stream.icu,Proxy
 HOST-SUFFIX,alice.ws,Proxy
 HOST-SUFFIX,asuscomm.com,Proxy
@@ -64,6 +65,7 @@ HOST-SUFFIX,trustpilot.com,Proxy
 HOST-SUFFIX,vma.cc,Proxy
 HOST-SUFFIX,vscode-cdn.net,Proxy
 HOST-SUFFIX,vscode-unpkg.net,Proxy
+HOST-SUFFIX,wcnmm.com,Proxy
 HOST-SUFFIX,webp.li,Proxy
 HOST-SUFFIX,xms.mx,Proxy
 HOST-SUFFIX,xns.one,Proxy

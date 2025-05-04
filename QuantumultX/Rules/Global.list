@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 9419
+# 规则统计: 9421
 
 HOST,123av.com,Global
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
@@ -291,6 +291,7 @@ HOST-SUFFIX,10beasts.net,Global
 HOST-SUFFIX,10conditionsoflove.com,Global
 HOST-SUFFIX,10musume.com,Global
 HOST-SUFFIX,111.com,Global
+HOST-SUFFIX,111666.best,Global
 HOST-SUFFIX,115.com,Global
 HOST-SUFFIX,115cdn.com,Global
 HOST-SUFFIX,115cdn.net,Global
@@ -8439,6 +8440,7 @@ HOST-SUFFIX,waveprotocol.org,Global
 HOST-SUFFIX,waybig.com,Global
 HOST-SUFFIX,waymo.com,Global
 HOST-SUFFIX,waze.com,Global
+HOST-SUFFIX,wcnmm.com,Global
 HOST-SUFFIX,wd.bible,Global
 HOST-SUFFIX,wda.gov.tw,Global
 HOST-SUFFIX,wdf5.com,Global
