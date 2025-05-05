@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 9436
+# 规则统计: 9438
 
 DOMAIN,123av.com
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -6547,6 +6547,8 @@ DOMAIN-SUFFIX,recoveryversion.org
 DOMAIN-SUFFIX,red-lang.org
 DOMAIN-SUFFIX,redballoonsolidarity.org
 DOMAIN-SUFFIX,redbubble.com
+DOMAIN-SUFFIX,redbull.com
+DOMAIN-SUFFIX,redbullracing.com
 DOMAIN-SUFFIX,redchinacn.net
 DOMAIN-SUFFIX,redchinacn.org
 DOMAIN-SUFFIX,redd.it

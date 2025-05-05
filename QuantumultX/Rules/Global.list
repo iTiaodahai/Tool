@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 9434
+# 规则统计: 9436
 
 HOST,123av.com,Global
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
@@ -6547,6 +6547,8 @@ HOST-SUFFIX,recoveryversion.org,Global
 HOST-SUFFIX,red-lang.org,Global
 HOST-SUFFIX,redballoonsolidarity.org,Global
 HOST-SUFFIX,redbubble.com,Global
+HOST-SUFFIX,redbull.com,Global
+HOST-SUFFIX,redbullracing.com,Global
 HOST-SUFFIX,redchinacn.net,Global
 HOST-SUFFIX,redchinacn.org,Global
 HOST-SUFFIX,redd.it,Global
