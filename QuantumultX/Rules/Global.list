@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 9427
+# 规则统计: 9434
 
 HOST,123av.com,Global
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
@@ -3894,6 +3894,7 @@ HOST-SUFFIX,heytapmobi.com,Global
 HOST-SUFFIX,heyuedi.com,Global
 HOST-SUFFIX,heywire.com,Global
 HOST-SUFFIX,heyzo.com,Global
+HOST-SUFFIX,hf.co,Global
 HOST-SUFFIX,hgseav.com,Global
 HOST-SUFFIX,hhdcb3office.org,Global
 HOST-SUFFIX,hhthesakyatrizin.org,Global
@@ -5265,6 +5266,7 @@ HOST-SUFFIX,mirrorbooks.com,Global
 HOST-SUFFIX,mirrormedia.com.tw,Global
 HOST-SUFFIX,mirrormedia.mg,Global
 HOST-SUFFIX,missav.com,Global
+HOST-SUFFIX,missav.ws,Global
 HOST-SUFFIX,misskey.io,Global
 HOST-SUFFIX,mist.vip,Global
 HOST-SUFFIX,mit.edu,Global
@@ -5908,7 +5910,6 @@ HOST-SUFFIX,ooklaserver.net,Global
 HOST-SUFFIX,oopsforum.com,Global
 HOST-SUFFIX,open.com.hk,Global
 HOST-SUFFIX,open.firstory.me,Global
-HOST-SUFFIX,open.spotify.com,Global
 HOST-SUFFIX,openai.com,Global
 HOST-SUFFIX,openallweb.com,Global
 HOST-SUFFIX,openbase.com,Global
@@ -6923,6 +6924,7 @@ HOST-SUFFIX,simplecd.me,Global
 HOST-SUFFIX,simplecd.org,Global
 HOST-SUFFIX,simpleproductivityblog.com,Global
 HOST-SUFFIX,simpleswap.io,Global
+HOST-SUFFIX,simplex.chat,Global
 HOST-SUFFIX,sina.cn,Global
 HOST-SUFFIX,sina.com,Global
 HOST-SUFFIX,sina.com.hk,Global
@@ -7471,6 +7473,7 @@ HOST-SUFFIX,teensinasia.com,Global
 HOST-SUFFIX,teepr.com,Global
 HOST-SUFFIX,tehrantimes.com,Global
 HOST-SUFFIX,telecomspace.com,Global
+HOST-SUFFIX,telega.one,Global
 HOST-SUFFIX,telegra.ph,Global
 HOST-SUFFIX,telegram-cdn.org,Global
 HOST-SUFFIX,telegram.dog,Global
@@ -7480,6 +7483,7 @@ HOST-SUFFIX,telegram.space,Global
 HOST-SUFFIX,telegramdownload.com,Global
 HOST-SUFFIX,telegraph.co.uk,Global
 HOST-SUFFIX,telesco.pe,Global
+HOST-SUFFIX,tellapart.com,Global
 HOST-SUFFIX,tellme.pw,Global
 HOST-SUFFIX,tenacy.com,Global
 HOST-SUFFIX,tencent-cloud.com,Global
@@ -7502,6 +7506,7 @@ HOST-SUFFIX,tfc-taiwan.org.tw,Global
 HOST-SUFFIX,tfhub.dev,Global
 HOST-SUFFIX,tfiflve.com,Global
 HOST-SUFFIX,tg-me.com,Global
+HOST-SUFFIX,tg.dev,Global
 HOST-SUFFIX,tgfcer.com,Global
 HOST-SUFFIX,tgstat.com,Global
 HOST-SUFFIX,th.hao123.com,Global
@@ -8028,6 +8033,7 @@ HOST-SUFFIX,twtrland.com,Global
 HOST-SUFFIX,twttr.com,Global
 HOST-SUFFIX,twurl.nl,Global
 HOST-SUFFIX,twyac.org,Global
+HOST-SUFFIX,tx.me,Global
 HOST-SUFFIX,txxx.com,Global
 HOST-SUFFIX,tycool.com,Global
 HOST-SUFFIX,typekit.net,Global
@@ -9105,6 +9111,7 @@ HOST-SUFFIX,zmedia.com.tw,Global
 HOST-SUFFIX,zmw.cn,Global
 HOST-SUFFIX,zndsk.com,Global
 HOST-SUFFIX,zodgame.us,Global
+HOST-SUFFIX,zodgame.xyz,Global
 HOST-SUFFIX,zoho.com,Global
 HOST-SUFFIX,zomobo.net,Global
 HOST-SUFFIX,zonaeuropa.com,Global
