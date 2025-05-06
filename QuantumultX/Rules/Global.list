@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 9436
+# 规则统计: 9441
 
 HOST,123av.com,Global
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
@@ -134,6 +134,7 @@ HOST,hbounify-prod.evergent.com,Global
 HOST,help.ubnt.com,Global
 HOST,hierarchyapi.onenote.com,Global
 HOST,http-inputs-notion.splunkcloud.com,Global
+HOST,i.dell.com,Global
 HOST,idms.fivem.net,Global
 HOST,img.dlsite.jp,Global
 HOST,ip-scan.adspower.net,Global
@@ -4841,6 +4842,7 @@ HOST-SUFFIX,letscorp.net,Global
 HOST-SUFFIX,letsencrypt.org,Global
 HOST-SUFFIX,letvimg.com,Global
 HOST-SUFFIX,levyhsu.com,Global
+HOST-SUFFIX,lf127.net,Global
 HOST-SUFFIX,lflink.com,Global
 HOST-SUFFIX,lflinkup.com,Global
 HOST-SUFFIX,lflinkup.net,Global
@@ -7432,6 +7434,7 @@ HOST-SUFFIX,taup.org.tw,Global
 HOST-SUFFIX,taweet.com,Global
 HOST-SUFFIX,tb.cn,Global
 HOST-SUFFIX,tbcache.com,Global
+HOST-SUFFIX,tbcdn.cn,Global
 HOST-SUFFIX,tbcollege.org,Global
 HOST-SUFFIX,tbi.org.hk,Global
 HOST-SUFFIX,tbicn.org,Global
@@ -8387,6 +8390,7 @@ HOST-SUFFIX,vrmtr.com,Global
 HOST-SUFFIX,vrporn.com,Global
 HOST-SUFFIX,vrsmash.com,Global
 HOST-SUFFIX,vs.com,Global
+HOST-SUFFIX,vsassets.io,Global
 HOST-SUFFIX,vscode-cdn.net,Global
 HOST-SUFFIX,vscode-unpkg.net,Global
 HOST-SUFFIX,vtunnel.com,Global
@@ -8660,6 +8664,7 @@ HOST-SUFFIX,worldcat.org,Global
 HOST-SUFFIX,worldjournal.com,Global
 HOST-SUFFIX,worldpopulationreview.com,Global
 HOST-SUFFIX,worldvpn.net,Global
+HOST-SUFFIX,wosms.cn,Global
 HOST-SUFFIX,wow-life.net,Global
 HOST-SUFFIX,wow.com,Global
 HOST-SUFFIX,wowgirls.com,Global

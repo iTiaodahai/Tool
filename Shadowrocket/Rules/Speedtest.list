@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1119
+# 规则统计: 1121
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -204,6 +204,7 @@ DOMAIN,sjdm-speedtest.globe.com.ph
 DOMAIN,sky-speedtest.homeplus.net.tw
 DOMAIN,sosimhk.datapath.three.com.hk
 DOMAIN,sp-thn2.wildanet.com
+DOMAIN,sp.esim-international.net
 DOMAIN,sp.merkurnet.com.tr
 DOMAIN,sp.pendc.com
 DOMAIN,sp.provedordantasnet.com.br
@@ -499,6 +500,7 @@ DOMAIN,speedtest.execulink.ca
 DOMAIN,speedtest.extremanetwork.com.br
 DOMAIN,speedtest.fiberlink.net.ua
 DOMAIN,speedtest.fibernetics.ca
+DOMAIN,speedtest.fiberx.com.mx
 DOMAIN,speedtest.fibim.com.tr
 DOMAIN,speedtest.finovy.com
 DOMAIN,speedtest.fixnet.com.tr
