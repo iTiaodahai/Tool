@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 9451
+# 规则统计: 9452
 
 DOMAIN,123av.com
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -1505,6 +1505,7 @@ DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,byrut.org
 DOMAIN-SUFFIX,byteacctimg.com
 DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,bytecdntp.com
 DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytednsdoc.com
