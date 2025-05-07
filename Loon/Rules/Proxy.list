@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 121
+# 规则统计: 122
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,namesilo.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,pandalive.co.kr
 DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,searchatlas.com

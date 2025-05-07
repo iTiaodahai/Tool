@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 121
+# 规则统计: 122
 
 DOMAIN,123av.com
 DOMAIN,5721004.xyz
@@ -18,7 +18,6 @@ DOMAIN,surrit.com
 DOMAIN,t66y.com
 DOMAIN,ucarecdn.com
 DOMAIN,yxvm.com
-DOMAIN-SUFFIX,pandalive.co.kr
 DOMAIN-SUFFIX,111666.best
 DOMAIN-SUFFIX,1stream.icu
 DOMAIN-SUFFIX,alice.ws
@@ -56,6 +55,7 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,namesilo.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,pandalive.co.kr
 DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,searchatlas.com
@@ -123,4 +123,3 @@ IP-CIDR,71.18.74.192/32,no-resolve
 IP-CIDR,89.187.160.36/32,no-resolve
 IP-CIDR,98.96.192.11/32,no-resolve
 IP-CIDR,98.98.70.41/32,no-resolve
-DOMAIN-SUFFIX,broadcom.com
