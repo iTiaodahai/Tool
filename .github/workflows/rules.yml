@@ -114,13 +114,14 @@ jobs:
                 curl -f -L "$url" >> Tool-repo/Ruleset/Microsoft.list || { echo "Download Failed: $url"; exit 1; }
                 echo "" >> Tool-repo/Ruleset/Microsoft.list
             done
-            # 合并Facebook/Instagram/WhatsApp/Wikipedia/Twitter规则
+            # 合并Facebook/Instagram/WhatsApp/Wikipedia/Twitter/Spotify规则
             urls=(
                 "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list"
                 "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Whatsapp/Whatsapp.list"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Wikipedia/Wikipedia.list"
                 "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list"
+                "https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Spotify.list"
             )
             > Tool-repo/Ruleset/Proxy_Social.list
             for url in "${urls[@]}"; do
