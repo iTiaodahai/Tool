@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1122
+# 规则统计: 1126
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -22,6 +22,7 @@ HOST,balikesirspeedtest.fixnet.com.tr,Speedtest
 HOST,bassoon-sg-1.violin.co.th,Speedtest
 HOST,beijing.unicomtest.com,Speedtest
 HOST,ber.wsqm.telekom-dienste.de,Speedtest
+HOST,bozyazi.binbirnet.com.tr,Speedtest
 HOST,brindb2speed1.wireline.com.au,Speedtest
 HOST,btestmcp.vocetelecom.vc,Speedtest
 HOST,bur1speedtest.turktelekom.com.tr,Speedtest
@@ -203,6 +204,7 @@ HOST,sig-speedtest.moratelindo.io,Speedtest
 HOST,sjdm-speedtest.globe.com.ph,Speedtest
 HOST,sky-speedtest.homeplus.net.tw,Speedtest
 HOST,sosimhk.datapath.three.com.hk,Speedtest
+HOST,sp-sea-01.ezeefiber.net,Speedtest
 HOST,sp-thn2.wildanet.com,Speedtest
 HOST,sp.esim-international.net,Speedtest
 HOST,sp.merkurnet.com.tr,Speedtest
@@ -437,6 +439,7 @@ HOST,speedtest.ank01.edge.kernzen.com,Speedtest
 HOST,speedtest.apnic.net,Speedtest
 HOST,speedtest.aquitelecom.tv.br,Speedtest
 HOST,speedtest.archtopfiber.com,Speedtest
+HOST,speedtest.as203446.net,Speedtest
 HOST,speedtest.as210667.net,Speedtest
 HOST,speedtest.as214199.net,Speedtest
 HOST,speedtest.asimonetworks.com,Speedtest
@@ -448,6 +451,7 @@ HOST,speedtest.b2.mhn.cloud,Speedtest
 HOST,speedtest.battern.eu,Speedtest
 HOST,speedtest.beyondair.ca,Speedtest
 HOST,speedtest.blacksun.ca,Speedtest
+HOST,speedtest.bmcc.com.cn,Speedtest
 HOST,speedtest.bnsdfw.com,Speedtest
 HOST,speedtest.bouwhuis.network,Speedtest
 HOST,speedtest.boxbroadband.co.uk,Speedtest
