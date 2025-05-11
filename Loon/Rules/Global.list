@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 9445
+# 规则统计: 9455
 
 DOMAIN,123av.com
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -3353,6 +3353,7 @@ DOMAIN-SUFFIX,gmiddle.net
 DOMAIN-SUFFIX,gmll.org
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,gmozomg.izihost.org
+DOMAIN-SUFFIX,gmp4.com
 DOMAIN-SUFFIX,gmx.net
 DOMAIN-SUFFIX,gnc.com
 DOMAIN-SUFFIX,gnci.org.hk
@@ -4171,6 +4172,7 @@ DOMAIN-SUFFIX,hysteria.network
 DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,i-part.com.tw
 DOMAIN-SUFFIX,i-scmp.com
+DOMAIN-SUFFIX,i.111666.best
 DOMAIN-SUFFIX,i.lithium.com
 DOMAIN-SUFFIX,i1.hk
 DOMAIN-SUFFIX,i2p2.de
@@ -5881,6 +5883,7 @@ DOMAIN-SUFFIX,onapp.com
 DOMAIN-SUFFIX,one.com
 DOMAIN-SUFFIX,one.one
 DOMAIN-SUFFIX,one.one.one
+DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedrive.live.com
@@ -6191,6 +6194,7 @@ DOMAIN-SUFFIX,pkuanvil.com
 DOMAIN-SUFFIX,pl
 DOMAIN-SUFFIX,placemix.com
 DOMAIN-SUFFIX,play-asia.com
+DOMAIN-SUFFIX,play.google
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,playboy.com
 DOMAIN-SUFFIX,playboyplus.com
@@ -6371,6 +6375,7 @@ DOMAIN-SUFFIX,punyu.com
 DOMAIN-SUFFIX,pure18.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,pureconcepts.net
+DOMAIN-SUFFIX,puredns.org
 DOMAIN-SUFFIX,pureinsight.org
 DOMAIN-SUFFIX,purepdf.com
 DOMAIN-SUFFIX,purevpn.com
@@ -6434,6 +6439,7 @@ DOMAIN-SUFFIX,qiyou.cn
 DOMAIN-SUFFIX,qkshare.com
 DOMAIN-SUFFIX,qlivecdn.com
 DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qmp4.com
 DOMAIN-SUFFIX,qmzdd.com
 DOMAIN-SUFFIX,qoos.com
 DOMAIN-SUFFIX,qpic.cn
@@ -6661,6 +6667,7 @@ DOMAIN-SUFFIX,rthklive2-lh.akamaihd.net
 DOMAIN-SUFFIX,rti.org.tw
 DOMAIN-SUFFIX,rti.tw
 DOMAIN-SUFFIX,rtings.com
+DOMAIN-SUFFIX,rtm.tnt-ea.com
 DOMAIN-SUFFIX,rtycminnesota.org
 DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,ruanmei.com
@@ -9030,7 +9037,10 @@ DOMAIN-SUFFIX,yyjlymb.xyz
 DOMAIN-SUFFIX,yysub.net
 DOMAIN-SUFFIX,yzcdn.cn
 DOMAIN-SUFFIX,yzzk.com
+DOMAIN-SUFFIX,z-lib.fm
+DOMAIN-SUFFIX,z-lib.fo
 DOMAIN-SUFFIX,z-lib.gd
+DOMAIN-SUFFIX,z-lib.gl
 DOMAIN-SUFFIX,z-lib.gs
 DOMAIN-SUFFIX,z-lib.io
 DOMAIN-SUFFIX,z-lib.org

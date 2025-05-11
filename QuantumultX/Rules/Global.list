@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 9443
+# 规则统计: 9453
 
 HOST,123av.com,Global
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
@@ -3353,6 +3353,7 @@ HOST-SUFFIX,gmiddle.net,Global
 HOST-SUFFIX,gmll.org,Global
 HOST-SUFFIX,gmodules.com,Global
 HOST-SUFFIX,gmozomg.izihost.org,Global
+HOST-SUFFIX,gmp4.com,Global
 HOST-SUFFIX,gmx.net,Global
 HOST-SUFFIX,gnc.com,Global
 HOST-SUFFIX,gnci.org.hk,Global
@@ -4171,6 +4172,7 @@ HOST-SUFFIX,hysteria.network,Global
 HOST-SUFFIX,i-cable.com,Global
 HOST-SUFFIX,i-part.com.tw,Global
 HOST-SUFFIX,i-scmp.com,Global
+HOST-SUFFIX,i.111666.best,Global
 HOST-SUFFIX,i.lithium.com,Global
 HOST-SUFFIX,i1.hk,Global
 HOST-SUFFIX,i2p2.de,Global
@@ -5881,6 +5883,7 @@ HOST-SUFFIX,onapp.com,Global
 HOST-SUFFIX,one.com,Global
 HOST-SUFFIX,one.one,Global
 HOST-SUFFIX,one.one.one,Global
+HOST-SUFFIX,one.one.one.one,Global
 HOST-SUFFIX,oneclient.sfx.ms,Global
 HOST-SUFFIX,onedrive.com,Global
 HOST-SUFFIX,onedrive.live.com,Global
@@ -6191,6 +6194,7 @@ HOST-SUFFIX,pkuanvil.com,Global
 HOST-SUFFIX,pl,Global
 HOST-SUFFIX,placemix.com,Global
 HOST-SUFFIX,play-asia.com,Global
+HOST-SUFFIX,play.google,Global
 HOST-SUFFIX,playartifact.com,Global
 HOST-SUFFIX,playboy.com,Global
 HOST-SUFFIX,playboyplus.com,Global
@@ -6371,6 +6375,7 @@ HOST-SUFFIX,punyu.com,Global
 HOST-SUFFIX,pure18.com,Global
 HOST-SUFFIX,pureapk.com,Global
 HOST-SUFFIX,pureconcepts.net,Global
+HOST-SUFFIX,puredns.org,Global
 HOST-SUFFIX,pureinsight.org,Global
 HOST-SUFFIX,purepdf.com,Global
 HOST-SUFFIX,purevpn.com,Global
@@ -6434,6 +6439,7 @@ HOST-SUFFIX,qiyou.cn,Global
 HOST-SUFFIX,qkshare.com,Global
 HOST-SUFFIX,qlivecdn.com,Global
 HOST-SUFFIX,qlogo.cn,Global
+HOST-SUFFIX,qmp4.com,Global
 HOST-SUFFIX,qmzdd.com,Global
 HOST-SUFFIX,qoos.com,Global
 HOST-SUFFIX,qpic.cn,Global
@@ -6661,6 +6667,7 @@ HOST-SUFFIX,rthklive2-lh.akamaihd.net,Global
 HOST-SUFFIX,rti.org.tw,Global
 HOST-SUFFIX,rti.tw,Global
 HOST-SUFFIX,rtings.com,Global
+HOST-SUFFIX,rtm.tnt-ea.com,Global
 HOST-SUFFIX,rtycminnesota.org,Global
 HOST-SUFFIX,ru,Global
 HOST-SUFFIX,ruanmei.com,Global
@@ -9030,7 +9037,10 @@ HOST-SUFFIX,yyjlymb.xyz,Global
 HOST-SUFFIX,yysub.net,Global
 HOST-SUFFIX,yzcdn.cn,Global
 HOST-SUFFIX,yzzk.com,Global
+HOST-SUFFIX,z-lib.fm,Global
+HOST-SUFFIX,z-lib.fo,Global
 HOST-SUFFIX,z-lib.gd,Global
+HOST-SUFFIX,z-lib.gl,Global
 HOST-SUFFIX,z-lib.gs,Global
 HOST-SUFFIX,z-lib.io,Global
 HOST-SUFFIX,z-lib.org,Global
