@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1127
+# 规则统计: 1128
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -674,6 +674,7 @@ HOST,speedtest.spd.net.tr,Speedtest
 HOST,speedtest.spectrumvoip.com,Speedtest
 HOST,speedtest.sptel.com,Speedtest
 HOST,speedtest.starlink.ru,Speedtest
+HOST,speedtest.steppod.io,Speedtest
 HOST,speedtest.sth.tr,Speedtest
 HOST,speedtest.sunnysidehosting.net,Speedtest
 HOST,speedtest.sunucum.net.tr,Speedtest
