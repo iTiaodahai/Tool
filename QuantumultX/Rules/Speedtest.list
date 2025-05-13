@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1128
+# 规则统计: 1134
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -461,6 +461,7 @@ HOST,speedtest.brightstar.cloud,Speedtest
 HOST,speedtest.brooketel.coop,Speedtest
 HOST,speedtest.brsk.co.uk,Speedtest
 HOST,speedtest.bursabil.com.tr,Speedtest
+HOST,speedtest.ca-tr.kamatera.com,Speedtest
 HOST,speedtest.cadence.net.uk,Speedtest
 HOST,speedtest.capti.com.au,Speedtest
 HOST,speedtest.cdmsfirst.com,Speedtest
@@ -500,6 +501,7 @@ HOST,speedtest.embrasnet.com.br,Speedtest
 HOST,speedtest.eminnet.com.tr,Speedtest
 HOST,speedtest.empireaccess.com,Speedtest
 HOST,speedtest.epl.ca,Speedtest
+HOST,speedtest.eu-fr.kamatera.com,Speedtest
 HOST,speedtest.eu-lo.kamatera.com,Speedtest
 HOST,speedtest.eu.kamatera.com,Speedtest
 HOST,speedtest.execulink.ca,Speedtest
@@ -715,7 +717,10 @@ HOST,speedtest.unlimitedfiber.com,Speedtest
 HOST,speedtest.uplinkrr.com.br,Speedtest
 HOST,speedtest.upp.com,Speedtest
 HOST,speedtest.uptelecom-ro.com.br,Speedtest
+HOST,speedtest.us-la.kamatera.com,Speedtest
+HOST,speedtest.us-mi2.kamatera.com,Speedtest
 HOST,speedtest.us-se.kamatera.com,Speedtest
+HOST,speedtest.us-tx.kamatera.com,Speedtest
 HOST,speedtest.us.mirhosting.net,Speedtest
 HOST,speedtest.us.openinfra.com,Speedtest
 HOST,speedtest.us310.lax.us.ctcsci.com,Speedtest
@@ -1005,6 +1010,7 @@ HOST,teste.tstelecomltda.com.br,Speedtest
 HOST,teste.wificonnect.com.br,Speedtest
 HOST,teste.wsfibra.com.br,Speedtest
 HOST,teste.xtremenet.com.br,Speedtest
+HOST,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe,Speedtest
 HOST,tn-speedtest.homeplus.net.tw,Speedtest
 HOST,tn1.chtm.hinet.net,Speedtest
 HOST,tnookla.tn.edu.tw,Speedtest

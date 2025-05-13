@@ -1,5 +1,5 @@
 # 规则名称: Apple
-# 规则统计: 203
+# 规则统计: 204
 
 HOST,api.smoot.apple.cn,Apple
 HOST,canary.mask.apple-dns.net,Apple
@@ -9,6 +9,7 @@ HOST,mask-canary.icloud.com,Apple
 HOST,mask-h2.icloud.com,Apple
 HOST,mask.apple-dns.net,Apple
 HOST,mask.icloud.com,Apple
+HOST,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe,Apple
 HOST-SUFFIX,a1.mzstatic.com,Apple
 HOST-SUFFIX,a2.mzstatic.com,Apple
 HOST-SUFFIX,a3.mzstatic.com,Apple

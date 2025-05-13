@@ -1,9 +1,10 @@
 # 规则名称: Microsoft
-# 规则统计: 110
+# 规则统计: 111
 
 HOST,res-1.cdn.office.net,Microsoft
 HOST,res.cdn.office.net,Microsoft
 HOST,statics.teams.cdn.office.net,Microsoft
+HOST,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe,Microsoft
 HOST-SUFFIX,aadrm.com,Microsoft
 HOST-SUFFIX,acompli.com,Microsoft
 HOST-SUFFIX,acompli.net,Microsoft
