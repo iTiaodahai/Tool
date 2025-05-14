@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1134
+# 规则统计: 1136
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -77,6 +77,7 @@ HOST,hiztesti.hiperbox.com.tr,Speedtest
 HOST,hiztesti.isimkayit.com,Speedtest
 HOST,hiztesti2.ondiso.io,Speedtest
 HOST,hk-bgp-speedtest.nearoute.io,Speedtest
+HOST,hkg.02.speedtest.kansuiun.com,Speedtest
 HOST,hkspeedtest.netvigator.com,Speedtest
 HOST,hkt.hkspeedtest.com,Speedtest
 HOST,hkthspeedtest02.telstraglobal.net,Speedtest
@@ -262,6 +263,7 @@ HOST,speed.navegalo.com,Speedtest
 HOST,speed.newclicktelecom.com.br,Speedtest
 HOST,speed.rnipnet.com.br,Speedtest
 HOST,speed.sdmnet.com.br,Speedtest
+HOST,speed.sparcs.net,Speedtest
 HOST,speed.syd.aussiebroadband.com.au,Speedtest
 HOST,speed.tepenet.com.tr,Speedtest
 HOST,speed.turbodc.com,Speedtest
