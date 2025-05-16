@@ -171,3 +171,9 @@ IP-CIDR,76.223.12.1/32,no-resolve
 IP-CIDR,89.187.160.36/32,no-resolve
 IP-CIDR,98.96.192.11/32,no-resolve
 IP-CIDR,98.98.70.41/32,no-resolve
+DOMAIN-SUFFIX,iconify.design
+DOMAIN-SUFFIX,simplesvg.com
+DOMAIN-SUFFIX,jqlang.org
+DOMAIN-SUFFIX,boluomi.link
+DOMAIN-SUFFIX,zeoseven.com
+DOMAIN-SUFFIX,trustpilot.com
