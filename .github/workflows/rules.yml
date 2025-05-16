@@ -160,7 +160,7 @@ jobs:
                 "Reject.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Reject.list"
                 "Speedtest.list https://ruleset.skk.moe/List/domainset/speedtest.conf"              
                 "Spotify.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Spotify.list"
-                "global.conf https://ruleset.skk.moe/List/non_ip/global.conf"
+                "global.list https://ruleset.skk.moe/List/non_ip/global.conf"
                 "skk_apple_cdn.list https://ruleset.skk.moe/List/domainset/apple_cdn.conf"
                 "skk_icloud_private_relay.list https://ruleset.skk.moe/List/domainset/icloud_private_relay.conf"
                 "skk_apple_services.list https://ruleset.skk.moe/List/non_ip/apple_services.conf"
