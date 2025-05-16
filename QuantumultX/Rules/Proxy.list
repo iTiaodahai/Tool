@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 170
+# 规则统计: 175
 
 HOST,123av.com,Proxy
 HOST,5721004.xyz,Proxy
@@ -36,6 +36,7 @@ HOST-SUFFIX,b-cdn.net,Proxy
 HOST-SUFFIX,back4app.com,Proxy
 HOST-SUFFIX,betterttv.net,Proxy
 HOST-SUFFIX,bittorrent.com,Proxy
+HOST-SUFFIX,boluomi.link,Proxy
 HOST-SUFFIX,broadcom.com,Proxy
 HOST-SUFFIX,bunny.net,Proxy
 HOST-SUFFIX,cdn-centaurus.com,Proxy
@@ -64,6 +65,7 @@ HOST-SUFFIX,gofile.io,Proxy
 HOST-SUFFIX,hcaptcha.com,Proxy
 HOST-SUFFIX,honey.io,Proxy
 HOST-SUFFIX,huacloud.net,Proxy
+HOST-SUFFIX,iconify.design,Proxy
 HOST-SUFFIX,imrworldwide.com,Proxy
 HOST-SUFFIX,intercom.io,Proxy
 HOST-SUFFIX,intercomcdn.com,Proxy
@@ -71,6 +73,7 @@ HOST-SUFFIX,istatmenus.app,Proxy
 HOST-SUFFIX,jenkins-ci.org,Proxy
 HOST-SUFFIX,jenkins.io,Proxy
 HOST-SUFFIX,jivosite.com,Proxy
+HOST-SUFFIX,jqlang.org,Proxy
 HOST-SUFFIX,kl.do,Proxy
 HOST-SUFFIX,lasso.link,Proxy
 HOST-SUFFIX,ldstatic.com,Proxy
@@ -100,6 +103,7 @@ HOST-SUFFIX,revenuecat.com,Proxy
 HOST-SUFFIX,rinrei.site,Proxy
 HOST-SUFFIX,searchatlas.com,Proxy
 HOST-SUFFIX,serv00.com,Proxy
+HOST-SUFFIX,simplesvg.com,Proxy
 HOST-SUFFIX,snipaste.com,Proxy
 HOST-SUFFIX,srcdn.net,Proxy
 HOST-SUFFIX,sstatic.net,Proxy
@@ -122,6 +126,7 @@ HOST-SUFFIX,wcnmm.com,Proxy
 HOST-SUFFIX,webp.li,Proxy
 HOST-SUFFIX,xms.mx,Proxy
 HOST-SUFFIX,xns.one,Proxy
+HOST-SUFFIX,zeoseven.com,Proxy
 HOST-KEYWORD,a.intercom.io,Proxy
 HOST-KEYWORD,akile.io,Proxy
 HOST-KEYWORD,ampaeservices.com,Proxy
