@@ -35,10 +35,14 @@ jobs:
             urls=(
                 "https://ruleset.skk.moe/List/domainset/reject.conf"
                 "https://ruleset.skk.moe/List/domainset/reject_extra.conf"
+                "https://ruleset.skk.moe/List/domainset/reject_phishing.conf"
                 "https://ruleset.skk.moe/List/non_ip/reject-drop.conf"
                 "https://ruleset.skk.moe/List/non_ip/reject-no-drop.conf"
+                "https://ruleset.skk.moe/List/non_ip/reject-url-regex.conf"
                 "https://ruleset.skk.moe/List/non_ip/reject.conf"
                 "https://ruleset.skk.moe/List/ip/reject.conf"
+                "https://ruleset.skk.moe/List/ip/reject.conf"
+                "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclash.list"
             )
             > Tool-repo/Ruleset/Ad_Blocking.list
             for url in "${urls[@]}"; do
