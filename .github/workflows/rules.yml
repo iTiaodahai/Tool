@@ -41,7 +41,6 @@ jobs:
                 "https://ruleset.skk.moe/List/non_ip/reject-url-regex.conf"
                 "https://ruleset.skk.moe/List/non_ip/reject.conf"
                 "https://ruleset.skk.moe/List/ip/reject.conf"
-                "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclash.list"
             )
             > Tool-repo/Ruleset/Ad_Blocking.list
             for url in "${urls[@]}"; do
