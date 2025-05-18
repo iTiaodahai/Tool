@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1144
+# 规则统计: 1147
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -26,6 +26,7 @@ HOST,bozyazi.binbirnet.com.tr,Speedtest
 HOST,brindb2speed1.wireline.com.au,Speedtest
 HOST,btestmcp.vocetelecom.vc,Speedtest
 HOST,bur1speedtest.turktelekom.com.tr,Speedtest
+HOST,ca00svp-speed11.svc.tds.net,Speedtest
 HOST,ccs.los-angeles.ca.speedtest.6667890.xyz,Speedtest
 HOST,cesu-hz.zjtelecom.com.cn,Speedtest
 HOST,cesu-nb.zjtelecom.com.cn,Speedtest
@@ -142,6 +143,7 @@ HOST,netservice01.ber01.lwlcom.net,Speedtest
 HOST,ntp-speedtest.homeplus.net.tw,Speedtest
 HOST,ntp1.chtm.hinet.net,Speedtest
 HOST,ny.st.spacecore.pro,Speedtest
+HOST,ny00svp-speed11.svc.tds.net,Speedtest
 HOST,nyc01.screenshot.download,Speedtest
 HOST,nyc1-speedtest.webnx.com,Speedtest
 HOST,nycny-speedtest-ookla-01.st.charter.com,Speedtest
@@ -1067,6 +1069,7 @@ HOST,velocity.softtelecom.net.br,Speedtest
 HOST,veloteste.mrjomar.com.br,Speedtest
 HOST,venusone.horystech.com,Speedtest
 HOST,vic-speedtest.spirit.com.au,Speedtest
+HOST,wa01svp-speed11.svc.tds.net,Speedtest
 HOST,warp.cronon.net,Speedtest
 HOST,wd-speedtest.homeplus.net.tw,Speedtest
 HOST,west-speedtest.frontiernetworks.ca,Speedtest
