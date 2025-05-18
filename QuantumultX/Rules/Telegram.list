@@ -1,0 +1,31 @@
+# 规则名称: Telegram
+# 规则统计: 28
+
+HOST,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe,Telegram
+HOST-SUFFIX,cdn-telegram.org,Telegram
+HOST-SUFFIX,graph.org,Telegram
+HOST-SUFFIX,legra.ph,Telegram
+HOST-SUFFIX,t.me,Telegram
+HOST-SUFFIX,tdesktop.com,Telegram
+HOST-SUFFIX,telega.one,Telegram
+HOST-SUFFIX,telegra.ph,Telegram
+HOST-SUFFIX,telegram.dog,Telegram
+HOST-SUFFIX,telegram.me,Telegram
+HOST-SUFFIX,telegram.org,Telegram
+HOST-SUFFIX,telegram.space,Telegram
+HOST-SUFFIX,telesco.pe,Telegram
+HOST-SUFFIX,tg.dev,Telegram
+HOST-SUFFIX,tx.me,Telegram
+IP-CIDR,149.154.160.0/20,Telegram
+IP-CIDR,185.76.151.0/24,Telegram
+IP-CIDR,91.105.192.0/23,Telegram
+IP-CIDR,91.108.16.0/21,Telegram
+IP-CIDR,91.108.4.0/22,Telegram
+IP-CIDR,91.108.56.0/22,Telegram
+IP-CIDR,91.108.8.0/21,Telegram
+IP-CIDR,95.161.64.0/20,Telegram
+IP6-CIDR,2001:67c:4e8::/48,Telegram
+IP6-CIDR,2001:b28:f23c::/48,Telegram
+IP6-CIDR,2001:b28:f23d::/48,Telegram
+IP6-CIDR,2001:b28:f23f::/48,Telegram
+IP6-CIDR,2a0a:f280::/32,Telegram

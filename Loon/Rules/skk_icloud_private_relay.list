@@ -1,0 +1,10 @@
+# 规则名称: skk_icloud_private_relay
+# 规则统计: 7
+
+DOMAIN,canary.mask.apple-dns.net
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-canary.icloud.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask.apple-dns.net
+DOMAIN,mask.icloud.com
+DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe

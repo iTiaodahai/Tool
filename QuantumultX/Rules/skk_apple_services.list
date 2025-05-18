@@ -1,0 +1,20 @@
+# 规则名称: skk_apple_services
+# 规则统计: 17
+
+HOST,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe,skk_apple_services
+HOST-SUFFIX,aaplimg.com,skk_apple_services
+HOST-SUFFIX,apple-cloudkit.com,skk_apple_services
+HOST-SUFFIX,apple-dns.net,skk_apple_services
+HOST-SUFFIX,apple-mapkit.com,skk_apple_services
+HOST-SUFFIX,apple.co,skk_apple_services
+HOST-SUFFIX,apple.com,skk_apple_services
+HOST-SUFFIX,apple.news,skk_apple_services
+HOST-SUFFIX,appsto.re,skk_apple_services
+HOST-SUFFIX,appstore.com,skk_apple_services
+HOST-SUFFIX,cdn-apple.com,skk_apple_services
+HOST-SUFFIX,icloud-content.com,skk_apple_services
+HOST-SUFFIX,icloud.com,skk_apple_services
+HOST-SUFFIX,itunes.com,skk_apple_services
+HOST-SUFFIX,me.com,skk_apple_services
+HOST-SUFFIX,organicfruitapps.com,skk_apple_services
+HOST-SUFFIX,push-apple.com.akadns.net,skk_apple_services

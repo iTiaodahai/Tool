@@ -1,0 +1,9 @@
+# 规则名称: Kr_Stream
+# 规则统计: 6
+
+DOMAIN,afreecatv.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,neolive.kr
+DOMAIN-SUFFIX,pstatic.net
+DOMAIN-SUFFIX,sooplive.co.kr
+DOMAIN-KEYWORD,kick.com
