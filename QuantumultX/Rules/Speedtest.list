@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1147
+# 规则统计: 1151
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -168,6 +168,7 @@ HOST,ookla.me1.neptune.net.au,Speedtest
 HOST,ookla.moji.fr,Speedtest
 HOST,ookla.opticaltel.com,Speedtest
 HOST,ookla.playmaisreverso.net.br,Speedtest
+HOST,ookla.sh.com.tr,Speedtest
 HOST,ookla.siditelecom-isp.com.br,Speedtest
 HOST,ookla.slimnet.com.br,Speedtest
 HOST,ookla.speedtest.cnix.cn,Speedtest
@@ -264,6 +265,7 @@ HOST,speed.mel.aussiebroadband.com.au,Speedtest
 HOST,speed.mpvnetworks.com,Speedtest
 HOST,speed.msk.avantel.ru,Speedtest
 HOST,speed.navegalo.com,Speedtest
+HOST,speed.netlixor.de,Speedtest
 HOST,speed.newclicktelecom.com.br,Speedtest
 HOST,speed.rnipnet.com.br,Speedtest
 HOST,speed.sdmnet.com.br,Speedtest
@@ -637,6 +639,7 @@ HOST,speedtest.packetworks.net,Speedtest
 HOST,speedtest.par1.adky.net,Speedtest
 HOST,speedtest.parishbroadband.com,Speedtest
 HOST,speedtest.pendc.com,Speedtest
+HOST,speedtest.ph.net.tr,Speedtest
 HOST,speedtest.pilotfiber.com,Speedtest
 HOST,speedtest.pimcommcorp.com,Speedtest
 HOST,speedtest.pingless.com,Speedtest
@@ -1052,6 +1055,7 @@ HOST,velocidade.exytelecom.com.br,Speedtest
 HOST,velocidade.hrctelecom.com.br,Speedtest
 HOST,velocidade.idnetttelecom.com.br,Speedtest
 HOST,velocidade.impertechtelecom.com.br,Speedtest
+HOST,velocidade.niktelecom.com.br,Speedtest
 HOST,velocidade.phinfortelecom.com.br,Speedtest
 HOST,velocidade.softtelecom.net.br,Speedtest
 HOST,velocidadestm.amazonett.com.br,Speedtest

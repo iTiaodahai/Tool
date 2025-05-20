@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1029
+# 规则统计: 1030
 
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
@@ -506,6 +506,7 @@ HOST-SUFFIX,kraken.com,global
 HOST-SUFFIX,kucoin.com,global
 HOST-SUFFIX,kwai.com,global
 HOST-SUFFIX,la,global
+HOST-SUFFIX,laby.net,global
 HOST-SUFFIX,launchdarkly.com,global
 HOST-SUFFIX,ledger.com,global
 HOST-SUFFIX,leetcode.com,global
