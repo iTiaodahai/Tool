@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1151
+# 规则统计: 1152
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -151,6 +151,7 @@ HOST,o-uk-1.flwc.cc,Speedtest
 HOST,ookla-ams.avur.no,Speedtest
 HOST,ookla-ita.asanet.tec.br,Speedtest
 HOST,ookla-london.briantbroadband.com,Speedtest
+HOST,ookla-server.vim.web.tr,Speedtest
 HOST,ookla-speedtest-central.hgconair.hgc.com.hk,Speedtest
 HOST,ookla-speedtest.starverse.network,Speedtest
 HOST,ookla.4g5g.co.uk,Speedtest
