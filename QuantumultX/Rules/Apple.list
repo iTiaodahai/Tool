@@ -1,5 +1,5 @@
 # 规则名称: Apple
-# 规则统计: 204
+# 规则统计: 205
 
 HOST,api.smoot.apple.cn,Apple
 HOST,canary.mask.apple-dns.net,Apple
@@ -53,6 +53,7 @@ HOST-SUFFIX,cds-cdn.v.aaplimg.com,Apple
 HOST-SUFFIX,cds.apple.com,Apple
 HOST-SUFFIX,cds.apple.com.akadns.net,Apple
 HOST-SUFFIX,cdsassets.apple.com,Apple
+HOST-SUFFIX,certs.apple.com,Apple
 HOST-SUFFIX,cl1-cdn.origin-apple.com.akadns.net,Apple
 HOST-SUFFIX,cl1.apple.com,Apple
 HOST-SUFFIX,cl2-cn.apple.com,Apple
