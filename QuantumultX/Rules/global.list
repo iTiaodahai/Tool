@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1033
+# 规则统计: 1035
 
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
@@ -232,6 +232,7 @@ HOST-SUFFIX,debuggex.com,global
 HOST-SUFFIX,deepl.com,global
 HOST-SUFFIX,deepmind.com,global
 HOST-SUFFIX,deezer.com,global
+HOST-SUFFIX,deno.com,global
 HOST-SUFFIX,detnews.com,global
 HOST-SUFFIX,dev,global
 HOST-SUFFIX,deviantart.com,global
@@ -490,6 +491,7 @@ HOST-SUFFIX,jsbin.com,global
 HOST-SUFFIX,jsdelivr.com,global
 HOST-SUFFIX,jsdelivr.net,global
 HOST-SUFFIX,jsfiddle.net,global
+HOST-SUFFIX,jsr.io,global
 HOST-SUFFIX,jumpdesktop.com,global
 HOST-SUFFIX,justdns.info,global
 HOST-SUFFIX,kagi.com,global
