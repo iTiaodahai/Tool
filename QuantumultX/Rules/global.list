@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1038
+# 规则统计: 1039
 
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
@@ -843,6 +843,7 @@ HOST-SUFFIX,surfsharkdns.com,global
 HOST-SUFFIX,surge-activation.com,global
 HOST-SUFFIX,sx,global
 HOST-SUFFIX,synergyse.com,global
+HOST-SUFFIX,sysctl-explorer.net,global
 HOST-SUFFIX,t.co,global
 HOST-SUFFIX,t66y.com,global
 HOST-SUFFIX,tailwindcss.com,global
