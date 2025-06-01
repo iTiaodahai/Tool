@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1158
+# 规则统计: 1162
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -48,6 +48,7 @@ HOST,de-ffm1-ookla-01.wemacom.net,Speedtest
 HOST,de-fra2-lg1.level66.network,Speedtest
 HOST,de.st.spacecore.pro,Speedtest
 HOST,denizli.verinomidns.com,Speedtest
+HOST,digital-net-isp.com,Speedtest
 HOST,diy1speedtest.turktelekom.com.tr,Speedtest
 HOST,dllstx-ookla1.vyvebroadband.net,Speedtest
 HOST,drtvpdspeedtestb.voiped.com,Speedtest
@@ -252,6 +253,7 @@ HOST,speed-mel.gigacomm.net.au,Speedtest
 HOST,speed-syd.gigacomm.net.au,Speedtest
 HOST,speed-test.ukservers.com,Speedtest
 HOST,speed.ade.aussiebroadband.com.au,Speedtest
+HOST,speed.alsalamnet.net,Speedtest
 HOST,speed.amazonett.com.br,Speedtest
 HOST,speed.bne.aussiebroadband.com.au,Speedtest
 HOST,speed.coe.ad.jp,Speedtest
@@ -262,6 +264,7 @@ HOST,speed.fgtelecom.com.br,Speedtest
 HOST,speed.flix.net.tr,Speedtest
 HOST,speed.golddata.net,Speedtest
 HOST,speed.grinternett.com.br,Speedtest
+HOST,speed.inet-isp.com,Speedtest
 HOST,speed.lax-1.serverforge.org,Speedtest
 HOST,speed.matrixtelecon.com.br,Speedtest
 HOST,speed.mel.aussiebroadband.com.au,Speedtest
@@ -270,6 +273,7 @@ HOST,speed.msk.avantel.ru,Speedtest
 HOST,speed.navegalo.com,Speedtest
 HOST,speed.netlixor.de,Speedtest
 HOST,speed.newclicktelecom.com.br,Speedtest
+HOST,speed.onlinedersm.xyz,Speedtest
 HOST,speed.rnipnet.com.br,Speedtest
 HOST,speed.sdmnet.com.br,Speedtest
 HOST,speed.sparcs.net,Speedtest
