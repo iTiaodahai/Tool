@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1040
+# 规则统计: 1042
 
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
@@ -262,6 +262,7 @@ HOST-SUFFIX,downdetector.com,global
 HOST-SUFFIX,downdetectorapi.com,global
 HOST-SUFFIX,draw.io,global
 HOST-SUFFIX,dribbble.com,global
+HOST-SUFFIX,droidwin.com,global
 HOST-SUFFIX,drtuber.com,global
 HOST-SUFFIX,duck.com,global
 HOST-SUFFIX,duckduckgo.com,global
@@ -660,6 +661,7 @@ HOST-SUFFIX,okex.com,global
 HOST-SUFFIX,okx.com,global
 HOST-SUFFIX,one,global
 HOST-SUFFIX,one.com,global
+HOST-SUFFIX,onepluscommunityserver.com,global
 HOST-SUFFIX,opencollective.com,global
 HOST-SUFFIX,opensea.io,global
 HOST-SUFFIX,openstreetmap.org,global

@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1162
+# 规则统计: 1165
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -386,6 +386,7 @@ HOST,speedtest-newcastle.optusnet.com.au,Speedtest
 HOST,speedtest-nl.cloudlease.co.il,Speedtest
 HOST,speedtest-nl.hyperfilter.com,Speedtest
 HOST,speedtest-nl.vdsina.ru,Speedtest
+HOST,speedtest-ntt-ldn.as20011.net,Speedtest
 HOST,speedtest-nxtb2.fsg-hosting.com,Speedtest
 HOST,speedtest-nxts1.fsg-hosting.com,Speedtest
 HOST,speedtest-nyc.dish-wireless.com,Speedtest
@@ -621,6 +622,7 @@ HOST,speedtest.multicablehn.com,Speedtest
 HOST,speedtest.myaccess.ca,Speedtest
 HOST,speedtest.myarena.ru,Speedtest
 HOST,speedtest.myrepublic.com.sg,Speedtest
+HOST,speedtest.nardc.com,Speedtest
 HOST,speedtest.naturalwireless.com,Speedtest
 HOST,speedtest.nbntelecom.com.br,Speedtest
 HOST,speedtest.net360.cloud,Speedtest
@@ -974,6 +976,7 @@ HOST,stoakville.rogers.com,Speedtest
 HOST,storangeville.rogers.com,Speedtest
 HOST,storangevillewireless.rogers.com,Speedtest
 HOST,stosat-rvlt-01.sys.comcast.net,Speedtest
+HOST,str01.spnet.com.tr,Speedtest
 HOST,streddeerwireless.rogers.com,Speedtest
 HOST,stsarniawireless.rogers.com,Speedtest
 HOST,stsaultstemariewireless.rogers.com,Speedtest
