@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1165
+# 规则统计: 1171
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -86,6 +86,7 @@ HOST,hkthspeedtest02.telstraglobal.net,Speedtest
 HOST,hoshiyomi.ratatoskr.org,Speedtest
 HOST,hs14.aratwifi.com.tr,Speedtest
 HOST,hv1.juce.ca,Speedtest
+HOST,interop25.udx.icscoe.jp,Speedtest
 HOST,iperf-ams-nl.eranium.net,Speedtest
 HOST,iperf.gakijken.nl,Speedtest
 HOST,ipl3pt.fft.ops.eu.uu.net,Speedtest
@@ -212,6 +213,7 @@ HOST,sgspeed.chinaunicomglobal.com,Speedtest
 HOST,sig-speedtest.moratelindo.io,Speedtest
 HOST,sjdm-speedtest.globe.com.ph,Speedtest
 HOST,sky-speedtest.homeplus.net.tw,Speedtest
+HOST,sky.almotafael.com,Speedtest
 HOST,sosimhk.datapath.three.com.hk,Speedtest
 HOST,sp-sea-01.ezeefiber.net,Speedtest
 HOST,sp-thn2.wildanet.com,Speedtest
@@ -437,6 +439,7 @@ HOST,speedtest-xg-oki.glbb.ne.jp,Speedtest
 HOST,speedtest.100g.macarne.com,Speedtest
 HOST,speedtest.139play.com,Speedtest
 HOST,speedtest.23m.com,Speedtest
+HOST,speedtest.3s-labo.com,Speedtest
 HOST,speedtest.45networks.ca,Speedtest
 HOST,speedtest.58243.as,Speedtest
 HOST,speedtest.5x5tele.com,Speedtest
@@ -564,6 +567,7 @@ HOST,speedtest.inforr.com.br,Speedtest
 HOST,speedtest.inoc.net,Speedtest
 HOST,speedtest.inovewifi.com,Speedtest
 HOST,speedtest.internetbolaget.nu,Speedtest
+HOST,speedtest.intlink.com.br,Speedtest
 HOST,speedtest.ip-projects.de,Speedtest
 HOST,speedtest.isppapagaio.com.br,Speedtest
 HOST,speedtest.itel.com,Speedtest
@@ -805,6 +809,7 @@ HOST,speedtest1.inetcom.ru,Speedtest
 HOST,speedtest1.innsys.ca,Speedtest
 HOST,speedtest1.itp360.com,Speedtest
 HOST,speedtest1.mia.fl.us.convergia.net,Speedtest
+HOST,speedtest1.nardc.com,Speedtest
 HOST,speedtest1.net.cornell.edu,Speedtest
 HOST,speedtest1.net.rochester.edu,Speedtest
 HOST,speedtest1.nextpertise.nl,Speedtest
@@ -1055,6 +1060,7 @@ HOST,ty-speedtest.homeplus.net.tw,Speedtest
 HOST,ty1.chtm.hinet.net,Speedtest
 HOST,tyo.st.spacecore.pro,Speedtest
 HOST,uk-lon-tcy-mtn-speedtest-server-01.mtn.com,Speedtest
+HOST,uls1speedtest.turktelekom.com.tr,Speedtest
 HOST,umr1speedtest.turktelekom.com.tr,Speedtest
 HOST,uplinkfibra.brsserver.com.br,Speedtest
 HOST,uptelecom.brsserver.com.br,Speedtest
