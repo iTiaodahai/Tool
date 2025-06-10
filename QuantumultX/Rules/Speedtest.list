@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1175
+# 规则统计: 1180
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -270,6 +270,7 @@ HOST,speed.golddata.net,Speedtest
 HOST,speed.grinternett.com.br,Speedtest
 HOST,speed.inet-isp.com,Speedtest
 HOST,speed.lax-1.serverforge.org,Speedtest
+HOST,speed.lordnet.net,Speedtest
 HOST,speed.matrixtelecon.com.br,Speedtest
 HOST,speed.mel.aussiebroadband.com.au,Speedtest
 HOST,speed.mpvnetworks.com,Speedtest
@@ -390,6 +391,7 @@ HOST,speedtest-newcastle.optusnet.com.au,Speedtest
 HOST,speedtest-nl.cloudlease.co.il,Speedtest
 HOST,speedtest-nl.hyperfilter.com,Speedtest
 HOST,speedtest-nl.vdsina.ru,Speedtest
+HOST,speedtest-ntt-fra.as20011.net,Speedtest
 HOST,speedtest-ntt-ldn.as20011.net,Speedtest
 HOST,speedtest-nxtb2.fsg-hosting.com,Speedtest
 HOST,speedtest-nxts1.fsg-hosting.com,Speedtest
@@ -538,6 +540,7 @@ HOST,speedtest.fiberx.com.mx,Speedtest
 HOST,speedtest.fibim.com.tr,Speedtest
 HOST,speedtest.finovy.com,Speedtest
 HOST,speedtest.fixnet.com.tr,Speedtest
+HOST,speedtest.fra01.datascheune.de,Speedtest
 HOST,speedtest.fra01.fusionflare.cloud,Speedtest
 HOST,speedtest.fra1.hivelocity.net,Speedtest
 HOST,speedtest.gamedoping.com,Speedtest
@@ -779,6 +782,7 @@ HOST,speedtest.wifitelekom.com,Speedtest
 HOST,speedtest.wilcasji.com,Speedtest
 HOST,speedtest.wolfpaw.net,Speedtest
 HOST,speedtest.wp.shawcable.net,Speedtest
+HOST,speedtest.wrinternet.com,Speedtest
 HOST,speedtest.wwfn.ca,Speedtest
 HOST,speedtest.xcdtelecom.com,Speedtest
 HOST,speedtest.xipnet.com,Speedtest
@@ -1054,6 +1058,7 @@ HOST,tor-speedtest.net.sangoma.net,Speedtest
 HOST,toronto-oh-speedtest.brdband.com,Speedtest
 HOST,tp-speedtest.homeplus.net.tw,Speedtest
 HOST,tp1.chtm.hinet.net,Speedtest
+HOST,tr-bursa.elmashost.com,Speedtest
 HOST,tr-ist.orfi.net.tr,Speedtest
 HOST,tr-istanbul.elmashost.com,Speedtest
 HOST,trtspeedtest.altimatel.com,Speedtest
