@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1180
+# 规则统计: 1181
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -247,6 +247,7 @@ HOST,spd03-syd.au.superloop.com,Speedtest
 HOST,spd33.claro.com.br,Speedtest
 HOST,spd49.claro.com.br,Speedtest
 HOST,spd53.claro.com.br,Speedtest
+HOST,spd76.claro.com.br,Speedtest
 HOST,spdfra.cndd.net,Speedtest
 HOST,spdms.twincher.ru,Speedtest
 HOST,spdtes.phoenix.net.tr,Speedtest

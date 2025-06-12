@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1042
+# 规则统计: 1043
 
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
@@ -668,6 +668,7 @@ HOST-SUFFIX,openstreetmap.org,global
 HOST-SUFFIX,opentable.com,global
 HOST-SUFFIX,openwrt.org,global
 HOST-SUFFIX,oracle.com,global
+HOST-SUFFIX,osmand.net,global
 HOST-SUFFIX,overdrive.com,global
 HOST-SUFFIX,ovpnleaktest.com,global
 HOST-SUFFIX,packagephobia.com,global

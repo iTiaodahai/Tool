@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1180
+# 规则统计: 1181
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -247,6 +247,7 @@ DOMAIN,spd03-syd.au.superloop.com
 DOMAIN,spd33.claro.com.br
 DOMAIN,spd49.claro.com.br
 DOMAIN,spd53.claro.com.br
+DOMAIN,spd76.claro.com.br
 DOMAIN,spdfra.cndd.net
 DOMAIN,spdms.twincher.ru
 DOMAIN,spdtes.phoenix.net.tr
