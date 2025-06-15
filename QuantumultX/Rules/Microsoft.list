@@ -1,5 +1,5 @@
 # 规则名称: Microsoft
-# 规则统计: 111
+# 规则统计: 117
 
 HOST,res-1.cdn.office.net,Microsoft
 HOST,res.cdn.office.net,Microsoft
@@ -44,6 +44,11 @@ HOST-SUFFIX,download.windowsupdate.com,Microsoft
 HOST-SUFFIX,edgesuite.net,Microsoft
 HOST-SUFFIX,fs.microsoft.com,Microsoft
 HOST-SUFFIX,gfx.ms,Microsoft
+HOST-SUFFIX,github.com,Microsoft
+HOST-SUFFIX,github.io,Microsoft
+HOST-SUFFIX,githubapp.com,Microsoft
+HOST-SUFFIX,githubassets.com,Microsoft
+HOST-SUFFIX,githubusercontent.com,Microsoft
 HOST-SUFFIX,learn.microsoft.com,Microsoft
 HOST-SUFFIX,live.com,Microsoft
 HOST-SUFFIX,live.net,Microsoft
@@ -110,5 +115,6 @@ HOST-SUFFIX,xboxservices.com,Microsoft
 HOST-SUFFIX,yammer.com,Microsoft
 HOST-SUFFIX,yammerusercontent.com,Microsoft
 HOST-KEYWORD,1drv,Microsoft
+HOST-KEYWORD,github,Microsoft
 HOST-KEYWORD,hotmail,Microsoft
 HOST-KEYWORD,microsoft,Microsoft

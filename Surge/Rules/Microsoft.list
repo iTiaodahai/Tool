@@ -1,5 +1,5 @@
 # 规则名称: Microsoft
-# 规则统计: 111
+# 规则统计: 117
 
 DOMAIN,res-1.cdn.office.net
 DOMAIN,res.cdn.office.net
@@ -44,6 +44,11 @@ DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,fs.microsoft.com
 DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,learn.microsoft.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
@@ -110,5 +115,6 @@ DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,hotmail
 DOMAIN-KEYWORD,microsoft
