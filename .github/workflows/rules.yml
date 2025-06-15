@@ -79,6 +79,7 @@ jobs:
                 "https://ruleset.skk.moe/List/non_ip/microsoft.conf"
                 "https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf"
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Bing/Bing.list"
+                "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list"
             )
             > Tool-repo/Ruleset/Microsoft.list
             for url in "${urls[@]}"; do
@@ -134,17 +135,6 @@ jobs:
                 curl -f -L "$url" >> Tool-repo/Ruleset/AI.list || { echo "Download Failed: $url"; exit 1; }
                 echo "" >> Tool-repo/Ruleset/AI.list
             done
-            # 合并韩国直播平台规则
-            urls=(
-                "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Twitch/Twitch.list"
-                "https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Kr_Stream.list"
-            )
-            > Tool-repo/Ruleset/KR_Stream.list
-            for url in "${urls[@]}"; do
-                echo "Downloading: $url"
-                curl -f -L "$url" >> Tool-repo/Ruleset/KR_Stream.list || { echo "Download Failed: $url"; exit 1; }
-                echo "" >> Tool-repo/Ruleset/KR_Stream.list
-            done
             # 下载规则
             files=(
                 "Disney.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Disney/Disney.list"
@@ -152,7 +142,6 @@ jobs:
                 "Github.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list"
                 "Google.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list"
                 "Instagram.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list"
-                "Kr_Stream.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Kr_Stream.list"
                 "Netflix.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list"
                 "PayPal.list https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
                 "Proxy.list https://raw.githubusercontent.com/iTiaodahai/Tool/refs/heads/main/Surge/Rules/Proxy.list"
