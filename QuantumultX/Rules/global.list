@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1044
+# 规则统计: 1045
 
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
@@ -499,6 +499,7 @@ HOST-SUFFIX,jumpdesktop.com,global
 HOST-SUFFIX,justdns.info,global
 HOST-SUFFIX,kagi.com,global
 HOST-SUFFIX,kakao.com,global
+HOST-SUFFIX,kali.org,global
 HOST-SUFFIX,kde.org,global
 HOST-SUFFIX,kg,global
 HOST-SUFFIX,kick.com,global
