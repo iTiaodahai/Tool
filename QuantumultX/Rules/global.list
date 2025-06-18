@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1045
+# 规则统计: 1048
 
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
@@ -508,6 +508,8 @@ HOST-SUFFIX,kinja.com,global
 HOST-SUFFIX,kisscos.net,global
 HOST-SUFFIX,ko-fi.com,global
 HOST-SUFFIX,kobo.com,global
+HOST-SUFFIX,komoot.com,global
+HOST-SUFFIX,komoot.net,global
 HOST-SUFFIX,kr,global
 HOST-SUFFIX,kraken.com,global
 HOST-SUFFIX,kucoin.com,global
@@ -626,6 +628,7 @@ HOST-SUFFIX,nicehash.com,global
 HOST-SUFFIX,nikkei.com,global
 HOST-SUFFIX,nitter.net,global
 HOST-SUFFIX,nj.com,global
+HOST-SUFFIX,njav.com,global
 HOST-SUFFIX,nl,global
 HOST-SUFFIX,no,global
 HOST-SUFFIX,nodeseek.com,global
