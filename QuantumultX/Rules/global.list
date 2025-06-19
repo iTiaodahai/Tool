@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1048
+# 规则统计: 1050
 
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
@@ -251,6 +251,7 @@ HOST-SUFFIX,dmcdn.net,global
 HOST-SUFFIX,dns-check.info,global
 HOST-SUFFIX,dns-leak.com,global
 HOST-SUFFIX,dns-oarc.net,global
+HOST-SUFFIX,dnschecker.org,global
 HOST-SUFFIX,dnsleak.asn247.net,global
 HOST-SUFFIX,dnsleak.com,global
 HOST-SUFFIX,dnsleak.privadovpn.com,global
@@ -547,6 +548,7 @@ HOST-SUFFIX,lol,global
 HOST-SUFFIX,ly,global
 HOST-SUFFIX,lynxjs.org,global
 HOST-SUFFIX,m.me,global
+HOST-SUFFIX,macaddress.io,global
 HOST-SUFFIX,macpaw.com,global
 HOST-SUFFIX,madewithcode.com,global
 HOST-SUFFIX,majsoul.union-game.com,global
