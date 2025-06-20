@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1185
+# 规则统计: 1190
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -140,6 +140,7 @@ HOST,mns.i-systems.com,Speedtest
 HOST,mobile.shunicomtest.com,Speedtest
 HOST,montsouris3.d2m.c2d.liveservices.fr,Speedtest
 HOST,msk-speedtest2.corbina.net,Speedtest
+HOST,msk.speedtest.timeweb.ru,Speedtest
 HOST,msk3.companion.t2.ru,Speedtest
 HOST,mtcspeedtest.catskill.net,Speedtest
 HOST,netservice01.ber01.lwlcom.net,Speedtest
@@ -248,6 +249,7 @@ HOST,spd33.claro.com.br,Speedtest
 HOST,spd49.claro.com.br,Speedtest
 HOST,spd53.claro.com.br,Speedtest
 HOST,spd76.claro.com.br,Speedtest
+HOST,spd79.claro.com.br,Speedtest
 HOST,spdfra.cndd.net,Speedtest
 HOST,spdms.twincher.ru,Speedtest
 HOST,spdtes.phoenix.net.tr,Speedtest
@@ -466,6 +468,7 @@ HOST,speedtest.ams1.hivelocity.net,Speedtest
 HOST,speedtest.ams1.macarne.com,Speedtest
 HOST,speedtest.ams14.usenet.farm,Speedtest
 HOST,speedtest.ank01.edge.kernzen.com,Speedtest
+HOST,speedtest.anksoft.net,Speedtest
 HOST,speedtest.apnet-rr.com.br,Speedtest
 HOST,speedtest.apnic.net,Speedtest
 HOST,speedtest.aquitelecom.tv.br,Speedtest
@@ -633,6 +636,7 @@ HOST,speedtest.moscow.gldn.net,Speedtest
 HOST,speedtest.msk.ertelecom.ru,Speedtest
 HOST,speedtest.mtnetworks.mn,Speedtest
 HOST,speedtest.multicablehn.com,Speedtest
+HOST,speedtest.my-infra.ru,Speedtest
 HOST,speedtest.myaccess.ca,Speedtest
 HOST,speedtest.myarena.ru,Speedtest
 HOST,speedtest.myrepublic.com.sg,Speedtest
@@ -921,6 +925,7 @@ HOST,srvteste.edntelecom.net.br,Speedtest
 HOST,st-4.fibrenest.com,Speedtest
 HOST,st-adana-1.turksatkablo.com.tr,Speedtest
 HOST,st-ankara-1.turksatkablo.com.tr,Speedtest
+HOST,st-antalya-1.turksatkablo.com.tr,Speedtest
 HOST,st-atakoy-1.turksatkablo.com.tr,Speedtest
 HOST,st-balikesir-1.turksatkablo.com.tr,Speedtest
 HOST,st-balikesirbandirma-1.turksatkablo.com.tr,Speedtest

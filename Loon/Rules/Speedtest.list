@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1185
+# 规则统计: 1190
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -140,6 +140,7 @@ DOMAIN,mns.i-systems.com
 DOMAIN,mobile.shunicomtest.com
 DOMAIN,montsouris3.d2m.c2d.liveservices.fr
 DOMAIN,msk-speedtest2.corbina.net
+DOMAIN,msk.speedtest.timeweb.ru
 DOMAIN,msk3.companion.t2.ru
 DOMAIN,mtcspeedtest.catskill.net
 DOMAIN,netservice01.ber01.lwlcom.net
@@ -248,6 +249,7 @@ DOMAIN,spd33.claro.com.br
 DOMAIN,spd49.claro.com.br
 DOMAIN,spd53.claro.com.br
 DOMAIN,spd76.claro.com.br
+DOMAIN,spd79.claro.com.br
 DOMAIN,spdfra.cndd.net
 DOMAIN,spdms.twincher.ru
 DOMAIN,spdtes.phoenix.net.tr
@@ -466,6 +468,7 @@ DOMAIN,speedtest.ams1.hivelocity.net
 DOMAIN,speedtest.ams1.macarne.com
 DOMAIN,speedtest.ams14.usenet.farm
 DOMAIN,speedtest.ank01.edge.kernzen.com
+DOMAIN,speedtest.anksoft.net
 DOMAIN,speedtest.apnet-rr.com.br
 DOMAIN,speedtest.apnic.net
 DOMAIN,speedtest.aquitelecom.tv.br
@@ -633,6 +636,7 @@ DOMAIN,speedtest.moscow.gldn.net
 DOMAIN,speedtest.msk.ertelecom.ru
 DOMAIN,speedtest.mtnetworks.mn
 DOMAIN,speedtest.multicablehn.com
+DOMAIN,speedtest.my-infra.ru
 DOMAIN,speedtest.myaccess.ca
 DOMAIN,speedtest.myarena.ru
 DOMAIN,speedtest.myrepublic.com.sg
@@ -921,6 +925,7 @@ DOMAIN,srvteste.edntelecom.net.br
 DOMAIN,st-4.fibrenest.com
 DOMAIN,st-adana-1.turksatkablo.com.tr
 DOMAIN,st-ankara-1.turksatkablo.com.tr
+DOMAIN,st-antalya-1.turksatkablo.com.tr
 DOMAIN,st-atakoy-1.turksatkablo.com.tr
 DOMAIN,st-balikesir-1.turksatkablo.com.tr
 DOMAIN,st-balikesirbandirma-1.turksatkablo.com.tr
