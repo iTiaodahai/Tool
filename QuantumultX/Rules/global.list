@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1050
+# 规则统计: 1056
 
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
@@ -128,6 +128,7 @@ HOST-SUFFIX,binance.com,global
 HOST-SUFFIX,binance.me,global
 HOST-SUFFIX,bing.com,global
 HOST-SUFFIX,bitbucket.io,global
+HOST-SUFFIX,bitbucket.org,global
 HOST-SUFFIX,bitchute.com,global
 HOST-SUFFIX,bitfinex.com,global
 HOST-SUFFIX,bitly.com,global
@@ -205,6 +206,7 @@ HOST-SUFFIX,coinmarketcap.com,global
 HOST-SUFFIX,community,global
 HOST-SUFFIX,convertio.co,global
 HOST-SUFFIX,cool18.com,global
+HOST-SUFFIX,corecode.io,global
 HOST-SUFFIX,cosplay-jav.com,global
 HOST-SUFFIX,costco.com,global
 HOST-SUFFIX,coveralls.io,global
@@ -329,6 +331,7 @@ HOST-SUFFIX,forbes.com,global
 HOST-SUFFIX,foxnews.com,global
 HOST-SUFFIX,fr,global
 HOST-SUFFIX,freedownloadmanager.org,global
+HOST-SUFFIX,freemacsoft.net,global
 HOST-SUFFIX,freepik.com,global
 HOST-SUFFIX,ft.com,global
 HOST-SUFFIX,fuq.com,global
@@ -449,6 +452,7 @@ HOST-SUFFIX,ietf.org,global
 HOST-SUFFIX,ifixit.com,global
 HOST-SUFFIX,ifttt.com,global
 HOST-SUFFIX,iheart.com,global
+HOST-SUFFIX,iina.io,global
 HOST-SUFFIX,iloveimg.com,global
 HOST-SUFFIX,imagefap.com,global
 HOST-SUFFIX,imagekit.io,global
@@ -550,6 +554,7 @@ HOST-SUFFIX,lynxjs.org,global
 HOST-SUFFIX,m.me,global
 HOST-SUFFIX,macaddress.io,global
 HOST-SUFFIX,macpaw.com,global
+HOST-SUFFIX,macupdate.com,global
 HOST-SUFFIX,madewithcode.com,global
 HOST-SUFFIX,majsoul.union-game.com,global
 HOST-SUFFIX,makerworld.com,global
@@ -1022,6 +1027,7 @@ HOST-SUFFIX,xing.com,global
 HOST-SUFFIX,xn--ngstr-lra8j.com,global
 HOST-SUFFIX,xnxx.com,global
 HOST-SUFFIX,xpressunblock.com,global
+HOST-SUFFIX,xquartz.org,global
 HOST-SUFFIX,xvideos-cdn.com,global
 HOST-SUFFIX,xvideos.com,global
 HOST-SUFFIX,xxx,global
