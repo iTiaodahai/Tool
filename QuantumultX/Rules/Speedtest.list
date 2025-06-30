@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1196
+# 规则统计: 1203
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -63,6 +63,7 @@ HOST,ffm.wsqm.telekom-dienste.de,Speedtest
 HOST,finitytelecom.brsserver.com.br,Speedtest
 HOST,fra-eq5-tptest1.31173.se,Speedtest
 HOST,fra1speedtest01.skylogic.com,Speedtest
+HOST,fwnetwork.brsserver.com.br,Speedtest
 HOST,gay1speedtest.turktelekom.com.tr,Speedtest
 HOST,gd-speedtest.homeplus.net.tw,Speedtest
 HOST,gh-speedtest.homeplus.net.tw,Speedtest
@@ -110,10 +111,14 @@ HOST,laxla0001speedtestserver01.wiline.com,Speedtest
 HOST,ldc01-speedtest.whipcord.com,Speedtest
 HOST,ldnspeedtest.rackdog.com,Speedtest
 HOST,lg-ams.fdcservers.net,Speedtest
+HOST,lg-dfw.fdcservers.net,Speedtest
 HOST,lg-dme.fdcservers.net,Speedtest
 HOST,lg-ffm.aeza.net,Speedtest
+HOST,lg-fra.fdcservers.net,Speedtest
 HOST,lg-hkg.fdcservers.net,Speedtest
+HOST,lg-hnd.fdcservers.net,Speedtest
 HOST,lg-lax.fdcservers.net,Speedtest
+HOST,lg-lon.fdcservers.net,Speedtest
 HOST,lg-mia.advinservers.com,Speedtest
 HOST,lg-mia.fdcservers.net,Speedtest
 HOST,lg-par2.fdcservers.net,Speedtest
@@ -121,6 +126,7 @@ HOST,lg-sea.fdcservers.net,Speedtest
 HOST,lg-sin.fdcservers.net,Speedtest
 HOST,lg-syd.fdcservers.net,Speedtest
 HOST,lg-tok.fdcservers.net,Speedtest
+HOST,lg-tor.fdcservers.net,Speedtest
 HOST,lg.mia.plasmarack.com,Speedtest
 HOST,librarian.comstar.ru,Speedtest
 HOST,lifitelecom.brsserver.com.br,Speedtest
@@ -167,6 +173,7 @@ HOST,ookla.4g5g.co.uk,Speedtest
 HOST,ookla.amazoniasat-isp.com.br,Speedtest
 HOST,ookla.araujotelecom.com.br,Speedtest
 HOST,ookla.as400442.net,Speedtest
+HOST,ookla.b2.neptune.net.au,Speedtest
 HOST,ookla.delhitel.net,Speedtest
 HOST,ookla.fullisp.com.br,Speedtest
 HOST,ookla.idnet.net,Speedtest

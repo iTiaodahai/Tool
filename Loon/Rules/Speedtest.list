@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1196
+# 规则统计: 1203
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -63,6 +63,7 @@ DOMAIN,ffm.wsqm.telekom-dienste.de
 DOMAIN,finitytelecom.brsserver.com.br
 DOMAIN,fra-eq5-tptest1.31173.se
 DOMAIN,fra1speedtest01.skylogic.com
+DOMAIN,fwnetwork.brsserver.com.br
 DOMAIN,gay1speedtest.turktelekom.com.tr
 DOMAIN,gd-speedtest.homeplus.net.tw
 DOMAIN,gh-speedtest.homeplus.net.tw
@@ -110,10 +111,14 @@ DOMAIN,laxla0001speedtestserver01.wiline.com
 DOMAIN,ldc01-speedtest.whipcord.com
 DOMAIN,ldnspeedtest.rackdog.com
 DOMAIN,lg-ams.fdcservers.net
+DOMAIN,lg-dfw.fdcservers.net
 DOMAIN,lg-dme.fdcservers.net
 DOMAIN,lg-ffm.aeza.net
+DOMAIN,lg-fra.fdcservers.net
 DOMAIN,lg-hkg.fdcservers.net
+DOMAIN,lg-hnd.fdcservers.net
 DOMAIN,lg-lax.fdcservers.net
+DOMAIN,lg-lon.fdcservers.net
 DOMAIN,lg-mia.advinservers.com
 DOMAIN,lg-mia.fdcservers.net
 DOMAIN,lg-par2.fdcservers.net
@@ -121,6 +126,7 @@ DOMAIN,lg-sea.fdcservers.net
 DOMAIN,lg-sin.fdcservers.net
 DOMAIN,lg-syd.fdcservers.net
 DOMAIN,lg-tok.fdcservers.net
+DOMAIN,lg-tor.fdcservers.net
 DOMAIN,lg.mia.plasmarack.com
 DOMAIN,librarian.comstar.ru
 DOMAIN,lifitelecom.brsserver.com.br
@@ -167,6 +173,7 @@ DOMAIN,ookla.4g5g.co.uk
 DOMAIN,ookla.amazoniasat-isp.com.br
 DOMAIN,ookla.araujotelecom.com.br
 DOMAIN,ookla.as400442.net
+DOMAIN,ookla.b2.neptune.net.au
 DOMAIN,ookla.delhitel.net
 DOMAIN,ookla.fullisp.com.br
 DOMAIN,ookla.idnet.net
