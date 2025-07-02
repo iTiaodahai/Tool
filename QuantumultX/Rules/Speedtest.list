@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1203
+# 规则统计: 1205
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -121,6 +121,7 @@ HOST,lg-lax.fdcservers.net,Speedtest
 HOST,lg-lon.fdcservers.net,Speedtest
 HOST,lg-mia.advinservers.com,Speedtest
 HOST,lg-mia.fdcservers.net,Speedtest
+HOST,lg-pa10.fdcservers.net,Speedtest
 HOST,lg-par2.fdcservers.net,Speedtest
 HOST,lg-sea.fdcservers.net,Speedtest
 HOST,lg-sin.fdcservers.net,Speedtest
@@ -716,6 +717,7 @@ HOST,speedtest.serverpronto.com,Speedtest
 HOST,speedtest.sewan.fr,Speedtest
 HOST,speedtest.sg.hsp.net.id,Speedtest
 HOST,speedtest.sg220.sgp.sg.ctcsci.com,Speedtest
+HOST,speedtest.singapore.atharva.co.id,Speedtest
 HOST,speedtest.singapore.globalxtreme.net,Speedtest
 HOST,speedtest.singnet.com.sg,Speedtest
 HOST,speedtest.sits.su,Speedtest
