@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1206
+# 规则统计: 1210
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -22,6 +22,7 @@ HOST,balikesirspeedtest.fixnet.com.tr,Speedtest
 HOST,bassoon-sg-1.violin.co.th,Speedtest
 HOST,beijing.unicomtest.com,Speedtest
 HOST,ber.wsqm.telekom-dienste.de,Speedtest
+HOST,beruritelecom.brsserver.com.br,Speedtest
 HOST,bozyazi.binbirnet.com.tr,Speedtest
 HOST,brindb2speed1.wireline.com.au,Speedtest
 HOST,btestmcp.vocetelecom.vc,Speedtest
@@ -103,6 +104,7 @@ HOST,karapinar.kentwifi.com.tr,Speedtest
 HOST,kh1.chtm.hinet.net,Speedtest
 HOST,kmlpbcnu-speedtest-01.telus.com,Speedtest
 HOST,konya.verinomidns.com,Speedtest
+HOST,koreaspeedtest.cmctelecom.vn,Speedtest
 HOST,ks-speedtest.homeplus.net.tw,Speedtest
 HOST,la-ookla.geolinks.com,Speedtest
 HOST,lax01.screenshot.download,Speedtest
@@ -133,6 +135,7 @@ HOST,librarian.comstar.ru,Speedtest
 HOST,lifitelecom.brsserver.com.br,Speedtest
 HOST,lon-hex-speedtest.cloudconnx.net,Speedtest
 HOST,lon-ix1-tptest1.31173.se,Speedtest
+HOST,lon.as214402.net,Speedtest
 HOST,los-angeles-speedtest.reliablesite.net,Speedtest
 HOST,lsanca-speedtest-ookla-02.st.charter.com,Speedtest
 HOST,lvconnect.brsserver.com.br,Speedtest
@@ -948,6 +951,7 @@ HOST,st-balikesirbandirma-1.turksatkablo.com.tr,Speedtest
 HOST,st-bolu-1.turksatkablo.com.tr,Speedtest
 HOST,st-bursa-1.turksatkablo.com.tr,Speedtest
 HOST,st-denizli-1.turksatkablo.com.tr,Speedtest
+HOST,st-erzincan-1.turksatkablo.com.tr,Speedtest
 HOST,st-erzurum-1.turksatkablo.com.tr,Speedtest
 HOST,st-eskisehir-1.turksatkablo.com.tr,Speedtest
 HOST,st-gaziantep-1.turksatkablo.com.tr,Speedtest
