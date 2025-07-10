@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1210
+# 规则统计: 1216
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -101,6 +101,7 @@ DOMAIN,izmit-speed.tbtnet.com.tr
 DOMAIN,jp-nperf.verizon.net
 DOMAIN,kami.smartone.com
 DOMAIN,karapinar.kentwifi.com.tr
+DOMAIN,kay1speedtest.turktelekom.com.tr
 DOMAIN,kh1.chtm.hinet.net
 DOMAIN,kmlpbcnu-speedtest-01.telus.com
 DOMAIN,konya.verinomidns.com
@@ -323,6 +324,7 @@ DOMAIN,speed1.yasarnet.xyz
 DOMAIN,speed12.gonetspeed.com
 DOMAIN,speed2.dg-sys.net
 DOMAIN,speed2.fiberlink.pl
+DOMAIN,speed2.netlixor.de
 DOMAIN,speed4.snap.net.nz
 DOMAIN,speedam.wsp.net.br
 DOMAIN,speedapi.race.com
@@ -475,6 +477,7 @@ DOMAIN,speedtest.ade01.launtel.net.au
 DOMAIN,speedtest.aeza.network
 DOMAIN,speedtest.alastyr.com
 DOMAIN,speedtest.albatroznetwork.com.br
+DOMAIN,speedtest.alexf.cc
 DOMAIN,speedtest.americatelecom.net.br
 DOMAIN,speedtest.amnet.net.br
 DOMAIN,speedtest.ams.sharktech.net
@@ -636,6 +639,7 @@ DOMAIN,speedtest.maisnetfibra.net.br
 DOMAIN,speedtest.markahost.com.tr
 DOMAIN,speedtest.maryno.net
 DOMAIN,speedtest.massivemesh.com
+DOMAIN,speedtest.masteritsupport.com
 DOMAIN,speedtest.meerfarbig.net
 DOMAIN,speedtest.mel.mhn.cloud
 DOMAIN,speedtest.mel01.launtel.net.au
@@ -680,6 +684,7 @@ DOMAIN,speedtest.octaplus.uk
 DOMAIN,speedtest.ollatelecom.com.br
 DOMAIN,speedtest.omegasul.com.br
 DOMAIN,speedtest.orixinet.com.br
+DOMAIN,speedtest.ot01.zaq.ad.jp
 DOMAIN,speedtest.pa5.as198831.net
 DOMAIN,speedtest.packetworks.net
 DOMAIN,speedtest.par1.adky.net
@@ -967,6 +972,7 @@ DOMAIN,st-zonguldakeregli-1.turksatkablo.com.tr
 DOMAIN,st.fratec.net
 DOMAIN,st.jnettelecom-am.com.br
 DOMAIN,st.mow.gin.ru
+DOMAIN,st0.dal.tularosa.net
 DOMAIN,st02.mtnsat.net
 DOMAIN,st1.htva.net
 DOMAIN,st1.scaleway.com

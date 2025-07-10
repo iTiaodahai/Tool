@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1210
+# 规则统计: 1216
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -101,6 +101,7 @@ HOST,izmit-speed.tbtnet.com.tr,Speedtest
 HOST,jp-nperf.verizon.net,Speedtest
 HOST,kami.smartone.com,Speedtest
 HOST,karapinar.kentwifi.com.tr,Speedtest
+HOST,kay1speedtest.turktelekom.com.tr,Speedtest
 HOST,kh1.chtm.hinet.net,Speedtest
 HOST,kmlpbcnu-speedtest-01.telus.com,Speedtest
 HOST,konya.verinomidns.com,Speedtest
@@ -323,6 +324,7 @@ HOST,speed1.yasarnet.xyz,Speedtest
 HOST,speed12.gonetspeed.com,Speedtest
 HOST,speed2.dg-sys.net,Speedtest
 HOST,speed2.fiberlink.pl,Speedtest
+HOST,speed2.netlixor.de,Speedtest
 HOST,speed4.snap.net.nz,Speedtest
 HOST,speedam.wsp.net.br,Speedtest
 HOST,speedapi.race.com,Speedtest
@@ -475,6 +477,7 @@ HOST,speedtest.ade01.launtel.net.au,Speedtest
 HOST,speedtest.aeza.network,Speedtest
 HOST,speedtest.alastyr.com,Speedtest
 HOST,speedtest.albatroznetwork.com.br,Speedtest
+HOST,speedtest.alexf.cc,Speedtest
 HOST,speedtest.americatelecom.net.br,Speedtest
 HOST,speedtest.amnet.net.br,Speedtest
 HOST,speedtest.ams.sharktech.net,Speedtest
@@ -636,6 +639,7 @@ HOST,speedtest.maisnetfibra.net.br,Speedtest
 HOST,speedtest.markahost.com.tr,Speedtest
 HOST,speedtest.maryno.net,Speedtest
 HOST,speedtest.massivemesh.com,Speedtest
+HOST,speedtest.masteritsupport.com,Speedtest
 HOST,speedtest.meerfarbig.net,Speedtest
 HOST,speedtest.mel.mhn.cloud,Speedtest
 HOST,speedtest.mel01.launtel.net.au,Speedtest
@@ -680,6 +684,7 @@ HOST,speedtest.octaplus.uk,Speedtest
 HOST,speedtest.ollatelecom.com.br,Speedtest
 HOST,speedtest.omegasul.com.br,Speedtest
 HOST,speedtest.orixinet.com.br,Speedtest
+HOST,speedtest.ot01.zaq.ad.jp,Speedtest
 HOST,speedtest.pa5.as198831.net,Speedtest
 HOST,speedtest.packetworks.net,Speedtest
 HOST,speedtest.par1.adky.net,Speedtest
@@ -967,6 +972,7 @@ HOST,st-zonguldakeregli-1.turksatkablo.com.tr,Speedtest
 HOST,st.fratec.net,Speedtest
 HOST,st.jnettelecom-am.com.br,Speedtest
 HOST,st.mow.gin.ru,Speedtest
+HOST,st0.dal.tularosa.net,Speedtest
 HOST,st02.mtnsat.net,Speedtest
 HOST,st1.htva.net,Speedtest
 HOST,st1.scaleway.com,Speedtest
