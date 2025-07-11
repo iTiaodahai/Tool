@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1062
+# 规则统计: 1081
 
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
@@ -40,6 +40,7 @@ HOST-SUFFIX,aaa.com,global
 HOST-SUFFIX,abc.com,global
 HOST-SUFFIX,abc.xyz,global
 HOST-SUFFIX,abebooks.com,global
+HOST-SUFFIX,about.me,global
 HOST-SUFFIX,ac,global
 HOST-SUFFIX,accountkit.com,global
 HOST-SUFFIX,activated.win,global
@@ -116,6 +117,7 @@ HOST-SUFFIX,bang.com,global
 HOST-SUFFIX,bbc.com,global
 HOST-SUFFIX,bblmw.com,global
 HOST-SUFFIX,be,global
+HOST-SUFFIX,beacondb.net,global
 HOST-SUFFIX,behance.net,global
 HOST-SUFFIX,bestbuy.com,global
 HOST-SUFFIX,bet365.com,global
@@ -286,6 +288,7 @@ HOST-SUFFIX,elasticbeanstalk.com,global
 HOST-SUFFIX,elgoog.im,global
 HOST-SUFFIX,engadget.com,global
 HOST-SUFFIX,eporner.com,global
+HOST-SUFFIX,ero-video.net,global
 HOST-SUFFIX,eroterest.net,global
 HOST-SUFFIX,es,global
 HOST-SUFFIX,etherscan.io,global
@@ -372,6 +375,7 @@ HOST-SUFFIX,githubusercontent.com,global
 HOST-SUFFIX,gitkraken.com,global
 HOST-SUFFIX,gitlab.com,global
 HOST-SUFFIX,gitlab.io,global
+HOST-SUFFIX,gitlab.net,global
 HOST-SUFFIX,gl,global
 HOST-SUFFIX,gle,global
 HOST-SUFFIX,glitch.com,global
@@ -441,6 +445,7 @@ HOST-SUFFIX,huobi.com,global
 HOST-SUFFIX,huobi.pro,global
 HOST-SUFFIX,hwinfo.com,global
 HOST-SUFFIX,hyvor.com,global
+HOST-SUFFIX,iaea.org,global
 HOST-SUFFIX,iana.org,global
 HOST-SUFFIX,ibb.co,global
 HOST-SUFFIX,ibm.com,global
@@ -482,6 +487,7 @@ HOST-SUFFIX,istockphoto.com,global
 HOST-SUFFIX,it,global
 HOST-SUFFIX,itasoftware.com,global
 HOST-SUFFIX,ixxx.com,global
+HOST-SUFFIX,j.mp,global
 HOST-SUFFIX,jav.pw,global
 HOST-SUFFIX,java.com,global
 HOST-SUFFIX,javbus.com,global
@@ -508,11 +514,13 @@ HOST-SUFFIX,kagi.com,global
 HOST-SUFFIX,kakao.com,global
 HOST-SUFFIX,kali.org,global
 HOST-SUFFIX,kde.org,global
+HOST-SUFFIX,keycdn.com,global
 HOST-SUFFIX,kg,global
 HOST-SUFFIX,kick.com,global
 HOST-SUFFIX,kik.com,global
 HOST-SUFFIX,kinja.com,global
 HOST-SUFFIX,kisscos.net,global
+HOST-SUFFIX,kknews.cc,global
 HOST-SUFFIX,ko-fi.com,global
 HOST-SUFFIX,kobo.com,global
 HOST-SUFFIX,komoot.com,global
@@ -571,6 +579,7 @@ HOST-SUFFIX,mayoclinic.org,global
 HOST-SUFFIX,md,global
 HOST-SUFFIX,medallia.com,global
 HOST-SUFFIX,mediafire.com,global
+HOST-SUFFIX,mediawiki.org,global
 HOST-SUFFIX,medium.com,global
 HOST-SUFFIX,meetup.com,global
 HOST-SUFFIX,mega.io,global
@@ -678,6 +687,7 @@ HOST-SUFFIX,one,global
 HOST-SUFFIX,one.com,global
 HOST-SUFFIX,onepluscommunityserver.com,global
 HOST-SUFFIX,opencollective.com,global
+HOST-SUFFIX,openfreemap.org,global
 HOST-SUFFIX,opensea.io,global
 HOST-SUFFIX,openstreetmap.org,global
 HOST-SUFFIX,opentable.com,global
@@ -719,8 +729,10 @@ HOST-SUFFIX,poeditor.com,global
 HOST-SUFFIX,polymer-project.org,global
 HOST-SUFFIX,porn.com,global
 HOST-SUFFIX,porngo.com,global
+HOST-SUFFIX,pornhd.com,global
 HOST-SUFFIX,pornhub.com,global
 HOST-SUFFIX,pornhub.org,global
+HOST-SUFFIX,pornmd.com,global
 HOST-SUFFIX,pornoxo.com,global
 HOST-SUFFIX,pornpics.com,global
 HOST-SUFFIX,porntrex.com,global
@@ -799,6 +811,7 @@ HOST-SUFFIX,sentry.io,global
 HOST-SUFFIX,serverfault.com,global
 HOST-SUFFIX,serviporno.com,global
 HOST-SUFFIX,setapp.com,global
+HOST-SUFFIX,sex,global
 HOST-SUFFIX,sex.com,global
 HOST-SUFFIX,sf.net,global
 HOST-SUFFIX,sfmcompile.club,global
@@ -829,6 +842,7 @@ HOST-SUFFIX,snap.com,global
 HOST-SUFFIX,snapchat.com,global
 HOST-SUFFIX,snapkit.co,global
 HOST-SUFFIX,social,global
+HOST-SUFFIX,softonic.cn,global
 HOST-SUFFIX,softonic.com,global
 HOST-SUFFIX,sony.net,global
 HOST-SUFFIX,sophos.com,global
@@ -869,7 +883,9 @@ HOST-SUFFIX,sysctl-explorer.net,global
 HOST-SUFFIX,t.co,global
 HOST-SUFFIX,t66y.com,global
 HOST-SUFFIX,tailwindcss.com,global
+HOST-SUFFIX,taipei,global
 HOST-SUFFIX,talkcc.com,global
+HOST-SUFFIX,techspot.com,global
 HOST-SUFFIX,tenor.com,global
 HOST-SUFFIX,tensorflow.org,global
 HOST-SUFFIX,terabox.com,global
@@ -975,6 +991,7 @@ HOST-SUFFIX,wakatime.com,global
 HOST-SUFFIX,washingtonpost.com,global
 HOST-SUFFIX,watch,global
 HOST-SUFFIX,waveprotocol.org,global
+HOST-SUFFIX,waybackmachine.org,global
 HOST-SUFFIX,waymo.com,global
 HOST-SUFFIX,waze.com,global
 HOST-SUFFIX,wdfiles.com,global
@@ -991,6 +1008,7 @@ HOST-SUFFIX,whoer.com,global
 HOST-SUFFIX,whoer.net,global
 HOST-SUFFIX,widevine.com,global
 HOST-SUFFIX,wikawika.xyz,global
+HOST-SUFFIX,wiki2.org,global
 HOST-SUFFIX,wikibooks.org,global
 HOST-SUFFIX,wikidata.org,global
 HOST-SUFFIX,wikidot.com,global
@@ -1010,6 +1028,7 @@ HOST-SUFFIX,windy.com,global
 HOST-SUFFIX,wireguard.com,global
 HOST-SUFFIX,wireshark.org,global
 HOST-SUFFIX,wix.com,global
+HOST-SUFFIX,wmfusercontent.org,global
 HOST-SUFFIX,wnacg.com,global
 HOST-SUFFIX,wordpress.com,global
 HOST-SUFFIX,wordpress.org,global
