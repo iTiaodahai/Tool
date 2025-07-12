@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1216
+# 规则统计: 1223
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -219,6 +219,7 @@ HOST,sb-speedtest-1.twmbroadband.net,Speedtest
 HOST,sc-speedtest.homeplus.net.tw,Speedtest
 HOST,sea-speedtest.net.sangoma.net,Speedtest
 HOST,sea.st.spacecore.pro,Speedtest
+HOST,seednet-tc1.seed.net.tw,Speedtest
 HOST,seednet-ty1.seed.net.tw,Speedtest
 HOST,servidor.speedplay.com.br,Speedtest
 HOST,seveninternet.brsserver.com.br,Speedtest
@@ -406,6 +407,7 @@ HOST,speedtest-mia.dish-wireless.com,Speedtest
 HOST,speedtest-moorooka.optusnet.com.au,Speedtest
 HOST,speedtest-msk.megafon.ru,Speedtest
 HOST,speedtest-msk.melbicom.net,Speedtest
+HOST,speedtest-msk.refoxcloud.xyz,Speedtest
 HOST,speedtest-msk.retn.net,Speedtest
 HOST,speedtest-msk.yota.ru,Speedtest
 HOST,speedtest-mtl.beanfield.com,Speedtest
@@ -978,7 +980,11 @@ HOST,st1.htva.net,Speedtest
 HOST,st1.scaleway.com,Speedtest
 HOST,st1.tbaytel.net,Speedtest
 HOST,st2.octopustelecom.co.uk,Speedtest
+HOST,st2.speedtest.vianet.ca,Speedtest
 HOST,st2a.les.net,Speedtest
+HOST,stbarrie.netcrawler.ca,Speedtest
+HOST,stbarrie.rogers.com,Speedtest
+HOST,stbarriewireless.rogers.com,Speedtest
 HOST,stbrampton.netcrawler.ca,Speedtest
 HOST,stbrampton.rogers.com,Speedtest
 HOST,stbrantford.rogers.com,Speedtest
@@ -1036,6 +1042,7 @@ HOST,ststratford.rogers.com,Speedtest
 HOST,ststratfordwireless.rogers.com,Speedtest
 HOST,ststthomas.rogers.com,Speedtest
 HOST,ststthomaswireless.rogers.com,Speedtest
+HOST,stsudburywireless.rogers.com,Speedtest
 HOST,stsurreywireless.rogers.com,Speedtest
 HOST,stthunderbaywireless.rogers.com,Speedtest
 HOST,sttoronto.rogers.com,Speedtest
