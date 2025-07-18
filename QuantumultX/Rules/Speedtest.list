@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1226
+# 规则统计: 1229
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -221,6 +221,7 @@ HOST,sc-speedtest.homeplus.net.tw,Speedtest
 HOST,sea-speedtest.net.sangoma.net,Speedtest
 HOST,sea.st.spacecore.pro,Speedtest
 HOST,seednet-tc1.seed.net.tw,Speedtest
+HOST,seednet-tn1.seed.net.tw,Speedtest
 HOST,seednet-ty1.seed.net.tw,Speedtest
 HOST,servidor.speedplay.com.br,Speedtest
 HOST,seveninternet.brsserver.com.br,Speedtest
@@ -270,6 +271,7 @@ HOST,spd53.claro.com.br,Speedtest
 HOST,spd76.claro.com.br,Speedtest
 HOST,spd79.claro.com.br,Speedtest
 HOST,spdfra.cndd.net,Speedtest
+HOST,spdms.mytpn.net,Speedtest
 HOST,spdms.twincher.ru,Speedtest
 HOST,spdtes.phoenix.net.tr,Speedtest
 HOST,spdtst.xenyth.net,Speedtest
@@ -684,6 +686,7 @@ HOST,speedtest.nikhef.qonnected.net,Speedtest
 HOST,speedtest.nl.novoserve.com,Speedtest
 HOST,speedtest.nl3.mirhosting.net,Speedtest
 HOST,speedtest.nrbn.ca,Speedtest
+HOST,speedtest.nt.net,Speedtest
 HOST,speedtest.octaplus.uk,Speedtest
 HOST,speedtest.ollatelecom.com.br,Speedtest
 HOST,speedtest.omegasul.com.br,Speedtest
