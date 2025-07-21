@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1081
+# 规则统计: 1082
 
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
@@ -800,6 +800,7 @@ HOST-SUFFIX,saucenao.com,global
 HOST-SUFFIX,sb,global
 HOST-SUFFIX,sc-cdn.net,global
 HOST-SUFFIX,schema.org,global
+HOST-SUFFIX,scp-wiki.com,global
 HOST-SUFFIX,scp-wiki.net,global
 HOST-SUFFIX,scpdb.org,global
 HOST-SUFFIX,scpwiki.com,global
