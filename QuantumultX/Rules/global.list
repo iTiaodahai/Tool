@@ -1,6 +1,7 @@
 # 规则名称: global
-# 规则统计: 1082
+# 规则统计: 1083
 
+HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
 HOST,ees.elsevier.com,global
@@ -10,7 +11,6 @@ HOST,sglong.wechat.com,global
 HOST,sgminorshort.wechat.com,global
 HOST,sgshort.wechat.com,global
 HOST,store.ui.com.cn,global
-HOST,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe,global
 HOST,wego.here.com,global
 HOST-SUFFIX,123rf.com,global
 HOST-SUFFIX,18comic.org,global
@@ -1013,6 +1013,7 @@ HOST-SUFFIX,wiki2.org,global
 HOST-SUFFIX,wikibooks.org,global
 HOST-SUFFIX,wikidata.org,global
 HOST-SUFFIX,wikidot.com,global
+HOST-SUFFIX,wikihow.com,global
 HOST-SUFFIX,wikileaks.org,global
 HOST-SUFFIX,wikimedia.org,global
 HOST-SUFFIX,wikinews.org,global

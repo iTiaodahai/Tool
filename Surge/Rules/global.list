@@ -1,6 +1,7 @@
 # 规则名称: global
-# 规则统计: 1082
+# 规则统计: 1083
 
+DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
 DOMAIN,community.oneplus.com
 DOMAIN,ees.elsevier.com
@@ -10,7 +11,6 @@ DOMAIN,sglong.wechat.com
 DOMAIN,sgminorshort.wechat.com
 DOMAIN,sgshort.wechat.com
 DOMAIN,store.ui.com.cn
-DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
 DOMAIN,wego.here.com
 DOMAIN-SUFFIX,123rf.com
 DOMAIN-SUFFIX,18comic.org
@@ -1013,6 +1013,7 @@ DOMAIN-SUFFIX,wiki2.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikidot.com
+DOMAIN-SUFFIX,wikihow.com
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikinews.org
