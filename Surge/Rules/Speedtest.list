@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1231
+# 规则统计: 1233
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -513,6 +513,7 @@ DOMAIN,speedtest.axclusive.com.sg
 DOMAIN,speedtest.b2.mhn.cloud
 DOMAIN,speedtest.battern.eu
 DOMAIN,speedtest.beyondair.ca
+DOMAIN,speedtest.binet.com.tr
 DOMAIN,speedtest.blacksun.ca
 DOMAIN,speedtest.bmcc.com.cn
 DOMAIN,speedtest.bnsdfw.com
@@ -978,6 +979,7 @@ DOMAIN,st-manisa-1.turksatkablo.com.tr
 DOMAIN,st-samsun-1.turksatkablo.com.tr
 DOMAIN,st-tekirdag-1.turksatkablo.com.tr
 DOMAIN,st-tekirdagcorlu-1.turksatkablo.com.tr
+DOMAIN,st-zonguldak-1.turksatkablo.com.tr
 DOMAIN,st-zonguldakeregli-1.turksatkablo.com.tr
 DOMAIN,st.fratec.net
 DOMAIN,st.jnettelecom-am.com.br
