@@ -1,13 +1,13 @@
 # 规则名称: Reject
-# 规则统计: 31
+# 规则统计: 18
 
 DOMAIN,ads-api.x.com
 DOMAIN,al-log.d.meituan.net
 DOMAIN,edge.bamgrid.com
-DOMAIN,gdmf.apple.com    // Apple 软件升级域名
-DOMAIN,mesu.apple.com    // Apple 软件升级域名
+DOMAIN,gdmf.apple.com   
 DOMAIN,hub5pr.v6.phub.sandai.net
 DOMAIN,maplocatesdksnapshot.d.meituan.net
+DOMAIN,mesu.apple.com   
 DOMAIN,metrics-picture.d.meituan.net
 DOMAIN,notifications.netflix.com
 DOMAIN,ntp.nasa.gov
