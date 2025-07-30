@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Stream
-# 规则统计: 213
+# 规则统计: 214
 
 HOST,netflix.com.edgesuite.net,Proxy_Stream
 HOST-SUFFIX,20thcenturystudios.com.au,Proxy_Stream
@@ -118,6 +118,7 @@ HOST-SUFFIX,disneytvajobs.com,Proxy_Stream
 HOST-SUFFIX,disneyworld-go.com,Proxy_Stream
 HOST-SUFFIX,dlp-media.com,Proxy_Stream
 HOST-SUFFIX,dmed.technology,Proxy_Stream
+HOST-SUFFIX,dssedge.com,Proxy_Stream
 HOST-SUFFIX,dssott.com,Proxy_Stream
 HOST-SUFFIX,dtci.co,Proxy_Stream
 HOST-SUFFIX,dtci.technology,Proxy_Stream

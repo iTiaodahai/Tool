@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Stream
-# 规则统计: 215
+# 规则统计: 216
 
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,20thcenturystudios.com.au
@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,disneytvajobs.com
 DOMAIN-SUFFIX,disneyworld-go.com
 DOMAIN-SUFFIX,dlp-media.com
 DOMAIN-SUFFIX,dmed.technology
+DOMAIN-SUFFIX,dssedge.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,dtci.co
 DOMAIN-SUFFIX,dtci.technology
