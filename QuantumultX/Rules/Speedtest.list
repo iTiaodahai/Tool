@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1417
+# 规则统计: 1419
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -1027,6 +1027,7 @@ HOST,speedtestam.vtal.net.br,Speedtest
 HOST,speedtestap.vtal.net.br,Speedtest
 HOST,speedtestbb.hk.chinamobile.com,Speedtest
 HOST,speedtestce.vtal.net.br,Speedtest
+HOST,speedtestda.fiberfasthomes.com,Speedtest
 HOST,speedtestde.pvdatanet.com,Speedtest
 HOST,speedtestdfw.gethotwired.com,Speedtest
 HOST,speedteste.newsolutionnet.com.br,Speedtest
@@ -1254,6 +1255,7 @@ HOST,teste.i9va.net.br,Speedtest
 HOST,teste.jsnet.manaus.br,Speedtest
 HOST,teste.linkonfibra.com.br,Speedtest
 HOST,teste.mov.pro.br,Speedtest
+HOST,teste.msfibraam.com.br,Speedtest
 HOST,teste.mundialnettelecom.com.br,Speedtest
 HOST,teste.mwhtelecom.com.br,Speedtest
 HOST,teste.newsolutionnet.com.br,Speedtest
