@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1420
+# 规则统计: 1426
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -211,6 +211,7 @@ HOST,ookla.sy1.neptune.net.au,Speedtest
 HOST,ookla.xponnet.com.br,Speedtest
 HOST,ookla1.ccspublichost.com,Speedtest
 HOST,ookla3.1und1-mobilfunk.de,Speedtest
+HOST,ooklaspeedtest-cdv.quebeccloud.com,Speedtest
 HOST,ooklaspeedtest-ist1.quickzone.net,Speedtest
 HOST,ooklatins.redeconexaonet.com,Speedtest
 HOST,open.cachefly.net,Speedtest
@@ -322,6 +323,7 @@ HOST,speed.ade.aussiebroadband.com.au,Speedtest
 HOST,speed.alsalamnet.net,Speedtest
 HOST,speed.amazonett.com.br,Speedtest
 HOST,speed.as151799.net.au,Speedtest
+HOST,speed.beachnet.com.br,Speedtest
 HOST,speed.bitnettecnologia.com.br,Speedtest
 HOST,speed.bne.aussiebroadband.com.au,Speedtest
 HOST,speed.coe.ad.jp,Speedtest
@@ -366,6 +368,7 @@ HOST,speed.turbonetce.com.br,Speedtest
 HOST,speed.udx.icscoe.jp,Speedtest
 HOST,speed.uk.lon.m247.ro,Speedtest
 HOST,speed.ultranetrr.com.br,Speedtest
+HOST,speed.upnetcaucaia.com.br,Speedtest
 HOST,speed.vm.brs.marcusn.co.uk,Speedtest
 HOST,speed.x-sy.com,Speedtest
 HOST,speed06.gonetspeed.com,Speedtest
@@ -495,6 +498,7 @@ HOST,speedtest-ookla-roc1.synoptek.com,Speedtest
 HOST,speedtest-ottawa.hivedatacenter.com,Speedtest
 HOST,speedtest-p1.interphone.com.au,Speedtest
 HOST,speedtest-perth.launtel.net.au,Speedtest
+HOST,speedtest-perth.macquarietelecom.com,Speedtest
 HOST,speedtest-perth.optusnet.com.au,Speedtest
 HOST,speedtest-prs.vts.bf,Speedtest
 HOST,speedtest-pth.vocus.net,Speedtest
@@ -547,6 +551,7 @@ HOST,speedtest.3s-labo.com,Speedtest
 HOST,speedtest.45networks.ca,Speedtest
 HOST,speedtest.58243.as,Speedtest
 HOST,speedtest.5x5tele.com,Speedtest
+HOST,speedtest.a4telecom.com.br,Speedtest
 HOST,speedtest.absolutevalidation.com,Speedtest
 HOST,speedtest.acenetbj.com.br,Speedtest
 HOST,speedtest.actelecom.com.br,Speedtest
@@ -718,6 +723,7 @@ HOST,speedtest.kairun.jp,Speedtest
 HOST,speedtest.kapteyan.com.tr,Speedtest
 HOST,speedtest.keiminem.com,Speedtest
 HOST,speedtest.kko.me,Speedtest
+HOST,speedtest.knettelecomce.com.br,Speedtest
 HOST,speedtest.kos.net,Speedtest
 HOST,speedtest.kr260.gmp.kr.ctcsci.com,Speedtest
 HOST,speedtest.la2.gigabitnow.com,Speedtest
