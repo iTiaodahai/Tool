@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1427
+# 规则统计: 1431
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -317,6 +317,7 @@ HOST,spedvae.lodosnet.com.tr,Speedtest
 HOST,speed-br2.gigacomm.net.au,Speedtest
 HOST,speed-ist.veganet.com.tr,Speedtest
 HOST,speed-mel.gigacomm.net.au,Speedtest
+HOST,speed-server3.summit-broadband.com,Speedtest
 HOST,speed-syd.gigacomm.net.au,Speedtest
 HOST,speed-test.ukservers.com,Speedtest
 HOST,speed.ade.aussiebroadband.com.au,Speedtest
@@ -354,6 +355,7 @@ HOST,speed.netmasterce.com.br,Speedtest
 HOST,speed.newclicktelecom.com.br,Speedtest
 HOST,speed.onlinedersm.xyz,Speedtest
 HOST,speed.per.aussiebroadband.com.au,Speedtest
+HOST,speed.rikanet.com.br,Speedtest
 HOST,speed.rnipnet.com.br,Speedtest
 HOST,speed.sdmnet.com.br,Speedtest
 HOST,speed.sltry.au,Speedtest
@@ -540,6 +542,7 @@ HOST,speedtest-tr-bursa.servosphere.net,Speedtest
 HOST,speedtest-txg.infinirc.net,Speedtest
 HOST,speedtest-utc.northland.net,Speedtest
 HOST,speedtest-van.beanfield.com,Speedtest
+HOST,speedtest-vsbu.rolimnet.com.br,Speedtest
 HOST,speedtest-wa.waveip.org,Speedtest
 HOST,speedtest-west.eastlink.ca,Speedtest
 HOST,speedtest-xg-oki.glbb.ne.jp,Speedtest
@@ -1095,6 +1098,7 @@ HOST,spx.max3telecom.com.br,Speedtest
 HOST,spx.mrlinkstelecom.com.br,Speedtest
 HOST,spx.neonetce.com.br,Speedtest
 HOST,spx.r2mpe.com.br,Speedtest
+HOST,sqaookla.ddns.net,Speedtest
 HOST,srv12.mtlcx03.fibrenoire.ca,Speedtest
 HOST,srv3.vncv1.bc.net,Speedtest
 HOST,srvteste.edntelecom.net.br,Speedtest

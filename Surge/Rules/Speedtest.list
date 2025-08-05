@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1427
+# 规则统计: 1431
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -317,6 +317,7 @@ DOMAIN,spedvae.lodosnet.com.tr
 DOMAIN,speed-br2.gigacomm.net.au
 DOMAIN,speed-ist.veganet.com.tr
 DOMAIN,speed-mel.gigacomm.net.au
+DOMAIN,speed-server3.summit-broadband.com
 DOMAIN,speed-syd.gigacomm.net.au
 DOMAIN,speed-test.ukservers.com
 DOMAIN,speed.ade.aussiebroadband.com.au
@@ -354,6 +355,7 @@ DOMAIN,speed.netmasterce.com.br
 DOMAIN,speed.newclicktelecom.com.br
 DOMAIN,speed.onlinedersm.xyz
 DOMAIN,speed.per.aussiebroadband.com.au
+DOMAIN,speed.rikanet.com.br
 DOMAIN,speed.rnipnet.com.br
 DOMAIN,speed.sdmnet.com.br
 DOMAIN,speed.sltry.au
@@ -540,6 +542,7 @@ DOMAIN,speedtest-tr-bursa.servosphere.net
 DOMAIN,speedtest-txg.infinirc.net
 DOMAIN,speedtest-utc.northland.net
 DOMAIN,speedtest-van.beanfield.com
+DOMAIN,speedtest-vsbu.rolimnet.com.br
 DOMAIN,speedtest-wa.waveip.org
 DOMAIN,speedtest-west.eastlink.ca
 DOMAIN,speedtest-xg-oki.glbb.ne.jp
@@ -1095,6 +1098,7 @@ DOMAIN,spx.max3telecom.com.br
 DOMAIN,spx.mrlinkstelecom.com.br
 DOMAIN,spx.neonetce.com.br
 DOMAIN,spx.r2mpe.com.br
+DOMAIN,sqaookla.ddns.net
 DOMAIN,srv12.mtlcx03.fibrenoire.ca
 DOMAIN,srv3.vncv1.bc.net
 DOMAIN,srvteste.edntelecom.net.br
