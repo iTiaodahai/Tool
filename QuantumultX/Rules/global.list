@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1101
+# 规则统计: 1104
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -986,7 +986,10 @@ HOST-SUFFIX,vercel.com,global
 HOST-SUFFIX,vercel.live,global
 HOST-SUFFIX,verizon.com,global
 HOST-SUFFIX,verizonwireless.com,global
+HOST-SUFFIX,vesselfinder.com,global
+HOST-SUFFIX,vesselfinder.net,global
 HOST-SUFFIX,viber.com,global
+HOST-SUFFIX,vice.com,global
 HOST-SUFFIX,victoriassecret.com,global
 HOST-SUFFIX,vikacg.com,global
 HOST-SUFFIX,vimeo.com,global
