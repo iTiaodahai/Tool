@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1104
+# 规则统计: 1109
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -57,6 +57,8 @@ HOST-SUFFIX,aicoin.com,global
 HOST-SUFFIX,aimoon.com,global
 HOST-SUFFIX,airav.cc,global
 HOST-SUFFIX,airav.io,global
+HOST-SUFFIX,airtable.com,global
+HOST-SUFFIX,airtableusercontent.com,global
 HOST-SUFFIX,akamai.net,global
 HOST-SUFFIX,akamaihd.net,global
 HOST-SUFFIX,amazon.com,global
@@ -435,6 +437,7 @@ HOST-SUFFIX,hetzner.com,global
 HOST-SUFFIX,hinet.net,global
 HOST-SUFFIX,hk,global
 HOST-SUFFIX,hk01.com,global
+HOST-SUFFIX,hkepc.com,global
 HOST-SUFFIX,holopin.io,global
 HOST-SUFFIX,homedepot.com,global
 HOST-SUFFIX,hostloc.com,global
@@ -901,6 +904,7 @@ HOST-SUFFIX,tailfin.cc,global
 HOST-SUFFIX,tailwindcss.com,global
 HOST-SUFFIX,taipei,global
 HOST-SUFFIX,talkcc.com,global
+HOST-SUFFIX,techpowerup.com,global
 HOST-SUFFIX,techspot.com,global
 HOST-SUFFIX,tenor.com,global
 HOST-SUFFIX,tensorflow.org,global
@@ -1072,6 +1076,7 @@ HOST-SUFFIX,xhamsterlive.com,global
 HOST-SUFFIX,xhcdn.com,global
 HOST-SUFFIX,xhlive.org,global
 HOST-SUFFIX,xing.com,global
+HOST-SUFFIX,xkcd.com,global
 HOST-SUFFIX,xn--ngstr-lra8j.com,global
 HOST-SUFFIX,xnxx.com,global
 HOST-SUFFIX,xpressunblock.com,global

@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1431
+# 规则统计: 1436
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -33,6 +33,7 @@ HOST,ccs.los-angeles.ca.speedtest.6667890.xyz,Speedtest
 HOST,cesu-hz.zjtelecom.com.cn,Speedtest
 HOST,cesu-nb.zjtelecom.com.cn,Speedtest
 HOST,ch1.chtm.hinet.net,Speedtest
+HOST,chinatelecom.com.cn.dns.ink,Speedtest
 HOST,clg-105-sptest.ncri.com,Speedtest
 HOST,cnk1speedtest.turktelekom.com.tr,Speedtest
 HOST,csfw.fj.chinamobile.com,Speedtest
@@ -109,6 +110,7 @@ HOST,kami.smartone.com,Speedtest
 HOST,karapinar.kentwifi.com.tr,Speedtest
 HOST,kay1speedtest.turktelekom.com.tr,Speedtest
 HOST,kh1.chtm.hinet.net,Speedtest
+HOST,kl-speedtest.homeplus.net.tw,Speedtest
 HOST,kmlpbcnu-speedtest-01.telus.com,Speedtest
 HOST,konya.verinomidns.com,Speedtest
 HOST,koreaspeedtest.cmctelecom.vn,Speedtest
@@ -134,6 +136,7 @@ HOST,lg-pa10.fdcservers.net,Speedtest
 HOST,lg-par2.fdcservers.net,Speedtest
 HOST,lg-sea.fdcservers.net,Speedtest
 HOST,lg-sin.fdcservers.net,Speedtest
+HOST,lg-speedtest.homeplus.net.tw,Speedtest
 HOST,lg-syd.fdcservers.net,Speedtest
 HOST,lg-tok.fdcservers.net,Speedtest
 HOST,lg-tor.fdcservers.net,Speedtest
@@ -144,6 +147,7 @@ HOST,lon-hex-speedtest.cloudconnx.net,Speedtest
 HOST,lon-ix1-tptest1.31173.se,Speedtest
 HOST,lon.as214402.net,Speedtest
 HOST,los-angeles-speedtest.reliablesite.net,Speedtest
+HOST,losangeles.speedtest.tjokas.com,Speedtest
 HOST,lsanca-speedtest-ookla-02.st.charter.com,Speedtest
 HOST,lvconnect.brsserver.com.br,Speedtest
 HOST,m1speedtest1.m1net.com.sg,Speedtest
@@ -679,6 +683,7 @@ HOST,speedtest.greenlightnetworks.com,Speedtest
 HOST,speedtest.grupoip2.com.br,Speedtest
 HOST,speedtest.gruponetfibra.com.br,Speedtest
 HOST,speedtest.gv.shawcable.net,Speedtest
+HOST,speedtest.hanhosting.com,Speedtest
 HOST,speedtest.hay.net,Speedtest
 HOST,speedtest.hazalhost.com,Speedtest
 HOST,speedtest.hearstconnect.com,Speedtest
