@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1109
+# 规则统计: 1112
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -244,6 +244,7 @@ HOST-SUFFIX,deepl.com,global
 HOST-SUFFIX,deepmind.com,global
 HOST-SUFFIX,deezer.com,global
 HOST-SUFFIX,deno.com,global
+HOST-SUFFIX,desmos.com,global
 HOST-SUFFIX,detnews.com,global
 HOST-SUFFIX,dev,global
 HOST-SUFFIX,deviantart.com,global
@@ -324,6 +325,7 @@ HOST-SUFFIX,feeder.co,global
 HOST-SUFFIX,feedly.com,global
 HOST-SUFFIX,fide.com,global
 HOST-SUFFIX,figma.com,global
+HOST-SUFFIX,findagrave.com,global
 HOST-SUFFIX,firebase.com,global
 HOST-SUFFIX,firebaseio.com,global
 HOST-SUFFIX,firefox.com,global
@@ -584,6 +586,7 @@ HOST-SUFFIX,malwarebytes.com,global
 HOST-SUFFIX,mangafox.me,global
 HOST-SUFFIX,manhuabika.com,global
 HOST-SUFFIX,mapbox.com,global
+HOST-SUFFIX,maptiler.com,global
 HOST-SUFFIX,material.io,global
 HOST-SUFFIX,matrix.org,global
 HOST-SUFFIX,matters.town,global
