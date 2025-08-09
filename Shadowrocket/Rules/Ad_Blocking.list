@@ -1,5 +1,5 @@
 # 规则名称: Ad_Blocking
-# 规则统计: 100005
+# 规则统计: 100006
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -24698,6 +24698,7 @@ DOMAIN-SUFFIX,djz9es32qen64.cloudfront.net
 DOMAIN-SUFFIX,djzntvrrspdqw.com
 DOMAIN-SUFFIX,dk.contact.alphabet.com
 DOMAIN-SUFFIX,dk57sacpbi4by.cloudfront.net
+DOMAIN-SUFFIX,dkaktsb.icu
 DOMAIN-SUFFIX,dkasdeerw.xyz
 DOMAIN-SUFFIX,dkasffredf.xyz
 DOMAIN-SUFFIX,dkbicq.elektramat.nl

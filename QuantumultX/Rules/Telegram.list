@@ -16,11 +16,11 @@ HOST-SUFFIX,telegram.space,Telegram
 HOST-SUFFIX,telesco.pe,Telegram
 HOST-SUFFIX,tg.dev,Telegram
 HOST-SUFFIX,tx.me,Telegram
+IP-CIDR,139.59.210.98/32,Telegram
 IP-CIDR,149.154.160.0/20,Telegram
 IP-CIDR,185.76.151.0/24,Telegram
 IP-CIDR,196.55.216.167/32,Telegram
 IP-CIDR,5.28.195.1/32,Telegram
-IP-CIDR,5.28.195.2/32,Telegram
 IP-CIDR,91.105.192.0/23,Telegram
 IP-CIDR,91.108.16.0/21,Telegram
 IP-CIDR,91.108.4.0/22,Telegram
