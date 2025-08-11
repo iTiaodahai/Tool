@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1112
+# 规则统计: 1113
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -256,6 +256,7 @@ HOST-SUFFIX,digitalocean.com,global
 HOST-SUFFIX,discourse.group,global
 HOST-SUFFIX,dish.com,global
 HOST-SUFFIX,disqus.com,global
+HOST-SUFFIX,distrowatch.com,global
 HOST-SUFFIX,dk,global
 HOST-SUFFIX,dlsite.com,global
 HOST-SUFFIX,dmcdn.net,global
