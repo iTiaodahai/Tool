@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1113
+# 规则统计: 1133
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -59,6 +59,7 @@ HOST-SUFFIX,airav.cc,global
 HOST-SUFFIX,airav.io,global
 HOST-SUFFIX,airtable.com,global
 HOST-SUFFIX,airtableusercontent.com,global
+HOST-SUFFIX,ajay.app,global
 HOST-SUFFIX,akamai.net,global
 HOST-SUFFIX,akamaihd.net,global
 HOST-SUFFIX,amazon.com,global
@@ -83,7 +84,6 @@ HOST-SUFFIX,apkmirror.com,global
 HOST-SUFFIX,apkpure.com,global
 HOST-SUFFIX,apkpure.net,global
 HOST-SUFFIX,apnews.com,global
-HOST-SUFFIX,app,global
 HOST-SUFFIX,appspot.com,global
 HOST-SUFFIX,aptoide.com,global
 HOST-SUFFIX,arc.net,global
@@ -120,6 +120,7 @@ HOST-SUFFIX,badoocdn.com,global
 HOST-SUFFIX,bandcamp.com,global
 HOST-SUFFIX,bandwagonhost.com,global
 HOST-SUFFIX,bang.com,global
+HOST-SUFFIX,bangumi.moe,global
 HOST-SUFFIX,bbc.com,global
 HOST-SUFFIX,bblmw.com,global
 HOST-SUFFIX,be,global
@@ -127,6 +128,7 @@ HOST-SUFFIX,beacondb.net,global
 HOST-SUFFIX,behance.net,global
 HOST-SUFFIX,bestbuy.com,global
 HOST-SUFFIX,bet365.com,global
+HOST-SUFFIX,bgp.tools,global
 HOST-SUFFIX,bibox.com,global
 HOST-SUFFIX,bikaa.xyz,global
 HOST-SUFFIX,bikac.xyz,global
@@ -143,7 +145,6 @@ HOST-SUFFIX,bitly.com,global
 HOST-SUFFIX,bitmex.com,global
 HOST-SUFFIX,bleepingcomputer.com,global
 HOST-SUFFIX,blizzard.com,global
-HOST-SUFFIX,blog,global
 HOST-SUFFIX,blogblog.com,global
 HOST-SUFFIX,blogger.com,global
 HOST-SUFFIX,bloomberg.com,global
@@ -152,6 +153,7 @@ HOST-SUFFIX,bnbstatic.com,global
 HOST-SUFFIX,box.com,global
 HOST-SUFFIX,brave.com,global
 HOST-SUFFIX,broadcom.com,global
+HOST-SUFFIX,bsky.app,global
 HOST-SUFFIX,businessinsider.com,global
 HOST-SUFFIX,bwh1.net,global
 HOST-SUFFIX,bybit.com,global
@@ -229,6 +231,7 @@ HOST-SUFFIX,curseforge.com,global
 HOST-SUFFIX,cuty.io,global
 HOST-SUFFIX,cx,global
 HOST-SUFFIX,cy,global
+HOST-SUFFIX,cyberghost.app,global
 HOST-SUFFIX,cz,global
 HOST-SUFFIX,dailymail.com,global
 HOST-SUFFIX,dailymotion.com,global
@@ -246,7 +249,6 @@ HOST-SUFFIX,deezer.com,global
 HOST-SUFFIX,deno.com,global
 HOST-SUFFIX,desmos.com,global
 HOST-SUFFIX,detnews.com,global
-HOST-SUFFIX,dev,global
 HOST-SUFFIX,deviantart.com,global
 HOST-SUFFIX,deviantart.net,global
 HOST-SUFFIX,diagrams.net,global
@@ -263,6 +265,7 @@ HOST-SUFFIX,dmcdn.net,global
 HOST-SUFFIX,dns-check.info,global
 HOST-SUFFIX,dns-leak.com,global
 HOST-SUFFIX,dns-oarc.net,global
+HOST-SUFFIX,dnscheck.tools,global
 HOST-SUFFIX,dnschecker.org,global
 HOST-SUFFIX,dnsleak.asn247.net,global
 HOST-SUFFIX,dnsleak.com,global
@@ -289,6 +292,7 @@ HOST-SUFFIX,e621.net,global
 HOST-SUFFIX,economist.com,global
 HOST-SUFFIX,edgeapp.net,global
 HOST-SUFFIX,edgecastcdn.net,global
+HOST-SUFFIX,edgecompute.app,global
 HOST-SUFFIX,edns.ip-api.com,global
 HOST-SUFFIX,edu,global
 HOST-SUFFIX,ee,global
@@ -336,6 +340,7 @@ HOST-SUFFIX,flickr.com,global
 HOST-SUFFIX,flightradar24.com,global
 HOST-SUFFIX,flipboard.com,global
 HOST-SUFFIX,flipkart.com,global
+HOST-SUFFIX,fly.dev,global
 HOST-SUFFIX,fly.io,global
 HOST-SUFFIX,fm,global
 HOST-SUFFIX,fo,global
@@ -374,15 +379,19 @@ HOST-SUFFIX,girlsgogames.com,global
 HOST-SUFFIX,git.io,global
 HOST-SUFFIX,gitbook.com,global
 HOST-SUFFIX,gitbook.io,global
+HOST-SUFFIX,github.blog,global
 HOST-SUFFIX,github.com,global
+HOST-SUFFIX,github.dev,global
 HOST-SUFFIX,github.io,global
 HOST-SUFFIX,github.media,global
 HOST-SUFFIX,githubapp.com,global
 HOST-SUFFIX,githubassets.com,global
 HOST-SUFFIX,githubcopilot.com,global
+HOST-SUFFIX,githubpreview.dev,global
 HOST-SUFFIX,githubstatus.com,global
 HOST-SUFFIX,githubusercontent.com,global
 HOST-SUFFIX,gitkraken.com,global
+HOST-SUFFIX,gitkraken.dev,global
 HOST-SUFFIX,gitlab.com,global
 HOST-SUFFIX,gitlab.io,global
 HOST-SUFFIX,gitlab.net,global
@@ -394,6 +403,7 @@ HOST-SUFFIX,globo.com,global
 HOST-SUFFIX,gmail.com,global
 HOST-SUFFIX,gmodules.com,global
 HOST-SUFFIX,gnc.com,global
+HOST-SUFFIX,go.dev,global
 HOST-SUFFIX,godaddy.com,global
 HOST-SUFFIX,godoc.org,global
 HOST-SUFFIX,gofundme.com,global
@@ -408,6 +418,7 @@ HOST-SUFFIX,grammarly.io,global
 HOST-SUFFIX,greasyfork.org,global
 HOST-SUFFIX,greatfire.org,global
 HOST-SUFFIX,greenhouse.io,global
+HOST-SUFFIX,grep.app,global
 HOST-SUFFIX,grindr.com,global
 HOST-SUFFIX,gs,global
 HOST-SUFFIX,gstatic.com,global
@@ -495,6 +506,7 @@ HOST-SUFFIX,ipleak.net,global
 HOST-SUFFIX,iporntv.net,global
 HOST-SUFFIX,is,global
 HOST-SUFFIX,issuu.com,global
+HOST-SUFFIX,istatmenus.app,global
 HOST-SUFFIX,istockphoto.com,global
 HOST-SUFFIX,it,global
 HOST-SUFFIX,itasoftware.com,global
@@ -534,6 +546,7 @@ HOST-SUFFIX,kik.com,global
 HOST-SUFFIX,kinja.com,global
 HOST-SUFFIX,kisscos.net,global
 HOST-SUFFIX,kknews.cc,global
+HOST-SUFFIX,knock.app,global
 HOST-SUFFIX,ko-fi.com,global
 HOST-SUFFIX,kobo.com,global
 HOST-SUFFIX,komoot.com,global
@@ -558,6 +571,7 @@ HOST-SUFFIX,line-cdn.net,global
 HOST-SUFFIX,line-scdn.net,global
 HOST-SUFFIX,line.biz,global
 HOST-SUFFIX,line.me,global
+HOST-SUFFIX,linear.app,global
 HOST-SUFFIX,linecorp.com,global
 HOST-SUFFIX,linefriends.com,global
 HOST-SUFFIX,linemobile.com,global
@@ -608,6 +622,7 @@ HOST-SUFFIX,mikrotik.com,global
 HOST-SUFFIX,mil,global
 HOST-SUFFIX,minecraft-services.net,global
 HOST-SUFFIX,minecraft.net,global
+HOST-SUFFIX,minecraft.tools,global
 HOST-SUFFIX,minecraft.wiki,global
 HOST-SUFFIX,minecraftforum.net,global
 HOST-SUFFIX,minecraftservices.com,global
@@ -619,7 +634,6 @@ HOST-SUFFIX,mixer.com,global
 HOST-SUFFIX,mn,global
 HOST-SUFFIX,mobile01.com,global
 HOST-SUFFIX,modrinth.com,global
-HOST-SUFFIX,moe,global
 HOST-SUFFIX,mojang.com,global
 HOST-SUFFIX,monica.im,global
 HOST-SUFFIX,moomoo.com,global
@@ -711,6 +725,7 @@ HOST-SUFFIX,openstreetmap.org,global
 HOST-SUFFIX,opentable.com,global
 HOST-SUFFIX,openwrt.org,global
 HOST-SUFFIX,oracle.com,global
+HOST-SUFFIX,orbstack.dev,global
 HOST-SUFFIX,osmand.net,global
 HOST-SUFFIX,overdrive.com,global
 HOST-SUFFIX,ovpnleaktest.com,global
@@ -814,6 +829,7 @@ HOST-SUFFIX,rtings.com,global
 HOST-SUFFIX,ru,global
 HOST-SUFFIX,rule34video.com,global
 HOST-SUFFIX,rumble.com,global
+HOST-SUFFIX,run.app,global
 HOST-SUFFIX,sa,global
 HOST-SUFFIX,sagernet.org,global
 HOST-SUFFIX,saucenao.com,global
@@ -828,6 +844,7 @@ HOST-SUFFIX,scribd.com,global
 HOST-SUFFIX,se,global
 HOST-SUFFIX,sendbird.com,global
 HOST-SUFFIX,sendgrid.net,global
+HOST-SUFFIX,sentry.dev,global
 HOST-SUFFIX,sentry.io,global
 HOST-SUFFIX,serverfault.com,global
 HOST-SUFFIX,serviporno.com,global
@@ -852,6 +869,7 @@ HOST-SUFFIX,silca.cc,global
 HOST-SUFFIX,sk,global
 HOST-SUFFIX,sketch.cloud,global
 HOST-SUFFIX,sketch.com,global
+HOST-SUFFIX,skk.moe,global
 HOST-SUFFIX,slack.com,global
 HOST-SUFFIX,sleazyfork.org,global
 HOST-SUFFIX,slideshare.net,global
@@ -951,7 +969,6 @@ HOST-SUFFIX,tokto-motion.net,global
 HOST-SUFFIX,tokyomotion.net,global
 HOST-SUFFIX,tokyonline.com,global
 HOST-SUFFIX,toolforge.org,global
-HOST-SUFFIX,tools,global
 HOST-SUFFIX,toroporno.com,global
 HOST-SUFFIX,tr,global
 HOST-SUFFIX,tradingview.com,global
@@ -990,6 +1007,7 @@ HOST-SUFFIX,v2ex.com,global
 HOST-SUFFIX,v2fly.org,global
 HOST-SUFFIX,v2ray.com,global
 HOST-SUFFIX,va,global
+HOST-SUFFIX,vercel.app,global
 HOST-SUFFIX,vercel.com,global
 HOST-SUFFIX,vercel.live,global
 HOST-SUFFIX,verizon.com,global
@@ -1025,6 +1043,7 @@ HOST-SUFFIX,waymo.com,global
 HOST-SUFFIX,waze.com,global
 HOST-SUFFIX,wdfiles.com,global
 HOST-SUFFIX,weather.com,global
+HOST-SUFFIX,web.dev,global
 HOST-SUFFIX,webflow.com,global
 HOST-SUFFIX,webmproject.org,global
 HOST-SUFFIX,webpkgcache.com,global
@@ -1064,6 +1083,7 @@ HOST-SUFFIX,wordpress.com,global
 HOST-SUFFIX,wordpress.org,global
 HOST-SUFFIX,wordtune.com,global
 HOST-SUFFIX,workday.com,global
+HOST-SUFFIX,workers.dev,global
 HOST-SUFFIX,wp.com,global
 HOST-SUFFIX,ws,global
 HOST-SUFFIX,wsj.com,global
