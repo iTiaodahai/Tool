@@ -1,5 +1,5 @@
 # 规则名称: Microsoft
-# 规则统计: 118
+# 规则统计: 120
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,res-1.cdn.office.net
@@ -119,3 +119,5 @@ DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,hotmail
 DOMAIN-KEYWORD,microsoft
+URL-REGEX,^http://www\.microsoft\.com/pki/
+URL-REGEX,^http://www\.microsoft\.com/pkiops/

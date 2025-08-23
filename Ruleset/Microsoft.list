@@ -116,3 +116,5 @@ DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,hotmail
 DOMAIN-KEYWORD,microsoft
+URL-REGEX,^http://www\.microsoft\.com/pki/
+URL-REGEX,^http://www\.microsoft\.com/pkiops/

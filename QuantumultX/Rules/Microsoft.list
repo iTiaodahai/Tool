@@ -1,5 +1,5 @@
 # 规则名称: Microsoft
-# 规则统计: 118
+# 规则统计: 120
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Microsoft
 HOST,res-1.cdn.office.net,Microsoft
@@ -119,3 +119,5 @@ HOST-KEYWORD,1drv,Microsoft
 HOST-KEYWORD,github,Microsoft
 HOST-KEYWORD,hotmail,Microsoft
 HOST-KEYWORD,microsoft,Microsoft
+URL-REGEX,^http://www\.microsoft\.com/pki/,Microsoft
+URL-REGEX,^http://www\.microsoft\.com/pkiops/,Microsoft
