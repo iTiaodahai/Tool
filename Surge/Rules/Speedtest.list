@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1457
+# 规则统计: 1458
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -206,6 +206,7 @@ DOMAIN,ookla.me1.neptune.net.au
 DOMAIN,ookla.moji.fr
 DOMAIN,ookla.opticaltel.com
 DOMAIN,ookla.oriontelecom.com.br
+DOMAIN,ookla.pgservicos.com.br
 DOMAIN,ookla.playmaisreverso.net.br
 DOMAIN,ookla.sh.com.tr
 DOMAIN,ookla.siditelecom-isp.com.br
