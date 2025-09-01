@@ -1,5 +1,5 @@
 # 规则名称: Ad_Blocking
-# 规则统计: 104257
+# 规则统计: 104256
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -103979,7 +103979,6 @@ DOMAIN-WILDCARD,govuk.*.top
 DOMAIN-WILDCARD,gscounters.*.gigya.com
 DOMAIN-WILDCARD,hba*.hepsiburada.com
 DOMAIN-WILDCARD,help-for-work-*.pages.dev
-DOMAIN-WILDCARD,highcpmrevenue*.com
 DOMAIN-WILDCARD,hn-ping*.hashnode.com
 DOMAIN-WILDCARD,host*.carl-ras.dk
 DOMAIN-WILDCARD,host*.ncoi.nl
