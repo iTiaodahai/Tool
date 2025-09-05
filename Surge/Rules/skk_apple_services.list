@@ -1,5 +1,5 @@
 # 规则名称: skk_apple_services
-# 规则统计: 27
+# 规则统计: 26
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN-SUFFIX,aaplimg.com
@@ -27,4 +27,3 @@ PROCESS-NAME,findmydevice-user-agent
 PROCESS-NAME,fmfd
 PROCESS-NAME,mapspushd
 PROCESS-NAME,netbiosd
-PROCESS-NAME,trustd

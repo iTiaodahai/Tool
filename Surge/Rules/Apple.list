@@ -1,5 +1,5 @@
 # 规则名称: Apple
-# 规则统计: 215
+# 规则统计: 214
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,api.smoot.apple.cn
@@ -215,4 +215,3 @@ PROCESS-NAME,findmydevice-user-agent
 PROCESS-NAME,fmfd
 PROCESS-NAME,mapspushd
 PROCESS-NAME,netbiosd
-PROCESS-NAME,trustd
