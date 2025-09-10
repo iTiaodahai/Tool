@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1139
+# 规则统计: 1140
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -110,6 +110,7 @@ DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,avtoday.io
 DOMAIN-SUFFIX,aweber.com
 DOMAIN-SUFFIX,aws
+DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,azurecontainer.io
