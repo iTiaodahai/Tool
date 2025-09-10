@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1469
+# 规则统计: 1471
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,383-2speedtest.wightman.ca
@@ -183,6 +183,7 @@ DOMAIN,nyc01.screenshot.download
 DOMAIN,nyc1-speedtest.webnx.com
 DOMAIN,nycny-speedtest-ookla-01.st.charter.com
 DOMAIN,o-uk-1.flwc.cc
+DOMAIN,ogtm-speedtest.f5.si
 DOMAIN,ok.conectmastelecom.com.br
 DOMAIN,ookla-ams.avur.no
 DOMAIN,ookla-ita.asanet.tec.br
@@ -206,6 +207,7 @@ DOMAIN,ookla.la.ca.sharktech.net
 DOMAIN,ookla.lanetcie.net
 DOMAIN,ookla.lunoxia.net
 DOMAIN,ookla.me1.neptune.net.au
+DOMAIN,ookla.mia.teracast.net
 DOMAIN,ookla.moji.fr
 DOMAIN,ookla.opticaltel.com
 DOMAIN,ookla.oriontelecom.com.br
