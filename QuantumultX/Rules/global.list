@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1140
+# 规则统计: 1142
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -69,6 +69,7 @@ HOST-SUFFIX,ampproject.org,global
 HOST-SUFFIX,android.com,global
 HOST-SUFFIX,androidify.com,global
 HOST-SUFFIX,androidpolice.com,global
+HOST-SUFFIX,anilist.co,global
 HOST-SUFFIX,animes.garden,global
 HOST-SUFFIX,annas-archive.org,global
 HOST-SUFFIX,ant.design,global
@@ -370,6 +371,7 @@ HOST-SUFFIX,gcld-line.com,global
 HOST-SUFFIX,gcr.io,global
 HOST-SUFFIX,gd,global
 HOST-SUFFIX,geekbench.com,global
+HOST-SUFFIX,gelbooru.com,global
 HOST-SUFFIX,genius.com,global
 HOST-SUFFIX,getchu.com,global
 HOST-SUFFIX,getmdl.io,global
