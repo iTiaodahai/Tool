@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1142
+# 规则统计: 1143
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -1132,6 +1132,7 @@ HOST-SUFFIX,za,global
 HOST-SUFFIX,zbporn.com,global
 HOST-SUFFIX,zello.com,global
 HOST-SUFFIX,zendesk.com,global
+HOST-SUFFIX,zerochan.net,global
 HOST-SUFFIX,zndsk.com,global
 HOST-KEYWORD,blogspot,global
 HOST-KEYWORD,browserleaks,global

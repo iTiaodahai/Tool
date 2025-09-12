@@ -1,5 +1,5 @@
 # 规则名称: Ad_Blocking
-# 规则统计: 103702
+# 规则统计: 103708
 
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
@@ -1136,6 +1136,7 @@ DOMAIN,track.58.com
 DOMAIN,trackapp.guahao.cn
 DOMAIN,tracker.didiglobal.com
 DOMAIN,tracker.sns.iqiyi.com
+DOMAIN,tracking-api.g2.com
 DOMAIN,tracking.klickthru.com
 DOMAIN,tracking.yorg.app
 DOMAIN,trackingprd.hwwt8.com
@@ -14639,6 +14640,7 @@ DOMAIN-SUFFIX,c2s.startappnetwork.com
 DOMAIN-SUFFIX,c2shb.pubgw.yahoo.com
 DOMAIN-SUFFIX,c319tpiw462o.segops.madisonspecs.com
 DOMAIN-SUFFIX,c3a36bbaca.com
+DOMAIN-SUFFIX,c3b1912666.com
 DOMAIN-SUFFIX,c3eef42286.d1243fdebb.com
 DOMAIN-SUFFIX,c3metrics.medifast1.com
 DOMAIN-SUFFIX,c45cc75f.eulerian.io
@@ -19629,6 +19631,7 @@ DOMAIN-SUFFIX,cymzcxuyu.com
 DOMAIN-SUFFIX,cyndmhcpr.xyz
 DOMAIN-SUFFIX,cyntgd.anticipazioni.tv
 DOMAIN-SUFFIX,cyntgd.anticipazionitv.it
+DOMAIN-SUFFIX,cynzybmckvjxg.store
 DOMAIN-SUFFIX,cyohmj.catawiki.com
 DOMAIN-SUFFIX,cyphershaskard.qpon
 DOMAIN-SUFFIX,cypqiwuoqpbnbs.com
@@ -26114,6 +26117,7 @@ DOMAIN-SUFFIX,dptkdh.joinhoney.com
 DOMAIN-SUFFIX,dpuplet.com
 DOMAIN-SUFFIX,dpuppers.com
 DOMAIN-SUFFIX,dpvxngpvblz.com
+DOMAIN-SUFFIX,dpvztnqfkmlbs.store
 DOMAIN-SUFFIX,dq06u9lt5akr2.cloudfront.net
 DOMAIN-SUFFIX,dq3yxnlzwhcys.cloudfront.net
 DOMAIN-SUFFIX,dq95d35.com
@@ -39190,6 +39194,7 @@ DOMAIN-SUFFIX,howlexhaust.com
 DOMAIN-SUFFIX,hoxha.nieuwspaal.network
 DOMAIN-SUFFIX,hoxsin-ad.hoxsin.co.jp
 DOMAIN-SUFFIX,hoyaosmic.rest
+DOMAIN-SUFFIX,hoyryepgcfkngmd.com
 DOMAIN-SUFFIX,hoyziaktnnvtx.space
 DOMAIN-SUFFIX,hoznpn.icu
 DOMAIN-SUFFIX,hp7.fun
@@ -98909,6 +98914,7 @@ DOMAIN-SUFFIX,wbczkm.icu
 DOMAIN-SUFFIX,wbdds.com
 DOMAIN-SUFFIX,wbe4.cn
 DOMAIN-SUFFIX,wbehwesvucqmvx.com
+DOMAIN-SUFFIX,wbfcrqbv.com
 DOMAIN-SUFFIX,wbfkyjvspddnd.site
 DOMAIN-SUFFIX,wbgozbnozalok.top
 DOMAIN-SUFFIX,wbidder.online
