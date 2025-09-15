@@ -2,7 +2,6 @@
 # 规则统计: 1144
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
-HOST,DOMAIn-SUFFIX,roboflow.com,global
 HOST,ccmdl.adobe.com,global
 HOST,community.oneplus.com,global
 HOST,ees.elsevier.com,global
@@ -833,6 +832,7 @@ HOST-SUFFIX,rfc-editor.org,global
 HOST-SUFFIX,rferl.org,global
 HOST-SUFFIX,rip,global
 HOST-SUFFIX,ripe.net,global
+HOST-SUFFIX,roboflow.com,global
 HOST-SUFFIX,rottentomatoes.com,global
 HOST-SUFFIX,rs,global
 HOST-SUFFIX,rtings.com,global
