@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1480
+# 规则统计: 1494
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -214,8 +214,10 @@ HOST,ookla.mia.teracast.net,Speedtest
 HOST,ookla.moji.fr,Speedtest
 HOST,ookla.opticaltel.com,Speedtest
 HOST,ookla.oriontelecom.com.br,Speedtest
+HOST,ookla.p2.neptune.net.au,Speedtest
 HOST,ookla.pgservicos.com.br,Speedtest
 HOST,ookla.playmaisreverso.net.br,Speedtest
+HOST,ookla.pvu.as6453.net,Speedtest
 HOST,ookla.sh.com.tr,Speedtest
 HOST,ookla.siditelecom-isp.com.br,Speedtest
 HOST,ookla.slimnet.com.br,Speedtest
@@ -344,6 +346,7 @@ HOST,speed.as151799.net.au,Speedtest
 HOST,speed.beachnet.com.br,Speedtest
 HOST,speed.bitnettecnologia.com.br,Speedtest
 HOST,speed.bne.aussiebroadband.com.au,Speedtest
+HOST,speed.brandaonet.com.br,Speedtest
 HOST,speed.coe.ad.jp,Speedtest
 HOST,speed.connextelecom.com.br,Speedtest
 HOST,speed.coralis.net.au,Speedtest
@@ -389,6 +392,7 @@ HOST,speed.uk.lon.m247.ro,Speedtest
 HOST,speed.ultranetrr.com.br,Speedtest
 HOST,speed.upnetcaucaia.com.br,Speedtest
 HOST,speed.vm.brs.marcusn.co.uk,Speedtest
+HOST,speed.way2.us,Speedtest
 HOST,speed.x-sy.com,Speedtest
 HOST,speed06.gonetspeed.com,Speedtest
 HOST,speed07.gonetspeed.com,Speedtest
@@ -500,6 +504,7 @@ HOST,speedtest-msk.refoxcloud.xyz,Speedtest
 HOST,speedtest-msk.retn.net,Speedtest
 HOST,speedtest-msk.yota.ru,Speedtest
 HOST,speedtest-mtl.beanfield.com,Speedtest
+HOST,speedtest-mtl1.fleettel.ca,Speedtest
 HOST,speedtest-net.mk.de,Speedtest
 HOST,speedtest-net.xjtlu.edu.cn,Speedtest
 HOST,speedtest-newcastle.optusnet.com.au,Speedtest
@@ -696,9 +701,11 @@ HOST,speedtest.fibernetics.ca,Speedtest
 HOST,speedtest.fibernetwork.com.br,Speedtest
 HOST,speedtest.fiberx.com.mx,Speedtest
 HOST,speedtest.fibim.com.tr,Speedtest
+HOST,speedtest.fibranex.com.br,Speedtest
 HOST,speedtest.finovy.com,Speedtest
 HOST,speedtest.fiuc.net,Speedtest
 HOST,speedtest.fixnet.com.tr,Speedtest
+HOST,speedtest.foxnettelecom.net.br,Speedtest
 HOST,speedtest.fra.plusnet.de,Speedtest
 HOST,speedtest.fra01.datascheune.de,Speedtest
 HOST,speedtest.fra01.fusionflare.cloud,Speedtest
@@ -762,6 +769,7 @@ HOST,speedtest.jvswifi.com.br,Speedtest
 HOST,speedtest.k-fo.net,Speedtest
 HOST,speedtest.kairun.jp,Speedtest
 HOST,speedtest.kapteyan.com.tr,Speedtest
+HOST,speedtest.kazzara.net,Speedtest
 HOST,speedtest.keiminem.com,Speedtest
 HOST,speedtest.kko.me,Speedtest
 HOST,speedtest.knettelecomce.com.br,Speedtest
@@ -831,6 +839,7 @@ HOST,speedtest.net360.cloud,Speedtest
 HOST,speedtest.netcalibre.net,Speedtest
 HOST,speedtest.netcrawler.ca,Speedtest
 HOST,speedtest.netflash.net,Speedtest
+HOST,speedtest.netgotelecom.com.br,Speedtest
 HOST,speedtest.nethiz.net,Speedtest
 HOST,speedtest.netlinkce.com.br,Speedtest
 HOST,speedtest.netrack.ru,Speedtest
@@ -923,6 +932,7 @@ HOST,speedtest.sunnysidehosting.net,Speedtest
 HOST,speedtest.sunucum.net.tr,Speedtest
 HOST,speedtest.surfshark.com,Speedtest
 HOST,speedtest.switch.ca,Speedtest
+HOST,speedtest.syd.hawknetlabs.au,Speedtest
 HOST,speedtest.syd.mhn.cloud,Speedtest
 HOST,speedtest.syd.netsg.net.au,Speedtest
 HOST,speedtest.syd01.launtel.net.au,Speedtest
@@ -1039,6 +1049,7 @@ HOST,speedtest1.nardc.com,Speedtest
 HOST,speedtest1.net.cornell.edu,Speedtest
 HOST,speedtest1.net.rochester.edu,Speedtest
 HOST,speedtest1.nextpertise.nl,Speedtest
+HOST,speedtest1.nossanetfortaleza.com.br,Speedtest
 HOST,speedtest1.nyc1.nitelusa.net,Speedtest
 HOST,speedtest1.sc.chinamobile.com,Speedtest
 HOST,speedtest1.sxbb.com.au,Speedtest
@@ -1070,6 +1081,7 @@ HOST,speedtest3.dal.nxlink.com,Speedtest
 HOST,speedtest3.sasknet.sk.ca,Speedtest
 HOST,speedtest3.vodafone.com.tr,Speedtest
 HOST,speedtest3.westmancom.com,Speedtest
+HOST,speedtest3r.dcnord.ca,Speedtest
 HOST,speedtest4.vodafone.com.tr,Speedtest
 HOST,speedtest5.fybercom.net,Speedtest
 HOST,speedtest5.vodafone.com.tr,Speedtest
@@ -1141,6 +1153,7 @@ HOST,spttp1_tc.taiwanmobile.com,Speedtest
 HOST,sptty1.taiwanmobile.com,Speedtest
 HOST,spx.grafnet.com.br,Speedtest
 HOST,spx.max3telecom.com.br,Speedtest
+HOST,spx.mixtelecom.tec.br,Speedtest
 HOST,spx.mrlinkstelecom.com.br,Speedtest
 HOST,spx.neonetce.com.br,Speedtest
 HOST,spx.r2mpe.com.br,Speedtest
@@ -1372,6 +1385,7 @@ HOST,velocidade.idnetttelecom.com.br,Speedtest
 HOST,velocidade.impertechtelecom.com.br,Speedtest
 HOST,velocidade.kingnet.net.br,Speedtest
 HOST,velocidade.megawavetelecom.com.br,Speedtest
+HOST,velocidade.ndtelecom.com.br,Speedtest
 HOST,velocidade.netshowtelecom.com.br,Speedtest
 HOST,velocidade.niktelecom.com.br,Speedtest
 HOST,velocidade.oxetelecomce.com.br,Speedtest
