@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1479
+# 规则统计: 1480
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -823,6 +823,7 @@ HOST,speedtest.myaccess.ca,Speedtest
 HOST,speedtest.myarena.ru,Speedtest
 HOST,speedtest.myrepublic.com.sg,Speedtest
 HOST,speedtest.nardc.com,Speedtest
+HOST,speedtest.narhost.com,Speedtest
 HOST,speedtest.naturalwireless.com,Speedtest
 HOST,speedtest.nbntelecom.com.br,Speedtest
 HOST,speedtest.nehost.site,Speedtest
