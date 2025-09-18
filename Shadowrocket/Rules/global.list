@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1144
+# 规则统计: 1145
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -1133,6 +1133,7 @@ DOMAIN-SUFFIX,za
 DOMAIN-SUFFIX,zbporn.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,zenn.dev
 DOMAIN-SUFFIX,zerochan.net
 DOMAIN-SUFFIX,zndsk.com
 DOMAIN-KEYWORD,blogspot
