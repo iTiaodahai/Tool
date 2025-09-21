@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1145
+# 规则统计: 1146
 
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ccmdl.adobe.com
@@ -806,6 +806,7 @@ DOMAIN-SUFFIX,raspberrypi.com
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,re
 DOMAIN-SUFFIX,readme.com
+DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,readthedocs.io
 DOMAIN-SUFFIX,realgfporn.com
 DOMAIN-SUFFIX,recaptcha.net

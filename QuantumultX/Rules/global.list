@@ -1,5 +1,5 @@
 # 规则名称: global
-# 规则统计: 1145
+# 规则统计: 1146
 
 HOST,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,global
 HOST,ccmdl.adobe.com,global
@@ -806,6 +806,7 @@ HOST-SUFFIX,raspberrypi.com,global
 HOST-SUFFIX,rawgit.com,global
 HOST-SUFFIX,re,global
 HOST-SUFFIX,readme.com,global
+HOST-SUFFIX,readmoo.com,global
 HOST-SUFFIX,readthedocs.io,global
 HOST-SUFFIX,realgfporn.com,global
 HOST-SUFFIX,recaptcha.net,global
