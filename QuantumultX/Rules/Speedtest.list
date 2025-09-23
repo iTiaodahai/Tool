@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 1501
+# 规则统计: 1502
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,383-2speedtest.wightman.ca,Speedtest
@@ -110,6 +110,7 @@ HOST,izm1speedtest.turktelekom.com.tr,Speedtest
 HOST,izmit-speed.tbtnet.com.tr,Speedtest
 HOST,jp-nperf.verizon.net,Speedtest
 HOST,kami.smartone.com,Speedtest
+HOST,karapinar.flix.net.tr,Speedtest
 HOST,karapinar.kentwifi.com.tr,Speedtest
 HOST,kay1speedtest.turktelekom.com.tr,Speedtest
 HOST,kh1.chtm.hinet.net,Speedtest
