@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 3368
+# 规则统计: 3370
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,172673828273027382738738.de,Speedtest
@@ -1345,6 +1345,7 @@ HOST,speedtest.artelco.net,Speedtest
 HOST,speedtest.artofautomation.net,Speedtest
 HOST,speedtest.as203446.net,Speedtest
 HOST,speedtest.as210667.net,Speedtest
+HOST,speedtest.as210699.net,Speedtest
 HOST,speedtest.as211733.fr,Speedtest
 HOST,speedtest.as212683.net,Speedtest
 HOST,speedtest.as214199.net,Speedtest
@@ -1403,6 +1404,7 @@ HOST,speedtest.briteline.de,Speedtest
 HOST,speedtest.brnchost.com,Speedtest
 HOST,speedtest.brooketel.coop,Speedtest
 HOST,speedtest.brsk.co.uk,Speedtest
+HOST,speedtest.btc-bci.com,Speedtest
 HOST,speedtest.bursabil.com.tr,Speedtest
 HOST,speedtest.buzzbroadband.com,Speedtest
 HOST,speedtest.bwtelcom.net,Speedtest
