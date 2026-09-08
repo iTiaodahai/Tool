@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 3370
+# 规则统计: 3372
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,172673828273027382738738.de,Speedtest
@@ -1664,6 +1664,7 @@ HOST,speedtest.heuer-und-sack.de,Speedtest
 HOST,speedtest.hiboonetworks.com,Speedtest
 HOST,speedtest.hivedatacenter.com,Speedtest
 HOST,speedtest.hizhosting.com,Speedtest
+HOST,speedtest.hk.aixxycode.id,Speedtest
 HOST,speedtest.hk.chinamobile.com,Speedtest
 HOST,speedtest.hk210.hkg.cn.ctcsci.com,Speedtest
 HOST,speedtest.hk212.hkg.cn.nerocloud.io,Speedtest
@@ -2105,6 +2106,7 @@ HOST,speedtest.serversistemleri.com,Speedtest
 HOST,speedtest.sesfiber.com.br,Speedtest
 HOST,speedtest.sewan.es,Speedtest
 HOST,speedtest.sewan.fr,Speedtest
+HOST,speedtest.sg.aixxycode.id,Speedtest
 HOST,speedtest.sg.fdcservers.net,Speedtest
 HOST,speedtest.sg.hsp.net.id,Speedtest
 HOST,speedtest.sg220.sgp.sg.ctcsci.com,Speedtest
