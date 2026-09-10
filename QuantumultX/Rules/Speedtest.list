@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 3372
+# 规则统计: 3375
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,172673828273027382738738.de,Speedtest
@@ -814,6 +814,7 @@ HOST,speed.dedi.zone,Speedtest
 HOST,speed.econett.com.br,Speedtest
 HOST,speed.farknet.net,Speedtest
 HOST,speed.fgtelecom.com.br,Speedtest
+HOST,speed.fiber23.it,Speedtest
 HOST,speed.fibraencasa.cr,Speedtest
 HOST,speed.flix.net.tr,Speedtest
 HOST,speed.flttelecom.com.br,Speedtest
@@ -1972,6 +1973,7 @@ HOST,speedtest.numarohost.com,Speedtest
 HOST,speedtest.nxt-telecom.com,Speedtest
 HOST,speedtest.ny.sptrnd.id,Speedtest
 HOST,speedtest.nyc.elcro.digital,Speedtest
+HOST,speedtest.oa.net,Speedtest
 HOST,speedtest.oc.edu,Speedtest
 HOST,speedtest.oceansls.com,Speedtest
 HOST,speedtest.octaplus.uk,Speedtest
@@ -2053,6 +2055,7 @@ HOST,speedtest.puraknet.com.br,Speedtest
 HOST,speedtest.qld.checknetworks.au,Speedtest
 HOST,speedtest.qld.edgeix.net.au,Speedtest
 HOST,speedtest.quadro.net,Speedtest
+HOST,speedtest.quickqc.nl,Speedtest
 HOST,speedtest.rackoona.com,Speedtest
 HOST,speedtest.raftarnet.com,Speedtest
 HOST,speedtest.rajeshcable.com,Speedtest
