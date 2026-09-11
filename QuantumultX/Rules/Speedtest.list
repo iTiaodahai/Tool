@@ -1,5 +1,5 @@
 # 规则名称: Speedtest
-# 规则统计: 3375
+# 规则统计: 3379
 
 HOST,1010.hkspeedtest.com,Speedtest
 HOST,172673828273027382738738.de,Speedtest
@@ -77,6 +77,7 @@ HOST,ch1.chtm.hinet.net,Speedtest
 HOST,chd.softechinfosol.com,Speedtest
 HOST,chdspd.myinternet.services,Speedtest
 HOST,chi-speedtest.net.sangoma.net,Speedtest
+HOST,chi-speedtest.northstate.net,Speedtest
 HOST,chi-speedtest.shifthosting.com,Speedtest
 HOST,chicago1.cabospeed.com,Speedtest
 HOST,chich0003ooklaspeedtestserver01.wiline.com,Speedtest
@@ -449,6 +450,7 @@ HOST,ookla.a56.as6453.net,Speedtest
 HOST,ookla.aeq.as6453.net,Speedtest
 HOST,ookla.alcloud.com.br,Speedtest
 HOST,ookla.amazoniasat-isp.com.br,Speedtest
+HOST,ookla.ams.atharva.co.id,Speedtest
 HOST,ookla.apuacom.it,Speedtest
 HOST,ookla.araujotelecom.com.br,Speedtest
 HOST,ookla.as400442.net,Speedtest
@@ -544,6 +546,7 @@ HOST,ooklaspeed.ttron.eu,Speedtest
 HOST,ooklaspeedtest-cdv.quebeccloud.com,Speedtest
 HOST,ooklaspeedtest-ist1.quickzone.net,Speedtest
 HOST,ooklaspeedtest.as198053.net,Speedtest
+HOST,ooklaspeedtest.d-pcomm.com,Speedtest
 HOST,ooklaspeedtest.wilcowireless.com,Speedtest
 HOST,ooklatins.redeconexaonet.com,Speedtest
 HOST,ooklay2.skynet360.com,Speedtest
@@ -652,6 +655,7 @@ HOST,sp.provedordantasnet.com.br,Speedtest
 HOST,sp.tulipgroup.io,Speedtest
 HOST,sp.yakshtel.com,Speedtest
 HOST,sp01.rbfibra.net.br,Speedtest
+HOST,sp1-de.delska.com,Speedtest
 HOST,sp1-mum.youbroadband.in,Speedtest
 HOST,sp1.adnbroadband.com,Speedtest
 HOST,sp1.alcort.es,Speedtest
